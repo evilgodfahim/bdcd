@@ -11,24 +11,24 @@
       "capped": 1
     },
     "https://evilgodfahim.github.io/tm/feeds/feed.xml": {
-      "fetched": 28,
-      "passed_age": 7,
-      "capped": 7
+      "fetched": 31,
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/ftint/combined.xml": {
-      "fetched": 276,
-      "passed_age": 7,
-      "capped": 7
+      "fetched": 279,
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/gd/merged.xml": {
       "fetched": 1000,
-      "passed_age": 18,
-      "capped": 18
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
-      "fetched": 212,
-      "passed_age": 9,
-      "capped": 9
+      "fetched": 218,
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 34,
@@ -36,19 +36,19 @@
       "capped": 0
     },
     "https://evilgodfahim.github.io/wsjint/combined.xml": {
-      "fetched": 170,
-      "passed_age": 1,
-      "capped": 1
+      "fetched": 175,
+      "passed_age": 6,
+      "capped": 6
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 18,
+      "capped": 18
     },
     "https://evilgodfahim.github.io/yn/feeds/feed.xml": {
       "fetched": 1000,
-      "passed_age": 37,
-      "capped": 37
+      "passed_age": 31,
+      "capped": 31
     },
     "https://en.prothomalo.com/feed/": {
       "fetched": 0,
@@ -57,30 +57,30 @@
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 65,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 1000,
-      "passed_age": 20,
-      "capped": 20
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
-      "fetched": 198,
-      "passed_age": 37,
-      "capped": 37
+      "fetched": 199,
+      "passed_age": 33,
+      "capped": 33
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4538
+    "DIRECT": 4556
   },
-  "total_fetched": 4538,
-  "total_passed_age": 156,
-  "total_new": 45,
-  "total_signal": 25,
+  "total_fetched": 4556,
+  "total_passed_age": 133,
+  "total_new": 40,
+  "total_signal": 20,
   "total_longread": 1,
-  "timestamp": "2026-03-24T20:51:35.147024",
-  "total_signal_deduped": 21,
+  "timestamp": "2026-03-24T22:39:38.468924",
+  "total_signal_deduped": 15,
   "total_longread_deduped": 1
 }

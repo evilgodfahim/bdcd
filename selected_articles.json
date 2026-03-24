@@ -2976,5 +2976,165 @@
     "description": "PHOTO ESSAY: Life goes on underground in Israel, in scenes both real and surreal",
     "published": "Wed, 25 Mar 2026 02:50:39 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/world/middleeast/pakistan-iran-us-mediation.html",
+    "title": "Pakistan Offers to Host Talks Between Iran and the United States",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/24/world/middleeast/pakistan-iran-us-mediation.html",
+    "description": "Pakistan, which has cultivated ties with both Washington and Tehran, sees a diplomatic opening to intervene in the war in Iran, its neighbor.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-pakistan1-kwvf/24israel-iran-pakistan1-kwvf-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-missiles-middle-east-trump-deal.html",
+    "title": "Iran Signals Resilience With Volley of Missiles Across Middle East",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/24/world/middleeast/iran-missiles-middle-east-trump-deal.html",
+    "description": "The barrage continued as officials said the U.S. had sent Iran a 15-point plan to end the war. But Iranian officials have publicly denied that Washington and Tehran are talking directly.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/24/multimedia/24int-iran-ledeall-2-zmvh/24int-iran-ledeall-2-zmvh-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/world/oil-iran-asia-nasa-space.html",
+    "title": "Asia’s Energy Crisis Stings",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/24/world/oil-iran-asia-nasa-space.html",
+    "description": "The energy crisis unleashed by the war in Iran may already be worse than the oil shocks of the 1970s. Here’s how it’s upending lives.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/25/multimedia/25int-theworld-asia-oil-top-cmgh-promo/25int-theworld-asia-oil-top-cmgh-promo-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
+    "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
+    "description": "The 15-point plan was delivered via Pakistan, whose army chief has emerged as the key interlocutor between the United States and Iran, officials say.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/24/multimedia/24int-mideast-iran-plan-2-ltkm/24int-mideast-iran-plan-2-ltkm-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
+    "title": "Russia Launches Daytime Attack on Ukraine With Over 500 Drones",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
+    "description": "The assault, which came after overnight strikes across the country, was one of the largest of the war, the Ukrainian authorities said.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-strikes-1-htfv/25int-ukraine-strikes-1-htfv-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/iran-diplomacy-donald-trump-mohammad-bagher-ghalibaf-99151bc1",
+    "title": "Opinion | The Fog of Diplomacy in Iran",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/iran-diplomacy-donald-trump-mohammad-bagher-ghalibaf-99151bc1",
+    "description": "Trump and the regime test each other while ground troops head over.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-08835732",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/israel-hits-russian-iranian-weapons-smuggling-route-in-the-caspian-sea-6d09aca1",
+    "title": "Israel Hits Russian-Iranian Weapons Smuggling Route in the Caspian Sea",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/israel-hits-russian-iranian-weapons-smuggling-route-in-the-caspian-sea-6d09aca1",
+    "description": "Moscow and Tehran have used the world’s largest inland sea to move everything from drones to oil and wheat.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-23611753",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/opinion/the-iran-wars-other-energy-shortagefood-9be83005",
+    "title": "Opinion | The Iran War’s Other Energy Shortage—Food",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/opinion/the-iran-wars-other-energy-shortagefood-9be83005",
+    "description": "Gulf states are a major source of fertilizer, and it’s too late to avert the effects of an export disruption.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://opinion-images.wsj.net/im-66553206",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a",
+    "title": "What to know about possible talks to wind down the Iran war",
+    "link": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/fbee0f4/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F0a%2Fe742b30002452dfdfaf8a874eebe%2F0025eeaccfe8493a883e457d69393f28\" /><br />What to know about possible talks to wind down the Iran war",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/fbee0f4/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F0a%2Fe742b30002452dfdfaf8a874eebe%2F0025eeaccfe8493a883e457d69393f28",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://apnews.com/article/strait-of-hormuz-iran-us-trump-israel-172e6f41b0e4af99881ca8ef2f69ed17",
+    "title": "Bahrain’s UN proposal calling for ‘all necessary means’ to open Strait of Hormuz faces opposition",
+    "link": "https://apnews.com/article/strait-of-hormuz-iran-us-trump-israel-172e6f41b0e4af99881ca8ef2f69ed17",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/b31f9a4/2147483647/strip/true/crop/4860x3240+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2Fa3%2Fb3a57d7346038414620167bf9324%2F161ee786b4de4f75a9a0d832b02323b6\" /><br />Bahrain’s UN proposal calling for ‘all necessary means’ to open Strait of Hormuz faces opposition",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/b31f9a4/2147483647/strip/true/crop/4860x3240+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2Fa3%2Fb3a57d7346038414620167bf9324%2F161ee786b4de4f75a9a0d832b02323b6",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.yahoo.com/news/articles/attacks-batter-northwest-iran-striking-220912361.html",
+    "title": "Attacks batter northwest Iran striking a residential building in first AP photos from outside Tehran",
+    "link": "https://www.yahoo.com/news/articles/attacks-batter-northwest-iran-striking-220912361.html",
+    "description": "<p><img alt=\"\" src=\"https://s.yimg.com/uu/api/res/1.2/G3FLO2msAhEj9TyUBCyC1Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/068a28ee408596f12398a0a9859309a8.cf.webp\" /></p>Source: Associated Press",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G3FLO2msAhEj9TyUBCyC1Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/068a28ee408596f12398a0a9859309a8.cf.webp",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.yahoo.com/news/articles/iraq-summon-us-iran-envoys-210515576.html",
+    "title": "Iraq to summon US, Iran envoys over deadly attacks: PM’s office",
+    "link": "https://www.yahoo.com/news/articles/iraq-summon-us-iran-envoys-210515576.html",
+    "description": "<p><img alt=\"\" src=\"https://s.yimg.com/uu/api/res/1.2/BvhIjCexipNQ_UgJJjR04A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0481823e636e15b83660983bb9a1b7f0.cf.webp\" /></p>Iraqi government says it plans to deliver ‘formal notes of protest’ amid recent strikes tied to US-Israeli war on Iran.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BvhIjCexipNQ_UgJJjR04A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0481823e636e15b83660983bb9a1b7f0.cf.webp",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.yahoo.com/news/articles/pope-leo-laments-iran-war-202739754.html",
+    "title": "Pope Leo laments that Iran war 'getting worse and worse'",
+    "link": "https://www.yahoo.com/news/articles/pope-leo-laments-iran-war-202739754.html",
+    "description": "<p><img alt=\"\" src=\"https://s.yimg.com/uu/api/res/1.2/gEuQ0KaF3fyEsC0XLRyoqA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/597081159201651f12eadef6b615c445.cf.webp\" /></p>By Joshua McElwee VATICAN CITY, March 24 (Reuters) - Pope Leo expressed concern on Tuesday about a rising tenor of animosity in the expanding Iran war, repeating calls for a ceasefire amid reports the",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gEuQ0KaF3fyEsC0XLRyoqA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/597081159201651f12eadef6b615c445.cf.webp",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.yahoo.com/news/articles/us-military-sends-drones-alongside-184134571.html",
+    "title": "US military sends drones, alongside 200 troops, to Nigeria amid fears of renewed Boko Haram insurgency",
+    "link": "https://www.yahoo.com/news/articles/us-military-sends-drones-alongside-184134571.html",
+    "description": "<p><img alt=\"\" src=\"https://s.yimg.com/uu/api/res/1.2/cgOvDSyKVIjmA9V5AATapQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/d261066c7a0ce93420a3a71d35c9a47b.cf.webp\" /></p>The U.S. military deployed MQ-9 Reaper drones to Nigeria for intelligence-gathering and training as the African country is grappling with a security crisis.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cgOvDSyKVIjmA9V5AATapQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/d261066c7a0ce93420a3a71d35c9a47b.cf.webp",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.yahoo.com/news/articles/north-korean-dictator-says-government-182713581.html",
+    "title": "North Korean dictator says government will keep cementing nation's 'irreversible status as a nuclear power'",
+    "link": "https://www.yahoo.com/news/articles/north-korean-dictator-says-government-182713581.html",
+    "description": "<p><img alt=\"\" src=\"https://s.yimg.com/uu/api/res/1.2/J6_OWFvHUVKrExM_7Osa9A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846.cf.webp\" /></p>North Korean figure Kim Jong Un said the government will bolster the nation's \"irreversible status as a nuclear power,\" The Associated Press reported.",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/yn/feeds/feed.xml",
+    "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J6_OWFvHUVKrExM_7Osa9A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846.cf.webp",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.tbsnews.net/splash/bonolota-express-moving-portrait-lost-era-1393386",
+    "title": "Bonolota Express: A moving portrait of a lost era",
+    "link": "https://www.tbsnews.net/splash/bonolota-express-moving-portrait-lost-era-1393386",
+    "description": "",
+    "published": "Wed, 25 Mar 2026 04:39:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/03/25/e6499f1d-5c73-41a5-97c7-dcfd079ece55.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
