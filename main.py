@@ -20,7 +20,7 @@ import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
-import google.generativeai as genai
+from google import genai
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
 
@@ -456,15 +456,20 @@ def send_to_gemini(articles):
     if not api_key:
         return {"signal": [], "longread": []}
 
-    genai.configure(api_key=api_key)
-    model       = genai.GenerativeModel(GEMINI_MODEL)
-    titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
-    prompt      = PROMPT.format(titles=titles_text)
-
     try:
-        response      = model.generate_content(prompt)
+        client = genai.Client(api_key=api_key)
+
+        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
+        prompt = PROMPT.format(titles=titles_text)
+
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=prompt,
+        )
+
         response_text = getattr(response, "text", None) or str(response)
         return extract_json_object(response_text)
+
     except Exception:
         return {"signal": [], "longread": []}
 
@@ -608,4 +613,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
