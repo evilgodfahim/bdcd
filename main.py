@@ -4,6 +4,7 @@ RSS Feed Processor with Gemini API Integration (robust date/content handling + t
 
 All articles from all feeds go to one Gemini call.
 Gemini classifies each headline into signal, longread, or noise.
+A second Gemini call deduplicates near-identical titles within each bucket.
 
 Outputs:
   curated_feed.xml  - signal articles
@@ -72,6 +73,7 @@ KL_API_FEEDS = set()
 # -- CONFIG --------------------------------------------------------------------
 
 GEMINI_MODEL          = "gemini-3-flash-preview"
+DEDUP_MODEL           = "gemini-2.5-flash"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
 OUTPUT_XML            = "curated_feed.xml"
@@ -118,6 +120,20 @@ Article titles:
 {titles}
 """
 
+DEDUP_PROMPT = """You are a news deduplication engine. You will receive a numbered list of article titles.
+Your task: identify groups of titles that cover the same story or event (near-duplicates, rephrased versions, or very similar headlines). For each such group, keep only the FIRST occurrence (lowest index) and discard the rest.
+Titles that cover clearly distinct topics must all be kept.
+
+Rules:
+- Return only the indices (0-based) of titles to KEEP, as a JSON array of integers.
+- Always keep at least one title from each duplicate group (the one with the lowest index).
+- If all titles are unique, return all indices.
+- Return only valid JSON. No markdown, no backticks, no preamble. Example output: [0, 1, 3, 5]
+
+Article titles:
+{titles}
+"""
+
 # -- CONSTANTS -----------------------------------------------------------------
 
 MEDIA_NS    = "http://search.yahoo.com/mrss/"
@@ -127,14 +143,16 @@ ET.register_namespace("media", MEDIA_NS)
 BD_TZ = timezone(timedelta(hours=6))
 
 STATS = {
-    "per_feed":         {},
-    "per_method":       {"KL": 0, "DIRECT": 0},
-    "total_fetched":    0,
-    "total_passed_age": 0,
-    "total_new":        0,
-    "total_signal":     0,
-    "total_longread":   0,
-    "timestamp":        None,
+    "per_feed":              {},
+    "per_method":            {"KL": 0, "DIRECT": 0},
+    "total_fetched":         0,
+    "total_passed_age":      0,
+    "total_new":             0,
+    "total_signal":          0,
+    "total_longread":        0,
+    "total_signal_deduped":  0,
+    "total_longread_deduped":0,
+    "timestamp":             None,
 }
 
 # -- I/O -----------------------------------------------------------------------
@@ -468,7 +486,7 @@ def extract_json_object(text):
 
 
 def send_to_gemini(articles):
-    """Single Gemini 3.1 Pro call. Returns {"signal": [...], "longread": [...]}."""
+    """Single Gemini 3 Flash call. Returns {"signal": [...], "longread": [...]}."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
@@ -487,19 +505,87 @@ def send_to_gemini(articles):
             },
         )
 
-        # Use .parsed if available (auto JSON conversion)
         if hasattr(response, "parsed") and response.parsed:
             return {
                 "signal":   [i for i in response.parsed.get("signal",   []) if isinstance(i, int)],
                 "longread": [i for i in response.parsed.get("longread", []) if isinstance(i, int)],
             }
 
-        # Fallback to manual parsing
         return extract_json_object(response.text)
 
     except Exception as e:
-        print(f"Gemini API Error: {e}")
+        print(f"Gemini classification error: {e}")
         return {"signal": [], "longread": []}
+
+
+def deduplicate_articles(articles):
+    """
+    Send article titles to Gemini 2.5 Flash.
+    Returns a deduplicated subset of `articles`, preserving order.
+    Near-identical or same-story titles are collapsed to the first occurrence.
+    Falls back to returning all articles unchanged on any error.
+    """
+    if not articles:
+        return articles
+
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return articles
+
+    try:
+        client = genai.Client(api_key=api_key)
+
+        titles_text = "\n".join(
+            [f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)]
+        )
+
+        response = client.models.generate_content(
+            model=DEDUP_MODEL,
+            contents=DEDUP_PROMPT.format(titles=titles_text),
+            config={"response_mime_type": "application/json"},
+        )
+
+        # Parse response — expect a plain JSON array of ints, e.g. [0, 1, 3, 5]
+        raw = response.text if hasattr(response, "text") else ""
+        raw = raw.replace("```json", "").replace("```", "").strip()
+
+        # Try direct array parse first
+        keep_indices = None
+        try:
+            parsed = json.loads(raw)
+            if isinstance(parsed, list):
+                keep_indices = [i for i in parsed if isinstance(i, int) and 0 <= i < len(articles)]
+        except Exception:
+            pass
+
+        # Fallback: extract array from inside any surrounding object
+        if keep_indices is None:
+            m = re.search(r"\[[\d,\s]+\]", raw)
+            if m:
+                try:
+                    keep_indices = [
+                        i for i in json.loads(m.group(0))
+                        if isinstance(i, int) and 0 <= i < len(articles)
+                    ]
+                except Exception:
+                    pass
+
+        if keep_indices is None:
+            print("Dedup: could not parse response, keeping all articles.")
+            return articles
+
+        # Preserve original ordering; indices returned by model are already ordered,
+        # but sort just in case.
+        keep_indices = sorted(set(keep_indices))
+        deduped = [articles[i] for i in keep_indices]
+        dropped = len(articles) - len(deduped)
+        if dropped:
+            print(f"Dedup: removed {dropped} near-duplicate title(s).")
+        return deduped
+
+    except Exception as e:
+        print(f"Gemini dedup error: {e}")
+        return articles
 
 # -- XML -----------------------------------------------------------------------
 
@@ -520,7 +606,7 @@ def _load_or_create(output_file, feed_title, feed_description):
     corrupt a fresh tree is built from scratch.  The namespace prefix
     'media' is always re-registered so ElementTree writes it correctly.
     """
-    ET.register_namespace("media", MEDIA_NS)   # must happen before every write
+    ET.register_namespace("media", MEDIA_NS)
 
     if Path(output_file).exists():
         try:
@@ -529,11 +615,10 @@ def _load_or_create(output_file, feed_title, feed_description):
             channel = root.find("channel")
             if channel is not None:
                 return tree, root, channel
-            # root exists but channel is missing – repair
             channel = _fresh_channel(root, feed_title, feed_description)
             return tree, root, channel
         except ET.ParseError:
-            pass   # fall through to create fresh
+            pass
 
     root    = ET.Element("rss", {"version": "2.0"})
     tree    = ET.ElementTree(root)
@@ -553,14 +638,12 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
     tree, root, channel = _load_or_create(output_file, feed_title, feed_description)
 
-    # ---- collect links that are already in the file -------------------------
     existing_links: set[str] = set()
     for item in channel.findall("item"):
         link_el = item.find("link")
         if link_el is not None and link_el.text:
             existing_links.add(link_el.text.strip())
 
-    # ---- append new items ---------------------------------------------------
     added = 0
     for a in articles:
         link = (a.get("link") or "").strip()
@@ -590,14 +673,12 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
         existing_links.add(link)
         added += 1
 
-    # ---- rolling cap: drop oldest items (they sit at the top) ---------------
     all_items = channel.findall("item")
     overflow  = len(all_items) - MAX_FEED_ITEMS
     if overflow > 0:
-        for old_item in all_items[:overflow]:   # oldest first
+        for old_item in all_items[:overflow]:
             channel.remove(old_item)
 
-    # ---- update lastBuildDate -----------------------------------------------
     now_text   = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
     last_build = channel.find("lastBuildDate")
     if last_build is None:
@@ -605,15 +686,13 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
     else:
         last_build.text = now_text
 
-    # ---- write --------------------------------------------------------------
     try:
         ET.indent(tree, space="  ")
     except AttributeError:
-        pass   # Python < 3.9 — skip pretty-printing
+        pass
 
     tree.write(output_file, encoding="unicode", xml_declaration=False)
 
-    # Prepend a clean UTF-8 declaration manually so readers are happy
     with open(output_file, "r+", encoding="utf-8") as fh:
         body = fh.read()
         fh.seek(0)
@@ -626,12 +705,14 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
 def print_stats():
     print("\nFetch statistics:")
-    print(f"  Timestamp:        {STATS.get('timestamp')}")
-    print(f"  Total fetched:    {STATS['total_fetched']}  (raw entries from all feeds)")
-    print(f"  Passed age cut:   {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h window)")
-    print(f"  New (unseen):     {STATS['total_new']}")
-    print(f"  Signal:           {STATS['total_signal']}  -> {OUTPUT_XML}")
-    print(f"  Longread:         {STATS['total_longread']}  -> {LONGREAD_XML}")
+    print(f"  Timestamp:           {STATS.get('timestamp')}")
+    print(f"  Total fetched:       {STATS['total_fetched']}  (raw entries from all feeds)")
+    print(f"  Passed age cut:      {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h window)")
+    print(f"  New (unseen):        {STATS['total_new']}")
+    print(f"  Signal (classified): {STATS['total_signal']}")
+    print(f"  Signal (after dedup):{STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
+    print(f"  Longread (classified):{STATS['total_longread']}")
+    print(f"  Longread (after dedup):{STATS['total_longread_deduped']}  -> {LONGREAD_XML}")
     print("  Per-method (raw fetch):")
     for method, cnt in STATS["per_method"].items():
         print(f"    {method}: {cnt}")
@@ -650,6 +731,7 @@ def main():
 
     STATS["total_new"] = len(new_articles)
 
+    # --- Step 1: classify with Gemini 3 Flash --------------------------------
     result = send_to_gemini(new_articles)
 
     signal_indices   = [i for i in result.get("signal",   []) if isinstance(i, int) and 0 <= i < len(new_articles)]
@@ -665,6 +747,17 @@ def main():
     STATS["total_signal"]   = len(signal_articles)
     STATS["total_longread"] = len(longread_articles)
 
+    # --- Step 2: deduplicate each bucket with Gemini 2.5 Flash ---------------
+    print(f"Deduplicating {len(signal_articles)} signal article(s)...")
+    signal_articles   = deduplicate_articles(signal_articles)
+
+    print(f"Deduplicating {len(longread_articles)} longread article(s)...")
+    longread_articles = deduplicate_articles(longread_articles)
+
+    STATS["total_signal_deduped"]   = len(signal_articles)
+    STATS["total_longread_deduped"] = len(longread_articles)
+
+    # --- Step 3: write XML feeds ---------------------------------------------
     generate_xml_feed(
         signal_articles,
         output_file=OUTPUT_XML,
