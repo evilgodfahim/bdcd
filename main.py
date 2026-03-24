@@ -86,17 +86,22 @@ MAX_FEED_ITEMS        = 500
 # -- PROMPT --------------------------------------------------------------------
 
 PROMPT = """You are a news classification engine. Classify each headline into exactly one bucket.
-SIGNAL — truly important news: significant events, major decisions, or developments in international affairs or Bangladesh that affect how people live, work, or are governed. Includes serious geopolitical analysis, foreign policy essays, and thesis-driven writing on international or Bangladeshi subjects.
+SIGNAL — news that matters globally or within Bangladesh: major international events, geopolitical developments involving multiple countries, or Bangladesh developments that meaningfully affect a large portion of the population (major policy shifts, economic crises, political upheaval, governance changes). Isolated incidents, local events, or routine Bangladesh news do not qualify.
 LONGREAD — worth reading but not urgent: high-quality in-depth reporting, investigations, features, or thoughtful essays on culture, science, history, or society that reward careful reading. Excludes celebrity profiles, trend pieces, and routine human-interest stories.
-NOISE — everything else: sports, entertainment, celebrity gossip, lifestyle, routine official statements, minor local incidents without broader consequence, or clickbait.
+NOISE — everything else: any non-Bangladesh country's internal politics, elections, policy disputes, business news, or market moves — plus isolated Bangladesh incidents, sports, entertainment, celebrity gossip, lifestyle, routine official statements, and clickbait.
 Rules:
 - If a headline could fit both SIGNAL and LONGREAD, always choose SIGNAL.
 - Use only the headline text. Indices are 0-based.
 - Omit all noise indices from the output entirely.
 Tricky cases to guide you:
-- A think-piece or analysis on a geopolitical subject → SIGNAL, not LONGREAD.
-- A detailed profile or feature on a person with no policy or governance consequence → LONGREAD, not SIGNAL.
-- A routine government statement or minor incident report with no new development or broader impact → NOISE.
+- Bangladesh policy or economic decision with broad national impact → SIGNAL.
+- An isolated Bangladesh incident or local event → NOISE, not SIGNAL.
+- A routine Bangladesh government statement with no new development → NOISE.
+- Any other country's domestic politics or policy with no cross-border impact → NOISE.
+- A geopolitical event involving multiple countries or international bodies → SIGNAL.
+- National business or market news from any non-Bangladesh country → NOISE unless it signals a global crisis.
+- A think-piece on an international subject with genuine global scope → SIGNAL, not LONGREAD.
+- A detailed profile or feature on a person with no global or broad Bangladesh consequence → LONGREAD, not SIGNAL.
 Return exactly this JSON and nothing else—no explanation, no preamble, no extra text:
 {{"signal": [indices...], "longread": [indices...]}}
 Article titles:
