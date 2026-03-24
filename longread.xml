@@ -1,9 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Tue, 24 Mar 2026 15:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 17:07:56 +0000</lastBuildDate>
+    <item>
+      <title>Why is the US so expensive? Everything comes in a ‘premium’ version, from doctors’ appointments to movies | Arwa Mahdawi</title>
+      <link>https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline</guid>
+      <description>&lt;p&gt;Want a good view of the cinema screen? You’ll need to sign up to the VIP scheme. A quick chat with your doctor? An extra $50,000 will let you jump the queue&lt;/p&gt;&lt;p&gt;‘What’s great about this country is America started the tradition where the richest consumers buy essentially the same things as the poorest,” Andy Warhol wrote in 1975. “You can be watching TV and see Coca-Cola, and you can know that the President drinks Coke [and] you can drink Coke, too … The idea of America is so wonderful because the more equal something is, the more American it is.”&lt;/p&gt;&lt;p&gt;Fifty years later, it’s still true that the Diet Coke Donald Trump is chugging by the caseload in the Oval Office is exactly the same stuff his public can buy in a local shop. But the idea that mass consumerism is characterised by equality is about as dead as Warhol is. There are precious few products or experiences that haven’t been segmented into multiple tiers, from “embarrassing pauper” to “ultra-VIP”, in order to extract as much money from the consumer as possible.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 23:07:30 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/ce1398f923b1d5a05fa73a0406cb2cc496902c19/1086_0_3167_2534/master/3167.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf39dbf7d8c1965bcbb7cba7689f366b" />
+      <enclosure url="https://i.guim.co.uk/img/media/ce1398f923b1d5a05fa73a0406cb2cc496902c19/1086_0_3167_2534/master/3167.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf39dbf7d8c1965bcbb7cba7689f366b" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why was Lt Gen (retd) Masud Uddin Chowdhury arrested?</title>
+      <link>https://www.thedailystar.net/star-multimedia/news/why-was-lt-gen-retd-masud-uddin-chowdhury-arrested-4134591</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/why-was-lt-gen-retd-masud-uddin-chowdhury-arrested-4134591</guid>
+      <description>Watch to find out why Masud Uddin was arrested</description>
+      <pubDate>Tue, 24 Mar 2026 23:07:30 +0600</pubDate>
+    </item>
   </channel>
 </rss>
