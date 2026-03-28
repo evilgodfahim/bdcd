@@ -4,7 +4,7 @@
     <title>Longread</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>Quality in-depth reading: features, analysis, investigations</description>
-    <lastBuildDate>Sat, 28 Mar 2026 08:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:43:04 +0000</lastBuildDate>
     <item>
       <title>Why is the US so expensive? Everything comes in a ‘premium’ version, from doctors’ appointments to movies | Arwa Mahdawi</title>
       <link>https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline</link>
@@ -2055,6 +2055,86 @@ As global manufacturing shifts rapidly tow</description>
       <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/relay-cropping-new-hope-wheat-coastal-lands-4136971</guid>
       <description>Vast fields stretch along the banks of the Mongla-Ghashiakhali channel, where Aman rice was harvested nearly two months ago. While most of the fields now lie barren, ripe wheat can be seen swaying in the wind in a few plots.</description>
       <pubDate>Sat, 28 Mar 2026 11:19:08 +0600</pubDate>
+    </item>
+    <item>
+      <title>My Childhood in the Weather Underground</title>
+      <link>https://www.newyorker.com/culture/the-weekend-essay/my-childhood-in-the-weather-underground</link>
+      <guid isPermaLink="false">69bac6dd784a7491c75dfff3</guid>
+      <description>My parents founded the radical revolutionary group, then became fugitives. I was born in hiding, and spent my early years on the run.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://media.newyorker.com/photos/69c564b1ba35a2991e518a7b/master/pass/202603-Mel_Haasch-Weather-underground-1.jpg" />
+      <enclosure url="https://media.newyorker.com/photos/69c564b1ba35a2991e518a7b/master/pass/202603-Mel_Haasch-Weather-underground-1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The ICEBlock App Has Helped People Avoid Immigration Agents. Is It Legal?</title>
+      <link>https://www.newyorker.com/news/the-lede/the-rise-and-fall-of-ice-tracking-apps</link>
+      <guid isPermaLink="false">68c98d6974048c27504a8ac0</guid>
+      <description>ICEBlock was meant to be an early-warning system to help people avoid immigration enforcement—the Trump Administration claims that it endangered the agents of its mass deportation campaign.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://media.newyorker.com/photos/69c58c9aa07d9bb886283590/master/pass/TNY_ICEBLOCK_COL.jpg" />
+      <enclosure url="https://media.newyorker.com/photos/69c58c9aa07d9bb886283590/master/pass/TNY_ICEBLOCK_COL.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Torbjørn Rødland Touches the Romantic and the Profane</title>
+      <link>https://www.newyorker.com/culture/photo-booth/torbjorn-rodland-touches-the-romantic-and-the-profane</link>
+      <guid isPermaLink="false">69c68aeba07d9bb886284221</guid>
+      <description>In a new exhibit, the Norwegian photographer finds divergent ways to break through and touch an audience numbed by visual glut.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://media.newyorker.com/photos/69c6998d72867f192fc9bdd8/master/pass/Wiley-rodland_another_bricolage_2024-26.jpg" />
+      <enclosure url="https://media.newyorker.com/photos/69c6998d72867f192fc9bdd8/master/pass/Wiley-rodland_another_bricolage_2024-26.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A new billionaire class is supercharging superyachts</title>
+      <link>https://www.businessinsider.com/young-billionaires-buying-superyachts-bigger-tech-sustainable-2026-3</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/young-billionaires-buying-superyachts-bigger-tech-sustainable-2026-3</guid>
+      <description>The superyacht industry is booming as younger billionaires, fueled by stock and AI wealth, buy bigger, sustainable yachts.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/69c6af1a445048b5f68bbb0e?format=jpeg" />
+      <enclosure url="https://i.insider.com/69c6af1a445048b5f68bbb0e?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>China's 'one-person companies' have exploded. An Alibaba exec explains how AI agents make that possible.</title>
+      <link>https://www.businessinsider.com/ai-agents-one-person-companies-china-openclaw-alibaba-president-2026-3</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/ai-agents-one-person-companies-china-openclaw-alibaba-president-2026-3</guid>
+      <description>Alibaba.com president Kuo Zhang discusses the rise of one-person companies, aided by AI agents OpenClaw.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/69c47efa732a0245147134be?format=jpeg" />
+      <enclosure url="https://i.insider.com/69c47efa732a0245147134be?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>'Informed' traders on Polymarket netted $143 million in 'anomalous' profit since 2024, researchers find</title>
+      <link>https://www.businessinsider.com/polymarket-informed-insider-trades-study-2026-3</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/polymarket-informed-insider-trades-study-2026-3</guid>
+      <description>The study analyzed most Polymarket's trades between 2024 and 2026. It's the first to estimate the total amount won by suspicious accounts.</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://i.insider.com/69c6ea04f573a637a75670e6?format=jpeg" />
+      <enclosure url="https://i.insider.com/69c6ea04f573a637a75670e6?format=jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Firms with more women in top roles more likely to dismiss abusive men, study finds</title>
+      <link>https://www.theguardian.com/world/2026/mar/28/firms-with-more-women-in-top-roles-more-likely-to-dismiss-abusive-men-study-finds</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/mar/28/firms-with-more-women-in-top-roles-more-likely-to-dismiss-abusive-men-study-finds</guid>
+      <description>&lt;p&gt;IFS analysis also finds male-managed companies were more likely to have victim of abuse leave company&lt;/p&gt;&lt;p&gt;Companies who employ more women in senior roles are much more likely to dismiss men accused of sexually or physically abusing their colleagues, according to analysis of international and UK data.&lt;/p&gt;&lt;p&gt;Men were more likely to get sacked for abusing a male colleague rather than a female colleague, according to &lt;a href="https://academic.oup.com/qje/article-abstract/139/2/937/7276494?redirectedFrom=fulltext"&gt;a recent Finnish study&lt;/a&gt;, cited in &lt;a href="https://ifs.org.uk/articles/economic-consequences-gender-based-violence"&gt;research about the economic impact of violence against women and girls&lt;/a&gt; gathered by the &lt;a href="https://ifs.org.uk/"&gt;Institute for Fiscal Studies&lt;/a&gt; (IFS).&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/mar/28/firms-with-more-women-in-top-roles-more-likely-to-dismiss-abusive-men-study-finds"&gt;Continue reading...&lt;/a&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://i.guim.co.uk/img/media/83e66b1d3d283eaa31df3bca71eb2028d724f018/0_0_7920_6336/master/7920.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67d412ccaa6d4dacd73859120c47dc94" />
+      <enclosure url="https://i.guim.co.uk/img/media/83e66b1d3d283eaa31df3bca71eb2028d724f018/0_0_7920_6336/master/7920.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67d412ccaa6d4dacd73859120c47dc94" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Time to build alternative labour markets, not over-depending on the Middle East</title>
+      <link>https://en.prothomalo.com/opinion/editorial/in9pnp3hjc</link>
+      <guid isPermaLink="false">ec23446c-85da-4648-9253-df59bca81278</guid>
+      <description>
+&lt;p&gt;Overseas employment has long served as a vital pillar of Bangladesh’s economy. &lt;/p&gt;&lt;p&gt;Remittances sent by migrant workers not only strengthen foreign exchange reserves but also play a significant role in sustaining the rural economy. &lt;/p&gt;&lt;p&gt;However, the recent crisis in the Middle East has once again exposed how heavily Bangladesh’s labour market relies on a narrow and vulnerable structure. &lt;/p&gt;&lt;p&gt;Irregular flight operations due to conflict, obstacles to worker mobility, and growing uncertainty over employment have collectively placed a substantial portion of overseas employment at risk.&lt;/p&gt;&lt;p&gt;Data from the Bureau of Manpower, Employment and Training (BMET) indicate that, during the first 10 days of March this year, the number of workers receiving clearance to go abroad declined by about 50 per cent compared with the same period last year. &lt;/p&gt;&lt;p&gt;This is not merely a statistic; it reflects the fragile reality of Bangladesh’s overseas labour market. &lt;/p&gt;&lt;p&gt;Following the outbreak of conflict, the closure of airspace in several Middle Eastern countries led to the cancellation of hundreds of flights from Hazrat Shahjalal International Airport in Dhaka. &lt;/p&gt;&lt;p&gt;As a result, many workers have been unable to travel abroad, while others who returned home on leave remain stranded.&lt;/p&gt;&lt;p&gt;The most significant challenge facing Bangladesh’s labour market is its excessive dependence on the Middle East. Last year, 67 per cent of all outbound workers went to Saudi Arabia alone. &lt;/p&gt;&lt;p&gt;Overall, about 90 per cent of workers migrated to just five countries. Although the official list includes 168 destination countries, in practice, only a handful have developed into major labour markets. &lt;/p&gt;&lt;p&gt;Consequently, any political or military instability in these regions immediately exposes Bangladesh’s labour market to risk.&lt;/p&gt;&lt;p&gt;The current situation provides a clear example. Between 4.5 million (45 lakh) and 5 million (50 lakh) Bangladeshi workers are employed in the Middle East. &lt;/p&gt;&lt;p&gt;If the conflict persists, their employment, safety, and income will all face significant uncertainty.&lt;/p&gt;&lt;p&gt;Reports have already emerged of the deaths of several Bangladeshi migrants, indicating the severity of the situation. &lt;/p&gt;&lt;p&gt;In response, the government has established hotlines and control rooms to assist affected expatriates and is communicating with relevant countries to extend visa validity for stranded workers. &lt;/p&gt;&lt;p&gt;While these measures are necessary, the scale of the crisis demands more proactive and coordinated action.&lt;/p&gt;&lt;p&gt;The crisis has also highlighted another critical issue—Bangladesh has yet to develop a sufficiently skilled workforce. &lt;/p&gt;&lt;p&gt;Although promising labour markets exist beyond the Middle East, such as in Europe, Japan, and South Korea, Bangladesh has not fully utilised these opportunities. &lt;/p&gt;&lt;p&gt;These destinations require specific skills, training, and language proficiency, and Bangladesh has long faced shortcomings in preparing workers to meet these standards.&lt;/p&gt;&lt;p&gt;Compounding the issue is the closure of the Malaysian labour market. Since June 2024, the market has remained closed due to allegations of irregularities and syndicate practices. &lt;/p&gt;&lt;p&gt;This situation once again demonstrates that a lack of transparency and accountability in labour market management remains a major challenge for Bangladesh. &lt;/p&gt;&lt;p&gt;Although the government has initiated efforts to explore new markets, it must first address these systemic weaknesses to achieve meaningful results.&lt;/p&gt;&lt;p&gt;When regular migration pathways become restricted, the risk of irregular migration increases. There has already been a rise in attempts to reach Europe via dangerous sea routes. &lt;/p&gt;&lt;p&gt;Research organisations warn that many individuals may fall prey to trafficking networks and attempt perilous journeys abroad.&lt;/p&gt;&lt;p&gt;Unscrupulous groups have also become active in promoting emerging markets such as Russia, luring workers with promises of high wages or even citizenship. &lt;/p&gt;&lt;p&gt;To mitigate these risks, the government must strengthen both oversight and public awareness.&lt;/p&gt;&lt;p&gt;The Government of Bangladesh has announced plans to develop new labour markets and has signed agreements with several countries, including Italy, Japan, and South Korea. &lt;/p&gt;&lt;p&gt;However, for these initiatives to produce tangible outcomes, the country must make substantial investments in developing a skilled workforce. &lt;/p&gt;&lt;p&gt;Without prioritising technical education, language training, and internationally recognised skills development, creating alternative labour markets will not be feasible.&lt;/p&gt;&lt;p&gt;The ongoing crisis in the Middle East therefore serves as a clear warning for Bangladesh. &lt;/p&gt;&lt;p&gt;To ensure sustainable overseas employment, the country must move beyond its reliance on a single region and develop a diversified labour market, alongside a competent and skilled workforce. The time has come to take decisive steps towards long-term reform.&lt;/p&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
+      <media:thumbnail url="https://media.prothomalo.com/prothomalo-english/2021-02/e8160531-2df9-40b1-a76f-5306c0520223/ed.png?w=280" />
+      <enclosure url="https://media.prothomalo.com/prothomalo-english/2021-02/e8160531-2df9-40b1-a76f-5306c0520223/ed.png?w=280" type="image/png" length="0" />
+    </item>
+    <item>
+      <title>Reaction  / Ferry tragedy: Will we ever learn?</title>
+      <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/ferry-tragedy-will-we-ever-learn-4137456</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/ferry-tragedy-will-we-ever-learn-4137456</guid>
+      <description />
+      <pubDate>Sat, 28 Mar 2026 18:39:51 +0600</pubDate>
     </item>
   </channel>
 </rss>
