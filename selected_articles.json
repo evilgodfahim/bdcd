@@ -11178,5 +11178,63 @@
     "description": "",
     "published": "Sat, 28 Mar 2026 18:39:51 +0600",
     "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-686607",
+    "title": "Trump’s Mixed Messages About Iran",
+    "link": "https://www.theatlantic.com/national/2026/03/trump-iran-washington-week/686607/",
+    "description": "Panelists joined to discuss the president’s shifting answers to how the conflict could end.",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/F07OBPhi5dIyPr7A2tIW0M3Mp5Y=/3x0:2607x1464/media/img/mt/2026/03/Screenshot_2026_03_28_at_11.38.20AM/original.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "tag:theatlantic.com,2026:50-686594",
+    "title": "Mutually Assured Energy Destruction",
+    "link": "https://www.theatlantic.com/ideas/2026/03/energy-destruction-iran-war/686594/",
+    "description": "Wrecking oil infrastructure is easy; rebuilding it is hard.",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://feeds.feedburner.com/TheAtlantic",
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/fjWB5sL9YFC59RcrCe2agSpxmPY=/media/img/mt/2026/03/2026_03_27_mutually_assured_energy_destruction/original.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.ft.com/content/7f8cfd99-7c5a-458d-af2c-683f340eaa9c",
+    "title": "UK and Singapore press ahead with digital deal as WTO remains deadlocked",
+    "link": "https://archive.is/o/ggFl1/https://www.ft.com/content/7f8cfd99-7c5a-458d-af2c-683f340eaa9c",
+    "description": "Ministers are struggling to thrash out reforms at the global body that has been buffeted by Trump’s tariffs",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://evilgodfahim.github.io/ftint/combined.xml"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
+    "title": "Media association condemns ‘violent assault’ on CNN crew by Israeli soldiers",
+    "link": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
+    "description": "<p>CNN team detained while reporting on aftermath of attack by settlers in West Bank, Foreign Press Association says</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions\"><strong>Middle East crisis – live updates</strong></a></p></li></ul><p>An international media association has condemned what it described as a “violent assault” by Israeli soldiers who detained a CNN crew in the occupied West Bank this week.</p><p>A CNN team was reporting on the aftermath of an assault by Israeli settlers and the establishment of an illegal outpost near the Palestinian village of Tayasir on Thursday when it was detained by Israeli soldiers, the Foreign Press Association said on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association\">Continue reading...</a>",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://evilgodfahim.github.io/gd/merged.xml",
+    "thumbnail": "https://i.guim.co.uk/img/media/9b6d8ae1aa58fde80a85ad2280e3bd328a877a82/1108_225_2322_1859/master/2322.jpg?width=700&quality=85&auto=format&fit=max&s=b19f8d74ed475689f4651825f7622cce",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+    "title": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+    "description": "The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.wsj.com/world/middle-east/inside-the-trans-atlantic-trade-in-iranian-weapons-for-colombian-coke-fb32daec",
+    "title": "Inside the Trans-Atlantic Trade in Iranian Weapons for Colombian Coke",
+    "link": "https://archive.is/o/soww3/https://www.wsj.com/world/middle-east/inside-the-trans-atlantic-trade-in-iranian-weapons-for-colombian-coke-fb32daec",
+    "description": "A recent conviction offers a rare window into the illicit global network that brings money into the Islamic Republic.",
+    "published": "Sun, 29 Mar 2026 02:22:41 +0600",
+    "source": "https://evilgodfahim.github.io/wsjint/combined.xml",
+    "thumbnail": "https://images.wsj.net/im-68884963",
+    "thumbnail_type": "image/jpeg"
   }
 ]
