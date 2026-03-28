@@ -52,7 +52,11 @@ FEED_URLS = [
 
 "https://www.newstatesman.com/feed",
 
-"https://www.thenation.com/rss/articles"
+"https://www.thenation.com/rss/articles",
+
+"https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
+
+"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
 ]
 
 EXISTING_API_FEEDS = {
@@ -73,7 +77,11 @@ EXISTING_API_FEEDS = {
 
 "https://www.newstatesman.com/feed",
 
-"https://www.thenation.com/rss/articles"
+"https://www.thenation.com/rss/articles",
+
+"https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
+
+"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml" 
 }
 
 KL_API_FEEDS = set()
