@@ -53,7 +53,11 @@ FEED_URLS = [
 
 "https://theweek.com/rss.xml",
 
-"https://www.wired.com/feed/rss"
+"https://www.wired.com/feed/rss",
+
+"https://www.newstatesman.com/feed",
+
+"https://www.thenation.com/rss/articles"
 ]
 
 EXISTING_API_FEEDS = {
@@ -75,7 +79,11 @@ EXISTING_API_FEEDS = {
 
 "https://theweek.com/rss.xml",
 
-"https://www.wired.com/feed/rss"
+"https://www.wired.com/feed/rss",
+
+"https://www.newstatesman.com/feed",
+
+"https://www.thenation.com/rss/articles"
 }
 
 KL_API_FEEDS = set()
