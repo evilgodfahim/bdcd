@@ -7,8 +7,8 @@
     },
     "https://feeds2.feedburner.com/businessinsider": {
       "fetched": 50,
-      "passed_age": 17,
-      "capped": 17
+      "passed_age": 16,
+      "capped": 16
     },
     "https://feeds.feedburner.com/TheAtlantic": {
       "fetched": 25,
@@ -32,8 +32,8 @@
     },
     "https://evilgodfahim.github.io/nytint/combined.xml": {
       "fetched": 342,
-      "passed_age": 9,
-      "capped": 9
+      "passed_age": 8,
+      "capped": 8
     },
     "https://evilgodfahim.github.io/wpint/combined.xml": {
       "fetched": 54,
@@ -52,8 +52,8 @@
     },
     "https://www.wired.com/feed/rss": {
       "fetched": 50,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 3,
+      "capped": 3
     },
     "https://www.newstatesman.com/feed": {
       "fetched": 20,
@@ -64,18 +64,28 @@
       "fetched": 50,
       "passed_age": 0,
       "capped": 0
+    },
+    "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml": {
+      "fetched": 40,
+      "passed_age": 40,
+      "capped": 40
+    },
+    "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml": {
+      "fetched": 30,
+      "passed_age": 30,
+      "capped": 30
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 2478
+    "DIRECT": 2548
   },
-  "total_fetched": 2478,
-  "total_passed_age": 73,
-  "total_new": 22,
-  "total_signal": 7,
-  "total_longread": 1,
-  "timestamp": "2026-03-28T20:23:12.987090",
-  "total_signal_deduped": 5,
-  "total_longread_deduped": 1
+  "total_fetched": 2548,
+  "total_passed_age": 140,
+  "total_new": 70,
+  "total_signal": 13,
+  "total_longread": 3,
+  "timestamp": "2026-03-28T20:35:14.472776",
+  "total_signal_deduped": 10,
+  "total_longread_deduped": 3
 }
