@@ -56,7 +56,12 @@ FEED_URLS = [
 
 "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
+
+"https://evilgodfahim.github.io/fto/combined.xml",
+    "https://evilgodfahim.github.io/nytop/combined.xml",
+    "https://evilgodfahim.github.io/wpo/combined.xml",
+    "https://evilgodfahim.github.io/wsjop/combined.xml", 
 ]
 
 EXISTING_API_FEEDS = {
@@ -81,7 +86,12 @@ EXISTING_API_FEEDS = {
 
 "https://evilgodfahim.github.io/sp/feeds/spectator_en.xml",
 
-"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml" 
+"https://evilgodfahim.github.io/sp/feeds/spectator_us.xml",
+
+"https://evilgodfahim.github.io/fto/combined.xml",
+    "https://evilgodfahim.github.io/nytop/combined.xml",
+    "https://evilgodfahim.github.io/wpo/combined.xml",
+    "https://evilgodfahim.github.io/wsjop/combined.xml"
 }
 
 KL_API_FEEDS = set()
