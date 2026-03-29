@@ -11340,5 +11340,49 @@
     "description": "Planet Orwell",
     "published": "Sun, 29 Mar 2026 02:34:35 +0600",
     "source": "https://evilgodfahim.github.io/sp/feeds/spectator_us.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
+    "title": "Here’s What Happened in the War in the Middle East on Saturday",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
+    "description": "The war with Iran escalated on Saturday as the Iran-allied Houthis joined the conflict and Israel bombarded Tehran with airstrikes.",
+    "published": "Sun, 29 Mar 2026 07:51:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/airstrikes-university-tehran",
+    "title": "Airstrikes batter a university and residential zones in Tehran.",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/airstrikes-university-tehran",
+    "description": "",
+    "published": "Sun, 29 Mar 2026 07:51:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytint/combined.xml",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/26/opinion/iran-us-war-strait-hormuz.html",
+    "title": "The Strait of Hormuz Closed Because Iran Is Using the U.S. Playbook",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/26/opinion/iran-us-war-strait-hormuz.html",
+    "description": "Iran has blocked the Strait of Hormuz by raising risks for ship operators. In doing so, it has taken lessons from American financial policy.",
+    "published": "Sun, 29 Mar 2026 07:51:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/28/opinion/iran-war-hormuz-cost.html",
+    "title": "Iran Thinks It Can Win a Long War",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/28/opinion/iran-war-hormuz-cost.html",
+    "description": "A costly war will make Iran’s enemies think twice before attacking again.",
+    "published": "Sun, 29 Mar 2026 07:51:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/28/opinion/iran-war-kharg-island.html",
+    "title": "The Old Man Dreaming Up Wars for Young Men to Fight",
+    "link": "https://archive.is/o/N6yE6/https://www.nytimes.com/2026/03/28/opinion/iran-war-kharg-island.html",
+    "description": "Any deal with Iran would probably be a bad one. But sending ground troops to seize Iranian territory would be an even worse choice.",
+    "published": "Sun, 29 Mar 2026 07:51:37 +0600",
+    "source": "https://evilgodfahim.github.io/nytop/combined.xml"
   }
 ]
