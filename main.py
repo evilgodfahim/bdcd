@@ -62,6 +62,10 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/nytop/combined.xml",
     "https://evilgodfahim.github.io/wpo/combined.xml",
     "https://evilgodfahim.github.io/wsjop/combined.xml", 
+
+"https://evilgodfahim.github.io/lemonde/combined.xml",
+
+"https://www.thewirechina.com/feed/"
 ]
 
 EXISTING_API_FEEDS = {
@@ -91,7 +95,11 @@ EXISTING_API_FEEDS = {
 "https://evilgodfahim.github.io/fto/combined.xml",
     "https://evilgodfahim.github.io/nytop/combined.xml",
     "https://evilgodfahim.github.io/wpo/combined.xml",
-    "https://evilgodfahim.github.io/wsjop/combined.xml"
+    "https://evilgodfahim.github.io/wsjop/combined.xml",
+
+"https://evilgodfahim.github.io/lemonde/combined.xml",
+
+"https://www.thewirechina.com/feed/"
 }
 
 KL_API_FEEDS = set()
