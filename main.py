@@ -782,6 +782,12 @@ def main():
     STATS["total_signal"]   = len(signal_articles)
     STATS["total_longread"] = len(longread_articles)
 
+    # --- Early exit: nothing classified, nothing to commit -------------------
+    if not signal_articles and not longread_articles:
+        print("No signal or longread articles this run. Skipping all file writes.")
+        print_stats()
+        return
+
     # --- Step 2: deduplicate signal only with Gemini 2.5 Flash ---------------
     print(f"Deduplicating {len(signal_articles)} signal article(s)...")
     signal_articles = deduplicate_articles(signal_articles)
