@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
 """
-RSS Feed Processor with Gemini API Integration (robust date/content handling + thumbnails)
+RSS Feed Processor with Gemini API Integration
 
 All articles from all feeds go to one Gemini call.
-Gemini classifies each headline into signal, longread, or noise.
-A second Gemini call deduplicates near-identical titles within each bucket.
+Gemini classifies each headline into signal or noise.
+A second Gemini call deduplicates near-identical signal titles.
 
-Outputs:
-  curated_feed.xml  - signal articles
-  longread.xml      - longread articles
-Stats:
-  fetch_stats.json
+Output:  curated_feed.xml
+Stats:   fetch_stats.json
 """
 
 import feedparser
@@ -24,7 +21,6 @@ import xml.etree.ElementTree as ET
 from google import genai
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
-
 import requests
 
 try:
@@ -36,8 +32,6 @@ except Exception:
 
 FEED_URLS = [
     "https://politepaul.com/fd/XeBbNkFKkjmd.xml",
-
-"https://evilgodfahim.github.io/bben/feed.xml",
     "https://evilgodfahim.github.io/ds/todays_news.xml",
     "https://scour.ing/@evilgod/rss.xml?all_feeds=true&show_seen=true",
     "https://politepaul.com/fd/0TStH0zYYM8c.xml",
@@ -84,7 +78,7 @@ FEED_URLS = [
 ]
 
 EXISTING_API_FEEDS = set(FEED_URLS)
-KL_API_FEEDS = set()
+KL_API_FEEDS       = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
@@ -94,7 +88,6 @@ DEDUP_MODEL           = "gemini-2.5-flash-lite"
 PROCESSED_FILE        = "processed_articles.json"
 SELECTED_FILE         = "selected_articles.json"
 OUTPUT_XML            = "curated_feed.xml"
-LONGREAD_XML          = "longread.xml"
 STATS_FILE            = "fetch_stats.json"
 MAX_ARTICLES_PER_FEED = 100
 MAX_AGE_HOURS         = 10
@@ -104,73 +97,95 @@ MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a brutally selective news classifier. Every headline starts as NOISE. To escape NOISE it must clear both gates below. If either gate fails: NOISE. When in doubt: NOISE. An empty output is better than a bloated one.
+PROMPT = """You are a strict news classification engine. Input: numbered article titles from news outlets, geopolitical journals, and Bangladeshi newspapers — including hard news, editorials, op-eds, and essays. Classify each as SIGNAL or NOISE. Return only SIGNAL indices. The bar is SUPER HIGH.; (LOWEST < LOWER < LOW < AVERAGE < HIGH < SUPER HIGH < ULTRA HIGH < EXTREME).
 
-GATE 1 — ALREADY HAPPENED
-The event must be confirmed and concluded — not proposed, not feared, not expected. Any headline containing: may, could, might, expected, likely, warns, fears, plans, proposes, calls for, urges, considers → automatic NOISE.
+STEP 1 — INSTANT NOISE. Stop here if the title is any of:
+  Sports · entertainment · celebrity · lifestyle · human interest · tribute or commemorative · praise of a person, party, or institution · isolated local incident (one district, one institution, one community)
 
-GATE 2 — CHANGES THE RULES AT SCALE
-It must structurally alter how a large number of people are governed, work, or move — not merely describe activity within an existing situation. Statistics, statements, meetings, visits, inaugurations, and ongoing chronic conditions never pass this gate regardless of topic.
+STEP 2 — IS BANGLADESH DIRECTLY INVOLVED?
 
-─── SIGNAL (both gates cleared) ───
+  YES → SIGNAL if:
+  a) National scale: affects the whole country or a significant portion of the population. Cause is irrelevant — economic or business condition (trade, exports, remittances, inflation, currency, banking sector, foreign reserves, stock market, investment climate), government decision, failing public system, environmental crisis, infrastructure breakdown, natural disaster, social emergency, health situation. If the reach is national, it is SIGNAL.
+  b) Foreign affairs: any substantive BD external development — bilateral talks or disputes, international pressure or sanctions on BD, foreign aid or loans, cross-border issues (water, trade, security, migration), BD at international forums, international bodies acting on BD. If BD is a direct party, it is SIGNAL. Do not mistake substantive diplomacy for routine ceremony.
+  c) Editorial naming a concrete national-scale domain or condition → SIGNAL. Vague sentiment with no named domain → NOISE. Party strategy or partisan praise → NOISE.
 
-Bangladesh track — any of these, confirmed and enacted:
-- Macroeconomic policy change: fuel, monetary, tax, import/export, subsidies
-- Acute economic shock: currency crisis, banking failure, IMF/World Bank conditions imposed, sovereign debt event
-- Political rupture: government collapse, emergency declared, constitutional crisis, election outcome confirmed
-- Binding judicial decision with structural effect at scale
-- Cross-border security: confirmed India-Bangladesh rupture, border closure, Rohingya development with diplomatic consequence
-- Mass displacement event with active state response underway
+  NO → SIGNAL if:
+  a) Multinational bodies acting collectively: UN and agencies, NATO, IMF, World Bank, WTO, G7/G20, BRICS, IAEA, ICC, ICJ, regional alliances. Their resolutions, findings, and interventions are SIGNAL by nature.
+  b) Multi-country events: wars, conflicts, cross-border crises, multilateral treaties, regional instability, international sanctions.
+  c) Single-country decision with cross-border consequence — two types:
+     Immediate: moves something the world depends on (global energy supply, global financial systems, pandemic-level health, global trade architecture).
+     Strategic/slow-burn: shifts power, security, or stability even without immediate surface effect — nuclear decisions, major arms deals or military build-up, upstream water control affecting downstream countries, military base shifts, significant cyber operations, treaty withdrawals. Ask: does this change what is possible or what is threatened in the world?
+  All other single-country internal affairs → NOISE.
 
-International track — confirmed, cross-border consequence only:
-- Active armed conflict shift: front opened/closed, city taken, ceasefire confirmed or collapsed
-- Treaty or sanctions regime enacted (not threatened)
-- Nuclear/WMD: test confirmed, facility discovered, agreement broken
-- Major economy trade policy enacted with verified cascade (US, China, EU tariffs directly affecting Bangladesh's export sectors)
-- Binding UNSC, IMF, or World Bank decision imposing conditions on member states
+WHEN IN DOUBT → NOISE.
 
-NEVER signal: domestic politics of any single country except Bangladesh, economic statistics and data releases except bangladesh with high impact, diplomatic meetings without a binding signed outcome, company/market news, protests without confirmed structural outcome, anything speculative.
+Output only: {{"signal": [0-based indices]}}. Valid JSON, no markdown, no explanation.
 
-─── LONGREAD (both gates cleared + exceptional depth) ───
+EXAMPLES:
 
-Only: original investigations with new unreported facts, data-driven features exposing structural patterns, deeply reported essays on systems or institutions with consequences beyond the individual.
+Input:
+0. US and China sign landmark trade agreement
+1. Premier League club sacks manager
+2. Bangladesh central bank raises interest rates amid inflation crisis
+3. UK Conservative Party elects new leader
+4. UN warns of imminent famine across the Horn of Africa
+5. The Promise of a New Bangladesh
+6. We Must Fix Bangladesh's Broken Irrigation System
+7. Saluting the Spirit of Our Freedom Fighters
+8. Bangladesh slashes fuel subsidies nationwide
+9. India's internal border dispute heats up
+10. Bangladesh foreign minister holds talks with India over Teesta water sharing
+11. US warns Bangladesh over labour rights ahead of trade review
+12. China pledges $3bn infrastructure investment in Bangladesh
+13. NATO expands eastern flank military presence
+14. India builds new dam on Brahmaputra upstream of Bangladesh
+Output: {{"signal": [0, 2, 4, 6, 8, 10, 11, 12, 13, 14]}}
 
-Never longread: opinion columns, explainers, trend pieces, profiles (unless subject directly controls an active ongoing crisis), anything with "explained / what you need to know / why it matters" in the title.
+Input:
+0. India and Pakistan exchange fire across Line of Control
+1. Dhaka garment workers strike shuts down hundreds of factories
+2. Australia holds federal election
+3. IMF approves emergency loan for Bangladesh
+4. BNP's Path Forward After the Election
+5. How Microfinance Is Changing Lives in Sylhet
+6. How Poor Water Management Is Destroying Bangladesh's Agriculture
+7. The Geopolitics of the Indo-Pacific and What It Means for the World
+8. Why [Party Leader] Is the Leader Bangladesh Deserves
+9. IAEA raises alarm over Iran's uranium enrichment levels
+10. The Slow Collapse of Bangladesh's River Systems
+11. Why Bangladesh's Public Hospitals Are Failing the Poor
+12. Bangladesh's foreign reserves fall below $20bn as taka hits record low
+13. Garment exports decline 12% amid global slowdown, threatening Bangladesh's growth
+Output: {{"signal": [0, 1, 3, 6, 7, 9, 10, 11, 12, 13]}}
 
-If a headline fits both SIGNAL and LONGREAD → SIGNAL.
+Article titles:
+{titles}
+"""
 
-─── OUTPUT ───
-- Indices are 0-based. Omit all noise.
-- Return only valid JSON, no markdown, no preamble.
-- Format: {"signal": [integers], "longread": [integers]}
-- If nothing qualifies: {"signal": [], "longread": []}"""
+DEDUP_PROMPT = """You are a news deduplication engine. Identify groups of titles covering the same story. For each group keep only the lowest index, discard the rest. Distinct topics must all be kept.
 
-DEDUP_PROMPT = """You are a news deduplication engine. Identify groups of titles covering the same story. For each group, keep only the lowest index and discard the rest. Distinct topics must all be kept.
-
-Return only the indices (0-based) to KEEP as a JSON array of integers. No markdown, no preamble.
+Return only the 0-based indices to KEEP as a JSON array of integers. No markdown, no preamble.
 
 Article titles:
 {titles}"""
 
 # -- CONSTANTS -----------------------------------------------------------------
 
-MEDIA_NS    = "http://search.yahoo.com/mrss/"
-MEDIA_TAG   = "{%s}" % MEDIA_NS
+MEDIA_NS = "http://search.yahoo.com/mrss/"
+MEDIA_TAG = "{%s}" % MEDIA_NS
 ET.register_namespace("media", MEDIA_NS)
 
 BD_TZ = timezone(timedelta(hours=6))
 
 STATS = {
-    "per_feed":              {},
-    "per_method":            {"KL": 0, "DIRECT": 0},
-    "total_fetched":         0,
-    "total_passed_age":      0,
-    "total_new":             0,
-    "total_signal":          0,
-    "total_longread":        0,
-    "total_signal_deduped":  0,
-    "total_longread_deduped":0,
-    "timestamp":             None,
+    "per_feed":             {},
+    "per_method":           {"KL": 0, "DIRECT": 0},
+    "total_fetched":        0,
+    "total_passed_age":     0,
+    "total_new":            0,
+    "total_signal":         0,
+    "total_signal_deduped": 0,
+    "timestamp":            None,
 }
 
 # -- I/O -----------------------------------------------------------------------
@@ -246,8 +261,7 @@ def parse_date(entry):
         st = entry.get(key)
         if st:
             try:
-                dt = datetime.fromtimestamp(time.mktime(st), tz=timezone.utc)
-                return dt, False
+                return datetime.fromtimestamp(time.mktime(st), tz=timezone.utc), False
             except Exception:
                 pass
     for key in ("published", "updated", "created", "dc_date", "issued"):
@@ -376,10 +390,7 @@ def fetch_feed(url):
     url_norm    = url.strip()
     method_used = "DIRECT"
 
-    if url_norm in EXISTING_API_FEEDS:
-        feed        = feedparser.parse(url_norm)
-        method_used = "DIRECT"
-    elif url_norm in KL_API_FEEDS:
+    if url_norm in KL_API_FEEDS:
         kl_endpoint = os.environ.get("KL")
         feed        = None
         if kl_endpoint:
@@ -387,11 +398,9 @@ def fetch_feed(url):
             if feed:
                 method_used = "KL"
         if not feed:
-            feed        = feedparser.parse(url_norm)
-            method_used = "DIRECT"
+            feed = feedparser.parse(url_norm)
     else:
-        feed        = feedparser.parse(url_norm)
-        method_used = "DIRECT"
+        feed = feedparser.parse(url_norm)
 
     entries_count = len(getattr(feed, "entries", []))
     STATS["per_feed"].setdefault(url_norm, {"fetched": 0, "passed_age": 0, "capped": 0})
@@ -478,59 +487,48 @@ def get_new_articles(all_articles, processed_data):
 
 # -- GEMINI --------------------------------------------------------------------
 
-def extract_json_object(text):
+def extract_signal_indices(text):
     text = text.replace("```json", "").replace("```", "").strip()
     match = re.search(r"\{.*\}", text, flags=re.DOTALL)
     if match:
         try:
             obj = json.loads(match.group(0))
             if isinstance(obj, dict):
-                return {
-                    "signal":   [i for i in obj.get("signal",   []) if isinstance(i, int)],
-                    "longread": [i for i in obj.get("longread", []) if isinstance(i, int)],
-                }
+                return [i for i in obj.get("signal", []) if isinstance(i, int)]
         except Exception:
             pass
-    result = {"signal": [], "longread": []}
-    for key in ("signal", "longread"):
-        m = re.search(rf'"{key}"\s*:\s*(\[.*?\])', text, flags=re.DOTALL)
-        if m:
-            try:
-                result[key] = [i for i in json.loads(m.group(1)) if isinstance(i, int)]
-            except Exception:
-                pass
-    return result
+    m = re.search(r'"signal"\s*:\s*(\[.*?\])', text, flags=re.DOTALL)
+    if m:
+        try:
+            return [i for i in json.loads(m.group(1)) if isinstance(i, int)]
+        except Exception:
+            pass
+    return []
 
 
 def send_to_gemini(articles):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not articles:
-        return {"signal": [], "longread": []}
+        return []
 
     try:
-        client = genai.Client(api_key=api_key)
+        client      = genai.Client(api_key=api_key)
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
         response = client.models.generate_content(
             model=GEMINI_MODEL,
-            contents=f"Article titles:\n{titles_text}",
-            config={
-                "system_instruction": PROMPT,
-                "response_mime_type": "application/json",
-            },
+            contents=PROMPT.format(titles=titles_text),
+            config={"response_mime_type": "application/json"},
         )
 
         if hasattr(response, "parsed") and response.parsed:
-            return {
-                "signal":   [i for i in response.parsed.get("signal",   []) if isinstance(i, int)],
-                "longread": [i for i in response.parsed.get("longread", []) if isinstance(i, int)],
-            }
+            return [i for i in response.parsed.get("signal", []) if isinstance(i, int)]
 
-        return extract_json_object(response.text)
+        return extract_signal_indices(response.text)
 
     except Exception as e:
         print(f"Gemini classification error: {e}")
-        return {"signal": [], "longread": []}
+        return []
 
 
 def deduplicate_articles(articles):
@@ -542,7 +540,7 @@ def deduplicate_articles(articles):
         return articles
 
     try:
-        client = genai.Client(api_key=api_key)
+        client      = genai.Client(api_key=api_key)
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
         response = client.models.generate_content(
@@ -578,8 +576,8 @@ def deduplicate_articles(articles):
             return articles
 
         keep_indices = sorted(set(keep_indices))
-        deduped = [articles[i] for i in keep_indices]
-        dropped = len(articles) - len(deduped)
+        deduped      = [articles[i] for i in keep_indices]
+        dropped      = len(articles) - len(deduped)
         if dropped:
             print(f"Dedup: removed {dropped} near-duplicate title(s).")
         return deduped
@@ -600,7 +598,6 @@ def _fresh_channel(root, feed_title, feed_description):
 
 def _load_or_create(output_file, feed_title, feed_description):
     ET.register_namespace("media", MEDIA_NS)
-
     if Path(output_file).exists():
         try:
             tree    = ET.parse(output_file)
@@ -612,7 +609,6 @@ def _load_or_create(output_file, feed_title, feed_description):
             return tree, root, channel
         except ET.ParseError:
             pass
-
     root    = ET.Element("rss", {"version": "2.0"})
     tree    = ET.ElementTree(root)
     channel = _fresh_channel(root, feed_title, feed_description)
@@ -637,7 +633,7 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
         if not link or link in existing_links:
             continue
 
-        item = ET.SubElement(channel, "item")
+        item         = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text       = a.get("title", "") or ""
         ET.SubElement(item, "link").text        = link
         guid_val     = a.get("id") or link
@@ -675,7 +671,6 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
         pass
 
     tree.write(output_file, encoding="unicode", xml_declaration=False)
-
     with open(output_file, "r+", encoding="utf-8") as fh:
         body = fh.read()
         fh.seek(0)
@@ -688,21 +683,19 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
 def print_stats():
     print("\nFetch statistics:")
-    print(f"  Timestamp:             {STATS.get('timestamp')}")
-    print(f"  Total fetched:         {STATS['total_fetched']}  (raw entries from all feeds)")
-    print(f"  Passed age cut:        {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h window)")
-    print(f"  New (unseen):          {STATS['total_new']}")
-    print(f"  Signal (classified):   {STATS['total_signal']}")
-    print(f"  Signal (after dedup):  {STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
-    print(f"  Longread (classified): {STATS['total_longread']}")
-    print(f"  Longread (after dedup):{STATS['total_longread_deduped']}  -> {LONGREAD_XML}")
-    print("  Per-method (raw fetch):")
+    print(f"  Timestamp:            {STATS.get('timestamp')}")
+    print(f"  Total fetched:        {STATS['total_fetched']}")
+    print(f"  Passed age cut:       {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h)")
+    print(f"  New (unseen):         {STATS['total_new']}")
+    print(f"  Signal (classified):  {STATS['total_signal']}")
+    print(f"  Signal (after dedup): {STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
+    print("  Per-method:")
     for method, cnt in STATS["per_method"].items():
         print(f"    {method}: {cnt}")
-    print("  Per-feed breakdown:")
+    print("  Per-feed:")
     for feed, d in STATS["per_feed"].items():
         print(f"    {feed}")
-        print(f"      fetched={d.get('fetched',0)}  passed_age={d.get('passed_age',0)}  sent_to_pipeline={d.get('capped',0)}")
+        print(f"      fetched={d.get('fetched',0)}  passed_age={d.get('passed_age',0)}  capped={d.get('capped',0)}")
     print("")
 
 # -- MAIN ----------------------------------------------------------------------
@@ -714,30 +707,21 @@ def main():
 
     STATS["total_new"] = len(new_articles)
 
-    result = send_to_gemini(new_articles)
+    signal_indices  = send_to_gemini(new_articles)
+    signal_indices  = [i for i in signal_indices if 0 <= i < len(new_articles)]
+    signal_articles = [new_articles[i] for i in signal_indices]
 
-    signal_indices   = [i for i in result.get("signal",   []) if isinstance(i, int) and 0 <= i < len(new_articles)]
-    longread_indices = [i for i in result.get("longread", []) if isinstance(i, int) and 0 <= i < len(new_articles)]
+    STATS["total_signal"] = len(signal_articles)
 
-    signal_set       = set(signal_indices)
-    longread_indices = [i for i in longread_indices if i not in signal_set]
-
-    signal_articles   = [new_articles[i] for i in signal_indices]
-    longread_articles = [new_articles[i] for i in longread_indices]
-
-    STATS["total_signal"]   = len(signal_articles)
-    STATS["total_longread"] = len(longread_articles)
-
-    if not signal_articles and not longread_articles:
-        print("No signal or longread articles this run. Skipping all file writes.")
+    if not signal_articles:
+        print("No signal articles this run. Skipping all file writes.")
         print_stats()
         return
 
     print(f"Deduplicating {len(signal_articles)} signal article(s)...")
     signal_articles = deduplicate_articles(signal_articles)
 
-    STATS["total_signal_deduped"]   = len(signal_articles)
-    STATS["total_longread_deduped"] = len(longread_articles)
+    STATS["total_signal_deduped"] = len(signal_articles)
 
     generate_xml_feed(
         signal_articles,
@@ -745,14 +729,8 @@ def main():
         feed_title="Curated News",
         feed_description="AI-curated signal: Bangladesh affairs and international geopolitics",
     )
-    generate_xml_feed(
-        longread_articles,
-        output_file=LONGREAD_XML,
-        feed_title="Longread",
-        feed_description="Quality in-depth reading: features, investigations, essays",
-    )
 
-    save_selected_articles(signal_articles + longread_articles)
+    save_selected_articles(signal_articles)
 
     processed_data.setdefault("article_ids",   []).extend([a["id"]   for a in new_articles if a.get("id")])
     processed_data.setdefault("article_links", []).extend([a["link"] for a in new_articles if a.get("link")])
