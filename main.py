@@ -99,25 +99,31 @@ MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a strict news classification engine. Input: numbered article titles from news outlets, geopolitical journals, and Bangladeshi newspapers — including hard news, editorials, op-eds, and essays. Classify each as SIGNAL or NOISE. Return only SIGNAL indices. The bar is SUPER HIGH.; (LOWEST < LOWER < LOW < AVERAGE < HIGH < SUPER HIGH < ULTRA HIGH < EXTREME).
+PROMPT = """You are a strict news classification engine. Input: numbered article titles from news outlets and Bangladeshi newspapers. Classify each as SIGNAL or NOISE. Return only SIGNAL indices. The bar is EXTREME.
 
-STEP 1 — INSTANT NOISE. Stop here if the title is any of:
-  Sports · entertainment · celebrity · lifestyle · human interest · tribute or commemorative · praise of a person, party, or institution · isolated local incident (one district, one institution, one community)
+STEP 1 — INSTANT NOISE. Mark as NOISE immediately if the title is any of:
+  - Sports, entertainment, celebrity, lifestyle, human interest
+  - Tribute, commemorative, or anniversary pieces
+  - Praise or criticism of a person, party, or institution
+  - Any isolated or discrete incident: one arrest, one clash, one crime, one accident, one fire, one death, one protest at one location — no matter how dramatic the title sounds
+  - Anything affecting only one district, one institution, one community, or one individual
 
-STEP 2 — IS BANGLADESH DIRECTLY INVOLVED?
+STEP 2 — SCOPE CHECK.
 
-  YES → SIGNAL if:
-  a) National scale: affects the whole country or a significant portion of the population. Cause is irrelevant — economic or business condition (trade, exports, remittances, inflation, currency, banking sector, foreign reserves, stock market, investment climate), government decision, failing public system, environmental crisis, infrastructure breakdown, natural disaster, social emergency, health situation. If the reach is national, it is SIGNAL.
-  b) Foreign affairs: any substantive BD external development — bilateral talks or disputes, international pressure or sanctions on BD, foreign aid or loans, cross-border issues (water, trade, security, migration), BD at international forums, international bodies acting on BD. If BD is a direct party, it is SIGNAL. Do not mistake substantive diplomacy for routine ceremony.
-  c) Editorial naming a concrete national-scale domain or condition → SIGNAL. Vague sentiment with no named domain → NOISE. Party strategy or partisan praise → NOISE.
+  BANGLADESH: SIGNAL only if the event or decision affects the entire country or a nationally significant portion of it:
+  - Economic data or official decisions: central bank actions, national budget, trade figures, remittance data, fuel/utility price changes, foreign reserve status, currency moves, stock market circuit breakers, IMF/World Bank actions on BD
+  - Government or institutional actions at the national level: cabinet decisions, parliament acts, nationwide policy rollouts, supreme court rulings, election commission decisions
+  - Infrastructure or public systems at national scale: nationwide power outages, countrywide internet disruption, collapse of a national system (not one hospital, one road, one factory)
+  - Natural disasters or health emergencies declared at national or divisional scale (not one district)
+  - Foreign affairs: official bilateral talks, international sanctions or pressure on BD, cross-border agreements or disputes (Teesta, Rohingya, trade), BD at UN/IMF/WTO, foreign loans or aid formally approved
+  - Anything sub-national, sub-institutional, or about a single individual → NOISE
 
-  NO → SIGNAL if:
-  a) Multinational bodies acting collectively: UN and agencies, NATO, IMF, World Bank, WTO, G7/G20, BRICS, IAEA, ICC, ICJ, regional alliances. Their resolutions, findings, and interventions are SIGNAL by nature.
-  b) Multi-country events: wars, conflicts, cross-border crises, multilateral treaties, regional instability, international sanctions.
-  c) Single-country decision with cross-border consequence — two types:
-     Immediate: moves something the world depends on (global energy supply, global financial systems, pandemic-level health, global trade architecture).
-     Strategic/slow-burn: shifts power, security, or stability even without immediate surface effect — nuclear decisions, major arms deals or military build-up, upstream water control affecting downstream countries, military base shifts, significant cyber operations, treaty withdrawals. Ask: does this change what is possible or what is threatened in the world?
-  All other single-country internal affairs → NOISE.
+  INTERNATIONAL: SIGNAL only for concrete events with verified cross-border consequences:
+  - Active armed conflicts between states, or formal declarations of war or ceasefire
+  - Multinational body decisions: UN Security Council resolutions, IMF/World Bank program approvals, WTO rulings, NATO formal decisions, IAEA findings, ICC/ICJ verdicts
+  - Formal multilateral treaties signed or collapsed
+  - A single country's decision only if it moves something the world depends on immediately: global energy supply disruption, collapse of a major financial system, verified nuclear weapons development milestone, formal treaty withdrawal with immediate effect
+  - Internal politics, elections, leadership changes, and domestic policy of any single foreign country → NOISE unless the direct cross-border consequence is stated in the title itself
 
 WHEN IN DOUBT → NOISE.
 
@@ -130,35 +136,35 @@ Input:
 1. Premier League club sacks manager
 2. Bangladesh central bank raises interest rates amid inflation crisis
 3. UK Conservative Party elects new leader
-4. UN warns of imminent famine across the Horn of Africa
+4. UN Security Council votes to deploy peacekeepers to Sudan
 5. The Promise of a New Bangladesh
 6. We Must Fix Bangladesh's Broken Irrigation System
-7. Saluting the Spirit of Our Freedom Fighters
-8. Bangladesh slashes fuel subsidies nationwide
-9. India's internal border dispute heats up
-10. Bangladesh foreign minister holds talks with India over Teesta water sharing
-11. US warns Bangladesh over labour rights ahead of trade review
-12. China pledges $3bn infrastructure investment in Bangladesh
-13. NATO expands eastern flank military presence
-14. India builds new dam on Brahmaputra upstream of Bangladesh
-Output: {{"signal": [0, 2, 4, 6, 8, 10, 11, 12, 13, 14]}}
+7. Bangladesh slashes fuel subsidies nationwide
+8. India arrests opposition leader
+9. Bangladesh foreign minister holds talks with India over Teesta water sharing
+10. US warns Bangladesh over labour rights ahead of GSP review
+11. China pledges $3bn infrastructure loan to Bangladesh, deal signed
+12. NATO formally approves expansion of eastern flank forces
+13. Student clash reported in Dhaka university campus
+14. Why Bangladesh's Economy Is at a Crossroads
+Output: {{"signal": [0, 2, 4, 7, 9, 10, 11, 12]}}
 
 Input:
-0. India and Pakistan exchange fire across Line of Control
-1. Dhaka garment workers strike shuts down hundreds of factories
+0. Pakistan and India exchange fire across Line of Control, casualties confirmed
+1. Dhaka garment workers strike shuts down hundreds of factories nationwide
 2. Australia holds federal election
-3. IMF approves emergency loan for Bangladesh
+3. IMF formally approves $4.7bn loan for Bangladesh
 4. BNP's Path Forward After the Election
 5. How Microfinance Is Changing Lives in Sylhet
-6. How Poor Water Management Is Destroying Bangladesh's Agriculture
-7. The Geopolitics of the Indo-Pacific and What It Means for the World
-8. Why [Party Leader] Is the Leader Bangladesh Deserves
-9. IAEA raises alarm over Iran's uranium enrichment levels
-10. The Slow Collapse of Bangladesh's River Systems
-11. Why Bangladesh's Public Hospitals Are Failing the Poor
-12. Bangladesh's foreign reserves fall below $20bn as taka hits record low
-13. Garment exports decline 12% amid global slowdown, threatening Bangladesh's growth
-Output: {{"signal": [0, 1, 3, 6, 7, 9, 10, 11, 12, 13]}}
+6. The Geopolitics of the Indo-Pacific and What It Means for the World
+7. IAEA confirms Iran has enriched uranium to 84 percent purity
+8. Man arrested in Chattogram over murder
+9. Bangladesh foreign reserves fall below $20bn, taka hits record low
+10. Garment exports decline 12% in Q1, Bangladesh Bank reports
+11. ICC issues arrest warrant for sitting head of state
+12. Fire breaks out at Tejgaon factory, 3 killed
+13. Bangladesh parliament passes new cybersecurity law
+Output: {{"signal": [0, 1, 3, 7, 9, 10, 11, 13]}}
 
 Article titles:
 {titles}
@@ -729,7 +735,7 @@ def main():
         signal_articles,
         output_file=OUTPUT_XML,
         feed_title="Curated News",
-        feed_description="AI-curated signal: Bangladesh affairs and international geopolitics",
+        feed_description="AI-curated signal: Bangladesh affairs and international hard news",
     )
 
     save_selected_articles(signal_articles)
