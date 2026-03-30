@@ -81,14 +81,11 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/bl/result.xml",
 ]
 
-EXISTING_API_FEEDS = set(FEED_URLS)  # all fetched directly
-
+EXISTING_API_FEEDS = set(FEED_URLS)
 KL_API_FEEDS = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-# NOTE: verify the exact model string against your Gemini API docs.
-# Common variants: "gemini-2.5-flash-lite", "gemini-2.5-flash-lite-preview-06-17"
 GEMINI_MODEL          = "gemini-2.5-flash-lite"
 DEDUP_MODEL           = "gemini-2.5-flash-lite"
 
@@ -101,98 +98,57 @@ MAX_ARTICLES_PER_FEED = 100
 MAX_AGE_HOURS         = 10
 ALLOW_MISSING_DATES   = True
 ALLOW_OLDER           = False
-MAX_FEED_ITEMS        = 500          # rolling cap per output file
+MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a news classification engine. Your reader is Bangladesh-focused with a strong interest in international geopolitics. Classify each headline into exactly one bucket.
+PROMPT = """You are a brutally selective news classifier. Every headline starts as NOISE. To escape NOISE it must clear both gates below. If either gate fails: NOISE. When in doubt: NOISE. An empty output is better than a bloated one.
 
-SIGNAL — Two tracks, both requiring an ULTRA HIGH bar. Routine news, expected developments, and anything merely continuing an existing trend do not qualify regardless of topic. The bar is between ULTRA HIGH; (LOWEST < LOWER < LOW < AVERAGE < HIGH < SUPER HIGH < ULTRA HIGH < EXTREME). 
+GATE 1 — ALREADY HAPPENED
+The event must be confirmed and concluded — not proposed, not feared, not expected. Any headline containing: may, could, might, expected, likely, warns, fears, plans, proposes, calls for, urges, considers → automatic NOISE.
 
-  TRACK A · Bangladesh: A development that structurally alters conditions for a large portion of the population. Qualifying categories:
-    - Major policy enacted, reversed, or blocked (fuel prices, import/export rules, monetary policy, tax regime)
-    - Economic shocks: currency crisis, banking system failure, IMF/World Bank negotiations or conditions, balance-of-payments stress, sovereign debt developments
-    - Political upheaval: government collapse, constitutional crisis, contested elections, mass arrests of political figures, large-scale crackdown
-    - Governance breakdown at scale: institutional failure, emergency declarations, judicial decisions with broad structural effect
-    - Security and geopolitical dimension: India-Bangladesh relations, Rohingya crisis developments, border conflict, regional power dynamics involving Bangladesh
-    - Large-scale environmental or public health emergency: floods displacing millions, cyclone landfall and response, epidemic affecting the national health system
-    The test: does this change how Bangladesh functions structurally — not just report on activity within it?
+GATE 2 — CHANGES THE RULES AT SCALE
+It must structurally alter how a large number of people are governed, work, or move — not merely describe activity within an existing situation. Statistics, statements, meetings, visits, inaugurations, and ongoing chronic conditions never pass this gate regardless of topic.
 
-  TRACK B · International geopolitics: Events directly involving multiple countries or major international bodies where the outcome shifts regional or global order.
-    - Active wars, ceasefires, major offensives, occupation changes
-    - Treaties, sanctions regimes, binding international agreements
-    - Nuclear or WMD developments
-    - Cross-border mass displacement, refugee crises with diplomatic dimensions
-    - Major power confrontations (US-China, US-Russia, India-Pakistan, Middle East power dynamics)
-    - Decisions by UN Security Council, IMF, World Bank, or WTO that bind multiple nations
-    - Global trade and economic developments with verified multi-country cascade effect: major tariff regimes imposed by large economies (US, China, EU), commodity price shocks affecting import-dependent economies, supply chain ruptures with global reach, trade agreement changes that directly alter market access for Bangladesh's key export sectors (garments, textiles), or G7/G20 coordinated economic decisions
-    One country's domestic politics — however dramatic — is NOISE unless it triggers verified cross-border consequences.
+─── SIGNAL (both gates cleared) ───
 
-LONGREAD — Writing that rewards slow, careful reading. Bar: between ULTRA HIGH and EXTREME. Qualifying:
-    - Original investigations with new reporting (corruption, institutional failure, hidden systems)
-    - Data-driven features that expose structural patterns
-    - Long-form essays on history, science, economics, society, or culture that advance understanding
-    - Deeply reported narratives about places, systems, or phenomena (not people) with consequences beyond the individual
-    Strictly excluded: op-eds without original reporting, trend pieces, celebrity or politician profiles, human-interest padding, anything that rephrases a wire story at length, advice columns, "10 things" formats.
-    Exception: A profile of a person who currently holds or recently held a position with direct and proven consequence on an ongoing global or Bangladesh situation may qualify.
+Bangladesh track — any of these, confirmed and enacted:
+- Macroeconomic policy change: fuel, monetary, tax, import/export, subsidies
+- Acute economic shock: currency crisis, banking failure, IMF/World Bank conditions imposed, sovereign debt event
+- Political rupture: government collapse, emergency declared, constitutional crisis, election outcome confirmed
+- Binding judicial decision with structural effect at scale
+- Cross-border security: confirmed India-Bangladesh rupture, border closure, Rohingya development with diplomatic consequence
+- Mass displacement event with active state response underway
 
-NOISE — everything else, including:
-    - Any country's domestic politics, elections, or policy disputes with no cross-border impact
-    - Isolated Bangladesh incidents: crime, accidents, arrests, fires, local disputes
-    - Sports, entertainment, lifestyle, food, travel, health tips, fashion
-    - Routine government statements, press conferences, ministerial visits, appointments, inaugurations
-    - Business earnings, stock/market moves, product launches, company news (unless signaling a systemic crisis)
-    - Speculation: headlines using "may," "could," "might," "expected to," without a confirmed development
-    - Opinion pieces without original reporting or analysis
-    - Clickbait, listicles, feel-good stories, awards, records broken
+International track — confirmed, cross-border consequence only:
+- Active armed conflict shift: front opened/closed, city taken, ceasefire confirmed or collapsed
+- Treaty or sanctions regime enacted (not threatened)
+- Nuclear/WMD: test confirmed, facility discovered, agreement broken
+- Major economy trade policy enacted with verified cascade (US, China, EU tariffs directly affecting Bangladesh's export sectors)
+- Binding UNSC, IMF, or World Bank decision imposing conditions on member states
 
-Rules:
-- If a headline fits both SIGNAL and LONGREAD, always choose SIGNAL.
-- Classify using headline text only. Indices are 0-based.
-- Omit all noise indices entirely from the output.
-- Return only valid JSON. No markdown, no backticks, no preamble.
+NEVER signal: domestic politics of any single country, economic statistics and data releases, diplomatic meetings without a binding signed outcome, company/market news, protests without confirmed structural outcome, anything speculative.
 
-Tricky cases to guide calibration:
-- Bangladesh Bank raises key interest rate amid inflation crisis → SIGNAL (monetary policy with structural consequence)
-- BNP holds rally in Dhaka → NOISE (routine political activity, no confirmed structural development)
-- Bangladesh garment workers strike shuts 300 factories → SIGNAL (large-scale economic disruption)
-- Man held in Ctg drug bust → NOISE (isolated incident)
-- IMF approves $4.7bn bailout for Bangladesh with structural conditions → SIGNAL (Track A, economic)
-- India-Bangladesh water-sharing talks collapse → SIGNAL (Track B, cross-border geopolitics)
-- Dhaka air quality ranks worst globally for third month → NOISE (ongoing situation, no new structural trigger)
-- Gaza ceasefire collapses as fighting resumes → SIGNAL (Track B, active conflict shift)
-- France elects new president → NOISE (domestic politics, no confirmed cross-border consequence)
-- The secret architecture of global dollar dominance → LONGREAD (structural feature, global consequence)
-- How Dhaka's informal economy absorbed the inflation shock → LONGREAD (structural, BD-specific, analytical)
-- Celebrity couple announces divorce → NOISE
+─── LONGREAD (both gates cleared + exceptional depth) ───
 
-Examples:
-Input: ["Bangladesh Bank raises key rate amid stubborn inflation", "Awami League rally held in Dhaka", "Man arrested in Chittagong for fraud", "Russia and Ukraine agree to ceasefire", "France elects new president", "The secret architecture of global dollar dominance", "US imposes fresh sanctions on Iran over nuclear program", "Bangladesh garment exports hit record high"]
-Output: {"signal": [0, 3, 6], "longread": [5]}
+Only: original investigations with new unreported facts, data-driven features exposing structural patterns, deeply reported essays on systems or institutions with consequences beyond the individual.
 
-Input: ["IMF approves $4.7bn loan for Bangladesh with conditions", "BNP demands caretaker government", "How microplastics infiltrated the global food supply", "India-Bangladesh water-sharing talks collapse", "England wins cricket series", "Dhaka air quality hazardous for third week running"]
-Output: {"signal": [0, 3], "longread": [2]}
+Never longread: opinion columns, explainers, trend pieces, profiles (unless subject directly controls an active ongoing crisis), anything with "explained / what you need to know / why it matters" in the title.
 
-Input: ["Bangladesh scraps coal power deals under climate pressure", "Dhaka restaurant review: best biryani spots", "The long unraveling of Lebanon's banking system", "US House passes spending bill", "China and Philippines clash over disputed South China Sea reef", "Nobel peace prize announced"]
-Output: {"signal": [0, 4], "longread": [2]}
+If a headline fits both SIGNAL and LONGREAD → SIGNAL.
 
-Input: ["US imposes sweeping tariffs on all imports, garment sector braces for impact", "Oil prices collapse to three-year low on demand fears", "Bangladesh textile exporters warn of order cancellations after EU GSP review", "Global shipping costs surge after Red Sea attacks disrupt trade routes", "Prime Minister attends World Economic Forum in Davos", "UK autumn budget: tax rises and spending cuts"]
-Output: {"signal": [0, 1, 2, 3], "longread": []}
-"""
+─── OUTPUT ───
+- Indices are 0-based. Omit all noise.
+- Return only valid JSON, no markdown, no preamble.
+- Format: {"signal": [integers], "longread": [integers]}
+- If nothing qualifies: {"signal": [], "longread": []}"""
 
-DEDUP_PROMPT = """You are a news deduplication engine. You will receive a numbered list of article titles.
-Your task: identify groups of titles that cover the same story or event (near-duplicates, rephrased versions, or very similar headlines). For each such group, keep only the FIRST occurrence (lowest index) and discard the rest.
-Titles that cover clearly distinct topics must all be kept.
+DEDUP_PROMPT = """You are a news deduplication engine. Identify groups of titles covering the same story. For each group, keep only the lowest index and discard the rest. Distinct topics must all be kept.
 
-Rules:
-- Return only the indices (0-based) of titles to KEEP, as a JSON array of integers.
-- Always keep at least one title from each duplicate group (the one with the lowest index).
-- If all titles are unique, return all indices.
-- Return only valid JSON. No markdown, no backticks, no preamble. Example output: [0, 1, 3, 5]
+Return only the indices (0-based) to KEEP as a JSON array of integers. No markdown, no preamble.
 
 Article titles:
-{titles}
-"""
+{titles}"""
 
 # -- CONSTANTS -----------------------------------------------------------------
 
@@ -446,10 +402,10 @@ def fetch_feed(url):
 
 
 def fetch_all_feeds():
-    now        = datetime.now(timezone.utc)
-    cutoff     = now - timedelta(hours=MAX_AGE_HOURS)
-    bd_now     = datetime.now(BD_TZ)
-    bd_now_str = bd_now.strftime("%a, %d %b %Y %H:%M:%S +0600")
+    now          = datetime.now(timezone.utc)
+    cutoff       = now - timedelta(hours=MAX_AGE_HOURS)
+    bd_now       = datetime.now(BD_TZ)
+    bd_now_str   = bd_now.strftime("%a, %d %b %Y %H:%M:%S +0600")
     all_articles = []
 
     for url in FEED_URLS:
@@ -521,7 +477,6 @@ def get_new_articles(all_articles, processed_data):
 # -- GEMINI --------------------------------------------------------------------
 
 def extract_json_object(text):
-    """Parse {"signal": [...], "longread": [...]} from Gemini response."""
     text = text.replace("```json", "").replace("```", "").strip()
     match = re.search(r"\{.*\}", text, flags=re.DOTALL)
     if match:
@@ -546,14 +501,12 @@ def extract_json_object(text):
 
 
 def send_to_gemini(articles):
-    """Single Gemini call. Returns {"signal": [...], "longread": [...]}."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not articles:
         return {"signal": [], "longread": []}
 
     try:
         client = genai.Client(api_key=api_key)
-
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
         response = client.models.generate_content(
@@ -579,12 +532,6 @@ def send_to_gemini(articles):
 
 
 def deduplicate_articles(articles):
-    """
-    Send article titles to Gemini.
-    Returns a deduplicated subset of `articles`, preserving order.
-    Near-identical or same-story titles are collapsed to the first occurrence.
-    Falls back to returning all articles unchanged on any error.
-    """
     if not articles:
         return articles
 
@@ -594,10 +541,7 @@ def deduplicate_articles(articles):
 
     try:
         client = genai.Client(api_key=api_key)
-
-        titles_text = "\n".join(
-            [f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)]
-        )
+        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
         response = client.models.generate_content(
             model=DEDUP_MODEL,
@@ -645,7 +589,6 @@ def deduplicate_articles(articles):
 # -- XML -----------------------------------------------------------------------
 
 def _fresh_channel(root, feed_title, feed_description):
-    """Add a blank <channel> to root and return it."""
     channel = ET.SubElement(root, "channel")
     ET.SubElement(channel, "title").text       = feed_title
     ET.SubElement(channel, "link").text        = "https://yourusername.github.io/yourrepo/"
@@ -654,10 +597,6 @@ def _fresh_channel(root, feed_title, feed_description):
 
 
 def _load_or_create(output_file, feed_title, feed_description):
-    """
-    Return (tree, root, channel).
-    Tries to parse an existing file. If absent, empty, or corrupt, builds fresh.
-    """
     ET.register_namespace("media", MEDIA_NS)
 
     if Path(output_file).exists():
@@ -679,11 +618,6 @@ def _load_or_create(output_file, feed_title, feed_description):
 
 
 def generate_xml_feed(articles, output_file, feed_title=None, feed_description=None):
-    """
-    Append new unique articles to the existing RSS <channel>.
-    Enforces a MAX_FEED_ITEMS rolling cap — oldest items (top of list) dropped first.
-    Creates the file from scratch if it does not exist.
-    """
     feed_title       = feed_title       or "Curated News"
     feed_description = feed_description or "AI-curated news feed"
 
@@ -713,11 +647,7 @@ def generate_xml_feed(articles, output_file, feed_title=None, feed_description=N
 
         thumb = a.get("thumbnail")
         if thumb:
-            ET.SubElement(
-                item,
-                MEDIA_TAG + "thumbnail",
-                {"url": thumb},
-            )
+            ET.SubElement(item, MEDIA_TAG + "thumbnail", {"url": thumb})
             mime = a.get("thumbnail_type") or get_mime_for_url(thumb)
             ET.SubElement(item, "enclosure", {"url": thumb, "type": mime, "length": "0"})
 
@@ -782,13 +712,11 @@ def main():
 
     STATS["total_new"] = len(new_articles)
 
-    # --- Step 1: classify with Gemini ----------------------------------------
     result = send_to_gemini(new_articles)
 
     signal_indices   = [i for i in result.get("signal",   []) if isinstance(i, int) and 0 <= i < len(new_articles)]
     longread_indices = [i for i in result.get("longread", []) if isinstance(i, int) and 0 <= i < len(new_articles)]
 
-    # Signal wins on overlap
     signal_set       = set(signal_indices)
     longread_indices = [i for i in longread_indices if i not in signal_set]
 
@@ -798,20 +726,17 @@ def main():
     STATS["total_signal"]   = len(signal_articles)
     STATS["total_longread"] = len(longread_articles)
 
-    # --- Early exit: nothing classified, nothing to commit -------------------
     if not signal_articles and not longread_articles:
         print("No signal or longread articles this run. Skipping all file writes.")
         print_stats()
         return
 
-    # --- Step 2: deduplicate signal with Gemini ------------------------------
     print(f"Deduplicating {len(signal_articles)} signal article(s)...")
     signal_articles = deduplicate_articles(signal_articles)
 
     STATS["total_signal_deduped"]   = len(signal_articles)
-    STATS["total_longread_deduped"] = len(longread_articles)  # no dedup, same as classified
+    STATS["total_longread_deduped"] = len(longread_articles)
 
-    # --- Step 3: write XML feeds ---------------------------------------------
     generate_xml_feed(
         signal_articles,
         output_file=OUTPUT_XML,
