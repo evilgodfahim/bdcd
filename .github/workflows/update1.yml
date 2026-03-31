@@ -45,7 +45,7 @@ jobs:
           MS: ${{ secrets.MS }}
         run: |
           set -euo pipefail
-          python main.py
+          python main1.py
 
       - name: Commit processed files
         shell: bash
