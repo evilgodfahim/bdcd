@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-RSS Feed Processor with Gemini API Integration
+RSS Feed Processor
 
-All articles from all feeds go to one Gemini call.
-Gemini classifies each headline into signal or noise.
-A second Gemini call deduplicates near-identical signal titles.
+All articles from all feeds go to one Mistral call.
+Mistral classifies each headline into signal or noise.
+A Gemini call deduplicates near-identical signal titles.
 
 Output:  curated_feed.xml
 Stats:   fetch_stats.json
@@ -20,7 +20,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
 from google import genai
-from mistralai.client import Mistral
+from mistralai import Mistral
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
 import requests
@@ -90,7 +90,6 @@ KL_API_FEEDS       = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-GEMINI_MODEL          = "gemini-3-flash-preview"
 DEDUP_MODEL           = "gemini-2.5-flash"
 MISTRAL_MODEL         = "mistral-large-latest"
 
@@ -199,7 +198,6 @@ STATS = {
     "total_fetched":        0,
     "total_passed_age":     0,
     "total_new":            0,
-    "total_signal_gemini":  0,
     "total_signal_mistral": 0,
     "total_signal":         0,
     "total_signal_deduped": 0,
@@ -503,32 +501,7 @@ def get_new_articles(all_articles, processed_data):
             new.append(a)
     return new
 
-# -- GEMINI --------------------------------------------------------------------
-
-def _gemini_generate_with_503_retry(client, *, model, contents, config=None):
-    try:
-        return client.models.generate_content(
-            model=model,
-            contents=contents,
-            config=config or {},
-        )
-    except Exception as e:
-        if "503" not in str(e):
-            raise
-        print("Gemini returned 503. Waiting 1 minute and retrying once...")
-        time.sleep(60)
-        try:
-            return client.models.generate_content(
-                model=model,
-                contents=contents,
-                config=config or {},
-            )
-        except Exception as e2:
-            if "503" in str(e2):
-                print("Gemini returned 503 again. Quitting.")
-                sys.exit(0)
-            raise
-
+# -- CLASSIFICATION ------------------------------------------------------------
 
 def extract_signal_indices(text):
     text = text.replace("```json", "").replace("```", "").strip()
@@ -547,34 +520,6 @@ def extract_signal_indices(text):
         except Exception:
             pass
     return []
-
-
-def send_to_gemini(articles):
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key or not articles:
-        return []
-
-    try:
-        client      = genai.Client(api_key=api_key)
-        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
-
-        response = _gemini_generate_with_503_retry(
-            client,
-            model=GEMINI_MODEL,
-            contents=PROMPT.format(titles=titles_text),
-            config={"response_mime_type": "application/json"},
-        )
-
-        if hasattr(response, "parsed") and response.parsed:
-            return [i for i in response.parsed.get("signal", []) if isinstance(i, int)]
-
-        return extract_signal_indices(response.text)
-
-    except SystemExit:
-        raise
-    except Exception as e:
-        print(f"Gemini classification error: {e}")
-        return []
 
 
 def send_to_mistral(articles):
@@ -612,8 +557,7 @@ def deduplicate_articles(articles):
         client      = genai.Client(api_key=api_key)
         titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
 
-        response = _gemini_generate_with_503_retry(
-            client,
+        response = client.models.generate_content(
             model=DEDUP_MODEL,
             contents=DEDUP_PROMPT.format(titles=titles_text),
             config={"response_mime_type": "application/json"},
@@ -652,8 +596,6 @@ def deduplicate_articles(articles):
             print(f"Dedup: removed {dropped} near-duplicate title(s).")
         return deduped
 
-    except SystemExit:
-        raise
     except Exception as e:
         print(f"Gemini dedup error: {e}")
         return articles
@@ -759,9 +701,7 @@ def print_stats():
     print(f"  Total fetched:        {STATS['total_fetched']}")
     print(f"  Passed age cut:       {STATS['total_passed_age']}  (within {MAX_AGE_HOURS}h)")
     print(f"  New (unseen):         {STATS['total_new']}")
-    print(f"  Signal (Gemini):      {STATS['total_signal_gemini']}")
     print(f"  Signal (Mistral):     {STATS['total_signal_mistral']}")
-    print(f"  Signal (intersection):{STATS['total_signal']}")
     print(f"  Signal (after dedup): {STATS['total_signal_deduped']}  -> {OUTPUT_XML}")
     print("  Per-method:")
     for method, cnt in STATS["per_method"].items():
@@ -781,36 +721,19 @@ def main():
 
     STATS["total_new"] = len(new_articles)
 
-    gemini_indices  = send_to_gemini(new_articles)
-    gemini_indices  = [i for i in gemini_indices if 0 <= i < len(new_articles)]
-
-    if not gemini_indices:
-        print("Gemini returned no signal indices. Skipping Mistral and all file writes.")
-        print_stats()
-        return
-
     mistral_indices = send_to_mistral(new_articles)
     mistral_indices = [i for i in mistral_indices if 0 <= i < len(new_articles)]
 
-    STATS["total_signal_gemini"]  = len(gemini_indices)
     STATS["total_signal_mistral"] = len(mistral_indices)
+    STATS["total_signal"]         = len(mistral_indices)
 
     if not mistral_indices:
         print("Mistral returned no signal indices. Skipping all file writes.")
         print_stats()
         return
 
-    # Ensemble: only articles both models agree are SIGNAL
-    signal_indices   = sorted(set(gemini_indices) & set(mistral_indices))
-    signal_articles   = [new_articles[i] for i in signal_indices]
-    excluded_articles = [new_articles[i] for i in range(len(new_articles)) if i not in set(signal_indices)]
-
-    STATS["total_signal"] = len(signal_articles)
-
-    if not signal_articles:
-        print("No signal articles this run. Skipping all file writes.")
-        print_stats()
-        return
+    signal_articles   = [new_articles[i] for i in mistral_indices]
+    excluded_articles = [new_articles[i] for i in range(len(new_articles)) if i not in set(mistral_indices)]
 
     print(f"Deduplicating {len(signal_articles)} signal article(s)...")
     signal_articles = deduplicate_articles(signal_articles)
@@ -828,7 +751,7 @@ def main():
         excluded_articles,
         output_file=EXCLUDED_XML,
         feed_title="Excluded News",
-        feed_description="AI-curated excluded articles after model intersection",
+        feed_description="Articles excluded after Mistral classification",
     )
 
     save_selected_articles(signal_articles)
