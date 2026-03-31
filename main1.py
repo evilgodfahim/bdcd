@@ -105,7 +105,7 @@ MAX_FEED_ITEMS        = 500
 
 # -- PROMPT --------------------------------------------------------------------
 
-PROMPT = """You are a strict news classification engine. Input: numbered article titles from news outlets and Bangladeshi newspapers. Classify each as SIGNAL or NOISE. Return only SIGNAL indices. The bar is EXTREME.
+PROMPT = """You are a strict news classification engine. Input: numbered article titles from news outlets and Bangladeshi newspapers. Classify each as SIGNAL or NOISE. Return only SIGNAL indices. Only English language titles will be considered. The bar is EXTREME.
 
 STEP 1 — INSTANT NOISE. Mark as NOISE immediately if the title is any of:
   - Sports, entertainment, celebrity, lifestyle, human interest
