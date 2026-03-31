@@ -6323,5 +6323,35 @@
     "source": "https://www.dhakatribune.com/feed/",
     "thumbnail": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/03/10/8c38fdd80138bf20556ec0ad1fa760ff-69b01c9eec4ea.jpg?jadewits_media_id=61696",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/865966/asia-to-suffer-most-from-iran-war-energy-crisis-kpler-to-afp",
+    "title": "Asia to suffer most from Iran war energy crisis: Kpler to AFP",
+    "link": "https://www.daily-sun.com/world/865966/asia-to-suffer-most-from-iran-war-energy-crisis-kpler-to-afp",
+    "description": "Asia faces the gravest fallout from the war on Iran and is confronting a major energy crisis, a global maritime",
+    "published": "Tue, 31 Mar 2026 17:00:08 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/31/medium/Asia-to-suffer-most-from-Iran-war-energy-crisis-Kpler-to-AFP-69cb9d49e985f.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/865959/cabinet-committee-approves-emergency-import-of-260-000-tonnes-of-fuel",
+    "title": "Cabinet committee approves emergency import of 260,000 tonnes of fuel",
+    "link": "https://www.daily-sun.com/bangladesh/865959/cabinet-committee-approves-emergency-import-of-260-000-tonnes-of-fuel",
+    "description": "The Cabinet Committee on Economic Affairs (CCEA) on Tuesday approved in principle the emergency procurement of 260,000 metric tonnes of",
+    "published": "Tue, 31 Mar 2026 17:00:08 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/31/medium/Fuel-oil-69cb96f77463d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/bangladesh-faces-vaccine-shortage-10-diseases-health-secretary-1398836",
+    "title": "Bangladesh faces vaccine shortage for 10 diseases: Health secretary",
+    "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-faces-vaccine-shortage-10-diseases-health-secretary-1398836",
+    "description": "Vaccination to resume once doses arrive, he says",
+    "published": "Tue, 31 Mar 2026 17:00:08 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/31/secretary_kamruzzaman.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
