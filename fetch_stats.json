@@ -1,9 +1,9 @@
 {
   "per_feed": {
     "https://politepaul.com/fd/XeBbNkFKkjmd.xml": {
-      "fetched": 37,
-      "passed_age": 37,
-      "capped": 37
+      "fetched": 55,
+      "passed_age": 49,
+      "capped": 49
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 66,
@@ -12,13 +12,13 @@
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 73,
-      "capped": 73
+      "passed_age": 69,
+      "capped": 69
     },
     "https://scour.ing/@evilgod/rss.xml?all_feeds=true&show_seen=true": {
       "fetched": 21,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 9,
+      "capped": 9
     },
     "https://politepaul.com/fd/0TStH0zYYM8c.xml": {
       "fetched": 4,
@@ -32,8 +32,8 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 56,
-      "capped": 56
+      "passed_age": 54,
+      "capped": 54
     },
     "https://evilgodfahim.github.io/ru/feed.xml": {
       "fetched": 0,
@@ -62,8 +62,8 @@
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 73,
-      "capped": 73
+      "passed_age": 67,
+      "capped": 67
     },
     "https://politepaul.com/fd/BNnVF6SFDNH6.xml": {
       "fetched": 12,
@@ -72,23 +72,23 @@
     },
     "https://evilgodfahim.github.io/ds/printversion.xml": {
       "fetched": 500,
-      "passed_age": 58,
-      "capped": 58
+      "passed_age": 78,
+      "capped": 78
     },
     "https://evilgodfahim.github.io/ep/articles.xml": {
       "fetched": 1000,
-      "passed_age": 43,
-      "capped": 43
+      "passed_age": 39,
+      "capped": 39
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 1000,
-      "passed_age": 110,
+      "passed_age": 100,
       "capped": 100
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 5,
-      "passed_age": 4,
-      "capped": 4
+      "fetched": 0,
+      "passed_age": 0,
+      "capped": 0
     },
     "https://politepaul.com/fd/Pn9wugG4g42C.xml": {
       "fetched": 0,
@@ -97,8 +97,8 @@
     },
     "https://politepaul.com/fd/21OlmKwnfsTw.xml": {
       "fetched": 100,
-      "passed_age": 47,
-      "capped": 47
+      "passed_age": 41,
+      "capped": 41
     },
     "https://politepaul.com/fd/VIlzpA0MbbHm.xml": {
       "fetched": 30,
@@ -117,8 +117,8 @@
     },
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 67,
-      "capped": 67
+      "passed_age": 58,
+      "capped": 58
     },
     "https://politepaul.com/fd/iKMgfQUipZA9.xml": {
       "fetched": 0,
@@ -127,8 +127,8 @@
     },
     "https://politepaul.com/fd/f7rFbVTC58eK.xml": {
       "fetched": 100,
-      "passed_age": 55,
-      "capped": 55
+      "passed_age": 95,
+      "capped": 95
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
@@ -147,8 +147,8 @@
     },
     "https://politepaul.com/fd/qmEwvjQrNyvg.xml": {
       "fetched": 12,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 0,
+      "capped": 0
     },
     "https://politepaul.com/fd/lHWPAUKpkaqz.xml": {
       "fetched": 4,
@@ -192,13 +192,13 @@
     },
     "https://politepaul.com/fd/OjCZkOYZbLN7.xml": {
       "fetched": 10,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 7,
+      "capped": 7
     },
     "https://politepaul.com/fd/v9TSVivdwFVs.xml": {
       "fetched": 4,
-      "passed_age": 1,
-      "capped": 1
+      "passed_age": 3,
+      "capped": 3
     },
     "https://politepaul.com/fd/p5BVufmsBqUz.xml": {
       "fetched": 0,
@@ -217,8 +217,8 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 2,
+      "capped": 2
     },
     "https://politepaul.com/fd/BaUjoEn6s1Rx.xml": {
       "fetched": 22,
@@ -231,23 +231,23 @@
       "capped": 30
     },
     "https://evilgodfahim.github.io/bl/result.xml": {
-      "fetched": 16094,
-      "passed_age": 73,
-      "capped": 73
+      "fetched": 16106,
+      "passed_age": 64,
+      "capped": 64
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 21586
+    "DIRECT": 21611
   },
-  "total_fetched": 21586,
-  "total_passed_age": 1054,
-  "total_new": 334,
-  "total_signal": 40,
+  "total_fetched": 21611,
+  "total_passed_age": 1069,
+  "total_new": 157,
+  "total_signal": 20,
   "total_longread": 0,
-  "total_signal_deduped": 33,
+  "total_signal_deduped": 16,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-01T19:13:43.497680",
+  "timestamp": "2026-04-01T20:54:01.880559",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 40
+  "total_signal_mistral": 20
 }
