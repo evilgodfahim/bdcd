@@ -4,25 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Wed, 01 Apr 2026 20:54:01 +0000</lastBuildDate>
-    <item>
-      <title>Govt in talks with Iran for fuel imports via Hormuz</title>
-      <link>https://bdnews24.com/business/f918f6f61933</link>
-      <guid isPermaLink="true">https://bdnews24.com/business/f918f6f61933</guid>
-      <description>[Business] Govt in talks with Iran for fuel imports via Hormuz</description>
-      <pubDate>Mon, 30 Mar 2026 21:09:16 +0600</pubDate>
-      <media:thumbnail url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" />
-      <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vaccination to start immediately on arrival: Sakhawat</title>
-      <link>https://bdnews24.com/health/69efe67fea16</link>
-      <guid isPermaLink="true">https://bdnews24.com/health/69efe67fea16</guid>
-      <description>[Health] Vaccination to start immediately on arrival: Sakhawat</description>
-      <pubDate>Mon, 30 Mar 2026 21:09:16 +0600</pubDate>
-      <media:thumbnail url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" />
-      <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 22:46:08 +0000</lastBuildDate>
     <item>
       <title>Around 57% Japanese firms plan expansion in Bangladesh: Jetro study</title>
       <link>https://www.tbsnews.net/bangladesh/around-57-japanese-firms-plan-expansion-bangladesh-jetro-study-1398001</link>
@@ -4085,6 +4067,20 @@ hits supply</description>
       <guid isPermaLink="true">https://tob.news/qatar-suspends-visa-on-arrival-for-pakistani-nationals/</guid>
       <description />
       <pubDate>Thu, 02 Apr 2026 02:53:04 +0600</pubDate>
+    </item>
+    <item>
+      <title>US lifts sanctions on Venezuela’s acting President Delcy Rodríguez</title>
+      <link>https://apnews.com/article/venezuela-delcy-rodriguez-sanctions-maduro-d819e64fcdefa132c5b06c3ce0a81f88</link>
+      <guid isPermaLink="false">9f9dfbf97e4c07c36d47858748da2baed4c0b0c9</guid>
+      <description>US lifts sanctions on Venezuela’s acting President Delcy Rodríguez</description>
+      <pubDate>Thu, 02 Apr 2026 04:45:42 +0600</pubDate>
+    </item>
+    <item>
+      <title>Hormuz shift: Iran’s move triggers global fallout</title>
+      <link>https://tob.news/hormuz-shift-irans-move-triggers-global-fallout/</link>
+      <guid isPermaLink="true">https://tob.news/hormuz-shift-irans-move-triggers-global-fallout/</guid>
+      <description />
+      <pubDate>Thu, 02 Apr 2026 04:45:42 +0600</pubDate>
     </item>
   </channel>
 </rss>
