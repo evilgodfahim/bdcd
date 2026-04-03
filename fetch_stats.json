@@ -1,39 +1,34 @@
 {
   "per_feed": {
     "https://politepaul.com/fd/XeBbNkFKkjmd.xml": {
-      "fetched": 129,
-      "passed_age": 46,
-      "capped": 46
+      "fetched": 1,
+      "passed_age": 1,
+      "capped": 1
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 96,
-      "passed_age": 9,
-      "capped": 9
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 72,
-      "capped": 72
-    },
-    "https://scour.ing/@evilgod/rss.xml?all_feeds=true&show_seen=true": {
-      "fetched": 23,
-      "passed_age": 11,
-      "capped": 11
+      "passed_age": 78,
+      "capped": 78
     },
     "https://politepaul.com/fd/0TStH0zYYM8c.xml": {
       "fetched": 4,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 4,
+      "capped": 4
     },
     "https://politepaul.com/fd/3m9q0iF1EzJ2.xml": {
       "fetched": 12,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 9,
+      "capped": 9
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 71,
-      "capped": 71
+      "passed_age": 63,
+      "capped": 63
     },
     "https://evilgodfahim.github.io/ru/feed.xml": {
       "fetched": 0,
@@ -46,14 +41,14 @@
       "capped": 30
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
-      "fetched": 235,
-      "passed_age": 3,
-      "capped": 3
+      "fetched": 237,
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
-      "fetched": 57,
-      "passed_age": 57,
-      "capped": 57
+      "fetched": 44,
+      "passed_age": 44,
+      "capped": 44
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -62,8 +57,8 @@
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 61,
-      "capped": 61
+      "passed_age": 134,
+      "capped": 100
     },
     "https://politepaul.com/fd/BNnVF6SFDNH6.xml": {
       "fetched": 0,
@@ -77,18 +72,18 @@
     },
     "https://evilgodfahim.github.io/ep/articles.xml": {
       "fetched": 1000,
-      "passed_age": 33,
-      "capped": 33
+      "passed_age": 40,
+      "capped": 40
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 1000,
-      "passed_age": 50,
-      "capped": 50
+      "passed_age": 51,
+      "capped": 51
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 10,
-      "passed_age": 10,
-      "capped": 10
+      "fetched": 5,
+      "passed_age": 5,
+      "capped": 5
     },
     "https://politepaul.com/fd/Pn9wugG4g42C.xml": {
       "fetched": 0,
@@ -97,8 +92,8 @@
     },
     "https://politepaul.com/fd/21OlmKwnfsTw.xml": {
       "fetched": 100,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 33,
+      "capped": 33
     },
     "https://politepaul.com/fd/VIlzpA0MbbHm.xml": {
       "fetched": 30,
@@ -107,8 +102,8 @@
     },
     "https://politepaul.com/fd/f00yRr7PLSMu.xml": {
       "fetched": 21,
-      "passed_age": 21,
-      "capped": 21
+      "passed_age": 19,
+      "capped": 19
     },
     "https://politepaul.com/fd/xc2pTQHeZUOC.xml": {
       "fetched": 0,
@@ -117,8 +112,8 @@
     },
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 42,
-      "capped": 42
+      "passed_age": 41,
+      "capped": 41
     },
     "https://politepaul.com/fd/iKMgfQUipZA9.xml": {
       "fetched": 0,
@@ -127,8 +122,8 @@
     },
     "https://politepaul.com/fd/f7rFbVTC58eK.xml": {
       "fetched": 100,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 61,
+      "capped": 61
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
@@ -137,23 +132,23 @@
     },
     "https://politepaul.com/fd/svZEZwEXeeYC.xml": {
       "fetched": 10,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 10,
+      "capped": 10
     },
     "https://politepaul.com/fd/pL68k3eA2SrA.xml": {
       "fetched": 4,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 4,
+      "capped": 4
     },
     "https://politepaul.com/fd/qmEwvjQrNyvg.xml": {
-      "fetched": 0,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 12,
+      "passed_age": 1,
+      "capped": 1
     },
     "https://politepaul.com/fd/lHWPAUKpkaqz.xml": {
-      "fetched": 0,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 4,
+      "passed_age": 1,
+      "capped": 1
     },
     "https://politepaul.com/fd/jvYL3YgY1MBF.xml": {
       "fetched": 12,
@@ -192,8 +187,8 @@
     },
     "https://politepaul.com/fd/OjCZkOYZbLN7.xml": {
       "fetched": 10,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 3,
+      "capped": 3
     },
     "https://politepaul.com/fd/v9TSVivdwFVs.xml": {
       "fetched": 4,
@@ -221,33 +216,33 @@
       "capped": 1
     },
     "https://politepaul.com/fd/BaUjoEn6s1Rx.xml": {
-      "fetched": 29,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 22,
+      "passed_age": 22,
+      "capped": 22
     },
     "https://politepaul.com/fd/cjcFELwr80sj.xml": {
-      "fetched": 31,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 22,
+      "passed_age": 22,
+      "capped": 22
     },
     "https://evilgodfahim.github.io/bl/result.xml": {
-      "fetched": 16413,
-      "passed_age": 62,
-      "capped": 62
+      "fetched": 16418,
+      "passed_age": 56,
+      "capped": 56
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 22040
+    "DIRECT": 21878
   },
-  "total_fetched": 22040,
-  "total_passed_age": 717,
-  "total_new": 125,
-  "total_signal": 12,
+  "total_fetched": 21878,
+  "total_passed_age": 844,
+  "total_new": 287,
+  "total_signal": 34,
   "total_longread": 0,
-  "total_signal_deduped": 8,
+  "total_signal_deduped": 34,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-03T16:50:55.316710",
+  "timestamp": "2026-04-03T18:56:29.465632",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 12
+  "total_signal_mistral": 34
 }
