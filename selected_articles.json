@@ -14637,5 +14637,55 @@
     "description": "The reported decline in inflation, despite persistent price hikes in the market, has raised questions about the reliability of BBS data.",
     "published": "Sun, 05 Apr 2026 22:43:40 +0600",
     "source": "https://evilgodfahim.github.io/bben/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/866935",
+    "title": "Probable fuel price hike may further strain inflation-hit economy",
+    "link": "https://www.daily-sun.com/business/866935",
+    "description": "Bangladesh may adjust fuel prices amid rising global energy costs, with fears of higher inflation",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://daily-sun.com/business/866963/finance-minister-hints-at-risk-of-rising-commodity-prices-in-future",
+    "title": "Bangladesh not fully prepared for LDC graduation: Finance Minister",
+    "link": "https://daily-sun.com/business/866963/finance-minister-hints-at-risk-of-rising-commodity-prices-in-future",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/867098/opec-hikes-oil-production-quotas-issues-warning",
+    "title": "OPEC+ hikes oil production quotas, issues warning",
+    "link": "https://www.daily-sun.com/business/867098/opec-hikes-oil-production-quotas-issues-warning",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/stocks-plunge-amid-war-energy-tensions-4144296",
+    "title": "Stocks plunge amid war, energy tensions",
+    "link": "https://www.thedailystar.net/business/news/stocks-plunge-amid-war-energy-tensions-4144296",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/govt-borrow-tk-5000-crore-more-banks-4144311",
+    "title": "Govt to borrow Tk 5,000 crore more from banks",
+    "link": "https://www.thedailystar.net/business/news/govt-borrow-tk-5000-crore-more-banks-4144311",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/ec9615682c11",
+    "title": "Iran gets until Tuesday night to open Hormuz: WSJ",
+    "link": "https://bdnews24.com/world/ec9615682c11",
+    "description": "[World] Iran gets until Tuesday night to open Hormuz: WSJ",
+    "published": "Mon, 06 Apr 2026 00:54:09 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-05042026-1775410778.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
