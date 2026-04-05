@@ -13921,5 +13921,25 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/08/01/rmg_garments.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/kuwait-says-iranian-drones-strike-oil-sector-complex-power-government-sites",
+    "title": "Kuwait says Iranian drones strike oil sector complex, power, government sites",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/kuwait-says-iranian-drones-strike-oil-sector-complex-power-government-sites",
+    "description": "Kuwaiti state media, ⁠citing the finance ministry, said ​an Iranian drone hit an office ​complex for government ministries, causing significant material damage but no casualties",
+    "published": "Sun, 05 Apr 2026 09:16:42 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/06/13/kuwait.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/866949/us-and-iran-trade-threats-to-unleash-hell",
+    "title": "US and Iran trade threats to unleash 'hell'",
+    "link": "https://www.daily-sun.com/world/866949/us-and-iran-trade-threats-to-unleash-hell",
+    "description": "US President Donald Trump has threatened that \"all hell would rain down on\" Iran if it did not make a",
+    "published": "Sun, 05 Apr 2026 09:16:42 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/05/medium/attacks-on-iran-69d19bb08cdc9.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
