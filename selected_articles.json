@@ -14755,5 +14755,31 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/Untitled-69d2b38d85239.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/866936",
+    "title": "Fuel import surge strains forex reserves amid Middle East turmoil",
+    "link": "https://www.daily-sun.com/business/866936",
+    "description": "Bangladesh faces rising energy import costs amid Middle East crisis, as govt ramps up fuel",
+    "published": "Mon, 06 Apr 2026 04:38:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/867157/all-inland-vessels-to-be-brought-under-digital-registration-razib-ahsan",
+    "title": "All inland vessels to be brought under digital registration: Razib Ahsan",
+    "link": "https://www.daily-sun.com/bangladesh/867157/all-inland-vessels-to-be-brought-under-digital-registration-razib-ahsan",
+    "description": "State Minister for Shipping and Bridges Md Razib Ahsan has announced that all inland vessels in the country will be",
+    "published": "Mon, 06 Apr 2026 04:38:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/All-inland-vessels-to-be-brought-under-digital-registration-69d2c2977e572.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/867006/parliament-passes-bill-setting-age-limit-for-govt-jobs-at-32",
+    "title": "Parliament passes bill setting age limit for govt jobs at 32",
+    "link": "https://daily-sun.com/bangladesh/867006/parliament-passes-bill-setting-age-limit-for-govt-jobs-at-32",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 04:38:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
