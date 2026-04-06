@@ -15843,5 +15843,43 @@
     "description": "The prime minister said 100,000 healthcare workers will be recruited in phases, and 80 percent of them will be women.",
     "published": "Tue, 07 Apr 2026 01:10:13 +0600",
     "source": "https://evilgodfahim.github.io/bben/feed.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/infrastructure/govt-plans-two-major-bridges-over-meghna-under-ppp-1404751",
+    "title": "Govt plans two major bridges over Meghna under PPP",
+    "link": "https://www.tbsnews.net/bangladesh/infrastructure/govt-plans-two-major-bridges-over-meghna-under-ppp-1404751",
+    "description": "",
+    "published": "Tue, 07 Apr 2026 02:43:43 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/05/24/meghna_bridge.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/7-bills-passed-parliament-moves-validate-interim-govt-ordinances-1404746",
+    "title": "7 bills passed as parliament moves to endorse interim govt ordinances",
+    "link": "https://www.tbsnews.net/bangladesh/7-bills-passed-parliament-moves-validate-interim-govt-ordinances-1404746",
+    "description": "",
+    "published": "Tue, 07 Apr 2026 02:43:43 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/15/untitled_design_15.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/news/fuel-shortage-power-gas-fired-plants-may-drop-further-4145386",
+    "title": "Fuel shortage: Power from gas-fired plants may drop further",
+    "link": "https://www.thedailystar.net/news/bangladesh/news/fuel-shortage-power-gas-fired-plants-may-drop-further-4145386",
+    "description": "The government will continue to be forced to underutilise power generation capacity this summer amid the ongoing shortages of gas, coal, and furnace oil.",
+    "published": "Tue, 07 Apr 2026 02:43:43 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/0da2ba3c8211",
+    "title": "Europe braces as US threatens NATO exit",
+    "link": "https://bdnews24.com/world/0da2ba3c8211",
+    "description": "[World] Europe braces as US threatens NATO exit",
+    "published": "Tue, 07 Apr 2026 02:43:43 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-aircraft-07042026-1775503064.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
