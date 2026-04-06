@@ -15258,5 +15258,61 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/Foreign-Minister-set-to-visit-Delhi-Tuesday-69d357c95b9c2.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/407069/israeli-strikes-kill-iran-guards-intel-chief-as",
+    "title": "Israeli strikes kill Iran Guards intel chief as Trump deadline looms",
+    "link": "https://www.dhakatribune.com/world/middle-east/407069/israeli-strikes-kill-iran-guards-intel-chief-as",
+    "description": "<p>\n\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/03/10/e8c9578e67f810945dc4030178790371-69afda87464a5.jpg?jadewits_media_id=61678\" style=\"float: left; margin: 0 10px 10px 0;\" width=\"150\" />\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tIran warns of devastating retaliation if US attacks civilian infrastructure\nIsraeli Minister Israel Katz confirms strike killed top Iranian official\t\t\t\t\t\t<a class=\"more_link\" href=\"https://www.dhakatribune.com/world/middle-east/407069/israeli-strikes-kill-iran-guards-intel-chief-as\">Details</a>\n\t\t\t\t\t</p>",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://www.dhakatribune.com/feed/",
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/03/10/e8c9578e67f810945dc4030178790371-69afda87464a5.jpg?jadewits_media_id=61678",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/names-top-20-loan-defaulters-be-unveiled-parliament-today-1404281",
+    "title": "Top 20 loan defaulters revealed in parliament; bad loans at Tk5.44 lakh crore",
+    "link": "https://www.tbsnews.net/bangladesh/names-top-20-loan-defaulters-be-unveiled-parliament-today-1404281",
+    "description": "Of the top 10, nine belong to the controversial S Alam Group",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/05/14/deafult-loan.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/867158/bangladesh-becomes-2nd-largest-apparel-exporter-to-us-overtakes-china",
+    "title": "Bangladesh becomes 2nd-largest apparel exporter to US, overtakes China",
+    "link": "https://daily-sun.com/business/867158/bangladesh-becomes-2nd-largest-apparel-exporter-to-us-overtakes-china",
+    "description": "",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-4144871",
+    "title": "Iran, US receive plan to end hostilities, immediate ceasefire, source says",
+    "link": "https://www.thedailystar.net/news/world/news/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-4144871",
+    "description": "Two‑tier proposal: immediate ceasefire, deal in 15–20 days",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "ca7f7fa67d2f53dce53a8c6c9a754fd90363a36e",
+    "title": "A Russian attack kills 3 in Odesa while Ukraine targets Russian oil infrastructure, officials say",
+    "link": "https://apnews.com/article/russia-ukraine-war-odesa-drones-oil-e455aee8c725ef624bf23ddf1542c523",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/386a4e7/2147483647/strip/true/crop/5710x3799+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F21%2Ff571539202520370f4a459064943%2Fb0c852bfa16547019fc0e5ae9728d4d4\" /><br />A Russian attack kills 3 in Odesa while Ukraine targets Russian oil infrastructure, officials say",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/386a4e7/2147483647/strip/true/crop/5710x3799+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F21%2Ff571539202520370f4a459064943%2Fb0c852bfa16547019fc0e5ae9728d4d4",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/867193/iran-guards-say-preparing-plan-for-new-order-in-strait-of-hormuz",
+    "title": "Iran Guards say preparing plan for new order in Strait of Hormuz",
+    "link": "https://www.daily-sun.com/world/867193/iran-guards-say-preparing-plan-for-new-order-in-strait-of-hormuz",
+    "description": "Iran has allowed only limited traffic through the waterway since the war began on 28 February.",
+    "published": "Mon, 06 Apr 2026 17:03:14 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/Iran-69d37b77c9680.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
