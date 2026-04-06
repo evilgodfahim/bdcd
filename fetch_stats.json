@@ -2,8 +2,8 @@
   "per_feed": {
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 67,
-      "capped": 67
+      "passed_age": 68,
+      "capped": 68
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
@@ -16,13 +16,13 @@
       "capped": 11
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 15,
-      "passed_age": 15,
-      "capped": 15
+      "fetched": 8,
+      "passed_age": 8,
+      "capped": 8
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 120,
+      "passed_age": 109,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
@@ -41,38 +41,38 @@
       "capped": 49
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
-      "fetched": 307,
+      "fetched": 310,
       "passed_age": 23,
       "capped": 23
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 32,
-      "capped": 32
+      "passed_age": 30,
+      "capped": 30
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 62,
-      "capped": 62
+      "passed_age": 55,
+      "capped": 55
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 158,
-      "passed_age": 19,
-      "capped": 19
+      "passed_age": 17,
+      "capped": 17
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 3169
+    "DIRECT": 3165
   },
-  "total_fetched": 3169,
-  "total_passed_age": 507,
-  "total_new": 91,
-  "total_signal": 10,
+  "total_fetched": 3165,
+  "total_passed_age": 479,
+  "total_new": 84,
+  "total_signal": 16,
   "total_longread": 0,
-  "total_signal_deduped": 9,
+  "total_signal_deduped": 14,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-06T14:55:25.334876",
+  "timestamp": "2026-04-06T16:57:23.602950",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 10
+  "total_signal_mistral": 16
 }
