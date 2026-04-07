@@ -16719,5 +16719,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/07/medium/Bangladesh-Australia-flags-2-69d535ffa9694.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-doval-meeting-held-new-delhi-4146206",
+    "title": "Khalilur–Doval meeting held in New Delhi",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-doval-meeting-held-new-delhi-4146206",
+    "description": "",
+    "published": "Wed, 08 Apr 2026 02:55:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/israeli-fire-hezbollah-ied-killed-peacekeepers-lebanon-un-probe-4145841",
+    "title": "Live updates / Israeli fire, Hezbollah IED killed peacekeepers in Lebanon: UN probe",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/israeli-fire-hezbollah-ied-killed-peacekeepers-lebanon-un-probe-4145841",
+    "description": "Following are major updates on the US-Israel war on Iran",
+    "published": "Wed, 08 Apr 2026 02:55:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/7fedd61e227e",
+    "title": "US urges Americans to leave Middle East",
+    "link": "https://bdnews24.com/world/7fedd61e227e",
+    "description": "[World] US urges Americans to leave Middle East",
+    "published": "Wed, 08 Apr 2026 02:55:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-americans-leave-middleeast-080426-01-1775590988.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/84efc8b22b6d",
+    "title": "Fuel prices may rise for months despite Hormuz reopening: US EIA",
+    "link": "https://bdnews24.com/world/84efc8b22b6d",
+    "description": "[World] Fuel prices may rise for months despite Hormuz reopening: US EIA",
+    "published": "Wed, 08 Apr 2026 02:55:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iraq-hormuz-exemption-schedule-060426-01-1775447593.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
