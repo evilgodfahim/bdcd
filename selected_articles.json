@@ -17651,5 +17651,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Vance-69d6af6b1501d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/780495c5b2f6",
+    "title": "Israel’s air raids on Lebanon kill 254",
+    "link": "https://bdnews24.com/world/780495c5b2f6",
+    "description": "[World] Israel’s air raids on Lebanon kill 254",
+    "published": "Thu, 09 Apr 2026 04:49:37 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-strike-090426-01-1775680402.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/867747/trump-to-discuss-leaving-nato-in-meeting-with-rutte-white-house",
+    "title": "Trump to discuss leaving NATO in meeting with Rutte: White House",
+    "link": "https://www.daily-sun.com/world/867747/trump-to-discuss-leaving-nato-in-meeting-with-rutte-white-house",
+    "description": "Trump has long railed against NATO, calling it \"obsolete\" in 2017 and mulling withdrawing.",
+    "published": "Thu, 09 Apr 2026 04:49:37 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Rutt-69d6c4b3a9acb.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/867580/awami-league-activities-to-remain-banned-as-bill-passed-in-parliament",
+    "title": "Awami League activities to remain banned as bill passed in Parliament",
+    "link": "https://daily-sun.com/bangladesh/867580/awami-league-activities-to-remain-banned-as-bill-passed-in-parliament",
+    "description": "",
+    "published": "Thu, 09 Apr 2026 04:49:37 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
