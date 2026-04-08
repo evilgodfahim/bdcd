@@ -16763,5 +16763,35 @@
     "description": "GDP growth slows on weak industry, investment slump: BBS",
     "published": "Wed, 08 Apr 2026 04:45:35 +0600",
     "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/407218/us-and-iran-agree-to-two-week-ceasefire",
+    "title": "US and Iran agree to two-week ceasefire",
+    "link": "https://www.dhakatribune.com/world/middle-east/407218/us-and-iran-agree-to-two-week-ceasefire",
+    "description": "<p>\n\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/04/04/ba0e989560b9626f4355e3ffe21ff26f-69d1372b7c64b.jpg?jadewits_media_id=63249\" style=\"float: left; margin: 0 10px 10px 0;\" width=\"150\" />\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tLast-minute intervention led by Pakistan cancels Trump ultimatum for Iran to surrender or face annihilation\t\t\t\t\t\t<a class=\"more_link\" href=\"https://www.dhakatribune.com/world/middle-east/407218/us-and-iran-agree-to-two-week-ceasefire\">Details</a>\n\t\t\t\t\t</p>",
+    "published": "Wed, 08 Apr 2026 08:54:39 +0600",
+    "source": "https://www.dhakatribune.com/feed/",
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/04/04/ba0e989560b9626f4355e3ffe21ff26f-69d1372b7c64b.jpg?jadewits_media_id=63249",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/china-and-russia-veto-un-resolution-protecting-hormuz-shipping-1405686",
+    "title": "China and Russia veto UN resolution on protecting Hormuz shipping",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/china-and-russia-veto-un-resolution-protecting-hormuz-shipping-1405686",
+    "description": "The 15-member Security Council voted 11 in favour of the resolution presented by Bahrain, with two against - China and Russia - and two abstentions",
+    "published": "Wed, 08 Apr 2026 08:54:39 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/08/un_hormuz_resolution.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/oil-falls-stocks-rise-after-us-iran-ceasefire-reopens-strait-hormuz-1405676",
+    "title": "Oil falls, stocks rise after US-Iran ceasefire reopens Strait of Hormuz",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/oil-falls-stocks-rise-after-us-iran-ceasefire-reopens-strait-hormuz-1405676",
+    "description": "Under the agreement, President Donald Trump said, \"I agree to suspend the bombing and attack of Iran for a period of two weeks... subject to the Islamic Republic of Iran agreeing to the COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz.\"",
+    "published": "Wed, 08 Apr 2026 08:54:39 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/08/21/fuel.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
