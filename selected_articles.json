@@ -17603,5 +17603,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/Modi-69d6977690b20.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-seeks-more-diesel-and-fertiliser-delhi-4147171",
+    "title": "Dhaka seeks more diesel and fertiliser from Delhi",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-seeks-more-diesel-and-fertiliser-delhi-4147171",
+    "description": "Bangladesh yesterday requested India to increase supplies of diesel and fertiliser, citing global supply chain disruptions caused by the war in the Middle East, according to a foreign ministry statement",
+    "published": "Thu, 09 Apr 2026 02:52:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/da13e688c21a",
+    "title": "Iran ‘ready’ to surrender enriched uranium: White House",
+    "link": "https://bdnews24.com/world/da13e688c21a",
+    "description": "[World] Iran ‘ready’ to surrender enriched uranium: White House",
+    "published": "Thu, 09 Apr 2026 02:52:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uranium-9426-01-1775677939.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/5f07426fa3cb",
+    "title": "Shaky US-Iran ceasefire in doubt",
+    "link": "https://bdnews24.com/world/5f07426fa3cb",
+    "description": "[World] Shaky US-Iran ceasefire in doubt",
+    "published": "Thu, 09 Apr 2026 02:52:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vance-08042026-02-1775675737.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "8c00f918da19aa4c4257f102e852f3e10d1400e5",
+    "title": "Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms",
+    "link": "https://apnews.com/article/strait-of-hormuz-iran-tolls-oil-3ef5dcd907122922db714d318c35317e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/d33ef32/2147483647/strip/true/crop/8183x5455+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F37%2F2902722fdc2b64f9feb252caee95%2Fadbca53c236e436a8f48c325dfc5b339\" /><br />Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms",
+    "published": "Thu, 09 Apr 2026 02:52:57 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/d33ef32/2147483647/strip/true/crop/8183x5455+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F37%2F2902722fdc2b64f9feb252caee95%2Fadbca53c236e436a8f48c325dfc5b339",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/867744/vance-to-lead-us-delegation-to-iran-talks-on-saturday",
+    "title": "Vance to lead US delegation to Iran talks on Saturday",
+    "link": "https://www.daily-sun.com/world/867744/vance-to-lead-us-delegation-to-iran-talks-on-saturday",
+    "description": "Iranian delegation will include Parliament Speaker Bagher Ghalibaf and Foreign Minister Abbas Araghchi",
+    "published": "Thu, 09 Apr 2026 02:52:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Vance-69d6af6b1501d.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
