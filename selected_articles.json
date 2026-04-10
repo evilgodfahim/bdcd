@@ -18846,5 +18846,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/Jubail-Saudi-reuters-69d81fdf233a2.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/867875",
+    "title": "Trade, investment hit hard by Middle East-driven energy shock",
+    "link": "https://www.daily-sun.com/business/867875",
+    "description": "",
+    "published": "Fri, 10 Apr 2026 09:20:38 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/small/DS-'04'10-1-69d7de6a0a7e0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bangladesh-bank-re-launches-pre-shipment-credit-refinance-scheme",
+    "title": "Bangladesh Bank re-launches pre-shipment credit refinance scheme",
+    "link": "https://thefinancialexpress.com.bd/trade/bangladesh-bank-re-launches-pre-shipment-credit-refinance-scheme",
+    "description": "Bangladesh Bank (BB) has re-launched the expired pre-shipment credit-refinance scheme to facilitate exports in line with the request from the country's apex trade body.\nThe Federation of Bangladesh Chambers of Commerce and Industry (FBCCI) made the request in this regard just three days back.\nThe",
+    "published": "Fri, 10 Apr 2026 09:20:38 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147317/bangladesh-bank-logo.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
