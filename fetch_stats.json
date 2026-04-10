@@ -2,8 +2,8 @@
   "per_feed": {
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 23,
+      "capped": 23
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
@@ -22,13 +22,13 @@
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 44,
-      "capped": 44
+      "passed_age": 57,
+      "capped": 57
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 49,
-      "capped": 49
+      "passed_age": 48,
+      "capped": 48
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -36,9 +36,9 @@
       "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
-      "fetched": 43,
-      "passed_age": 43,
-      "capped": 43
+      "fetched": 45,
+      "passed_age": 45,
+      "capped": 45
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 396,
@@ -47,32 +47,32 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 33,
-      "capped": 33
+      "passed_age": 37,
+      "capped": 37
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 34,
-      "capped": 34
+      "passed_age": 41,
+      "capped": 41
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
-      "fetched": 230,
-      "passed_age": 6,
-      "capped": 6
+      "fetched": 232,
+      "passed_age": 8,
+      "capped": 8
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 3313
+    "DIRECT": 3317
   },
-  "total_fetched": 3313,
-  "total_passed_age": 285,
-  "total_new": 128,
-  "total_signal": 27,
+  "total_fetched": 3317,
+  "total_passed_age": 319,
+  "total_new": 60,
+  "total_signal": 9,
   "total_longread": 0,
-  "total_signal_deduped": 14,
+  "total_signal_deduped": 9,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-10T09:18:28.078548",
+  "timestamp": "2026-04-10T11:01:28.462612",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 27
+  "total_signal_mistral": 9
 }
