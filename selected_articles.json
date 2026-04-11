@@ -19609,5 +19609,35 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/11/medium/Iran-delegation-arrives-in-Pakistan--69d9613c15e20.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iranian-delegation-lands-islamabad-ahead-make-or-break-talks-1408281",
+    "title": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iranian-delegation-lands-islamabad-ahead-make-or-break-talks-1408281",
+    "description": "US President Donald Trump announced a two-week ceasefire in the six-week war on Tuesday, just hours before a deadline after which Trump had threatened to destroy Iran's civilisation",
+    "published": "Sat, 11 Apr 2026 08:45:39 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/01/lebanons.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iranian-delegation-lands-islamabad-ahead-make-or-break-talks-1408281",
+    "title": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iranian-delegation-lands-islamabad-ahead-make-or-break-talks-1408281",
+    "description": "",
+    "published": "Sat, 11 Apr 2026 08:45:39 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/01/lebanons.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/jul-jan-fiscal-deficit-narrows-50pc",
+    "title": "Jul-Jan fiscal deficit narrows 5.0pc",
+    "link": "https://thefinancialexpress.com.bd/economy/jul-jan-fiscal-deficit-narrows-50pc",
+    "description": "Bangladesh's fiscal deficit narrowed slightly during the first seven months of the current fiscal year compared to the same period a year earlier, although government spending continued to outpace revenue collection.\nData from the Bangladesh Bank shows the deficit stood at Tk 680 billion during Ju",
+    "published": "Sat, 11 Apr 2026 08:45:39 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147460/1775843684.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
