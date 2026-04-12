@@ -45,6 +45,8 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/wl/pau.xml",
     "https://evilgodfahim.github.io/ds/todays_news.xml",
     "https://evilgodfahim.github.io/bben/feed.xml",
+
+"https://evilgodfahim.github.io/wl/reuters.xml"
 ]
 
 EXISTING_API_FEEDS = set(FEED_URLS)
