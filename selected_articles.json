@@ -21262,5 +21262,25 @@
     "description": "Iran aims to restore most refining capability within two months",
     "published": "Mon, 13 Apr 2026 02:43:13 +0600",
     "source": "https://evilgodfahim.github.io/wl/reuters.xml"
+  },
+  {
+    "id": "1ba2c1f2e70cf2aa0d11f7a82897391c4b60b183",
+    "title": "Oil prices rise after the US says it would block Iranian ports starting Monday",
+    "link": "https://apnews.com/article/iran-oil-prices-4b0b4b1f6df389bf2e17f47e55e13119",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/efea7b4/2147483647/strip/true/crop/4901x3267+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F83%2Fb75e32383a34e4e8a01a03cefd43%2F947d281493ce41ad875bfe1b26c3cc80\" /><br />Oil prices rise after the US says it would block Iranian ports starting Monday",
+    "published": "Mon, 13 Apr 2026 04:40:43 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/efea7b4/2147483647/strip/true/crop/4901x3267+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F83%2Fb75e32383a34e4e8a01a03cefd43%2F947d281493ce41ad875bfe1b26c3cc80",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/868570/easter-truce-between-russia-and-ukraine-formally-ends",
+    "title": "Easter truce between Russia and Ukraine formally ends",
+    "link": "https://www.daily-sun.com/world/868570/easter-truce-between-russia-and-ukraine-formally-ends",
+    "description": "An Easter truce between Russia and Ukraine formally expired on Monday, both sides having accused each other of thousands of",
+    "published": "Mon, 13 Apr 2026 04:40:43 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Untitled-69dc0cb7796dd.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
