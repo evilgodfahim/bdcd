@@ -21282,5 +21282,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Untitled-69dc0cb7796dd.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/global-economy/oil-jumps-7-above-100-ahead-us-blockade-iran-1410131",
+    "title": "Oil jumps 7% to above $100 ahead of US blockade on Iran",
+    "link": "https://www.tbsnews.net/world/global-economy/oil-jumps-7-above-100-ahead-us-blockade-iran-1410131",
+    "description": "Brent crude futures rose $6.71, or 7.05%, to $101.91 a barrel by 0104 GMT after settling 0.75% lower on Friday",
+    "published": "Mon, 13 Apr 2026 09:30:43 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/11/07/oil_price.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-military-block-ships-iranian-ports-after-talks-yield-no-agreement-1410121",
+    "title": "US military to block ships from Iranian ports after talks yield no agreement",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-military-block-ships-iranian-ports-after-talks-yield-no-agreement-1410121",
+    "description": "The US Central Command said US forces would begin implementing the blockade of all maritime traffic entering and exiting Iranian ports at 10 am ET (1400 GMT) on Monday",
+    "published": "Mon, 13 Apr 2026 09:30:43 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/06/23/hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.reuters.com/business/energy/boston-denver-us-drivers-cut-back-iran-war-pushes-fuel-costs-higher-2026-04-11/",
+    "title": "From Boston to Denver, US drivers cut back as Iran war pushes fuel costs higher",
+    "link": "https://www.reuters.com/business/energy/boston-denver-us-drivers-cut-back-iran-war-pushes-fuel-costs-higher-2026-04-11/",
+    "description": "From Boston to Denver, US drivers cut back as Iran war pushes fuel costs higher",
+    "published": "Mon, 13 Apr 2026 09:30:43 +0600",
+    "source": "https://evilgodfahim.github.io/wl/reuters.xml"
   }
 ]
