@@ -23148,5 +23148,101 @@
     "source": "https://evilgodfahim.github.io/wl/reuters.xml",
     "thumbnail": "https://www.reuters.com/resizer/v2/MZO2NDNWKRJ7RDHHAFPWJKV7TU.jpg?auth=546839f04fbb6ee475c3c615765aaa254c2c9aeb851a4722dcebd400632f5997&height=1005&width=1920&quality=80&smart=true",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/rohingya-crisis/407764/unhcr-issues-statement-on-250-missing-in-andaman",
+    "title": "UN agencies: 250 missing as boat with Bangladeshis, Rohingyas sinks in Andaman Sea",
+    "link": "https://www.dhakatribune.com/bangladesh/rohingya-crisis/407764/unhcr-issues-statement-on-250-missing-in-andaman",
+    "description": "<p>\n\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/04/14/5433cc3abef9bb390a5daa81bebf28f6-69de4c6e4b11b.jpg?jadewits_media_id=63881\" style=\"float: left; margin: 0 10px 10px 0;\" width=\"150\" />\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tThe missing are reported to include Rohingya refugees as well as Bangladeshi nationals\t\t\t\t\t\t<a class=\"more_link\" href=\"https://www.dhakatribune.com/bangladesh/rohingya-crisis/407764/unhcr-issues-statement-on-250-missing-in-andaman\">Details</a>\n\t\t\t\t\t</p>",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://www.dhakatribune.com/feed/",
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/04/14/5433cc3abef9bb390a5daa81bebf28f6-69de4c6e4b11b.jpg?jadewits_media_id=63881",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/imf-cuts-2026-global-growth-forecast-mideast-war-1411506",
+    "title": "IMF cuts growth outlook, warns of potential global recession if Iran war worsens",
+    "link": "https://www.tbsnews.net/world/imf-cuts-2026-global-growth-forecast-mideast-war-1411506",
+    "description": "And the IMF's worst-case \"severe scenario\" assumes an extended and deepening conflict and much higher oil prices that prompt ​major financial market dislocations and tighter financial conditions, slashing global growth to 2.0%.",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/14/iran_blast.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladeshs-economy-grow-47-fy26-slow-further-43-fy27-imf-1411496",
+    "title": "Bangladesh's economy to grow 4.7% in FY26, slow further to 4.3% in FY27: IMF",
+    "link": "https://www.tbsnews.net/economy/bangladeshs-economy-grow-47-fy26-slow-further-43-fy27-imf-1411496",
+    "description": "Bangladesh’s inflation is now expected to rise to 9.2% in FY26, higher than the earlier estimate of 8.9%. However, the global lender projects inflation to decline sharply to 6% in FY27.",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/10/12/imf-bd.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/868833/imf-cuts-mideast-north-africa-growth-forecast-to-1-1-over-iran-war",
+    "title": "IMF cuts Mideast, North Africa growth forecast to 1.1% over Iran war",
+    "link": "https://www.daily-sun.com/business/868833/imf-cuts-mideast-north-africa-growth-forecast-to-1-1-over-iran-war",
+    "description": "",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/two-ships-iran-ports-pass-hormuz-strait-despite-us-blockade-4151626",
+    "title": "Two ships from Iran ports pass Hormuz Strait despite US blockade",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/two-ships-iran-ports-pass-hormuz-strait-despite-us-blockade-4151626",
+    "description": "",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/italy-suspends-defence-cooperation-deal-israel-4151636",
+    "title": "Italy suspends defence cooperation deal with Israel",
+    "link": "https://www.thedailystar.net/news/world/news/italy-suspends-defence-cooperation-deal-israel-4151636",
+    "description": "",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/health/407762/measles-surge-claims-9-more-children-in-24-hours",
+    "title": "Measles outbreak: Nine more deaths, 1,105 suspected cases in 24 hours",
+    "link": "https://www.dhakatribune.com/bangladesh/health/407762/measles-surge-claims-9-more-children-in-24-hours",
+    "description": "",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/14/89ff20fe449b2f72503a91004f875dc7-69de4ec9b5bd2.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/407763/depositors-in-dilemma-amid-lack-of-confidence-in",
+    "title": "Depositors in dilemma amid lack of confidence in financial sector",
+    "link": "https://www.dhakatribune.com/business/407763/depositors-in-dilemma-amid-lack-of-confidence-in",
+    "description": "",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2024/12/26/Taka-ezgif.com-webp-to-jpg-converter-b7e58035bc32728c9294b2f4d294e6f6.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/eastern-refinery-nears-shutdown-as-crude-crunch-bites",
+    "title": "Eastern Refinery nears shutdown as crude crunch bites",
+    "link": "https://thefinancialexpress.com.bd/trade/eastern-refinery-nears-shutdown-as-crude-crunch-bites",
+    "description": "Eastern Refinery Limited, Bangladesh’s only state-owned oil refining facility in Chattogram, is on the verge of halting production due to a severe crude oil shortage linked to disruptions from the war in the Middle East.\nOn Monday, a refinery official said processing activity moved into a cr",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148026/img-6883.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.reuters.com/business/energy/europe-could-see-jet-fuel-shortage-by-june-iea-says-2026-04-14/",
+    "title": "Europe could see jet fuel shortage by June, IEA says",
+    "link": "https://www.reuters.com/business/energy/europe-could-see-jet-fuel-shortage-by-june-iea-says-2026-04-14/",
+    "description": "LONDON, April 14 (Reuters) - Europe could start seeing physical shortages of jet fuel by June due to the Iran war if the region is ​only able to replace half of the fuel supplies ‌it normally gets from the Middle East, the International Energy Agency said in its monthly report.\n\nGlobal jet fuel and kerosene demand averaged 7.8 million ​barrels per day in 2025, with Gulf exports the largest ​source to the global market, averaging nearly 400,000 bpd, ⁠the report added.\n\nHere are some key details:",
+    "published": "Tue, 14 Apr 2026 21:20:34 +0600",
+    "source": "https://evilgodfahim.github.io/wl/reuters.xml",
+    "thumbnail": "https://www.reuters.com/resizer/v2/33S7IJZW5JMULJADWE6VYR2YVI.jpg?auth=c798fa2c8a783bc38aa7116eb68319581120d11ecbe29a35d17a1928b65223b7&height=1005&width=1920&quality=80&smart=true",
+    "thumbnail_type": "image/jpeg"
   }
 ]
