@@ -22648,5 +22648,33 @@
     "source": "https://evilgodfahim.github.io/wl/reuters.xml",
     "thumbnail": "https://www.reuters.com/resizer/v2/4HHYQQUUTNLGPJSVXJEGXUX7RQ.jpg?auth=8a8bf68b39d859ca173a1f9fa24d9066aadb7a431b91d96bbb56646b1a2095db&height=1005&width=1920&quality=80&smart=true",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/gap-widens-23pc-to-tk-254t-in-fy25",
+    "title": "Gap widens 23pc to Tk 2.54t in FY25",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/gap-widens-23pc-to-tk-254t-in-fy25",
+    "description": "Bangladesh's trade deficit with its largest trading partner, China, widened by nearly 23 per cent to Tk 2.54 trillion (approximately US$ 20.66 billion) in fiscal year (FY) 2024-2025, driven by higher imports of industrial raw materials from the world's second-largest economy.\nAccording to Banglade",
+    "published": "Tue, 14 Apr 2026 09:20:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/govt-plans-to-widen-tax-net-without-raising-rates-commerce-minister",
+    "title": "Govt plans to widen tax net without raising rates: Commerce minister",
+    "link": "https://thefinancialexpress.com.bd/trade/govt-plans-to-widen-tax-net-without-raising-rates-commerce-minister",
+    "description": "Commerce and Industries Minister Khandakar Abdul Muktadir on Monday said the government plans to expand the tax net to strengthen fiscal discipline without increasing personal tax rates.\n\"We will focus on bringing more individuals under taxation rather than raising rates,\" he said at a pre-budget",
+    "published": "Tue, 14 Apr 2026 09:20:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147959/1776098408.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bb-to-introduce-two-reference-rates",
+    "title": "BB to introduce two reference rates",
+    "link": "https://thefinancialexpress.com.bd/trade/bb-to-introduce-two-reference-rates",
+    "description": "Bangladesh Bank is launching two money-market reference rates based on actual transaction data to help stakeholders understand the trend in interest rates.\nThe central bank will be uploading the rates -- Bangladesh Overnight Financing Rate (BOFR) and Dhaka Overnight Money Market Rate (DOMMR) on th",
+    "published": "Tue, 14 Apr 2026 09:20:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147943/bb-4.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
