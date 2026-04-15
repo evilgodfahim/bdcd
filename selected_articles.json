@@ -24370,5 +24370,101 @@
     "source": "https://evilgodfahim.github.io/wl/reuters.xml",
     "thumbnail": "https://www.reuters.com/resizer/v2/CF7LFUZCYZLYPGVFGMCZCW6XS4.jpg?auth=c279b6e2ddcc3e48ad13189f0a085bb55d67ae538b77bd01d86514026a76fe98&height=1005&width=1920&quality=80&smart=true",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/imf-wants-all-tax-exemptions-subsidies-gone-next-budget-1412576",
+    "title": "IMF wants all tax exemptions, subsidies gone in next budget",
+    "link": "https://www.tbsnews.net/economy/imf-wants-all-tax-exemptions-subsidies-gone-next-budget-1412576",
+    "description": "Alongside ending tax exemptions, the IMF has also pressed for the reduction of supplementary duties imposed at the import stage.",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/12/13/2022-12-13t010504z_1_lynxmpeibc011_rtroptp_4_imf-spain.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/govt-eyes-62-growth-fy27-under-five-year-economic-strategy-1412581",
+    "title": "Govt eyes 6.2% growth in FY27 under five-year economic strategy",
+    "link": "https://www.tbsnews.net/economy/govt-eyes-62-growth-fy27-under-five-year-economic-strategy-1412581",
+    "description": "It aims to lift growth to 8% by FY30.",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/02/09/economy.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/868991/bangladesh-t-rkiye-move-to-strengthen-trade-investment-ties",
+    "title": "Bangladesh, Türkiye move to strengthen trade, investment ties",
+    "link": "https://www.daily-sun.com/business/868991/bangladesh-t-rkiye-move-to-strengthen-trade-investment-ties",
+    "description": "",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/sport/060019742e10",
+    "title": "Maguire out of Chelsea trip after ban",
+    "link": "https://bdnews24.com/sport/060019742e10",
+    "description": "[Sport] Maguire out of Chelsea trip after ban",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harry-maguire-150426-01-1776274291.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/869005/wb-announces-water-security-plan-covering-one-billion-people",
+    "title": "WB announces water security plan covering one billion people",
+    "link": "https://www.daily-sun.com/business/869005/wb-announces-water-security-plan-covering-one-billion-people",
+    "description": "The programme will see countries identify areas of priority...",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/15/medium/World-Bank-WB-Reuters-69dfcc1d8d807.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/869025/imf-chief-warns-of-tough-times-if-oil-prices-stay-high",
+    "title": "IMF chief warns of 'tough times' if oil prices stay high",
+    "link": "https://www.daily-sun.com/world/869025/imf-chief-warns-of-tough-times-if-oil-prices-stay-high",
+    "description": "US-Israeli strikes launched against Iran on February 28 sparked Tehran's retaliation, virtually closing the Strait of Hormuz, a key shipping",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/15/medium/IMF-69dfd0e263bdb.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/868911/pm-seeks-2b-from-development-partners-to-meet-energy-demand",
+    "title": "PM seeks $2b from development partners to meet energy demand",
+    "link": "https://daily-sun.com/bangladesh/868911/pm-seeks-2b-from-development-partners-to-meet-energy-demand",
+    "description": "",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.reuters.com/world/americas/us-targets-irans-oil-transportation-infrastructure-with-sanctions-2026-04-15/",
+    "title": "US targets Iran's oil transportation infrastructure with sanctions",
+    "link": "https://www.reuters.com/world/americas/us-targets-irans-oil-transportation-infrastructure-with-sanctions-2026-04-15/",
+    "description": "April 15 (Reuters) - The U.S. Treasury Department said ​on Wednesday it was targeting Iran's ‌oil transportation infrastructure by imposing sanctions on more than two dozen individuals, companies, and ​vessels.\n\nThe sanctions target a network of ​Iranian oil shipping magnate Mohammad Hossein ⁠Shamkhani, the Treasury Department said in ​a statement. Hossein Shamkhani is the son ​of Ali Shamkhani, a key figure in Iran's security and nuclear policymaking who was killed in U.S.-Israeli ​strikes on Tehran on February 28.\n\n\"Treasury ​is moving aggressively with Economic Fury by targeting ‌regime ⁠elites like the Shamkhani family that attempt to profit at the expense of the Iranian people,\" Treasury Secretary Scott Bessent ​said in ​the ⁠statement.\n\nThe Treasury Department is also sanctioning Iranian national Seyed Naiemaei ​Badroddin Moosavi, who it alleges to ​be ⁠a financier to Hezbollah, and three companies linked to a money laundering scheme ⁠involving ​the sale of Iranian ​oil in exchange for Venezuelan gold.",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/wl/reuters.xml",
+    "thumbnail": "https://www.reuters.com/resizer/v2/YKW2ZTXAYVNFRIPJU2TZJ37T6Y.jpg?auth=ea416c32665a702824f4e2b4c48496d1656c90fd43b7f181798c86997e1cbecb&height=1005&width=1920&quality=80&smart=true",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.reuters.com/business/energy/nigeria-oil-production-hits-18-million-barrelsday-says-finance-minister-2026-04-15/",
+    "title": "Higher oil output gives Nigeria fiscal space as reforms continue – Edun",
+    "link": "https://www.reuters.com/business/energy/nigeria-oil-production-hits-18-million-barrelsday-says-finance-minister-2026-04-15/",
+    "description": "WASHINGTON, April 15 (Reuters) - Nigeria's oil production ​has risen to 1.8 million barrels a day, Finance Minister Wale Edun told Reuters, generating fiscal breathing ‌space that will allow the government to support vulnerable households as it ploughs ahead with reforms.\n\nSpeaking in an interview on Wednesday on the sidelines of the International Monetary Fund and World Bank Group spring meetings in Washington, Edun said rising crude production was positive for Nigeria's revenue, ​for foreign exchange and for the fiscal situation of the OPEC member.\n\n\"It gives us that extra fiscal space ​within which to look at ... helping the vulnerable households at this time.\"\n\nHowever, support would be targeted, ⁠said Edun, adding \"there is no thought of any return or retardation to broad untargeted subsidies.\"\n\nEdun said the country suffered ​no fuel shortages thanks to the Dangote refinery.\n\n\"We have managed to keep the pumps going and adequate supply of petroleum products, ​particularly petrol and diesel and so forth, and even jet fuel.\"\n\nPresident Bola Tinubu since 2023 has rolled out Nigeria's most ambitious economic overhaul in decades by ending costly fuel and energy subsidies, devaluing the currency and changing the tax system which - together with rising oil ​output - has supported economic growth of around 4%.\n\nBut inflation in Africa's most populous nation is still high, interest rates ​elevated and fiscal space tight as the government struggles with heavy debt-service costs, weak non-oil revenues and continued reliance on crude exports.\n\nData out ‌on ⁠Wednesday showed consumer inflation quickened for the first time in a year in March - a headache for Tinubu's government ahead of elections scheduled for January next year.\n\nAsked about the impact on the economy from the Iran war which is expected to crimp growth around the globe, Edun said the outlook was very uncertain.\n\n\"The impact on growth can be ... either minimal, but over time ​it could, if things drag ​on, it could lead to ⁠world recession,\" he said.\n\nThe IMF trimmed its GDP growth forecast for Nigeria to 4.1% for this year from a January prediction of 4.4%, though it expects growth to accelerate ​to 4.3% in 2027. The Fund said that growth momentum benefited from improved macroeconomic stability ​and positive terms-of-trade ⁠effects, though warned of headwinds from higher goods and transport costs.\n\nMeanwhile the government was committed to continuing its reform programme, said Edun.\n\n\"Nigeria is in a position where the resilience that has been built in the economy is actually very obvious for ⁠all to ​see,\" said Edun.\n\n\"We are very much focused on maintaining the reform pathway ​and very much focused on improving the resilience of the Nigerian economy to withstand external shocks.\"\n\nAsked about its relationship with the Fund, Edun said \"Nigeria ​is not looking for any financial support from the IMF.\"",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/wl/reuters.xml",
+    "thumbnail": "https://www.reuters.com/resizer/v2/KELB5U56XFLZFLSS6SBTDAKLTY.jpg?auth=07ddb8b2eff4ff824242e6bab34e8e90a17b6c52b08875dcd5617ab1cc670868&height=1005&width=1920&quality=80&smart=true",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.reuters.com/business/energy/us-may-impose-secondary-sanctions-iran-oil-purchases-2026-04-15/",
+    "title": "US may impose secondary sanctions on Iran oil purchases",
+    "link": "https://www.reuters.com/business/energy/us-may-impose-secondary-sanctions-iran-oil-purchases-2026-04-15/",
+    "description": "WASHINGTON, April 15 (Reuters) - U.S. ‌Treasury ​Secretary ​Scott ⁠Bessent ​on ​Wednesday said ​the ​United States ‌could ⁠impose ​secondary ​sanctions ⁠on ​countries ​that ⁠purchase ⁠Iranian ​oil.",
+    "published": "Thu, 16 Apr 2026 01:26:34 +0600",
+    "source": "https://evilgodfahim.github.io/wl/reuters.xml",
+    "thumbnail": "https://www.reuters.com/resizer/v2/UB4ZTZ2TYJINFGTYSIWPJMPPCM.jpg?auth=cb42bef1b81dc91ff91aaf838000f0b4c89547748ccca01fcd9740a1bb38a334&height=1005&width=1920&quality=80&smart=true",
+    "thumbnail_type": "image/jpeg"
   }
 ]
