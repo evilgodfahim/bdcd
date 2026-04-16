@@ -25258,5 +25258,83 @@
     "source": "https://evilgodfahim.github.io/wl/reuters.xml",
     "thumbnail": "https://www.reuters.com/resizer/v2/OTODMHE6BZL2LKZSW2OC2UK2FI.jpg?auth=1fa6ce31947fe90fe98cb2adb2b62fead96d7eafb7c4e3223ca3d41ae9070d9b&height=1005&width=1920&quality=80&smart=true",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/imf-blocks-pending-loan-tranches-now-citing-reform-failure-1413446",
+    "title": "IMF blocks pending loan tranches for now, citing reform failure",
+    "link": "https://www.tbsnews.net/economy/imf-blocks-pending-loan-tranches-now-citing-reform-failure-1413446",
+    "description": "The lender suggests a new loan programme",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/05/09/08_panorama_illustration_21_dec_copy.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/government-domestic-debt-rises-tk-151-lakh-crore-year-1413341",
+    "title": "Govt domestic debt rises by Tk1.51 lakh crore in a year",
+    "link": "https://www.tbsnews.net/economy/banking/government-domestic-debt-rises-tk-151-lakh-crore-year-1413341",
+    "description": "In FY25, bank borrowing was only Tk15,531cr.",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/16/debt.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/869243/forex-reserves-stand-at-35-04b",
+    "title": "Forex reserves stand at $35.04b",
+    "link": "https://www.daily-sun.com/business/869243/forex-reserves-stand-at-35-04b",
+    "description": "",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/rmg-exports-brace-gathering-storm-4153336",
+    "title": "RMG exports brace for  a gathering storm",
+    "link": "https://www.thedailystar.net/business/economy/news/rmg-exports-brace-gathering-storm-4153336",
+    "description": "",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/wheat-imports-exceed-fy25-total-25-months-go-4153201",
+    "title": "Wheat imports exceed FY25 total with 2.5 months to go",
+    "link": "https://www.thedailystar.net/business/news/wheat-imports-exceed-fy25-total-25-months-go-4153201",
+    "description": "",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/middle-east/news/lebanese-pm-welcomes-israel-ceasefire-announced-trump-4153346",
+    "title": "Lebanese PM 'welcomes' Israel ceasefire announced by Trump",
+    "link": "https://www.thedailystar.net/news/world/middle-east/news/lebanese-pm-welcomes-israel-ceasefire-announced-trump-4153346",
+    "description": "Lebanese Prime Minister Nawaf Salam said he \"welcomes\" US President Donald Trump's announcement of a 10-day ceasefire with Israel, which was due to start at 2100 GMT on Thursday evening",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/2a7e99417c70",
+    "title": "Rooppur nuclear plant gets fuel loading nod",
+    "link": "https://bdnews24.com/bangladesh/2a7e99417c70",
+    "description": "[Bangladesh] Rooppur nuclear plant gets fuel loading nod",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pabna-rooppur-160426-01-1776355502.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/world/869081/world-bank-chief-economist-warns-of-hunger-risk-from-war-in-iran",
+    "title": "World Bank chief economist warns of hunger risk from war in Iran",
+    "link": "https://daily-sun.com/world/869081/world-bank-chief-economist-warns-of-hunger-risk-from-war-in-iran",
+    "description": "",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://daily-sun.com/world/869025/imf-chief-warns-of-tough-times-if-oil-prices-stay-high",
+    "title": "IMF chief warns of 'tough times' if oil prices stay high",
+    "link": "https://daily-sun.com/world/869025/imf-chief-warns-of-tough-times-if-oil-prices-stay-high",
+    "description": "",
+    "published": "Fri, 17 Apr 2026 01:23:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
