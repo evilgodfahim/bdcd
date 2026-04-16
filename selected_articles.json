@@ -25400,5 +25400,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/17/medium/US-President-Donald-Trump-gestures-as-he-speaks-during-a-Women's-Month-History-event-in-the-East-Room-of-the-White-House-in-Washington,-DC,-on-12-March-2026-69e1302182163.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/middle-east/news/lebanon-commits-stopping-hezbollah-attacks-israel-ceasefire-deal-us-4153471",
+    "title": "Lebanon commits to stopping Hezbollah attacks in Israel ceasefire deal: US",
+    "link": "https://www.thedailystar.net/news/world/middle-east/news/lebanon-commits-stopping-hezbollah-attacks-israel-ceasefire-deal-us-4153471",
+    "description": "The US State Department said that the ceasefire reached between Israel and Lebanon on Thursday entails a committment by Beirut to prevent any Hezbollah attacks.",
+    "published": "Fri, 17 Apr 2026 04:50:09 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/869289/govt-plans-to-generate-10-000mw-of-solar-power-by-2030",
+    "title": "Govt plans to generate 10,000MW of solar power by 2030",
+    "link": "https://www.daily-sun.com/bangladesh/869289/govt-plans-to-generate-10-000mw-of-solar-power-by-2030",
+    "description": "Ghani said the project will be implemented through private initiatives alongside government participation.",
+    "published": "Fri, 17 Apr 2026 04:50:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/17/medium/Cabinet-Secretary-Nasimul-Ghani-speaks-at-a-press-briefing-at-PID-at-the-secretariat-in-Dhaka-on-16-April-2026-69e151636a7e4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/869287/pumping-of-5-000-tonnes-of-diesel-from-india-begins",
+    "title": "Pumping of 5,000 tonnes of diesel from India begins",
+    "link": "https://www.daily-sun.com/bangladesh/869287/pumping-of-5-000-tonnes-of-diesel-from-india-begins",
+    "description": "The imported diesel will be transported to the depot of Padma Oil PLC at Parbatipur...",
+    "published": "Fri, 17 Apr 2026 04:50:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/17/medium/Diesel-from-India-pipeline-collected-69e1470d78cff.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
