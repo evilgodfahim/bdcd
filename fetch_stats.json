@@ -2,33 +2,33 @@
   "per_feed": {
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 11,
+      "capped": 11
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 9,
+      "capped": 9
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 4,
-      "capped": 4
+      "passed_age": 0,
+      "capped": 0
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 2,
-      "passed_age": 2,
-      "capped": 2
+      "fetched": 10,
+      "passed_age": 7,
+      "capped": 7
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 6,
+      "capped": 6
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 34,
-      "capped": 34
+      "passed_age": 39,
+      "capped": 39
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -36,9 +36,9 @@
       "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
-      "fetched": 49,
-      "passed_age": 49,
-      "capped": 49
+      "fetched": 42,
+      "passed_age": 42,
+      "capped": 42
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 500,
@@ -47,37 +47,37 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 32,
-      "capped": 32
+      "passed_age": 41,
+      "capped": 41
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
-      "fetched": 323,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 325,
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
-      "passed_age": 39,
-      "capped": 39
+      "passed_age": 44,
+      "capped": 44
     }
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4014
+    "DIRECT": 4017
   },
-  "total_fetched": 4014,
-  "total_passed_age": 233,
-  "total_new": 27,
-  "total_signal": 6,
+  "total_fetched": 4017,
+  "total_passed_age": 242,
+  "total_new": 108,
+  "total_signal": 9,
   "total_longread": 0,
   "total_signal_deduped": 5,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-16T03:27:08.673317",
+  "timestamp": "2026-04-16T06:06:32.061787",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 6
+  "total_signal_mistral": 9
 }
