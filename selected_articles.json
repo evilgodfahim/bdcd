@@ -25428,5 +25428,55 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/17/medium/Diesel-from-India-pipeline-collected-69e1470d78cff.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/israel-and-lebanon-begin-ceasefire-trump-says-iran-may-meet-us-over-weekend-1413506",
+    "title": "Israel and Lebanon begin ceasefire, Trump says Iran may meet US over weekend",
+    "link": "https://www.tbsnews.net/world/israel-and-lebanon-begin-ceasefire-trump-says-iran-may-meet-us-over-weekend-1413506",
+    "description": "Trump said Iran had offered ‌not to possess nuclear weapons for more than 20 years.",
+    "published": "Fri, 17 Apr 2026 09:21:53 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/17/displaced_people_lebanon_israel_ceasefire.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/us-grants-bangladesh-fresh-60-day-waiver-russian-fuel-imports-1413501",
+    "title": "US grants Bangladesh fresh 60-day waiver for Russian fuel imports",
+    "link": "https://www.tbsnews.net/bangladesh/us-grants-bangladesh-fresh-60-day-waiver-russian-fuel-imports-1413501",
+    "description": "Previous one-month waiver period ends on 11 April",
+    "published": "Fri, 17 Apr 2026 09:21:53 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/23/bd_us_flag.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/internet-banking-transactions-up-over-32pc-in-july-jan-of-fy-26",
+    "title": "Internet banking transactions up over 32pc in July-Jan of FY 26",
+    "link": "https://thefinancialexpress.com.bd/trade/internet-banking-transactions-up-over-32pc-in-july-jan-of-fy-26",
+    "description": "Internet banking transactions in the country's financial sector recorded robust growth during the first seven months of the current fiscal year, according to Bangladesh Bank data.\nThe trend indicates an accelerating shift towards digital financial services, helping save both time and costs.\nTrans",
+    "published": "Fri, 17 Apr 2026 09:21:53 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148408/internet-banking.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/energy-crisis-cuts-production-capacity-by-25-30pc-bgmea",
+    "title": "Energy crisis cuts production capacity by 25-30pc: BGMEA",
+    "link": "https://thefinancialexpress.com.bd/trade/energy-crisis-cuts-production-capacity-by-25-30pc-bgmea",
+    "description": "The ongoing energy crisis is severely affecting garment production and shipments from factories, especially those located in the Ashulia and Gazipur industrial belts, industry insiders say.\nThey claim that the production capacity of the factories has decreased by 25-30 per cent due to the lack of",
+    "published": "Fri, 17 Apr 2026 09:21:53 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148404/1776361449.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/memory-chip-price-spike-threatens-digital-infrastructure-projects",
+    "title": "Memory chip price spike threatens digital infrastructure projects",
+    "link": "https://thefinancialexpress.com.bd/trade/memory-chip-price-spike-threatens-digital-infrastructure-projects",
+    "description": "A sharp and sustained surge in global memory chip prices is pushing the country's ICT sector into a growing procurement crisis, with officials and industry insiders warning that delays, failed tenders and spiralling costs are severely affecting key digital infrastructure projects.\nDriven by explos",
+    "published": "Fri, 17 Apr 2026 09:21:53 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148398/1776361282.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
