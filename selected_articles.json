@@ -26197,5 +26197,36 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/18/medium/Dr-A-Moyeen-Khan-69e2a5e7affd9.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/opinion/op-ed/408012/why-the-rohingya-still-risk-the-sea",
+    "title": "Why the Rohingya still risk the sea",
+    "link": "https://www.dhakatribune.com/opinion/op-ed/408012/why-the-rohingya-still-risk-the-sea",
+    "description": "",
+    "published": "Sat, 18 Apr 2026 08:53:44 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/649924bd2fd2521db455316d714556a5-69e2caf442c6d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "6d690b00b69d7fb8bc2f0cb0bc8cb09c36c67c01",
+    "title": "US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial",
+    "link": "https://apnews.com/article/russian-oil-sanctions-iran-war-95ae06ece63f4f8c1f72ac3c2dc4251f",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/45ae5f4/2147483647/strip/true/crop/6087x4058+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fa5%2F1fdfe3bba15a187e757a7cf9d12a%2Faebe11e366fd45b794d8893f9e09a6be\" /><br />US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial",
+    "published": "Sat, 18 Apr 2026 08:53:44 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/45ae5f4/2147483647/strip/true/crop/6087x4058+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fa5%2F1fdfe3bba15a187e757a7cf9d12a%2Faebe11e366fd45b794d8893f9e09a6be",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/869477/world-reacts-to-strait-of-hormuz-reopening-amid-us-iran-conflict",
+    "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+    "link": "https://www.daily-sun.com/world/869477/world-reacts-to-strait-of-hormuz-reopening-amid-us-iran-conflict",
+    "description": "Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike",
+    "published": "Sat, 18 Apr 2026 08:53:44 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/18/medium/World-reacts-to-Strait-of-Hormuz-reopening-amid-US-Iran-conflict-69e2bd7fc033f.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
