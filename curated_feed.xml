@@ -4,14 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Sat, 18 Apr 2026 19:00:26 +0000</lastBuildDate>
-    <item>
-      <title>Airlines reducing flights on Dhaka routes as fuel prices rise</title>
-      <link>https://en.bonikbarta.com/business/HgNI9Y81BIF5sQaF/</link>
-      <guid isPermaLink="false">8268e19d8a8d059e9747035da76b51d6</guid>
-      <description>Major international carriers are also adjusting their summer schedules to cope with rising operational costs and fluctuating passenger demand.</description>
-      <pubDate>Mon, 13 Apr 2026 19:53:30 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 20:43:45 +0000</lastBuildDate>
     <item>
       <title>Israeli fire kills three in Gaza following new ceasefire talks</title>
       <link>https://www.reuters.com/world/middle-east/israeli-fire-kills-three-gaza-following-new-ceasefire-talks-2026-04-13/</link>
@@ -6268,6 +6261,15 @@ Another vessel hit by projectile in Strait of Hormuz						&lt;a class="more_link
       <pubDate>Sun, 19 Apr 2026 01:00:17 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/18/medium/Bangladesh,-Türkiye-eye-stronger-trade-MoFA-69e3c1f6cae54.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/18/medium/Bangladesh,-Türkiye-eye-stronger-trade-MoFA-69e3c1f6cae54.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>New Moscow-Delhi deal allows stationing of troops, warships</title>
+      <link>https://bdnews24.com/world/fa1c37b9aa53</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/fa1c37b9aa53</guid>
+      <description>[World] New Moscow-Delhi deal allows stationing of troops, warships</description>
+      <pubDate>Sun, 19 Apr 2026 02:43:39 +0600</pubDate>
+      <media:thumbnail url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024July/SM/modi-putin-150724-01-1721054988.jpg" />
+      <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024July/SM/modi-putin-150724-01-1721054988.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
