@@ -27470,5 +27470,23 @@
     "description": "",
     "published": "Mon, 20 Apr 2026 00:59:50 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/bpc-orders-padma-meghna-jamuna-increase-fuel-supply-nationwide-4155671",
+    "title": "BPC orders Padma, Meghna, Jamuna to increase fuel supply nationwide",
+    "link": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/bpc-orders-padma-meghna-jamuna-increase-fuel-supply-nationwide-4155671",
+    "description": "Diesel and petrol supply raised by 10%, octane by 20% from Monday",
+    "published": "Mon, 20 Apr 2026 02:45:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/4225f8c88165",
+    "title": "Fuel shock sparks inflation fears, calls for market watch",
+    "link": "https://bdnews24.com/bangladesh/4225f8c88165",
+    "description": "[Bangladesh] Fuel shock sparks inflation fears, calls for market watch",
+    "published": "Mon, 20 Apr 2026 02:45:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/diseal-crisis-fuel-price-190426-1776626664.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
