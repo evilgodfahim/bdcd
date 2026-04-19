@@ -27052,5 +27052,79 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/19/medium/Iqbal-Hasan-Mahmud-Tuku-69e48d0ab8d2e.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/lpg-price-hiked-again-12kg-cylinder-tk212-1415531",
+    "title": "LPG price hiked again; 12kg cylinder up by Tk212",
+    "link": "https://www.tbsnews.net/bangladesh/energy/lpg-price-hiked-again-12kg-cylinder-tk212-1415531",
+    "description": "The Bangladesh Energy Regulatory Commission (BERC) announced the new rates today (19 April), which will take effect from 6pm.",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/10/02/lpg_gas.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/869562/govt-hikes-fuel-oil-prices",
+    "title": "Govt hikes fuel prices",
+    "link": "https://daily-sun.com/business/869562/govt-hikes-fuel-oil-prices",
+    "description": "",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "352c996f-3324-4e37-9dd7-0a48ca440411",
+    "title": "DAP fertiliser plant shuts down due to ammonia shortage amid gas crisis",
+    "link": "https://en.prothomalo.com/bangladesh/local-news/bdrg0y5sr7",
+    "description": "\n<p>Production at the state-owned DAP Fertilizer Company Limited has come to a halt. Due to an ammonia shortage, fertiliser production at the plant stopped around 8:00pm on Saturday. </p><p>The factory is located in the Rangadia area of Anwara upazila in Chattogram.</p><p>According to officials at the plant, production at the DAP facility depends on ammonia supplied by two neighboring fertilizer factories—Chittagong Urea Fertilizer Company Limited (CUFL) and Karnaphuli Fertilizer Company Limited (KAFCO). However, due to a gas shortage, ammonia production at both CUFL and KAFCO has been suspended since 4 March. As a result, ammonia supply to the DAP plant also stopped.</p> <p>Under these circumstances, the DAP plant continued operations for about one and a half months using its existing ammonia stock. With those reserves now exhausted, production at the plant was shut down last night.</p><p>The DAP plant is operated by the Bangladesh Chemical Industries Corporation under the Ministry of Industries. The facility has been playing a significant role in the country’s agricultural sector. It was established to meet domestic demand for compound fertilizers (containing nitrogen and phosphorus). Commercial production at the plant began in 2006, and each of its two units has a production capacity of 800 metric tons.</p><p>When contacted, Managing Director Mohammad Mainul Haque said, “We have not been receiving ammonia since 4 March. Despite that, production continued using previous stock. As the stock has now been depleted, production is temporarily suspended. Operations will resume once ammonia supply is restored.”</p>",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-04-19/ff52dop6/fertilizer.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/brac-announces-tk-53-crore-self-funded-initiative-agriculture-social-welfare",
+    "title": "BRAC announces Tk 53 crore self-funded initiative for agriculture, social welfare",
+    "link": "https://www.tbsnews.net/economy/corporates/brac-announces-tk-53-crore-self-funded-initiative-agriculture-social-welfare",
+    "description": "",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/19/19th_april_pr_13.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-recent-election-and-what-it-means-bangladesh-4154796",
+    "title": "Myanmar’s recent election and what it means for Bangladesh",
+    "link": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-recent-election-and-what-it-means-bangladesh-4154796",
+    "description": "",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/drilling-begins-brahmanbarias-titas-31-deep-exploratory-well-boost-gas-supply-4155181",
+    "title": "Drilling begins at Brahmanbaria's Titas-31 deep exploratory well to boost gas supply",
+    "link": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/drilling-begins-brahmanbarias-titas-31-deep-exploratory-well-boost-gas-supply-4155181",
+    "description": "",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/ccba51ae93ab",
+    "title": "Dinesh Trivedi to be India’s next envoy to Bangladesh: report",
+    "link": "https://bdnews24.com/bangladesh/ccba51ae93ab",
+    "description": "[Bangladesh] Dinesh Trivedi to be India’s next envoy to Bangladesh: report",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dinesh-trivedi-india-19042026-01-1776591891.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/869714/north-korea-fires-multiple-ballistic-missiles-into-sea-seoul",
+    "title": "North Korea fires multiple ballistic missiles into sea: Seoul",
+    "link": "https://www.daily-sun.com/world/869714/north-korea-fires-multiple-ballistic-missiles-into-sea-seoul",
+    "description": "South Korea's presidential office said it held an emergency security meeting over the launches.",
+    "published": "Sun, 19 Apr 2026 16:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/19/medium/Seol-69e495239ac91.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
