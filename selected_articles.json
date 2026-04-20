@@ -28497,5 +28497,61 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/21/medium/former-ambassador-Simon-Karam_-Lebanese-presidency-69e6772d3c772.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/fate-iran-peace-talks-uncertain-deadline-approaches-end-ceasefire-4156581",
+    "title": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/fate-iran-peace-talks-uncertain-deadline-approaches-end-ceasefire-4156581",
+    "description": "",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/9c9c4a59147f",
+    "title": "Iran mulls US talks in Pakistan amid blockade",
+    "link": "https://bdnews24.com/world/9c9c4a59147f",
+    "description": "[World] Iran mulls US talks in Pakistan amid blockade",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-talks-210426-01-1776720132.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/c0e938235504",
+    "title": "Gulf fears US-Iran deal may cement Tehran’s Hormuz grip",
+    "link": "https://bdnews24.com/world/c0e938235504",
+    "description": "[World] Gulf fears US-Iran deal may cement Tehran’s Hormuz grip",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-of-hormuz-210426-01-1776719224.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/2258f026add4",
+    "title": "Saudi objection stalls $1.5bn Pakistan-Sudan arms deal",
+    "link": "https://bdnews24.com/world/2258f026add4",
+    "description": "[World] Saudi objection stalls $1.5bn Pakistan-Sudan arms deal",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-jf-17-210426-01-1776717767.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "edad05faf77fe6a83653ad8512a870e885356614",
+    "title": "A long-shuttered Iraq-Syria border crossing reopens for the first time in more than a decade",
+    "link": "https://apnews.com/article/iraq-syria-border-crossing-4fa0f36b5cd3ffe82bb17d992f1c07bb",
+    "description": "A long-shuttered Iraq-Syria border crossing reopens for the first time in more than a decade",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/870114/iran-to-show-new-cards-on-battlefield-if-war-resumes-parliament-speaker",
+    "title": "Iran to show 'new cards on battlefield' if war resumes: parliament speaker",
+    "link": "https://www.daily-sun.com/world/870114/iran-to-show-new-cards-on-battlefield-if-war-resumes-parliament-speaker",
+    "description": "Iran's powerful parliament speaker warned Monday that Tehran had \"new cards\" if war resumes with the United States and Israel,",
+    "published": "Tue, 21 Apr 2026 04:52:09 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/21/medium/Iran-to-show-'new-cards-on-battlefield'-if-war-resumes-69e6aa48f1830.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
