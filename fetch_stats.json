@@ -2,8 +2,8 @@
   "per_feed": {
     "https://www.dhakatribune.com/feed/": {
       "fetched": 100,
-      "passed_age": 22,
-      "capped": 22
+      "passed_age": 31,
+      "capped": 31
     },
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
@@ -12,23 +12,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 0,
-      "capped": 0
+      "passed_age": 1,
+      "capped": 1
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 12,
-      "passed_age": 12,
-      "capped": 12
+      "fetched": 13,
+      "passed_age": 13,
+      "capped": 13
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 20,
-      "capped": 20
+      "passed_age": 66,
+      "capped": 66
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 41,
-      "capped": 41
+      "passed_age": 50,
+      "capped": 50
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -36,9 +36,9 @@
       "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
-      "fetched": 50,
-      "passed_age": 50,
-      "capped": 50
+      "fetched": 46,
+      "passed_age": 46,
+      "capped": 46
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 500,
@@ -47,18 +47,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 21,
-      "capped": 21
+      "passed_age": 23,
+      "capped": 23
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 30,
-      "capped": 30
+      "passed_age": 35,
+      "capped": 35
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
-      "fetched": 390,
-      "passed_age": 0,
-      "capped": 0
+      "fetched": 394,
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -68,16 +68,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4092
+    "DIRECT": 4093
   },
-  "total_fetched": 4092,
-  "total_passed_age": 241,
-  "total_new": 118,
-  "total_signal": 16,
+  "total_fetched": 4093,
+  "total_passed_age": 314,
+  "total_new": 149,
+  "total_signal": 18,
   "total_longread": 0,
   "total_signal_deduped": 11,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-20T06:22:09.961411",
+  "timestamp": "2026-04-20T10:04:24.453820",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 16
+  "total_signal_mistral": 18
 }
