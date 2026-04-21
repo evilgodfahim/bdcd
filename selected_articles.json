@@ -29433,5 +29433,39 @@
     "description": "",
     "published": "Wed, 22 Apr 2026 01:20:48 +0600",
     "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/870314",
+    "title": "‘Bangladesh-Japan EPA sets benchmark for future trade deals’",
+    "link": "https://www.daily-sun.com/business/870314",
+    "description": "‘Bangladesh-Japan EPA sets \nbenchmark for future trade deals’",
+    "published": "Wed, 22 Apr 2026 02:59:29 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-imposes-new-sanctions-against-suppliers-weapons-iran-4157451",
+    "title": "US imposes new sanctions against suppliers of weapons to Iran",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-imposes-new-sanctions-against-suppliers-weapons-iran-4157451",
+    "description": "",
+    "published": "Wed, 22 Apr 2026 02:59:29 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/politics/524c06341a73",
+    "title": "Fakhrul seeks Beijing role on Teesta, Rohingya",
+    "link": "https://bdnews24.com/politics/524c06341a73",
+    "description": "[Politics] Fakhrul seeks Beijing role on Teesta, Rohingya",
+    "published": "Wed, 22 Apr 2026 02:59:29 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bnp-china-210426-1776797107.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/diplomacy/870169/bangladesh-calls-for-stronger-regional-action-for-sustainable-future-at-escap",
+    "title": "Bangladesh calls for stronger regional action for sustainable future at ESCAP",
+    "link": "https://daily-sun.com/diplomacy/870169/bangladesh-calls-for-stronger-regional-action-for-sustainable-future-at-escap",
+    "description": "",
+    "published": "Wed, 22 Apr 2026 02:59:29 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
