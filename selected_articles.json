@@ -30334,5 +30334,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/22/medium/Fuel-recovered-representational-69e900b9532c6.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-taking-initiative-launch-paypal-boost-employment-pm-1419021",
+    "title": "Govt taking initiative to launch PayPal to boost employment: PM",
+    "link": "https://www.tbsnews.net/bangladesh/govt-taking-initiative-launch-paypal-boost-employment-pm-1419021",
+    "description": "The prime minister informed that a master plan has been adopted to issue identity (ID) cards to 200,000 freelancers over the next five years and to train several thousand youths in advanced technologies.",
+    "published": "Thu, 23 Apr 2026 04:53:22 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/12/03/img_2640.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/rancon-auto-mitsubishi-form-jv-make-vehicles-bangladesh-4158321",
+    "title": "Rancon Auto, Mitsubishi form JV to make vehicles in Bangladesh",
+    "link": "https://www.thedailystar.net/business/economy/news/rancon-auto-mitsubishi-form-jv-make-vehicles-bangladesh-4158321",
+    "description": "",
+    "published": "Thu, 23 Apr 2026 04:53:22 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "99d7ed68924f26938d6c5f065337834ac91700ab",
+    "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies",
+    "link": "https://apnews.com/article/jet-fuel-flight-cancellations-airlines-42a4c548b23f9dec02ff3f5771f7b4c3",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/08a3da1/2147483647/strip/true/crop/7732x5154+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa8%2F9bcf836c139060f02e31d9260c8a%2Fc59eea72a96f4058844bdaf5e7efcd51\" /><br />Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies",
+    "published": "Thu, 23 Apr 2026 04:53:22 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/08a3da1/2147483647/strip/true/crop/7732x5154+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa8%2F9bcf836c139060f02e31d9260c8a%2Fc59eea72a96f4058844bdaf5e7efcd51",
+    "thumbnail_type": "image/jpeg"
   }
 ]
