@@ -31785,5 +31785,33 @@
     "description": "",
     "published": "Sat, 25 Apr 2026 01:01:59 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/67f208e3c088",
+    "title": "Israeli fire kills 12 in Gaza, medics say",
+    "link": "https://bdnews24.com/world/middle-east/67f208e3c088",
+    "description": "[Middle East] Israeli fire kills 12 in Gaza, medics say",
+    "published": "Sat, 25 Apr 2026 02:56:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-gaza-fire-250426-01-1777060790.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1db563c43855a311d38295a5a1983236da14d5b5",
+    "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil",
+    "link": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/b858275/2147483647/strip/true/crop/3644x2437+0+0/resize/599x401!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2Faf%2Fa25e77f59af1052b8c263913894d%2Fab556babce6f4961b991953660350931\" /><br />US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil",
+    "published": "Sat, 25 Apr 2026 02:56:19 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/b858275/2147483647/strip/true/crop/3644x2437+0+0/resize/599x401!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2Faf%2Fa25e77f59af1052b8c263913894d%2Fab556babce6f4961b991953660350931",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/opinion/870804/fuel-running-low-a-looming-threat-to-bangladesh-s-connectivity-and-economy",
+    "title": "Fuel Running Low: A Looming Threat to Bangladesh’s Connectivity and Economy",
+    "link": "https://daily-sun.com/opinion/870804/fuel-running-low-a-looming-threat-to-bangladesh-s-connectivity-and-economy",
+    "description": "",
+    "published": "Sat, 25 Apr 2026 02:56:19 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
