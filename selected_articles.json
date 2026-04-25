@@ -32331,5 +32331,33 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://bdnews24.com/frontend/assets/images/common/thumb.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/bb-launch-startup-investment-firm-tk600cr-initial-fund-governor-1421271",
+    "title": "BB to launch startup investment firm with Tk600cr initial fund: Governor",
+    "link": "https://www.tbsnews.net/economy/banking/bb-launch-startup-investment-firm-tk600cr-initial-fund-governor-1421271",
+    "description": "More funds will be added later",
+    "published": "Sat, 25 Apr 2026 22:52:36 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/18/online-shopping.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/16-crore-people-bangladesh-faced-acute-food-insecurity-last-year-4160416",
+    "title": "1.6 crore people in Bangladesh faced acute food insecurity last year",
+    "link": "https://www.thedailystar.net/business/news/16-crore-people-bangladesh-faced-acute-food-insecurity-last-year-4160416",
+    "description": "",
+    "published": "Sat, 25 Apr 2026 22:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/2d77d414f72b",
+    "title": "Fuel crisis drives costs nearly 20%: BKMEA",
+    "link": "https://bdnews24.com/business/2d77d414f72b",
+    "description": "[Business] Fuel crisis drives costs nearly 20%: BKMEA",
+    "published": "Sat, 25 Apr 2026 22:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://bdnews24.com/frontend/assets/images/common/thumb.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
