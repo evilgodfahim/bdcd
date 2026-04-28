@@ -34561,5 +34561,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/28/medium/S-69f0e6d540b70.gif",
     "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://daily-sun.com/business/871592/bangladesh-set-to-start-nuclear-power-generation-as-fuel-loaded-at-rnpp",
+    "title": "Bangladesh set to start nuclear power generation as fuel loading begins at RNPP",
+    "link": "https://daily-sun.com/business/871592/bangladesh-set-to-start-nuclear-power-generation-as-fuel-loaded-at-rnpp",
+    "description": "",
+    "published": "Wed, 29 Apr 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/871506",
+    "title": "Bangladesh’s investment landscape slowly recovering: UNCTAD report",
+    "link": "https://www.daily-sun.com/business/871506",
+    "description": "Structural reforms remain critical as country nears LDC graduation",
+    "published": "Wed, 29 Apr 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/28/medium/12---28-04--26-ds-69efaaf0a025c.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/be1e5d323b7d",
+    "title": "Trade deal is a joint commitment: US envoy",
+    "link": "https://bdnews24.com/business/be1e5d323b7d",
+    "description": "[Business] Trade deal is a joint commitment: US envoy",
+    "published": "Wed, 29 Apr 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brent-christensen-280426-1777401713.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/diplomacy/871569/bangladesh-prepares-to-send-manpower-to-japan-under-ssw-category",
+    "title": "Bangladesh prepares to send manpower to Japan under SSW category",
+    "link": "https://daily-sun.com/diplomacy/871569/bangladesh-prepares-to-send-manpower-to-japan-under-ssw-category",
+    "description": "",
+    "published": "Wed, 29 Apr 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
