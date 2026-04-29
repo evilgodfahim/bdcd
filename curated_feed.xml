@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Wed, 29 Apr 2026 19:44:43 +0000</lastBuildDate>
-    <item>
-      <title>Oil prices edge lower with no progress on US-Iran talks, Hormuz shipping still disrupted</title>
-      <link>https://www.tbsnews.net/world/oil-prices-edge-lower-no-progress-us-iran-talks-hormuz-shipping-still-disrupted-1419046</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/world/oil-prices-edge-lower-no-progress-us-iran-talks-hormuz-shipping-still-disrupted-1419046</guid>
-      <description>Brent crude futures fell 15 cents to $101.76 a barrel, after settling above $100 for the first time in more than two weeks yesterday (23 April)</description>
-      <pubDate>Thu, 23 Apr 2026 12:10:00 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/23/untitled_design_3_0.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/23/untitled_design_3_0.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 21:12:07 +0000</lastBuildDate>
     <item>
       <title>US intercepts 3 Iranian oil tankers in Asian waters, sources say</title>
       <link>https://www.tbsnews.net/world/us-intercepts-three-iranian-oil-tankers-asian-waters-sources-say-1419041</link>
@@ -4699,6 +4690,15 @@ The approval of these loans was given at a meeting of the Standing Committee on 
       <pubDate>Thu, 30 Apr 2026 01:44:35 +0600</pubDate>
       <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/02/19/amin_ur_rashid.jpg" />
       <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/02/19/amin_ur_rashid.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Libya, Algeria and Tunisia launch system to manage vast aquifer resources</title>
+      <link>https://www.daily-sun.com/world/871917/libya-algeria-and-tunisia-launch-system-to-manage-vast-aquifer-resources</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/871917/libya-algeria-and-tunisia-launch-system-to-manage-vast-aquifer-resources</guid>
+      <description>Libya, Algeria, and Tunisia agree on sustainable water management from Saharan aquifer, ensuring equitable access and environmental protection in the</description>
+      <pubDate>Thu, 30 Apr 2026 03:12:00 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/30/medium/Algeria-Tunisia-Libya_0-69f26412e66bb.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/30/medium/Algeria-Tunisia-Libya_0-69f26412e66bb.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
