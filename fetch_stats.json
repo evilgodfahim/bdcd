@@ -12,8 +12,8 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 11,
+      "capped": 11
     },
     "https://en.prothomalo.com/feed/": {
       "fetched": 9,
@@ -22,13 +22,13 @@
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 124,
+      "passed_age": 111,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 57,
-      "capped": 57
+      "passed_age": 49,
+      "capped": 49
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,23 +42,23 @@
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 17,
-      "capped": 17
+      "passed_age": 15,
+      "capped": 15
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 63,
-      "capped": 63
+      "passed_age": 56,
+      "capped": 56
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 72,
-      "capped": 72
+      "passed_age": 67,
+      "capped": 67
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -71,13 +71,13 @@
     "DIRECT": 4201
   },
   "total_fetched": 4201,
-  "total_passed_age": 521,
-  "total_new": 212,
-  "total_signal": 24,
+  "total_passed_age": 487,
+  "total_new": 53,
+  "total_signal": 4,
   "total_longread": 0,
-  "total_signal_deduped": 19,
+  "total_signal_deduped": 2,
   "total_longread_deduped": 0,
-  "timestamp": "2026-04-29T17:43:46.374607",
+  "timestamp": "2026-04-29T19:44:44.091175",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 24
+  "total_signal_mistral": 4
 }
