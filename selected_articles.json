@@ -36031,5 +36031,15 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/30/medium/Jatiya-Sangsad-parliament-courtesy-69f397caa4ebf.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/first-session-13th-parliament-prorogued-1426521",
+    "title": "First session of 13th Parliament prorogued",
+    "link": "https://www.tbsnews.net/bangladesh/first-session-13th-parliament-prorogued-1426521",
+    "description": "",
+    "published": "Fri, 01 May 2026 03:06:55 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/11/01/bd_parliament.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
