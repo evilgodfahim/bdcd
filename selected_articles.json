@@ -36495,5 +36495,35 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/sanction-69f4ce008795c.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/hilsa-prices-jump-fuel-costs-rise-amid-iran-war-1427056",
+    "title": "Hilsa prices jump as fuel costs rise amid Iran war",
+    "link": "https://www.tbsnews.net/bangladesh/hilsa-prices-jump-fuel-costs-rise-amid-iran-war-1427056",
+    "description": "During a visit to Motirhat ghat in Lakshmipur, fishermen and traders said the global conflict is now directly affecting local livelihoods",
+    "published": "Sat, 02 May 2026 01:19:17 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/01/fishing_boat.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/world/dd52729e32a2",
+    "title": "Russia pounds Ukraine with drones",
+    "link": "https://bdnews24.com/world/dd52729e32a2",
+    "description": "[World] Russia pounds Ukraine with drones",
+    "published": "Sat, 02 May 2026 01:19:17 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/russia-ukraine-attack-01052026-01-1777655728.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/opinion/78233c50fe2c",
+    "title": "Oil’s price boom foreshadows post-war bust",
+    "link": "https://bdnews24.com/opinion/78233c50fe2c",
+    "description": "[Opinion] Oil’s price boom foreshadows post-war bust",
+    "published": "Sat, 02 May 2026 01:19:17 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/oil-price-boom-01052026-01-1777654783.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
