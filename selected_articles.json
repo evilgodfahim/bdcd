@@ -36437,5 +36437,63 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/SUDAN-POLITICS-CHAD-MSF-69f49f037a241.JPG",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/409142/may-day-protests-held-worldwide-as-workers-demand",
+    "title": "May Day protests held worldwide as workers demand relief from rising costs",
+    "link": "https://www.dhakatribune.com/world/409142/may-day-protests-held-worldwide-as-workers-demand",
+    "description": "<p>\n\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/05/01/5ac68b1e56927ae625f785a02c90371e-69f4c5ae627bd.jpg?jadewits_media_id=65008\" style=\"float: left; margin: 0 10px 10px 0;\" width=\"150\" />\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tWorkers demand higher wages better conditions and social protections\nProtesters criticize policies of Donald Trump and war impacts\t\t\t\t\t\t<a class=\"more_link\" href=\"https://www.dhakatribune.com/world/409142/may-day-protests-held-worldwide-as-workers-demand\">Details</a>\n\t\t\t\t\t</p>",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://www.dhakatribune.com/feed/",
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/05/01/5ac68b1e56927ae625f785a02c90371e-69f4c5ae627bd.jpg?jadewits_media_id=65008",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/china/nearly-80-times-cheaper-lithium-china-unveils-low-cost-all-iron-flow-battery",
+    "title": "'Nearly 80 times cheaper than lithium': China unveils low-cost 'all-iron flow battery' for renewable energy storage",
+    "link": "https://www.tbsnews.net/worldbiz/china/nearly-80-times-cheaper-lithium-china-unveils-low-cost-all-iron-flow-battery",
+    "description": "Scientists from the Institute of Metal Research under the Chinese Academy of Sciences (CAS) developed a highly stable iron-based electrolyte capable of enduring more than 6,000 charge-discharge cycles with virtually no capacity loss – a record in the field.",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/01/china_unveils_ultra-cheap_all-iron_flow_battery.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/world/9abd8c3d8a15",
+    "title": "Asia, Europe scramble for gas, US faces surplus",
+    "link": "https://bdnews24.com/world/9abd8c3d8a15",
+    "description": "[World] Asia, Europe scramble for gas, US faces surplus",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/asia-europe-us-gas-01052026-01-1777647970.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "057ed43867f13f4e80f32f130ac03234059e23fd",
+    "title": "China has now dropped tariffs on imports from every African country except 1",
+    "link": "https://apnews.com/article/china-tariffs-africa-trade-us-7da631f9be17069ec92e1d7f432058d7",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/703d2de/2147483647/strip/true/crop/4927x3283+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F45%2F1be4e9ead8a6684b74afd51d90f9%2F381de1ce86a54ddc94e07f35b7935129\" /><br />China has now dropped tariffs on imports from every African country except 1",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/703d2de/2147483647/strip/true/crop/4927x3283+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F45%2F1be4e9ead8a6684b74afd51d90f9%2F381de1ce86a54ddc94e07f35b7935129",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ff72cfa5b9d5feef0666582ef140a4cc976d6759",
+    "title": "Israel strikes southern Lebanon, killing 4; Hezbollah drone wounds 2 Israeli soldiers",
+    "link": "https://apnews.com/article/lebanon-israel-airstrikes-drones-tyre-hezbollah-ceasefire-329f63997fe92030af18c770eb212fc7",
+    "description": "Israel strikes southern Lebanon, killing 4; Hezbollah drone wounds 2 Israeli soldiers",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/872201/us-imposes-new-iran-sanctions-warns-against-paying-hormuz-tolls",
+    "title": "US imposes new Iran sanctions, warns against paying Hormuz tolls",
+    "link": "https://www.daily-sun.com/world/872201/us-imposes-new-iran-sanctions-warns-against-paying-hormuz-tolls",
+    "description": "The United States imposed new sanctions Friday on three Iranian foreign currency exchange firms, in an effort to target Tehran's",
+    "published": "Fri, 01 May 2026 23:02:48 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/sanction-69f4ce008795c.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
