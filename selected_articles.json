@@ -36071,5 +36071,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/The-UAE-flag-flies-over-a-boat-at-Dubai-Marina,-Dubai,-United-Arab-Emirates,-22-May-2015-69f3bf01e73e4.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/iran-threatens-painful-response-if-us-renews-attacks-1426666",
+    "title": "Iran threatens painful response if US renews attacks",
+    "link": "https://www.tbsnews.net/world/iran-threatens-painful-response-if-us-renews-attacks-1426666",
+    "description": "Two months into the US-Israeli war with Iran, the vital sea channel remains closed, choking off 20% of the world’s oil and gas supplies",
+    "published": "Fri, 01 May 2026 09:54:26 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/01/img_1975.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/871903",
+    "title": "Interest rates to be lowered to boost investment, says commerce minister",
+    "link": "https://www.daily-sun.com/business/871903",
+    "description": "BTKG Expo 2026 begins at ICCB, showcasing textile and RMG innovation",
+    "published": "Fri, 01 May 2026 09:54:26 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/jul-feb-farm-credit-disbursements-soar-2420pc-to-tk-274-80b",
+    "title": "Jul-Feb farm credit disbursements soar 24.20pc to Tk 274. 80b",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/jul-feb-farm-credit-disbursements-soar-2420pc-to-tk-274-80b",
+    "description": "Disbursements of agricultural and rural credit witnessed a significant surge during the first eight months of the current fiscal year, official data revealed. \nAccording to latest Bangladesh Bank (BB) figures, the country's scheduled banks disbursed Tk 274. 80 billion worth of farm credit dur",
+    "published": "Fri, 01 May 2026 09:54:26 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "ea751c59b2fa52582118aba6e42fca94fa78c25b",
+    "title": "UN votes to cut the peacekeeping force in South Sudan from 17,000 to 12,000",
+    "link": "https://apnews.com/article/un-us-south-sudan-troops-resolution-oil-06481307572434ca19c9ba2e4d823263",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/bd5e9c2/2147483647/strip/true/crop/4338x2892+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F79%2Faa6d74f2fe56ddd036159a804ba5%2F34fea7b2cbe844ab8e202674dad32e80\" /><br />UN votes to cut the peacekeeping force in South Sudan from 17,000 to 12,000",
+    "published": "Fri, 01 May 2026 09:54:26 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/bd5e9c2/2147483647/strip/true/crop/4338x2892+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F79%2Faa6d74f2fe56ddd036159a804ba5%2F34fea7b2cbe844ab8e202674dad32e80",
+    "thumbnail_type": "image/jpeg"
   }
 ]
