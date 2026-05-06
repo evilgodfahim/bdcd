@@ -40254,5 +40254,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/06/medium/Rashed-Al-Mahmud-Titumir-BSS-69fb865a9b0d4.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/thoughts/bangladesh-building-digital-economy-floor-giving-way-1431946",
+    "title": "Bangladesh is building a digital economy on a floor that is giving way",
+    "link": "https://www.tbsnews.net/thoughts/bangladesh-building-digital-economy-floor-giving-way-1431946",
+    "description": "",
+    "published": "Thu, 07 May 2026 03:15:26 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/07/thoughts.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/bangladesh-should-move-the-global-value-chain-adb-4169491",
+    "title": "Bangladesh should move up the global value chain: ADB",
+    "link": "https://www.thedailystar.net/business/economy/news/bangladesh-should-move-the-global-value-chain-adb-4169491",
+    "description": "Bangladesh needs to move up the global value chain (GVC), with fresh policy measures aiming to support this by promoting diversification and higher value-added activities, according to a new Asian Development Bank (ADB) study.",
+    "published": "Thu, 07 May 2026 03:15:26 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/global/japan-to-host-adbs-60th-annual-meeting-in-2027",
+    "title": "Japan to host ADB’s 60th annual meeting in 2027",
+    "link": "https://thefinancialexpress.com.bd/economy/global/japan-to-host-adbs-60th-annual-meeting-in-2027",
+    "description": "Japan will host the Asian Development Bank’s (ADB) 60th Annual Meeting in Aichi-Nagoya from May 2 to 5, 2027.\nThe event will coincide with ADB’s 60th anniversary, marking six decades of partnership since the bank’s establishment.\n “It is fitting to mark six decades of",
+    "published": "Thu, 07 May 2026 03:15:26 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bangladesh-trade-deficit-exceeds-19bn-as-imports-rise-and-exports-fall",
+    "title": "Trade deficit crosses $19bn",
+    "link": "https://thefinancialexpress.com.bd/trade/bangladesh-trade-deficit-exceeds-19bn-as-imports-rise-and-exports-fall",
+    "description": "Bangladesh’s trade deficit has surpassed the $19 billion mark in the first nine months of the ongoing fiscal year, driven by a surge in imports and a simultaneous slump in export earnings.\nAccording to the latest data from Bangladesh Bank, the trade gap for the July-March period of the 2025-",
+    "published": "Thu, 07 May 2026 03:15:26 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151796/bangladesh-trade-deficit-exceeds-19bn-as-imports-rise-and-exports-fall.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
