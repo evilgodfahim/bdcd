@@ -40859,5 +40859,63 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/mamata--69fcb222d0ada.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/cabinet-body-approves-electricity-procurement-north-west-power-1432921",
+    "title": "Cabinet body approves electricity procurement from North West Power",
+    "link": "https://www.tbsnews.net/bangladesh/energy/cabinet-body-approves-electricity-procurement-north-west-power-1432921",
+    "description": "According to officials, the committee approved a proposal from the Power Division for purchasing electricity from the 225MW Sirajganj Combined Cycle Power Plant (Unit-2) established by North West Power.",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/07/14/powerplant.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/tk35708cr-set-expanded-safety-net-fy27-1432916",
+    "title": "Tk35,708cr set for expanded safety net for FY27",
+    "link": "https://www.tbsnews.net/bangladesh/tk35708cr-set-expanded-safety-net-fy27-1432916",
+    "description": "Besides, the government is increasing both the number of beneficiaries and the allowances under various cash transfer schemes for poor and vulnerable groups. Also, food-friendly programmes are being expanded amid high inflation.",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/10/07/_social_safety_net.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-declares-7-day-eid-ul-adha-holiday-25-may-1432906",
+    "title": "Govt declares 7-day Eid-ul-Adha holiday from 25 May",
+    "link": "https://www.tbsnews.net/bangladesh/govt-declares-7-day-eid-ul-adha-holiday-25-may-1432906",
+    "description": "However, the weekly holiday on Saturday (23 May) has been cancelled and offices will remain open",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/07/img_5864.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/britain-pledges-continued-support-modernisation-bangladesh-bank-1432851",
+    "title": "Britain pledges continued support for modernisation of Bangladesh Bank",
+    "link": "https://www.tbsnews.net/bangladesh/britain-pledges-continued-support-modernisation-bangladesh-bank-1432851",
+    "description": "",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/07/bb_and_british_high_com.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/some-1500-ships-trapped-gulf-due-iran-conflict-imo-4170186",
+    "title": "Some 1,500 ships trapped in Gulf due to Iran conflict: IMO",
+    "link": "https://www.thedailystar.net/news/world/news/some-1500-ships-trapped-gulf-due-iran-conflict-imo-4170186",
+    "description": "",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/4392a6b21cd0",
+    "title": "Remittance crosses $30bn mark",
+    "link": "https://bdnews24.com/economy/4392a6b21cd0",
+    "description": "[Economy] Remittance crosses $30bn mark",
+    "published": "Fri, 08 May 2026 01:48:04 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/02-malaysia-bangladeshiworker-270814-0012-1777947582.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
