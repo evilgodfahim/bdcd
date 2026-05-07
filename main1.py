@@ -33,7 +33,6 @@ except Exception:
 # -- FEEDS ---------------------------------------------------------------------
 
 FEED_URLS = [
-    "https://www.dhakatribune.com/feed/",
     "https://tbsnews.net/top-news/rss.xml",
     "https://evilgodfahim.github.io/ds/business.xml",
     "https://en.prothomalo.com/feed/",
