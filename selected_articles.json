@@ -40994,5 +40994,33 @@
     "description": "Deadly double attack hits 2 central Mali villages as violence spreads",
     "published": "Fri, 08 May 2026 05:03:27 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-and-iran-exchange-fire-trump-says-ceasefire-still-effect-1433016",
+    "title": "US and Iran exchange fire, but Trump says ceasefire still in effect",
+    "link": "https://www.tbsnews.net/world/us-and-iran-exchange-fire-trump-says-ceasefire-still-effect-1433016",
+    "description": "",
+    "published": "Fri, 08 May 2026 09:34:56 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/03/img_9432.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/873357",
+    "title": "Jet fuel price cut by Tk22 per litre",
+    "link": "https://www.daily-sun.com/business/873357",
+    "description": "The Bangladesh Energy Regulatory Commission has reduced the price of jet fuel used in aircraft",
+    "published": "Fri, 08 May 2026 09:34:56 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/873448/lebanon-says-at-least-12-killed-in-israeli-attacks",
+    "title": "Lebanon says at least 12 killed in Israeli attacks",
+    "link": "https://www.daily-sun.com/world/873448/lebanon-says-at-least-12-killed-in-israeli-attacks",
+    "description": "Lebanese state media had reported Israeli strikes across a number of southern towns and villages Thursday...",
+    "published": "Fri, 08 May 2026 09:34:56 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/An-Israeli-military-vehicle-drives-past-houses-destroyed-in-Israeli-strikes-in-southern-Lebanon-as-seen-from-a-position-across-the-border-in-the-Upper-Galilee-in-northern-Israel-on-7-May-2026-69fd1774481dd.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
