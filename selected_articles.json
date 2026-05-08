@@ -41483,5 +41483,45 @@
     "description": "",
     "published": "Sat, 09 May 2026 01:26:36 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/7b57bcf21834",
+    "title": "Inflation outpaces wages for 50 consecutive months",
+    "link": "https://bdnews24.com/economy/7b57bcf21834",
+    "description": "[Economy] Inflation outpaces wages for 50 consecutive months",
+    "published": "Sat, 09 May 2026 05:00:22 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/may-day-labour-worker-010525-009-1746030128.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/681468b75708",
+    "title": "Vance meeting with Qatar PM to discuss Iran",
+    "link": "https://bdnews24.com/world/681468b75708",
+    "description": "[World] Vance meeting with Qatar PM to discuss Iran",
+    "published": "Sat, 09 May 2026 05:00:22 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/vance-qatar-meeting-09052026-01-1778266612.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e58dec01f5abd0d9fb6141f103e8973b610838dc",
+    "title": "California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
+    "link": "https://apnews.com/article/colorado-river-lake-mead-lake-powell-d94d5a36398d2a34be7e2c4d10ef1bf6",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/a72c861/2147483647/strip/true/crop/7008x4672+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fbe%2Fdae89fa3df0da5299d37a02d5e90%2F0e76f5cae3e9486694b93fb4fcc8caf1\" /><br />California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
+    "published": "Sat, 09 May 2026 05:00:22 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/a72c861/2147483647/strip/true/crop/7008x4672+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fbe%2Fdae89fa3df0da5299d37a02d5e90%2F0e76f5cae3e9486694b93fb4fcc8caf1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/873635/bangladesh-stresses-stronger-global-cooperation-to-ensure-migrants-rights",
+    "title": "Bangladesh stresses stronger global cooperation to ensure migrants’ rights",
+    "link": "https://www.daily-sun.com/bangladesh/873635/bangladesh-stresses-stronger-global-cooperation-to-ensure-migrants-rights",
+    "description": "Bangladesh calls for global cooperation to tackle irregular migration and protect migrant rights, emphasizing a fair recruitment process at the",
+    "published": "Sat, 09 May 2026 05:00:22 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/09/medium/Ariful-Haque-Choudhury-69fe483b27d81.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
