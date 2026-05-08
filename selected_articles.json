@@ -41142,5 +41142,104 @@
     "description": "North Korea will deploy new artillery guns targeting Seoul and commission its 1st destroyer",
     "published": "Fri, 08 May 2026 12:02:13 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/trade-deal-us-can-be-revised-if-terms-hurt-bangladeshs-interests-commerce-minister",
+    "title": "Trade deal with US can be revised if terms hurt Bangladesh's interests: Commerce minister",
+    "link": "https://www.tbsnews.net/bangladesh/trade-deal-us-can-be-revised-if-terms-hurt-bangladeshs-interests-commerce-minister",
+    "description": "Responding to a question on inflation, the minister said the increase in fuel oil prices will create only a “one-time spike” and will not make inflation “spiral or become sticky”.",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/02/20/khandakar_muktadir.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/oil-prices-jump-renewed-us-iran-hostilities-1433181",
+    "title": "Oil prices jump on renewed US-Iran hostilities",
+    "link": "https://www.tbsnews.net/world/oil-prices-jump-renewed-us-iran-hostilities-1433181",
+    "description": "The benchmarks were up more than 3% at market open",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/18/oil_hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/tech/instagram-drops-private-messaging-feature-worldwide-1433201",
+    "title": "Instagram drops private messaging feature worldwide",
+    "link": "https://www.tbsnews.net/tech/instagram-drops-private-messaging-feature-worldwide-1433201",
+    "description": "",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/10/01/instagram.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/409661/measles-outbreak-dhaka-division-accounts-for-50%25",
+    "title": "Measles outbreak: Dhaka division accounts for 50% of total fatalities",
+    "link": "https://www.dhakatribune.com/bangladesh/409661/measles-outbreak-dhaka-division-accounts-for-50%25",
+    "description": "Of the deaths recorded in Dhaka, 38 were confirmed as measles-related, while the remaining 130 were classified as suspected.",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/9da28a47b0b568090238c7362de0a274-69e9eecbea82b.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aee367f4d48314c7aa6556772d666a4ea3594c0d",
+    "title": "Sudan was already at war and hungry. Now its farmers are hit by another conflict",
+    "link": "https://apnews.com/article/sudan-agriculture-war-iran-food-fertilizer-fb8e50ee7b770c5255a02e1545d6b3d2",
+    "description": "Sudan was already at war and hungry. Now its farmers are hit by another conflict",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/873470/some-1-500-ships-trapped-in-gulf-due-to-iran-conflict-imo",
+    "title": "Some 1,500 ships trapped in Gulf due to Iran conflict: IMO",
+    "link": "https://www.daily-sun.com/world/873470/some-1-500-ships-trapped-in-gulf-due-to-iran-conflict-imo",
+    "description": "Iran's blockade in the Strait of Hormuz traps 1,500 ships and 20,000 crew. The UN warns of increased risks and",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/IMO-69fd722ab3143.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/873463/47-852-bangladeshi-hajj-pilgrims-reach-saudi-arabia",
+    "title": "47,852 Bangladeshi Hajj pilgrims reach Saudi Arabia",
+    "link": "https://www.daily-sun.com/bangladesh/873463/47-852-bangladeshi-hajj-pilgrims-reach-saudi-arabia",
+    "description": "A total of 47,852 Bangladeshi Hajj pilgrims have arrived in Saudi Arabia for the holy pilgrimage, with 10 fatalities reported.",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/hajj-69fd6754786d4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/873487/iran-can-outlast-trump-s-hormuz-blockade-for-months",
+    "title": "Iran can outlast Trump’s Hormuz blockade for months",
+    "link": "https://www.daily-sun.com/world/873487/iran-can-outlast-trump-s-hormuz-blockade-for-months",
+    "description": "CIA analysis reveals Iran can withstand US naval blockade for months, challenging Trump's optimistic claims on the war's outcome.",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/Hormuz2-69fd89a473bc7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/873483/bangladesh-calls-for-stronger-global-cooperation-on-safe-migration-at-un-forum",
+    "title": "Bangladesh calls for stronger global cooperation on safe migration at UN forum",
+    "link": "https://www.daily-sun.com/bangladesh/873483/bangladesh-calls-for-stronger-global-cooperation-on-safe-migration-at-un-forum",
+    "description": "Expatriates’ Welfare Minister Ariful Haque Choudhury calls for global cooperation to protect migrant workers’ rights at the UN Migration Forum",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/BD-69fd83f8392cd.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/873493/fuel-price-hike-no-excuse-for-rising-commodity-costs-commerce-minister",
+    "title": "Fuel price hike no excuse for rising commodity costs: Commerce Minister",
+    "link": "https://www.daily-sun.com/bangladesh/873493/fuel-price-hike-no-excuse-for-rising-commodity-costs-commerce-minister",
+    "description": "Commerce Minister Khandaker Abdul Muqtadir rejects fuel price hike as a reason for raising essential commodity prices, emphasizing government monitoring.",
+    "published": "Fri, 08 May 2026 15:45:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/Commerce-Minister-Khandaker-Abdul-Muqtadir-69fd98f1e2967.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
