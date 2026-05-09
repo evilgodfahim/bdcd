@@ -41523,5 +41523,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/09/medium/Ariful-Haque-Choudhury-69fe483b27d81.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-1433801",
+    "title": "US fire on Iran tankers sparks reprisals as deal hangs in balance",
+    "link": "https://www.tbsnews.net/world/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-1433801",
+    "description": "Iranian officials accused the United States of violating the ceasefire with the tanker strikes and hampering diplomatic efforts to end the conflict.",
+    "published": "Sat, 09 May 2026 09:35:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/09/image-385431-1778295240.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/tehran-could-withstand-blockade-four-months-cia-report-1433781",
+    "title": "Tehran could withstand blockade for four months: CIA report",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/tehran-could-withstand-blockade-four-months-cia-report-1433781",
+    "description": "",
+    "published": "Sat, 09 May 2026 09:35:06 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/03/trump_iran_hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
