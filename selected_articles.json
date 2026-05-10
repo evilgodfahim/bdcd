@@ -42168,5 +42168,29 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/10/medium/Car-bomb-attack-on-checkpoint-kills-15-in-Pakistan-6a003a31ea70d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/govt-approve-projects-three-conditions-finance-minister-4172166",
+    "title": "Govt to approve projects on three conditions: finance minister",
+    "link": "https://www.thedailystar.net/business/news/govt-approve-projects-three-conditions-finance-minister-4172166",
+    "description": "",
+    "published": "Sun, 10 May 2026 17:03:05 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/crime-justice/news/ict-1-frames-charges-against-taposh-nanak-26-others-over-july-uprising-killings-4172131",
+    "title": "ICT-1 frames charges against Taposh, Nanak, 26 others over July uprising killings",
+    "link": "https://www.thedailystar.net/news/crime-justice/news/ict-1-frames-charges-against-taposh-nanak-26-others-over-july-uprising-killings-4172131",
+    "description": "",
+    "published": "Sun, 10 May 2026 17:03:05 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "7bce6a4bfa89526d8a37dd96ba5ae19f",
+    "title": "Central bank sold $35.35 billion in five years, bought $12.33 billion",
+    "link": "https://en.bonikbarta.com/business/SLG4rJk89Hh3MVlr/",
+    "description": "Bangladesh Bank made a net profit of BDT 1.58 trillion over the past five fiscal years, its own data show. Most of it derived from foreign exchange trading.",
+    "published": "Sun, 10 May 2026 17:03:05 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
