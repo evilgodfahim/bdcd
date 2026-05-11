@@ -11,19 +11,19 @@
       "capped": 1
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 12,
-      "passed_age": 12,
-      "capped": 12
+      "fetched": 8,
+      "passed_age": 8,
+      "capped": 8
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 86,
-      "capped": 86
+      "passed_age": 118,
+      "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 44,
-      "capped": 44
+      "passed_age": 50,
+      "capped": 50
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -31,29 +31,29 @@
       "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
-      "fetched": 365,
-      "passed_age": 365,
+      "fetched": 375,
+      "passed_age": 375,
       "capped": 100
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 15,
-      "capped": 15
+      "passed_age": 19,
+      "capped": 19
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 35,
-      "capped": 35
+      "passed_age": 41,
+      "capped": 41
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 52,
-      "capped": 52
+      "passed_age": 42,
+      "capped": 42
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 9,
-      "capped": 9
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4417
+    "DIRECT": 4423
   },
-  "total_fetched": 4417,
-  "total_passed_age": 659,
-  "total_new": 154,
-  "total_signal": 13,
+  "total_fetched": 4423,
+  "total_passed_age": 706,
+  "total_new": 134,
+  "total_signal": 23,
   "total_longread": 0,
-  "total_signal_deduped": 12,
+  "total_signal_deduped": 20,
   "total_longread_deduped": 0,
-  "timestamp": "2026-05-11T12:42:31.087016",
+  "timestamp": "2026-05-11T16:35:27.663873",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 13
+  "total_signal_mistral": 23
 }
