@@ -43275,5 +43275,35 @@
     "description": "",
     "published": "Tue, 12 May 2026 01:55:45 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/d365cdeb3765",
+    "title": "BB allows forex security bonds for visas",
+    "link": "https://bdnews24.com/business/d365cdeb3765",
+    "description": "[Business] BB allows forex security bonds for visas",
+    "published": "Tue, 12 May 2026 03:21:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/bangladesh-bank-logo-aam-090824-0004-1723146175.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bab-fears-comeback-of-bank-looters-financial-sector-fiasco",
+    "title": "BAB fears comeback of bank 'looters', financial-sector fiasco",
+    "link": "https://thefinancialexpress.com.bd/economy/bab-fears-comeback-of-bank-looters-financial-sector-fiasco",
+    "description": "Bank owners' apex body deplores recent changes to the bank-resolution law which they fear could invite controversial former shareholders to regain control of troubled banks and consequently destabilise Bangladesh's financial sector over again.\nRepresentatives of the Bangladesh Association of Banks",
+    "published": "Tue, 12 May 2026 03:21:49 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152537/p1-info-babs-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/874199/japan-bangladesh-discuss-future-security-cooperation",
+    "title": "Japan, Bangladesh discuss future security cooperation",
+    "link": "https://www.daily-sun.com/bangladesh/874199/japan-bangladesh-discuss-future-security-cooperation",
+    "description": "Japanese Ambassador Saida Shinichi and Lt Gen Mir Mushfiqur Rahman discuss enhancing security cooperation between Bangladesh and Japan.",
+    "published": "Tue, 12 May 2026 03:21:49 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/12/medium/Japan,-Bangladesh-discuss-future-security-cooperation-6a02322863a7c.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
