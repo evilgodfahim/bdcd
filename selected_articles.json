@@ -44627,5 +44627,100 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/13/medium/Untitled-design-6a04870f5e01b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/us-envoy-discusses-energy-cooperation-bangladesh-1438641",
+    "title": "US envoy discusses energy cooperation with Bangladesh",
+    "link": "https://www.tbsnews.net/bangladesh/us-envoy-discusses-energy-cooperation-bangladesh-1438641",
+    "description": "",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/14/image-386832-1778693474_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/74600765597c",
+    "title": "China draws ‘red lines’ before Trump-Xi talks",
+    "link": "https://bdnews24.com/world/74600765597c",
+    "description": "[World] China draws ‘red lines’ before Trump-Xi talks",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/trump-xi-300426-01-1777530948.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/health/410151/suspected-measles-cases-surpass-50-000-in",
+    "title": "Suspected measles cases surpass 50,000 in Bangladesh",
+    "link": "https://www.dhakatribune.com/bangladesh/health/410151/suspected-measles-cases-surpass-50-000-in",
+    "description": "Experts urge public health emergency declaration as child infections and deaths continue to rise",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/9da28a47b0b568090238c7362de0a274-69e9eecbea82b.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/banks/410160/bb-lowers-penalty-interest-on-overdue-loans-to",
+    "title": "BB lowers penalty interest on overdue loans to 0.5%",
+    "link": "https://www.dhakatribune.com/business/banks/410160/bb-lowers-penalty-interest-on-overdue-loans-to",
+    "description": "",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2025/09/20/Loan-bigstock-1-f66bf6275683f0da93f3d4a6e4e41dd4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/stock/410159/bsec-new-guidelines-on-capital-increase-dividend",
+    "title": "BSEC: New guidelines on capital increase, dividend account in capital market",
+    "link": "https://www.dhakatribune.com/business/stock/410159/bsec-new-guidelines-on-capital-increase-dividend",
+    "description": "",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2024/01/21/Stock-Capital-Market-MEHEDI-HASAN-3-c22a56cdc2b81230f8938181ffb3ca69.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/410156/fitch-ratings-bangladesh-s-debt-repayment",
+    "title": "Fitch Ratings: Bangladesh's debt repayment capacity may decline",
+    "link": "https://www.dhakatribune.com/business/410156/fitch-ratings-bangladesh-s-debt-repayment",
+    "description": "",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2023/08/20/Bank-Banknote-Taka-Money-91df5de214da4770117c970f2514cb2e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/banks/410154/bb-personnel-banned-from-bank-funded-foreign-trips",
+    "title": "BB personnel banned from bank-funded foreign trips",
+    "link": "https://www.dhakatribune.com/business/banks/410154/bb-personnel-banned-from-bank-funded-foreign-trips",
+    "description": "",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2025/10/28/N-23-4b93ff5179b9fb52512cdf86f86856c3.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/ecnec-approves-multipurpose-padma-barrage-project",
+    "title": "ECNEC approves multipurpose Padma Barrage project",
+    "link": "https://thefinancialexpress.com.bd/economy/ecnec-approves-multipurpose-padma-barrage-project",
+    "description": "Decades of wait is all but over now as the government on Wednesday adopted the multipurpose Padma Barrage project meant to mitigate water-scarcity impacts in vast areas and facilitate irrigation, pisciculture and hydropower generation, officials say.   \n The 65-year-long-stalle",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152873/p1-info-padma-barrage-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "781914784aee87d5a9c1f51c5454701806b276a5",
+    "title": "Clashes with militants in southwestern Pakistan kill 5 troops and 7 militants",
+    "link": "https://apnews.com/article/pakistan-troops-militants-balochistan-16c28efca7d1b20b1ea240c71f46edd5",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/946ca98/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F42%2F8d5a26a6b8dbdbe989c3e1590df5%2Fc19e65fc90c844638f9aa81eb2560ca4\" /><br />Clashes with militants in southwestern Pakistan kill 5 troops and 7 militants",
+    "published": "Thu, 14 May 2026 03:39:30 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/946ca98/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F42%2F8d5a26a6b8dbdbe989c3e1590df5%2Fc19e65fc90c844638f9aa81eb2560ca4",
+    "thumbnail_type": "image/jpeg"
   }
 ]
