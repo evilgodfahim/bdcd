@@ -45301,5 +45301,46 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/14/medium/UKRAINE-CRISIS-ATTACK-KYIV-6a05f24de37c4.JPG",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/securities-and-exchange-commission-drafts-stricter-corporate-governance-framework",
+    "title": "Securities and Exchange Commission drafts stricter corporate governance framework for listed firms",
+    "link": "https://www.tbsnews.net/economy/stocks/securities-and-exchange-commission-drafts-stricter-corporate-governance-framework",
+    "description": "",
+    "published": "Fri, 15 May 2026 01:57:00 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/11/15/bsec_stock.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/e60800e8af30",
+    "title": "BB expands large loan access for businesses",
+    "link": "https://bdnews24.com/business/e60800e8af30",
+    "description": "[Business] BB expands large loan access for businesses",
+    "published": "Fri, 15 May 2026 01:57:00 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/bank-borrowing-060426-01-1775500289.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/9263ecdc394b",
+    "title": "Tax-free income limit to stay put in FY27",
+    "link": "https://bdnews24.com/bangladesh/9263ecdc394b",
+    "description": "[Bangladesh] Tax-free income limit to stay put in FY27",
+    "published": "Fri, 15 May 2026 01:57:00 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/income-tax-5-25-1738226677.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/foreign-affairs/410256/bangladesh-us-sign-energy-cooperation-mou-in",
+    "title": "Bangladesh, US sign energy cooperation MoU in Washington",
+    "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/410256/bangladesh-us-sign-energy-cooperation-mou-in",
+    "description": "Bangladesh and the United States of America on Thursday formally signed a Memorandum of Understanding (MoU) on strategic cooperation in the field of energy, which Washington sees as a historic development in the Bangladesh-US ties.\n\nThe MoU was signed at the Department of Energy (DoE) in Washington, DC.\n\nOn behalf of the USA, Energy Secretary Chris Wright signed the MoU while Foreign Minister Dr Khalilur Rahman signed it on behalf of Bangladesh.\n\nThe MoU is signed at a time when many countries in the world, including Bangladesh, are facing serious challenges to ensure their energy security due to the ongoing conflicts in the Middle East region, said the Bangladesh Embassy in Washington, DC.\n\nThis MoU would contribute to the efforts of Bangladesh to enhance its long-term energy security by diversifying its energy sourcing options based on affordability and supply chain sustainability and would open up new avenues of broader energy cooperation between Bangladesh and USA.\n\nIt would facilitate capacity building, exchange of knowledge and expertise and study on oil, gas, geothermal and bioenergy between the two countries and also Bangladesh's import of US LNG, LPG and other energy products at affordable price.\n\nIn his brief remarks at the signing ceremony, Foreign Minister Dr Khalilur termed the MoU as another milestone in the growing Bangladesh-US relationship.\n\nHe thanked Prime Minister Tarique Rahman and President Donald Trump for their support behind this initiative.\n\nUS Energy Secretary Wright mentioned this MoU as a historic development in the Bangladesh-US ties.\n\nBangladesh Embassy officials and high officials of the US Department of Energy were present at the signing ceremony.",
+    "published": "Fri, 15 May 2026 01:57:00 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/15/d8e5ffab0a29ef1bc94f8ffd440ba00d-6a061d5419797.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
