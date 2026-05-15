@@ -45458,5 +45458,23 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/15/screenshot_2026-05-15_072238.png",
     "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/govt-plans-tax-relief-middle-class-4176091",
+    "title": "NATIONAL BUDGET FOR FY27 / Govt plans tax relief for middle class",
+    "link": "https://www.thedailystar.net/business/economy/news/govt-plans-tax-relief-middle-class-4176091",
+    "description": "",
+    "published": "Fri, 15 May 2026 13:30:26 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/d2da51927e9f",
+    "title": "Bangladesh, US sign energy pact",
+    "link": "https://bdnews24.com/business/d2da51927e9f",
+    "description": "[Business] Bangladesh, US sign energy pact",
+    "published": "Fri, 15 May 2026 13:30:26 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bd-us-mou-150526-01-1778814554.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
