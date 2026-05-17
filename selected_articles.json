@@ -46859,5 +46859,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/17/medium/UAE-drone-6a09e719ca2d4.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441896",
+    "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
+    "link": "https://www.tbsnews.net/world/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441896",
+    "description": "The WHO said the outbreak, caused by the Bundibugyo virus, does not meet the criteria of a pandemic emergency but that countries sharing land borders with the DRC are at high risk of further spread",
+    "published": "Mon, 18 May 2026 01:16:49 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/18/ebola_patient.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/taiwans-leader-says-island-will-not-be-traded-away-4177971",
+    "title": "Taiwan's leader says island will not be 'traded away'",
+    "link": "https://www.thedailystar.net/news/world/news/taiwans-leader-says-island-will-not-be-traded-away-4177971",
+    "description": "",
+    "published": "Mon, 18 May 2026 01:16:49 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/health/f156b0413023",
+    "title": "UNICEF ‘repeatedly warned’ Yunus govt on vaccine stock",
+    "link": "https://bdnews24.com/health/f156b0413023",
+    "description": "[Health] UNICEF ‘repeatedly warned’ Yunus govt on vaccine stock",
+    "published": "Mon, 18 May 2026 01:16:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tcb-campaign-photo-17052026-1779041443.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/south-asia/8da508b2808b",
+    "title": "Pakistan warns India over ‘map erasure’ threat",
+    "link": "https://bdnews24.com/world/south-asia/8da508b2808b",
+    "description": "[South Asia] Pakistan warns India over ‘map erasure’ threat",
+    "published": "Mon, 18 May 2026 01:16:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/upendra-dwivedi-170526-01-1779038583.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "3d37da82cca71f8630a1053ac2c7d1688920bd77",
+    "title": "Latest militant attacks on schools in Nigeria leave more than 80 children missing, officials say",
+    "link": "https://apnews.com/article/nigeria-school-kidnapping-4bedbd152d6c4bb86d9121a11fefaa6a",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/40f75a2/2147483647/strip/true/crop/6604x4405+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2F18%2F9d998f73cba26b0fe1a0344b1e10%2Fbaab68048f394c75a59996463c3ed0d6\" /><br />Latest militant attacks on schools in Nigeria leave more than 80 children missing, officials say",
+    "published": "Mon, 18 May 2026 01:16:49 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/40f75a2/2147483647/strip/true/crop/6604x4405+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2F18%2F9d998f73cba26b0fe1a0344b1e10%2Fbaab68048f394c75a59996463c3ed0d6",
+    "thumbnail_type": "image/jpeg"
   }
 ]
