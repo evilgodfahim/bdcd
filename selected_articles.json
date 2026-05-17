@@ -46373,5 +46373,53 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/17/57ba47bca77c74aa55a9025ed99014e2-6a08b7a2ad904.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/africa/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441101",
+    "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
+    "link": "https://www.tbsnews.net/worldbiz/africa/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441101",
+    "description": "The WHO said the outbreak, caused by the Bundibugyo virus, does not meet the criteria of a pandemic emergency but said countries sharing land borders with DRC are at high risk for further spread.",
+    "published": "Sun, 17 May 2026 09:58:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/17/congo_ebola.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/capital-shortfall-20-banks-stood-tk278-lakh-crore-december-quarter-1441076",
+    "title": "Capital shortfall in 20 banks stood at Tk2.78 lakh crore in December quarter",
+    "link": "https://www.tbsnews.net/economy/banking/capital-shortfall-20-banks-stood-tk278-lakh-crore-december-quarter-1441076",
+    "description": "The capital shortfall had stood at Tk2.82 lakh crore at the end of the September quarter of the same year",
+    "published": "Sun, 17 May 2026 09:58:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/15/bank-1_2.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/875136",
+    "title": "‘Economy in negative state, recovery may take 2 years’",
+    "link": "https://www.daily-sun.com/business/875136",
+    "description": "Finance and Planning Minister Amir Khasru Mahmud Chowdhury on Saturday said that Bangladesh’s economy is",
+    "published": "Sun, 17 May 2026 09:58:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/allowing-undisclosed-money-in-real-estate-envisaged",
+    "title": "Allowing undisclosed money   in real estate envisaged",
+    "link": "https://thefinancialexpress.com.bd/economy/allowing-undisclosed-money-in-real-estate-envisaged",
+    "description": "Reintroducing a facility to legalise undisclosed money through investment in real estate is under consideration in a bid to rescue the industry from the brink of collapse, sources say.\nAt the same time, the upcoming national budget is likely to offer a wide range of tax breaks to encourage investm",
+    "published": "Sun, 17 May 2026 09:58:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153267/p1-black-money.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/875193/isis-second-in-command-killed-by-us-and-nigerian-forces",
+    "title": "ISIS second-in-command killed by US and Nigerian forces",
+    "link": "https://www.daily-sun.com/world/875193/isis-second-in-command-killed-by-us-and-nigerian-forces",
+    "description": "Abu-Bilal al-Minuki, the second in command of ISIS globally, has been killed in an operation conducted by US and Nigerian",
+    "published": "Sun, 17 May 2026 09:58:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/17/medium/abu-bilal-al-minuki-6a08bf636bf44.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
