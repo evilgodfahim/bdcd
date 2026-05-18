@@ -46951,5 +46951,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/18/medium/State-Minister-Tuku-courtesy-6a0a0c079fdb8.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/global-economy/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-1441961",
+    "title": "G7 finance chiefs seek to tackle imbalances as trade strains unity",
+    "link": "https://www.tbsnews.net/world/global-economy/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-1441961",
+    "description": "The two-day meeting follows a summit between US President Donald Trump and Chinese President Xi Jinping in Beijing that yielded few concrete economic breakthroughs, as tensions over Taiwan and trade simmered beneath a display of diplomatic cordiality",
+    "published": "Mon, 18 May 2026 10:10:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/12/22/maersk.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/industry/bangladesh-ranks-second-globally-17-imo-authorised-ship-recycling-yards-1441936",
+    "title": "Bangladesh ranks second globally with 17 IMO-authorised ship recycling yards",
+    "link": "https://www.tbsnews.net/economy/industry/bangladesh-ranks-second-globally-17-imo-authorised-ship-recycling-yards-1441936",
+    "description": "Regional peers India and Pakistan miss slots on the list",
+    "published": "Mon, 18 May 2026 10:10:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/18/p3_with_story_ctg_ship_recycling_yards_news_photo5.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/africa/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441946",
+    "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
+    "link": "https://www.tbsnews.net/worldbiz/africa/who-declares-ebola-outbreak-congo-uganda-emergency-international-concern-1441946",
+    "description": "",
+    "published": "Mon, 18 May 2026 10:10:33 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/18/uganda_hospital_ebola.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/new-zealand-assures-bd-of-extending-dfqf-facility-after-ldc-graduation",
+    "title": "New Zealand assures BD of extending DFQF facility after LDC graduation",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/new-zealand-assures-bd-of-extending-dfqf-facility-after-ldc-graduation",
+    "description": "New Zealand has assured Bangladesh of extending duty-free and quota-free (DFQF) facility and preferential market access even after its graduation from LDC. \nThe country has also expressed its strong interests in further expanding bilateral trade and investment between the two nations.\nNon-re",
+    "published": "Mon, 18 May 2026 10:10:33 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "f28c0eae20f08bdf2614f826581d7695f47f4b99",
+    "title": "China agrees to boost trade for US ag products such as beef and poultry following Trump-Xi summit",
+    "link": "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/db18ba4/2147483647/strip/true/crop/1950x1194+0+0/resize/599x367!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F56%2F793fd916f957ba158f256942de63%2F6dde4e64912f40e4a29d5937b83c8390\" /><br />China agrees to boost trade for US ag products such as beef and poultry following Trump-Xi summit",
+    "published": "Mon, 18 May 2026 10:10:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/db18ba4/2147483647/strip/true/crop/1950x1194+0+0/resize/599x367!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F56%2F793fd916f957ba158f256942de63%2F6dde4e64912f40e4a29d5937b83c8390",
+    "thumbnail_type": "image/jpeg"
   }
 ]
