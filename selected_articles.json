@@ -47645,5 +47645,33 @@
     "description": "",
     "published": "Tue, 19 May 2026 05:08:43 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/mounting-defaults-push-rupali-bank-plc-tk396cr-quarterly-loss-1443021",
+    "title": "Mounting defaults push Rupali Bank PLC into Tk396cr quarterly loss",
+    "link": "https://www.tbsnews.net/economy/stocks/mounting-defaults-push-rupali-bank-plc-tk396cr-quarterly-loss-1443021",
+    "description": "Interest income falls 23% to Tk658 crore, while cost of funds rises 15% to Tk1,304 crore",
+    "published": "Tue, 19 May 2026 10:04:30 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/05/rupali_bank.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "926d6dd98a2b8d2c3cbdea19931c55483c127c1c",
+    "title": "Houthi-controlled court in Yemen sentences 19 to death for aiding Saudi-led coalition",
+    "link": "https://apnews.com/article/yemen-war-houthis-court-50dbd3ef6b5fe6319336b2492340e219",
+    "description": "Houthi-controlled court in Yemen sentences 19 to death for aiding Saudi-led coalition",
+    "published": "Tue, 19 May 2026 10:04:30 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "9939c01f6a08fd9bd0f686237ab583a006169fb8",
+    "title": "Putin visits China to reaffirm Russia ties as Xi also seeks stable US relations after Trump summit",
+    "link": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/db18ba4/2147483647/strip/true/crop/1950x1194+0+0/resize/599x367!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F56%2F793fd916f957ba158f256942de63%2F6dde4e64912f40e4a29d5937b83c8390\" /><br />Putin visits China to reaffirm Russia ties as Xi also seeks stable US relations after Trump summit",
+    "published": "Tue, 19 May 2026 10:04:30 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/db18ba4/2147483647/strip/true/crop/1950x1194+0+0/resize/599x367!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F56%2F793fd916f957ba158f256942de63%2F6dde4e64912f40e4a29d5937b83c8390",
+    "thumbnail_type": "image/jpeg"
   }
 ]
