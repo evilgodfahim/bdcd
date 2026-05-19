@@ -48227,5 +48227,65 @@
     "description": "",
     "published": "Wed, 20 May 2026 01:58:10 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/56d273a83c3f",
+    "title": "Dollar buying spree tops $6bn before end of FY26",
+    "link": "https://bdnews24.com/economy/56d273a83c3f",
+    "description": "[Economy] Dollar buying spree tops $6bn before end of FY26",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dollar-bill-310722-03-1779215887.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/cac88a1e5f12",
+    "title": "Judges recalled after SC secretariat abolished",
+    "link": "https://bdnews24.com/bangladesh/cac88a1e5f12",
+    "description": "[Bangladesh] Judges recalled after SC secretariat abolished",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/supreme-court-secretariat-111225-02-1767880346.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/health/9cbae7cd7e3e",
+    "title": "WHO ‘deeply concerned’ as Ebola deaths rise to 131",
+    "link": "https://bdnews24.com/health/9cbae7cd7e3e",
+    "description": "[Health] WHO ‘deeply concerned’ as Ebola deaths rise to 131",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/who-ebola-death-19052026-01-1779216226.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/89ab07d2b4fd",
+    "title": "BB credit easing triggers stability concerns",
+    "link": "https://bdnews24.com/business/89ab07d2b4fd",
+    "description": "[Business] BB credit easing triggers stability concerns",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/debt-burden-bb-180526-01-1779220145.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/politics/a9cd329394ef",
+    "title": "EC tells 23 parties to report poll spending",
+    "link": "https://bdnews24.com/politics/a9cd329394ef",
+    "description": "[Politics] EC tells 23 parties to report poll spending",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/election-commission-110824-07-1723386452.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ab7e3df7de8165830ec77a2c7287ebfe05b37735",
+    "title": "Photos of mass protests and road blockades choking the Bolivian capital",
+    "link": "https://apnews.com/photo-gallery/photos-mass-protests-road-blockades-choking-bolivian-capital-af56d3c07be84f9bab0da2bb7a58c8ef",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/1c375cc/2147483647/strip/true/crop/8640x5760+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F26%2F51e7995ba00a847fc1edab38e05d%2F9c2073621511430dbc45109a1ae53a7e\" /><br />Photos of mass protests and road blockades choking the Bolivian capital",
+    "published": "Wed, 20 May 2026 03:40:31 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/1c375cc/2147483647/strip/true/crop/8640x5760+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F26%2F51e7995ba00a847fc1edab38e05d%2F9c2073621511430dbc45109a1ae53a7e",
+    "thumbnail_type": "image/jpeg"
   }
 ]
