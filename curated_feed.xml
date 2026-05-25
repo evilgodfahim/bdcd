@@ -4,21 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Mon, 25 May 2026 19:49:03 +0000</lastBuildDate>
-    <item>
-      <title>Dubai Taxi Company to recruit 6,000 drivers from Bangladesh this year</title>
-      <link>https://www.thedailystar.net/news/news/dubai-taxi-company-recruit-6000-drivers-bangladesh-year-4177861</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/news/news/dubai-taxi-company-recruit-6000-drivers-bangladesh-year-4177861</guid>
-      <description />
-      <pubDate>Sun, 17 May 2026 21:01:38 +0600</pubDate>
-    </item>
-    <item>
-      <title>Dhaka division receives half of Bangladesh’s March remittance: Central Bank report</title>
-      <link>https://www.thedailystar.net/business/news/dhaka-division-receives-half-bangladeshs-march-remittance-central-bank-report-4177731</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/business/news/dhaka-division-receives-half-bangladeshs-march-remittance-central-bank-report-4177731</guid>
-      <description>Out of $3.75 billion, Dhaka received $1.85 billion, Ctg ranked second with $1.16 billion</description>
-      <pubDate>Sun, 17 May 2026 21:01:38 +0600</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 21:15:40 +0000</lastBuildDate>
     <item>
       <title>BSEC moves to pull-back Tk225cr stabilisation fund from ICB</title>
       <link>https://www.tbsnews.net/economy/stocks/bsec-moves-pull-back-tk225cr-stabilisation-fund-icb-1441816</link>
@@ -5121,6 +5107,22 @@ The announcement came Monday when ADB President Masato Kanda met Prime Minister 
       <pubDate>Tue, 26 May 2026 01:48:57 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/25/medium/BIDA-6a147ce4a3c74.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/25/medium/BIDA-6a147ce4a3c74.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Govt’s bank borrowing crosses annual target in nine months</title>
+      <link>https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-crosses-annual-target-nine-months-4184651</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-crosses-annual-target-nine-months-4184651</guid>
+      <description />
+      <pubDate>Tue, 26 May 2026 03:15:32 +0600</pubDate>
+    </item>
+    <item>
+      <title>Iran would open Strait of Hormuz 30 days after US deal: Nikkei</title>
+      <link>https://bdnews24.com/world/8c698917cd20</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/8c698917cd20</guid>
+      <description>[World] Iran would open Strait of Hormuz 30 days after US deal: Nikkei</description>
+      <pubDate>Tue, 26 May 2026 03:15:32 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-open-hormuz-25052026-01-1779736524.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-open-hormuz-25052026-01-1779736524.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

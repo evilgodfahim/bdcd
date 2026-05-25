@@ -51533,5 +51533,23 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/25/medium/BIDA-6a147ce4a3c74.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-crosses-annual-target-nine-months-4184651",
+    "title": "Govt’s bank borrowing crosses annual target in nine months",
+    "link": "https://www.thedailystar.net/business/economy/news/govts-bank-borrowing-crosses-annual-target-nine-months-4184651",
+    "description": "",
+    "published": "Tue, 26 May 2026 03:15:32 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/8c698917cd20",
+    "title": "Iran would open Strait of Hormuz 30 days after US deal: Nikkei",
+    "link": "https://bdnews24.com/world/8c698917cd20",
+    "description": "[World] Iran would open Strait of Hormuz 30 days after US deal: Nikkei",
+    "published": "Tue, 26 May 2026 03:15:32 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-open-hormuz-25052026-01-1779736524.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
