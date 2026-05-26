@@ -51779,5 +51779,51 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/India,-US-strike-critical-minerals-deal-MEA-6a15ae153f590.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/877081/oil-back-at-100-as-us-strikes-douse-iran-war-hopes",
+    "title": "Oil back at $100 as US strikes douse Iran war hopes",
+    "link": "https://www.daily-sun.com/business/877081/oil-back-at-100-as-us-strikes-douse-iran-war-hopes",
+    "description": "",
+    "published": "Wed, 27 May 2026 00:31:47 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/c35ede0c8aaf",
+    "title": "Israel expands south Lebanon ground offensive",
+    "link": "https://bdnews24.com/world/c35ede0c8aaf",
+    "description": "[World] Israel expands south Lebanon ground offensive",
+    "published": "Wed, 27 May 2026 00:31:47 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/south-lebanon-260526-01-1779810422.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "629fe6695c61dfd13589ce96e5b5291a6c990658",
+    "title": "Russia maintains attacks on Ukraine, as Kyiv is warned to brace for a possible major barrage",
+    "link": "https://apnews.com/article/russia-ukraine-war-diplomats-lavrov-rubio-2abde640e27e7b320715d74358ba28f3",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/4aef4d3/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F79%2F44ac3e8e20bbc4421fc4011bb65c%2F04cf79ea42b84672bbef119cb2b9580e\" /><br />Russia maintains attacks on Ukraine, as Kyiv is warned to brace for a possible major barrage",
+    "published": "Wed, 27 May 2026 00:31:47 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/4aef4d3/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F79%2F44ac3e8e20bbc4421fc4011bb65c%2F04cf79ea42b84672bbef119cb2b9580e",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "38572723bb51ca3a1607597a5b8286dc05278cd6",
+    "title": "Senegal’s lawmakers defy president and elect ousted Sonko as speaker",
+    "link": "https://apnews.com/article/senegal-sonko-speaker-president-national-assembly-411420cbdcd129a8822dca6acc4719e5",
+    "description": "Senegal’s lawmakers defy president and elect ousted Sonko as speaker",
+    "published": "Wed, 27 May 2026 00:31:47 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877074/quad-countries-to-build-a-port-unveil-pact-on-critical-minerals",
+    "title": "Quad countries to build a port, unveil pact on critical minerals",
+    "link": "https://www.daily-sun.com/world/877074/quad-countries-to-build-a-port-unveil-pact-on-critical-minerals",
+    "description": "Beijing has criticised the Quad as a Cold War-style grouping aimed at containing its development...",
+    "published": "Wed, 27 May 2026 00:31:47 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Quad-ministers-FB-6a15c676b9367.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
