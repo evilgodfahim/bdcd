@@ -4,68 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Tue, 26 May 2026 18:32:10 +0000</lastBuildDate>
-    <item>
-      <title>Bangladesh's economic growth slows to 3.9% as inflation, banking risks, investment crisis deepen</title>
-      <link>https://www.tbsnews.net/economy/bangladeshs-economic-growth-slows-39-inflation-banking-risks-investment-crisis-deepen</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/economy/bangladeshs-economic-growth-slows-39-inflation-banking-risks-investment-crisis-deepen</guid>
-      <description>Private investment growth declined for the first time in 35 years.</description>
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/01/26/panorama_30_10_2022.png" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/01/26/panorama_30_10_2022.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>A high-spending budget with record deficit</title>
-      <link>https://www.daily-sun.com/business/875413/a-high-spending-budget-with-record-deficit</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/business/875413/a-high-spending-budget-with-record-deficit</guid>
-      <description />
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-    </item>
-    <item>
-      <title>Iran war saddles global companies with $25b bill - and counting</title>
-      <link>https://www.tbsnews.net/world/global-economy/iran-war-saddles-global-companies-25b-bill-and-counting-1442091</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/world/global-economy/iran-war-saddles-global-companies-25b-bill-and-counting-1442091</guid>
-      <description />
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/14/hormuz.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/14/hormuz.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>EU to force companies to buy components from non-Chinese suppliers: FT</title>
-      <link>https://www.tbsnews.net/worldbiz/europe/eu-force-companies-buy-components-non-chinese-suppliers-ft-1442026</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/europe/eu-force-companies-buy-components-non-chinese-suppliers-ft-1442026</guid>
-      <description />
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/18/germany_steel_factory.png" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/18/germany_steel_factory.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>China has agreed to address US concerns over rare earth shortages: White House</title>
-      <link>https://www.tbsnews.net/worldbiz/china/china-has-agreed-address-us-concerns-over-rare-earth-shortages-white-house-1442016</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/china/china-has-agreed-address-us-concerns-over-rare-earth-shortages-white-house-1442016</guid>
-      <description />
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/13/china_rare_earth_element.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/13/china_rare_earth_element.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Make S Korea border an ‘impregnable fortress’: N Korea’s Kim</title>
-      <link>https://bdnews24.com/world/asia-pacific/630a2b55994b</link>
-      <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/630a2b55994b</guid>
-      <description>[Asia Pacific] Make S Korea border an ‘impregnable fortress’: N Korea’s Kim</description>
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/korea-border-kim-180526-01-1779078863.jpg" />
-      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/korea-border-kim-180526-01-1779078863.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>G7 finance chiefs seek to tackle imbalances</title>
-      <link>https://bdnews24.com/economy/15f328ccc316</link>
-      <guid isPermaLink="true">https://bdnews24.com/economy/15f328ccc316</guid>
-      <description>[Economy] G7 finance chiefs seek to tackle imbalances</description>
-      <pubDate>Mon, 18 May 2026 16:15:53 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/g7-flags-1779078570.png" />
-      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/g7-flags-1779078570.png" type="image/png" length="0" />
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 04:19:03 +0000</lastBuildDate>
     <item>
       <title>Global bond rout deepens as inflation fears mount</title>
       <link>https://bdnews24.com/business/a3df6c509b19</link>
@@ -5340,6 +5279,67 @@ The ministry has alre</description>
       <pubDate>Wed, 27 May 2026 00:31:47 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Quad-ministers-FB-6a15c676b9367.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Quad-ministers-FB-6a15c676b9367.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iran accuses US of breaking truce after new strikes</title>
+      <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-accuses-us-breaking-truce-after-new-strikes-4185186</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-accuses-us-breaking-truce-after-new-strikes-4185186</guid>
+      <description>Conducted self-defence strikes in southern Iran to protect troops, US says</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+    </item>
+    <item>
+      <title>Israel attacks Hamas armed wing chief: Netanyahu</title>
+      <link>https://bdnews24.com/world/middle-east/ae640b90b8f9</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ae640b90b8f9</guid>
+      <description>[West Asia] Israel attacks Hamas armed wing chief: Netanyahu</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-hamas-strike-2605260-01-1779853075.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-hamas-strike-2605260-01-1779853075.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israel pounds Lebanon with strikes</title>
+      <link>https://bdnews24.com/world/middle-east/99234c563759</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/middle-east/99234c563759</guid>
+      <description>[West Asia] Israel pounds Lebanon with strikes</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lebanon-270526-1779850590.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lebanon-270526-1779850590.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US to cut strategic bombers, warships to NATO: Spiegel</title>
+      <link>https://bdnews24.com/world/7160c94501a1</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/7160c94501a1</guid>
+      <description>[World] US to cut strategic bombers, warships to NATO: Spiegel</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-cut-military-nato-26052026-01-1779819712.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-cut-military-nato-26052026-01-1779819712.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russia, Kazakhstan will sign nuclear power deal: Kremlin</title>
+      <link>https://bdnews24.com/world/4a04e9713b81</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/4a04e9713b81</guid>
+      <description>[World] Russia, Kazakhstan will sign nuclear power deal: Kremlin</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/russia-kazakh-deal-26052026-01-1779818910.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/russia-kazakh-deal-26052026-01-1779818910.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russia can 'falsify' GPS signals deep into Europe</title>
+      <link>https://www.daily-sun.com/world/877092/russia-can-falsify-gps-signals-deep-into-europe</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/877092/russia-can-falsify-gps-signals-deep-into-europe</guid>
+      <description>Russia can falsify GPS signals deep into Europe at a radius of up to 450km (280 miles) from its Kaliningrad</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/gps-6a162e321f478.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/gps-6a162e321f478.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iranian hackers responsible for Los Angeles transit system breach</title>
+      <link>https://www.daily-sun.com/world/877091/iranian-hackers-responsible-for-los-angeles-transit-system-breach</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/877091/iranian-hackers-responsible-for-los-angeles-transit-system-breach</guid>
+      <description>Iranian hackers were responsible for a disruptive computer breach in March that forced Los Angeles' transit system to shut down</description>
+      <pubDate>Wed, 27 May 2026 10:18:57 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/Iran-hackers-----6a162d699aeb3.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/Iran-hackers-----6a162d699aeb3.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

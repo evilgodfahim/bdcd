@@ -51825,5 +51825,73 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Quad-ministers-FB-6a15c676b9367.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-accuses-us-breaking-truce-after-new-strikes-4185186",
+    "title": "Iran accuses US of breaking truce after new strikes",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-accuses-us-breaking-truce-after-new-strikes-4185186",
+    "description": "Conducted self-defence strikes in southern Iran to protect troops, US says",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/ae640b90b8f9",
+    "title": "Israel attacks Hamas armed wing chief: Netanyahu",
+    "link": "https://bdnews24.com/world/middle-east/ae640b90b8f9",
+    "description": "[West Asia] Israel attacks Hamas armed wing chief: Netanyahu",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-hamas-strike-2605260-01-1779853075.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/99234c563759",
+    "title": "Israel pounds Lebanon with strikes",
+    "link": "https://bdnews24.com/world/middle-east/99234c563759",
+    "description": "[West Asia] Israel pounds Lebanon with strikes",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lebanon-270526-1779850590.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/7160c94501a1",
+    "title": "US to cut strategic bombers, warships to NATO: Spiegel",
+    "link": "https://bdnews24.com/world/7160c94501a1",
+    "description": "[World] US to cut strategic bombers, warships to NATO: Spiegel",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-cut-military-nato-26052026-01-1779819712.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/4a04e9713b81",
+    "title": "Russia, Kazakhstan will sign nuclear power deal: Kremlin",
+    "link": "https://bdnews24.com/world/4a04e9713b81",
+    "description": "[World] Russia, Kazakhstan will sign nuclear power deal: Kremlin",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/russia-kazakh-deal-26052026-01-1779818910.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877092/russia-can-falsify-gps-signals-deep-into-europe",
+    "title": "Russia can 'falsify' GPS signals deep into Europe",
+    "link": "https://www.daily-sun.com/world/877092/russia-can-falsify-gps-signals-deep-into-europe",
+    "description": "Russia can falsify GPS signals deep into Europe at a radius of up to 450km (280 miles) from its Kaliningrad",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/gps-6a162e321f478.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877091/iranian-hackers-responsible-for-los-angeles-transit-system-breach",
+    "title": "Iranian hackers responsible for Los Angeles transit system breach",
+    "link": "https://www.daily-sun.com/world/877091/iranian-hackers-responsible-for-los-angeles-transit-system-breach",
+    "description": "Iranian hackers were responsible for a disruptive computer breach in March that forced Los Angeles' transit system to shut down",
+    "published": "Wed, 27 May 2026 10:18:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/Iran-hackers-----6a162d699aeb3.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
