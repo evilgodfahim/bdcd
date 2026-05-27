@@ -51893,5 +51893,31 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/Iran-hackers-----6a162d699aeb3.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/877103/imf-says-bangladesh-requests-new-assistance-program-amid-iran-war-fallout",
+    "title": "IMF says Bangladesh requests new assistance program amid Iran war fallout",
+    "link": "https://www.daily-sun.com/business/877103/imf-says-bangladesh-requests-new-assistance-program-amid-iran-war-fallout",
+    "description": "",
+    "published": "Wed, 27 May 2026 16:04:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/smooth-eid-travel-continues-dhaka-mawa-expressway-padma-bridge-amid-rain-1449696",
+    "title": "Smooth Eid travel continues on Dhaka-Mawa Expressway, Padma Bridge amid rain",
+    "link": "https://www.tbsnews.net/bangladesh/smooth-eid-travel-continues-dhaka-mawa-expressway-padma-bridge-amid-rain-1449696",
+    "description": "",
+    "published": "Wed, 27 May 2026 16:04:39 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/06/05/eid_jurney_05062025_4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-eyes-greater-energy-security-with-tk-36b-investment-plan",
+    "title": "Bangladesh eyes greater energy security with Tk 36b investment plan",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-eyes-greater-energy-security-with-tk-36b-investment-plan",
+    "description": "Bangladesh is moving to strengthen its energy security and expand electricity access through a new set of government-funded projects targeting gas exploration, power generation and energy sector capacity building.\nAccording to a list of proposed projects under the power and energy sector, the gove",
+    "published": "Wed, 27 May 2026 16:04:39 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
   }
 ]
