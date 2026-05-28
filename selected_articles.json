@@ -52098,5 +52098,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/27/medium/Oil-prices-6a170e17ede11.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-strikes-iran-again-official-says-after-trump-denies-deal-strait-hormuz-1449996",
+    "title": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz",
+    "link": "https://www.tbsnews.net/world/us-strikes-iran-again-official-says-after-trump-denies-deal-strait-hormuz-1449996",
+    "description": "A ceasefire between the US and Iran took effect in early April",
+    "published": "Thu, 28 May 2026 10:07:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/23/hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "da0413c2a00f301c9a86d5268821fd197c8d4bc5",
+    "title": "Muslim pilgrims perform Hajj rituals under intense heat as Eid al-Adha celebrations start",
+    "link": "https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a",
+    "description": "Muslim pilgrims perform Hajj rituals under intense heat as Eid al-Adha celebrations start",
+    "published": "Thu, 28 May 2026 10:07:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "e8589356c170adf4bcf6bb1c744c33bf190061c9",
+    "title": "US Supreme Court settles long-running water dispute over dwindling Rio Grande",
+    "link": "https://apnews.com/article/texas-new-mexico-rio-grande-water-drought-faadff3f94299344f92f2118884384a1",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/7627e16/2147483647/strip/true/crop/3958x2639+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Fab%2Fa80d3e28bda43230bbaea5fc1b92%2F6cbf331644c346eb95e272fa572f0030\" /><br />US Supreme Court settles long-running water dispute over dwindling Rio Grande",
+    "published": "Thu, 28 May 2026 10:07:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/7627e16/2147483647/strip/true/crop/3958x2639+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Fab%2Fa80d3e28bda43230bbaea5fc1b92%2F6cbf331644c346eb95e272fa572f0030",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "194a5ea6d62e59872bf7a399bffbe36616fbf257",
+    "title": "Brazil to invest $75 million in highway through Amazon and unveils environmental protection plan",
+    "link": "https://apnews.com/article/brazil-amazon-rainforest-br319-deforestation-lula-237fbc1df9c9292b7d26f47a094439ef",
+    "description": "Brazil to invest $75 million in highway through Amazon and unveils environmental protection plan",
+    "published": "Thu, 28 May 2026 10:07:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
