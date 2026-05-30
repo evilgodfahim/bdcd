@@ -2,13 +2,13 @@
   "per_feed": {
     "https://tbsnews.net/top-news/rss.xml": {
       "fetched": 20,
-      "passed_age": 11,
-      "capped": 11
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 2,
-      "capped": 2
+      "passed_age": 1,
+      "capped": 1
     },
     "https://en.prothomalo.com/feed/": {
       "fetched": 0,
@@ -17,18 +17,18 @@
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 15,
-      "capped": 15
+      "passed_age": 0,
+      "capped": 0
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 37,
-      "capped": 37
+      "passed_age": 31,
+      "capped": 31
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
-      "fetched": 1,
-      "passed_age": 1,
-      "capped": 1
+      "fetched": 20,
+      "passed_age": 20,
+      "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
       "fetched": 500,
@@ -42,13 +42,13 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 59,
-      "capped": 59
+      "passed_age": 26,
+      "capped": 26
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 42,
-      "capped": 42
+      "passed_age": 15,
+      "capped": 15
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 112,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4133
+    "DIRECT": 4152
   },
-  "total_fetched": 4133,
-  "total_passed_age": 667,
-  "total_new": 13,
-  "total_signal": 3,
+  "total_fetched": 4152,
+  "total_passed_age": 596,
+  "total_new": 17,
+  "total_signal": 1,
   "total_longread": 0,
-  "total_signal_deduped": 3,
+  "total_signal_deduped": 1,
   "total_longread_deduped": 0,
-  "timestamp": "2026-05-29T23:19:36.047484",
+  "timestamp": "2026-05-30T03:56:04.763692",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 3
+  "total_signal_mistral": 1
 }
