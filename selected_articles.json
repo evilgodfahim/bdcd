@@ -53066,5 +53066,45 @@
     "description": "Colombia accuses Ecuador of ‘deliberate interference’ in general elections",
     "published": "Sat, 30 May 2026 23:14:58 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "1da4a737ff653b965b5ad0638bda7f83e61965e3",
+    "title": "Israeli launches strikes near ancient heritage castle site in southern Lebanon",
+    "link": "https://apnews.com/article/lebanon-israel-hezbollah-gaza-airstrikes-5c4421bef28c5860a438c2892bc2983b",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/339f775/2147483647/strip/true/crop/1920x1080+0+0/resize/599x337!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2F7f%2Fea44f04e1e85d6003cf8c7f8f676%2Fleb-south-strikes-aftermath-20260530cr-1920x1080.jpg\" /><br />Israeli launches strikes near ancient heritage castle site in southern Lebanon",
+    "published": "Sun, 31 May 2026 01:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/339f775/2147483647/strip/true/crop/1920x1080+0+0/resize/599x337!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2F7f%2Fea44f04e1e85d6003cf8c7f8f676%2Fleb-south-strikes-aftermath-20260530cr-1920x1080.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877422/confirmed-ebola-cases-nearly-double-in-two-days",
+    "title": "Confirmed Ebola cases nearly double in two days in DR Congo",
+    "link": "https://www.daily-sun.com/world/877422/confirmed-ebola-cases-nearly-double-in-two-days",
+    "description": "The confirmed cases of Ebola have nearly doubled in two days in eastern Democratic Republic of the Congo (DRC).",
+    "published": "Sun, 31 May 2026 01:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/30/medium/HEALTH-EBOLA-CONGO-6a1b260eacefd.JPG",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877418/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo",
+    "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
+    "link": "https://www.daily-sun.com/world/877418/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo",
+    "description": "There have been at least 1,077 suspected cases of Ebola in the DRC since the outbreak was declared on 15",
+    "published": "Sun, 31 May 2026 01:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/30/medium/World-Health-Organization-Director-General-Tedros-Adhanom-Ghebreyesus-arrives-in-Bunia,-in-the-eastern-Democratic-Republic-of-the-Congo,-on-30-May-2026-6a1b2332bc1e0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877416/myanmar-president-arrives-in-india-to-strengthen-ties",
+    "title": "Myanmar president arrives in India to strengthen ties",
+    "link": "https://www.daily-sun.com/world/877416/myanmar-president-arrives-in-india-to-strengthen-ties",
+    "description": "The former military chief will also hold talks with business representatives during his five-day visit, according to both governments...",
+    "published": "Sun, 31 May 2026 01:25:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/30/medium/Min-Aung-Hlaing-Reuters-Myanmar-6a1b210287c86.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
