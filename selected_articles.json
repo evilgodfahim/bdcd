@@ -52824,5 +52824,43 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/30/medium/sex-abuse-6a1a1cd16d849.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/imf-world-bank-iea-chiefs-warn-summer-fuel-scarcity-if-hormuz-strait-remains-closed-4186671",
+    "title": "IMF, World Bank, IEA chiefs warn of summer fuel scarcity if Hormuz strait remains closed",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/imf-world-bank-iea-chiefs-warn-summer-fuel-scarcity-if-hormuz-strait-remains-closed-4186671",
+    "description": "\"Global oil inventories are being drawn down at a record pace in response to the major loss of supply through the Strait of Hormuz,\" the heads of the agencies said in a joint statement.",
+    "published": "Sat, 30 May 2026 12:51:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/583ea5ed5610",
+    "title": "India's forex reserves fall to over one-year low",
+    "link": "https://bdnews24.com/economy/583ea5ed5610",
+    "description": "[Economy] India's forex reserves fall to over one-year low",
+    "published": "Sat, 30 May 2026 12:51:45 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/india-market-rupee-300526-01-1780114917.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/aviation/7969e1329414",
+    "title": "Airlines warn of chaos if US restricts int’l flights",
+    "link": "https://bdnews24.com/aviation/7969e1329414",
+    "description": "[Aviation] Airlines warn of chaos if US restricts int’l flights",
+    "published": "Sat, 30 May 2026 12:51:45 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/airlines-sanctuary-cities-flight-300526-01-1780114027.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/877359/pentagon-chief-sounds-alarm-over-china-s-buildup-urges-allies-to-boost-defence-spend",
+    "title": "Pentagon chief sounds 'alarm' over China's buildup, urges allies to boost defence spend",
+    "link": "https://www.daily-sun.com/world/877359/pentagon-chief-sounds-alarm-over-china-s-buildup-urges-allies-to-boost-defence-spend",
+    "description": "US Defence Secretary Pete Hegseth urges Asian allies to increase military spending to counter China's expansion. Strength and stability are",
+    "published": "Sat, 30 May 2026 12:51:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/30/medium/US-Defence-Secretary-Pete-Hegseth-6a1a56c360570.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
