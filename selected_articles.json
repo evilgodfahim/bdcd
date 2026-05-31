@@ -53487,5 +53487,55 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/Bangladesh,-IOM-discuss-climate-linked-migration-challenges-courtesy-6a1c35645bffe.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/octane-petrol-and-kerosene-price-rises-tk5-litre-june-1451331",
+    "title": "Octane, petrol and kerosene price rises Tk5 per litre for June",
+    "link": "https://www.tbsnews.net/bangladesh/energy/octane-petrol-and-kerosene-price-rises-tk5-litre-june-1451331",
+    "description": "Petrol prices have also been increased by Tk5 per litre to Tk140, while kerosene has risen by the same amount to Tk135 per litre.",
+    "published": "Sun, 31 May 2026 23:13:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/27/fuel.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/3866a9a36a40",
+    "title": "US resumes immigrant visas for Bangladeshis",
+    "link": "https://bdnews24.com/bangladesh/3866a9a36a40",
+    "description": "[Bangladesh] US resumes immigrant visas for Bangladeshis",
+    "published": "Sun, 31 May 2026 23:13:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/us-visa-restriction-140126-1768410335.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/3ee73c0d748c",
+    "title": "PM warns of ‘tough times’ ahead",
+    "link": "https://bdnews24.com/bangladesh/3ee73c0d748c",
+    "description": "[Bangladesh] PM warns of ‘tough times’ ahead",
+    "published": "Sun, 31 May 2026 23:13:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tarique-rahman-pm-bnp-meeting-310526-01-1780235696.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/asia-pacific/b718defc0a2a",
+    "title": "Indo-Pacific powers deepen defence ties",
+    "link": "https://bdnews24.com/world/asia-pacific/b718defc0a2a",
+    "description": "[Asia Pacific] Indo-Pacific powers deepen defence ties",
+    "published": "Sun, 31 May 2026 23:13:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/indo-pacific-defence-31052026-01-1780241151.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "5da8d5981136839d35f318bf306826277744407b",
+    "title": "Israeli forces make historic push inside Lebanon and complicate an Iran deal",
+    "link": "https://apnews.com/article/lebanon-israel-hezbollah-explainer-beaufort-45d86ee821798e88d8e0c82576ca4558",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/f8e6726/2147483647/strip/true/crop/5485x3657+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F40%2F87acc734fd9e2fdb54bf1abb8250%2F1f9a83daebd749fa810eb51fb68aaf33\" /><br />Israeli forces make historic push inside Lebanon and complicate an Iran deal",
+    "published": "Sun, 31 May 2026 23:13:57 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/f8e6726/2147483647/strip/true/crop/5485x3657+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F40%2F87acc734fd9e2fdb54bf1abb8250%2F1f9a83daebd749fa810eb51fb68aaf33",
+    "thumbnail_type": "image/jpeg"
   }
 ]
