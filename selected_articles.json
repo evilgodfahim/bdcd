@@ -53385,5 +53385,45 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/Iran-(53)-6a1bd919b389c.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/netanyahu-orders-deeper-israeli-incursion-lebanon-hit-hezbollah-1451241",
+    "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
+    "link": "https://www.tbsnews.net/world/netanyahu-orders-deeper-israeli-incursion-lebanon-hit-hezbollah-1451241",
+    "description": "Israel has intensified its ground offensive in Lebanon after a surge in Hezbollah attacks",
+    "published": "Sun, 31 May 2026 19:56:51 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/31/beaufort_castle_.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/iran-may-have-used-chinese-missile-shoot-down-us-fighter-jet-sources-say-1451191",
+    "title": "Iran may have used Chinese missile to shoot down US fighter jet, sources say",
+    "link": "https://www.tbsnews.net/world/iran-may-have-used-chinese-missile-shoot-down-us-fighter-jet-sources-say-1451191",
+    "description": "The Trump administration brokered a ceasefire with Iran ahead of a key meeting with President Xi Jinping earlier this month",
+    "published": "Sun, 31 May 2026 19:56:51 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/10/01/new_chinese_missiles.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/bangladesh-highlights-migration-key-climate-adaptation-strategy-1451181",
+    "title": "Bangladesh highlights migration as key climate adaptation strategy",
+    "link": "https://www.tbsnews.net/foreign-policy/bangladesh-highlights-migration-key-climate-adaptation-strategy-1451181",
+    "description": "Bangladesh Ambassador and Permanent Representative in Geneva Nahida Sobhan has met Director General of the International Organization for Migration (IOM) Amy Pope and discussed the nexus between climate change, migration and sustainable development.",
+    "published": "Sun, 31 May 2026 19:56:51 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/31/8563269.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/taiwan-condemns-china-after-new-york-times-reporter-expelled-after-presidential-interview",
+    "title": "Taiwan condemns China after New York Times reporter expelled after presidential interview",
+    "link": "https://www.tbsnews.net/world/taiwan-condemns-china-after-new-york-times-reporter-expelled-after-presidential-interview",
+    "description": "",
+    "published": "Sun, 31 May 2026 19:56:51 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/27/taiwan.png",
+    "thumbnail_type": "image/png"
   }
 ]
