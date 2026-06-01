@@ -53615,5 +53615,35 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/PM-Tarique-01-6a1cbaa574ee2.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-and-india-set-dg-level-border-talks-new-delhi-1451361",
+    "title": "Bangladesh and India set for DG-level border talks in New Delhi",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-and-india-set-dg-level-border-talks-new-delhi-1451361",
+    "description": "A delegation of the Border Guard Bangladesh (BGB) led by its Director General (DG) Maj Gen Mohammad Ashrafuzzaman Siddiqui is expected to be in Delhi between 8 and 11 June for the talks with their counterpart Border Security Force (BSF)",
+    "published": "Mon, 01 Jun 2026 10:50:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/12/25/border-india_and_bangladesh.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/nbr/vat-steel-rods-may-rise-10-1451351",
+    "title": "VAT on steel rods may rise by 10%",
+    "link": "https://www.tbsnews.net/nbr/vat-steel-rods-may-rise-10-1451351",
+    "description": "",
+    "published": "Mon, 01 Jun 2026 10:50:02 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2023/08/09/steel_cover_image.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/fuel-oil-prices-up-by-tk-5-per-litre",
+    "title": "Fuel-oil prices up by Tk 5 per litre",
+    "link": "https://thefinancialexpress.com.bd/trade/fuel-oil-prices-up-by-tk-5-per-litre",
+    "description": "The government has again increased the prices of fuel oils at the consumer level.\nThe prices of petrol, octane, and kerosene have been increased by Tk 5 per litre for the month of June.\nThe Ministry of Power, Energy and Mineral Resources disclosed the information in a statement on Sunday.\nIt sai",
+    "published": "Mon, 01 Jun 2026 10:50:02 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155255/petrol-pump.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
