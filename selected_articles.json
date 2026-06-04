@@ -55781,5 +55781,79 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/04/medium/Kim-Jong-Un-sergei-shoigu-al-0539-fc58cf-6a218f015908b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/nbr/solar-evs-electronics-line-big-tax-breaks-budget-1454406",
+    "title": "Solar, EVs, electronics in line for big tax breaks in budget",
+    "link": "https://www.tbsnews.net/nbr/solar-evs-electronics-line-big-tax-breaks-budget-1454406",
+    "description": "Meanwhile, the total tax burden on imported electric vehicles currently stands at around 90%, which may be significantly reduced.",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/06/02/ezgif-5-eb275714f676.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/878325/bb-unveils-tk20-000cr-fund-for-closed-industries-bars-defaulters",
+    "title": "BB unveils Tk20,000cr fund for closed industries, bars defaulters",
+    "link": "https://www.daily-sun.com/business/878325/bb-unveils-tk20-000cr-fund-for-closed-industries-bars-defaulters",
+    "description": "",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/power-fuel-price-hikes-intensify-inflation-pressure-4190876",
+    "title": "Power, fuel price hikes to intensify inflation pressure",
+    "link": "https://www.thedailystar.net/business/economy/news/power-fuel-price-hikes-intensify-inflation-pressure-4190876",
+    "description": "",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/governance/news/cabinet-approves-policy-attract-investment-bangladeshis-living-abroad-4190821",
+    "title": "Cabinet approves policy to attract investment from Bangladeshis living abroad",
+    "link": "https://www.thedailystar.net/news/governance/news/cabinet-approves-policy-attract-investment-bangladeshis-living-abroad-4190821",
+    "description": "",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/dc9eaa512f4e",
+    "title": "FDI incentive policy okayed",
+    "link": "https://bdnews24.com/bangladesh/dc9eaa512f4e",
+    "description": "[Bangladesh] FDI incentive policy okayed",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-fm-cabinet-040626-1780587660.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/health/35e73ba72216",
+    "title": "Bangladesh tightens tobacco law, key gaps remain",
+    "link": "https://bdnews24.com/health/35e73ba72216",
+    "description": "[Health] Bangladesh tightens tobacco law, key gaps remain",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025September/SM/smoking-driver-public-bus-280925-026-1759065862.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/05225e5687cb",
+    "title": "Khalilur to visit Russia next week",
+    "link": "https://bdnews24.com/bangladesh/05225e5687cb",
+    "description": "[Bangladesh] Khalilur to visit Russia next week",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/foreign-minister-khalilur-rahman-02062026-1780423094.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/japans-kajima-backs-out-citing-time-lag-global-volatility",
+    "title": "Japan's Kajima backs out citing time lag, global volatility",
+    "link": "https://thefinancialexpress.com.bd/economy/japans-kajima-backs-out-citing-time-lag-global-volatility",
+    "description": "A Japanese company has withdrawn from the bidding for one of the most controversial contract packages (CP) on MRT Line-1 despite being the lowest bidder, citing prolonged delays in implementing Bangladesh's first underground metro-rail project.\n\n\n\nSources say Kajima Corporation, whose bid was b",
+    "published": "Fri, 05 Jun 2026 03:45:59 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155881/p1-info-mrt-line-outline.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
