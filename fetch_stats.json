@@ -11,19 +11,19 @@
       "capped": 7
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 10,
-      "passed_age": 10,
-      "capped": 10
+      "fetched": 12,
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 83,
-      "capped": 83
+      "passed_age": 95,
+      "capped": 95
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 51,
-      "capped": 51
+      "passed_age": 52,
+      "capped": 52
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -37,13 +37,13 @@
     },
     "https://evilgodfahim.github.io/fen/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 10,
-      "capped": 10
+      "passed_age": 9,
+      "capped": 9
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 29,
-      "capped": 29
+      "passed_age": 39,
+      "capped": 39
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
@@ -51,9 +51,9 @@
       "capped": 62
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
-      "fetched": 197,
-      "passed_age": 19,
-      "capped": 19
+      "fetched": 198,
+      "passed_age": 16,
+      "capped": 16
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4247
+    "DIRECT": 4250
   },
-  "total_fetched": 4247,
-  "total_passed_age": 811,
-  "total_new": 163,
-  "total_signal": 21,
+  "total_fetched": 4250,
+  "total_passed_age": 832,
+  "total_new": 76,
+  "total_signal": 13,
   "total_longread": 0,
-  "total_signal_deduped": 14,
+  "total_signal_deduped": 10,
   "total_longread_deduped": 0,
-  "timestamp": "2026-06-06T13:56:09.491531",
+  "timestamp": "2026-06-06T15:20:35.175422",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 21
+  "total_signal_mistral": 13
 }
