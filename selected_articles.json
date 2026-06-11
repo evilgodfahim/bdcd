@@ -60871,5 +60871,41 @@
     "published": "Fri, 12 Jun 2026 02:28:06 +0600",
     "source": "https://evilgodfahim.github.io/dt/home.xml",
     "published_inferred": true
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/45-magnitude-earthquake-jolts-dhaka-other-parts-bangladesh-4196821",
+    "title": "4.5-magnitude earthquake jolts Dhaka, other parts of Bangladesh",
+    "link": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/45-magnitude-earthquake-jolts-dhaka-other-parts-bangladesh-4196821",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 05:40:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/cfac6edd354c",
+    "title": "US will receive severe response if it attacks again: Iran",
+    "link": "https://bdnews24.com/world/cfac6edd354c",
+    "description": "[World] US will receive severe response if it attacks again: Iran",
+    "published": "Fri, 12 Jun 2026 05:40:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-severe-response-12062026-01-1781210183.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "b8646a2aabbaa15c462dbe68cd6b2b20a7c1b1e8",
+    "title": "Argentina’s inflation slows to 8-month low in a boost for President Milei",
+    "link": "https://apnews.com/article/argentina-javier-milei-indec-inflation-corruption-adorni-e0a4977494b17f93bd533537c71d0d94",
+    "description": "Argentina’s inflation slows to 8-month low in a boost for President Milei",
+    "published": "Fri, 12 Jun 2026 05:40:57 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879738/us-stocks-rally-oil-prices-fall-as-trump-calls-off-fresh-iran-strikes",
+    "title": "US stocks rally, oil prices fall as Trump calls off fresh Iran strikes",
+    "link": "https://www.daily-sun.com/business/879738/us-stocks-rally-oil-prices-fall-as-trump-calls-off-fresh-iran-strikes",
+    "description": "Trump jolted markets near 1730 GMT announcing he was calling off new attacks on Iran...",
+    "published": "Fri, 12 Jun 2026 05:40:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Fuel-oil-collected-2-6a2b2c9dd7314.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
