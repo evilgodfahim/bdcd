@@ -61007,5 +61007,131 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Yao-Wen-joins-signing-of-Ninth-China-Bangladesh-Friendship-Bridge-6a2b398fa92db.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/budget/mcci-welcomes-budget-priorities-doubts-ambitious-revenue-target-1461281",
+    "title": "MCCI welcomes budget priorities, doubts 'ambitious' revenue target",
+    "link": "https://www.tbsnews.net/economy/budget/mcci-welcomes-budget-priorities-doubts-ambitious-revenue-target-1461281",
+    "description": "The chamber noted that the fiscal blueprint was formulated under difficult conditions, including persistent inflationary pressures, global geopolitical uncertainties, sluggish investment, and revenue mobilisation challenges",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/12/mcci_budget27.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/2022-edible-oil-crisis-shabnam-vegetable-oil-fined-tk3244cr-market-manipulation-1461246",
+    "title": "2022 edible oil crisis: Shabnam Vegetable Oil fined Tk32.44cr for market manipulation",
+    "link": "https://www.tbsnews.net/bangladesh/2022-edible-oil-crisis-shabnam-vegetable-oil-fined-tk3244cr-market-manipulation-1461246",
+    "description": "Bangladesh Competition Commission found that Shabnam Vegetable Oil and several other companies cut market supplies while maintaining substantial stocks of crude soybean oil during the 2022 Ramadan and Eid-ul-Fitr.",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/05/02/4222779_8071856_edible_oil.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879708",
+    "title": "BIN made mandatory for business banking, digital payments",
+    "link": "https://www.daily-sun.com/business/879708",
+    "description": "The government is set to tighten digital and formal economy compliance by making Business Identification",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://daily-sun.com/business/879564/govt-to-roll-out-new-pay-scale-from-1-july-after-11-years",
+    "title": "Govt to roll out new pay scale from 1 July after 11 years",
+    "link": "https://daily-sun.com/business/879564/govt-to-roll-out-new-pay-scale-from-1-july-after-11-years",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879758/revenue-target-inflation-control-biggest-hurdles-in-proposed-budget-cpd",
+    "title": "Revenue target, inflation control biggest hurdles in proposed budget: CPD",
+    "link": "https://www.daily-sun.com/business/879758/revenue-target-inflation-control-biggest-hurdles-in-proposed-budget-cpd",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/iaea-team-begins-rooppur-inspection-plant-enters-operational-phase-4197051",
+    "title": "IAEA team begins Rooppur inspection as plant enters operational phase",
+    "link": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/iaea-team-begins-rooppur-inspection-plant-enters-operational-phase-4197051",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/south-korea-snatch-2-1-win-over-czech-republic-4196976",
+    "title": "South Korea snatch 2-1 win over Czech Republic",
+    "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/south-korea-snatch-2-1-win-over-czech-republic-4196976",
+    "description": "South Korea came back from a goal down to snatch a thrilling 2-1 win over the Czech Republic in their World Cup Group A opener on Thursday, substitute Oh Hyeon-gyu grabbing the winner in the 80th minute.",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/4f0bb0852926",
+    "title": "Bangladesh, India to coordinate border patrols, share intel",
+    "link": "https://bdnews24.com/bangladesh/4f0bb0852926",
+    "description": "[Bangladesh] Bangladesh, India to coordinate border patrols, share intel",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bgb-bsf-logo-010626-01-1780326625.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/govt-proposes-scrapping-tk-300-sim-tax-imposes-15pc-vat-on-sim-supply-price",
+    "title": "Govt proposes scrapping Tk 300 SIM tax, imposes 15pc VAT on SIM supply price",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/govt-proposes-scrapping-tk-300-sim-tax-imposes-15pc-vat-on-sim-supply-price",
+    "description": "The government has proposed abolishing the longstanding Tk 300 tax on mobile SIM cards while introducing a 15 per cent value-added tax (VAT) on the supply price of SIMs and e-SIMs in the national budget for fiscal year 2026-27.\nPresenting the budget in parliament on Thursday, Finance Minister Amir",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/budget-prioritises-rmg-competitiveness-export-diversification-ahead-of-ldc-graduation",
+    "title": "Budget prioritises RMG competitiveness, export diversification ahead of LDC graduation",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/budget-prioritises-rmg-competitiveness-export-diversification-ahead-of-ldc-graduation",
+    "description": "The proposed national budget for FY 2026-27 has placed strong emphasis on safeguarding the competitiveness of Bangladesh's ready-made garment (RMG) and textile sectors in the post-LDC era through a range of investment promotion, trade facilitation and industrialisation measures aimed at sustaining",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "8d756f903b85f094e18bd83e4a9c0d466475f547",
+    "title": "Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula",
+    "link": "https://apnews.com/article/russia-ukraine-crimea-peninsula-fuel-war-a744652874e95ce38ec7ecd8d512e821",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/a0b71cc/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F64%2F0453a3d4ebeb670dbcac2036d5f5%2Fae1f2812613b4c558501eac5d391709c\" /><br />Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/a0b71cc/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F64%2F0453a3d4ebeb670dbcac2036d5f5%2Fae1f2812613b4c558501eac5d391709c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e451356d6a4380c371b67012479e8059653656cf",
+    "title": "Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks",
+    "link": "https://apnews.com/article/stocks-markets-ai-iran-oil-rates-47f9fecd934706362104cd92514122fe",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/15a75ba/2147483647/strip/true/crop/7569x5046+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fc2%2F771727406ddabe0ff94bf9509622%2F26df53ae687f4a49b053645c9257c71d\" /><br />Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/15a75ba/2147483647/strip/true/crop/7569x5046+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fc2%2F771727406ddabe0ff94bf9509622%2F26df53ae687f4a49b053645c9257c71d",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "5d2e6003a27d16346517052841912ba7a8b525c3",
+    "title": "Philippines protests China’s sanctions against its defense chief as ‘an unfriendly act’",
+    "link": "https://apnews.com/article/philippines-china-defense-secretary-gilberto-teodoro-jr-89e6999d31d4338d1a3fc0187c1612b7",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/1f0f8fb/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2F7f%2F34b150547305bdec75e6f7655eb6%2F24dcda1f381848b084082835daefab4f\" /><br />Philippines protests China’s sanctions against its defense chief as ‘an unfriendly act’",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/1f0f8fb/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2F7f%2F34b150547305bdec75e6f7655eb6%2F24dcda1f381848b084082835daefab4f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/879752/finance-minister-holds-post-budget-press-conference-this-afternoon",
+    "title": "Finance Minister holds post-budget press conference this afternoon",
+    "link": "https://www.daily-sun.com/bangladesh/879752/finance-minister-holds-post-budget-press-conference-this-afternoon",
+    "description": "Finance Minister Amir Khasru Mahmud Chowdhury presents Bangladesh's record Tk 938,000 crore budget, addressing key economic strategies at the post-budget",
+    "published": "Fri, 12 Jun 2026 16:22:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Amir-Khasru-Mahmud-Chowdhury-6a2b863968d5f.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
