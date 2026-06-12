@@ -61133,5 +61133,225 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Amir-Khasru-Mahmud-Chowdhury-6a2b863968d5f.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/budget/27-ministries-receive-extra-funds-revised-fy26-budget-amid-tk2000cr-overall-spending",
+    "title": "27 ministries receive extra funds in revised FY26 budget amid Tk2,000cr overall spending cut",
+    "link": "https://www.tbsnews.net/economy/budget/27-ministries-receive-extra-funds-revised-fy26-budget-amid-tk2000cr-overall-spending",
+    "description": "Finance Division, Election Commission among the biggest winners",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/11/calculator_budget27.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/budget/black-money-legalisation-opportunity-destroys-tax-fairness-cpd-1461446",
+    "title": "Black money legalisation opportunity destroys tax fairness: CPD",
+    "link": "https://www.tbsnews.net/economy/budget/black-money-legalisation-opportunity-destroys-tax-fairness-cpd-1461446",
+    "description": "This is not morally acceptable and can create a moral hazard in society, CPD Executive Director Fahmida Khatun says.",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/07/black_money_white_copy_2_0.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/tech/facebook-down-thousands-users-report-issues-1461416",
+    "title": "Facebook gradually resumes service after widespread disruption",
+    "link": "https://www.tbsnews.net/tech/facebook-down-thousands-users-report-issues-1461416",
+    "description": "According to outage tracking site downdetector, more than 100,000 user reports were submitted as of 7:58pm today (12 June).",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/08/26/meta_2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879715",
+    "title": "Withholding tax on gold supply slashed to 0.5% to boost industry",
+    "link": "https://www.daily-sun.com/business/879715",
+    "description": "BAJUS leaders hail ‘business-friendly’ budget",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Gold-6-collected-6a2b4acb3af87.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879765/govt-to-bring-diplomats-business-leaders-together-to-boost-economic-ties",
+    "title": "Govt to bring diplomats, business leaders together to boost economic ties",
+    "link": "https://www.daily-sun.com/business/879765/govt-to-bring-diplomats-business-leaders-together-to-boost-economic-ties",
+    "description": "Bangladesh hosts a high-level conference on trade and investment to enhance economic diplomacy amid global uncertainties, led by Foreign Minister",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/govt-6a2a962018e5c-6a2bb0492d68f.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879795/no-illegal-govt-interference-in-islami-bank-depositors-need-not-panic-governor",
+    "title": "No illegal govt interference in Islami Bank, depositors need not panic: BB Governor",
+    "link": "https://www.daily-sun.com/business/879795/no-illegal-govt-interference-in-islami-bank-depositors-need-not-panic-governor",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879791/no-provision-for-whitening-undisclosed-money-in-proposed-budget-nbr-chairman",
+    "title": "No provision for whitening undisclosed money in proposed budget: NBR chairman",
+    "link": "https://www.daily-sun.com/business/879791/no-provision-for-whitening-undisclosed-money-in-proposed-budget-nbr-chairman",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/879789/depositors-of-sammilito-islami-bank-to-get-funds-back-soon-governor",
+    "title": "Depositors of Sammilito Islami Bank to get funds back soon: Governor",
+    "link": "https://www.daily-sun.com/business/879789/depositors-of-sammilito-islami-bank-to-get-funds-back-soon-governor",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "c7136564-f6b9-48da-8e0d-e8e2de803195",
+    "title": "Woman falls from rickshaw during mugging, dies in hospital",
+    "link": "https://en.prothomalo.com/bangladesh/city/mtll35c5lu",
+    "description": "\n<p>A woman died on Thursday while undergoing treatment at a hospital in the city after four days of sustaining injuries falling from a moving rickshaw as muggers tried to snatch her vanity bag.</p><p>The incident took place last Sunday around 6:15 am in front of the Shaheed Suhrawardy Medical College Hospital in Dhaka.</p><p>Victim Soheli Islam, 42, was returning home with her only daughter by rickshaw after getting off a bus. Two muggers, wearing helmets on a motorcycle, were passing by. The person sitting on the back of the motorcycle suddenly grabbed the vanity bag wrapped around Soheli’s hand and started pulling. At one point, Soheli fell from the moving rickshaw.&nbsp;</p><p>Her right arm was broken and she received a serious injury to the back of her head. Blood began to pour from her ears. Later, with the help of some locals, her daughter admitted her mother to the hospital.</p><p>After four days of treatment, she died in the hospital Thursday.</p><p>Her burial was completed in the afternoon in the Paschim Tengri area of Ishwardi upazila, Pabna, at her maternal grandparents’ home. Soheli’s only daughter, Sumaia Alam, an undergraduate student at Home Economics College, has been mentally devastated by her death.</p><p>Soheli’s home is in the Shahebpara area of Parbatipur upazila, Dinajpur. She worked as a Medical Service Officer at the SK+F pharmaceutical company. She used to live in a rented house near Green Road in Dhaka's Dhanmondi.</p><p>Soheli’s uncle Sarwar Parvez said that a few days earlier, Soheli had come to Parbatipur with her daughter to attend a family programme. After the event, she left for Dhaka by bus on Saturday night.</p><p>He said that on Sunday at around 5:00 am, she got down at Gabtoli and waited at the counter. After about an hour, she took a rickshaw towards her home and was attacked by muggers after passing the gate of Shaheed Suhrawardy Medical College Hospital.</p><p>Sarwar Parvez added that Soheli was divorced about 15 years ago, after which her struggle-filled life began. Her father passed away two years ago, followed by her mother just two months later.</p><p>Soheli’s brother-in-law Tariqul Islam said that after falling from the rickshaw, the back of her head was badly injured and there was severe bleeding. She called for help but initially no one came forward. Later, with the help of the rickshaw puller and another person, she was taken to Shaheed Suhrawardy Medical College Hospital. From there she was shifted to the National Institute of Neurosciences and Hospital and later to a private hospital.&nbsp;</p><p>By then, it was too late. She could no longer speak and was only groaning in pain.&nbsp;</p><p>He also said that no case has been filed yet in connection with the incident. Legal action will be taken once the situation becomes a bit stable.</p>",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-06-12/8ac69pb4/Soheli-Islam.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/pm-may-inaugurate-commercial-operations-rooppur-nuclear-plant-aug-minister-anam",
+    "title": "PM may inaugurate commercial operations of Rooppur nuclear plant in August: Minister Anam",
+    "link": "https://www.tbsnews.net/bangladesh/energy/pm-may-inaugurate-commercial-operations-rooppur-nuclear-plant-aug-minister-anam",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/12/science_mon_roopur.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-iran-peace-memorandum-could-be-signed-sunday-geneva-1461326",
+    "title": "US-Iran peace memorandum could be signed on Sunday in Geneva",
+    "link": "https://www.tbsnews.net/world/us-iran-peace-memorandum-could-be-signed-sunday-geneva-1461326",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/12/strait_of_hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/steps-underway-resolve-islami-bank-crisis-emergency-liquidity-support-be-provided",
+    "title": "Steps to address Islami Bank crisis within days, including emergency liquidity support: Governor",
+    "link": "https://www.tbsnews.net/economy/banking/steps-underway-resolve-islami-bank-crisis-emergency-liquidity-support-be-provided",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/02/25/mostaqur_rahman.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/features/big-picture/super-el-nino-could-push-food-health-and-global-economy-brink-1460441",
+    "title": "A super El Niño could push food, health and global economy to the brink",
+    "link": "https://www.tbsnews.net/features/big-picture/super-el-nino-could-push-food-health-and-global-economy-brink-1460441",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/11/169.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/bangladesh-budget-2026-27/news/excise-duty-exemption-threshold-bank-deposits-rises-tk-4-lakh-4196436",
+    "title": "Excise duty exemption threshold on bank deposits rises to Tk 4 lakh",
+    "link": "https://www.thedailystar.net/business/bangladesh-budget-2026-27/news/excise-duty-exemption-threshold-bank-deposits-rises-tk-4-lakh-4196436",
+    "description": "",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/budget2026-27/aa5b3250afe1",
+    "title": "Khosru: ‘This budget is for all’",
+    "link": "https://bdnews24.com/budget2026-27/aa5b3250afe1",
+    "description": "[Budget 2026-27] Khosru: ‘This budget is for all’",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/budget-ameer-khasru-mahmud-120626-06-1781260095.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/879781/bgb-bsf-to-cooperate-for-peace-stability-along-the-border",
+    "title": "BGB, BSF to cooperate for peace, stability along the border",
+    "link": "https://www.daily-sun.com/diplomacy/879781/bgb-bsf-to-cooperate-for-peace-stability-along-the-border",
+    "description": "A joint press statement was issued following the conclusion of the four-day meeting",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/B-6a2bdb188010f.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/879778/japan-flagship-rocket-lifts-off-after-earlier-failure",
+    "title": "Japan flagship rocket lifts off after earlier failure",
+    "link": "https://www.daily-sun.com/world/879778/japan-flagship-rocket-lifts-off-after-earlier-failure",
+    "description": "Japan's JAXA successfully launched the H3 rocket, marking a crucial advancement in its space competitiveness after previous failures. The H3",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Rocket-6a2bd68e638f6.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/879771/nato-says-to-cut-forces-in-kosovo-mission",
+    "title": "NATO says to cut forces in Kosovo mission",
+    "link": "https://www.daily-sun.com/world/879771/nato-says-to-cut-forces-in-kosovo-mission",
+    "description": "NATO announces troop cuts in Kosovo's peacekeeping mission as security improves, according to General Alexus Grynkewich. What this means for",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/NATO-6a2bbe0dc1bff.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/879770/myanmar-s-president-to-visit-china-next-week",
+    "title": "Myanmar's president to visit China next week",
+    "link": "https://www.daily-sun.com/world/879770/myanmar-s-president-to-visit-china-next-week",
+    "description": "Myanmar's President Min Aung Hlaing will visit China next week to discuss trade and cooperation with Xi Jinping amid ongoing",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Min-Aung-Hlaing-6a2bbd3c331f1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/879806/bangladesh-algeria-discuss-business-opportunities-during-river-cruise",
+    "title": "Bangladesh, Algeria discuss business opportunities during river cruise",
+    "link": "https://www.daily-sun.com/diplomacy/879806/bangladesh-algeria-discuss-business-opportunities-during-river-cruise",
+    "description": "The ambassador exchanged views with the respected guests",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/A-6a2c0fd9e2e46.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/879796/stable-china-us-relations-benefit-bangladesh-jcd-leader",
+    "title": "Stable China–US relations benefit Bangladesh: JCD leader",
+    "link": "https://www.daily-sun.com/diplomacy/879796/stable-china-us-relations-benefit-bangladesh-jcd-leader",
+    "description": "He described China as an important development and economic partner for Bangladesh",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/C-6a2bf49f7bf93.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/879792/us-iran-peace-mou-could-be-signed-on-sunday-in-geneva",
+    "title": "US-Iran peace MoU could be signed on Sunday in Geneva",
+    "link": "https://www.daily-sun.com/world/879792/us-iran-peace-mou-could-be-signed-on-sunday-in-geneva",
+    "description": "Iran’s Foreign Ministry confirmed the main part of the text was 'almost finalised,' but added that the Americans were 'being greedy and raising new requests'",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/us-iran-6a2bf27d7b2e9.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "91a4f8196be1bd15f74e1546e1d7c3ef",
+    "title": "US-Iran peace memorandum could be signed on Sunday in Geneva, source says",
+    "link": "https://en.bonikbarta.com/international/pEwYA4MMzPhVclWU/",
+    "description": "Washington wants a deal to ensure that Iran never develops a nuclear weapon; Iran says it is not seeking one.",
+    "published": "Fri, 12 Jun 2026 21:27:41 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
