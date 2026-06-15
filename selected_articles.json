@@ -62933,5 +62933,83 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/15/medium/India-BD-Border-6a2fdde89b15a.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/e3db09965b1a",
+    "title": "WB trims Bangladesh growth outlook to 4.6%",
+    "link": "https://bdnews24.com/economy/e3db09965b1a",
+    "description": "[Economy] WB trims Bangladesh growth outlook to 4.6%",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/global-economic-prospects-june-150626-1781552346.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/budget2026-27/4cb75c58abab",
+    "title": "Fertiliser subsidies eat up 80% farm spending: WB",
+    "link": "https://bdnews24.com/budget2026-27/4cb75c58abab",
+    "description": "[Budget 2026-27] Fertiliser subsidies eat up 80% farm spending: WB",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025April/SM/sunamganj-haor-dhan-260425-02-1745723223.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/57b1b903dd4e",
+    "title": "UK warns of rising proxy attacks by Russian, Iranian actors",
+    "link": "https://bdnews24.com/world/57b1b903dd4e",
+    "description": "[World] UK warns of rising proxy attacks by Russian, Iranian actors",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/young-men-150626-01-1781550215.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bangladeshi-entrepreneurs-allowed-ro-sell-goods-on-amazon-ebay",
+    "title": "Bangladeshis can now sell on Amazon, eBay",
+    "link": "https://thefinancialexpress.com.bd/trade/bangladeshi-entrepreneurs-allowed-ro-sell-goods-on-amazon-ebay",
+    "description": "Bangladeshi entrepreneurs will now be able to sell their products directly to foreign buyers through global online marketplaces such as Amazon and eBay.\nA central bank directive is facilitating the small-scale exports.\nOn Monday, Bangladesh Bank issued a notification introducing a regulated frame",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157751/online-marketplace.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/foreign-currency-reserve-stands-at-3563b",
+    "title": "Foreign currency reserve stands at $35.63b",
+    "link": "https://thefinancialexpress.com.bd/trade/foreign-currency-reserve-stands-at-3563b",
+    "description": "Bangladesh's foreign exchange reserves stood at US$35.63 billion, according to the latest data released by the Bangladesh Bank (BB) today (Monday).\nThe central bank said that under the International Monetary Fund's (IMF) Balance of Payments and International Investment Position Manual (BPM-6) acco",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157723/forex.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "26fd15160536ee6940154f5552e7dc68ac176e36",
+    "title": "Colombia’s ELN rebels declare ceasefire before Sunday’s presidential election",
+    "link": "https://apnews.com/article/eln-colombia-election-petro-cepeda-espriella-c07c37d22c245141dd8f7c84961ac1de",
+    "description": "Colombia’s ELN rebels declare ceasefire before Sunday’s presidential election",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/880397/russian-strikes-kill-11-and-set-ukraine-s-historic-cathedral-ablaze",
+    "title": "Russian strikes kill 11 and set Ukraine’s historic cathedral ablaze",
+    "link": "https://www.daily-sun.com/world/880397/russian-strikes-kill-11-and-set-ukraine-s-historic-cathedral-ablaze",
+    "description": "A 1,000-year-old monastery that symbolises Ukraine's spiritual and cultural heritage was badly damaged in the heaviest Russian aerial attack on",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/15/medium/UKRAINE-CRISIS-ATTACK-KYIV-6a3012ecdcba5.JPG",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/880501/trump-says-iran-deal-is-all-signed-details-remain-unclear",
+    "title": "Trump says Iran deal is 'all signed', details remain unclear",
+    "link": "https://www.daily-sun.com/world/880501/trump-says-iran-deal-is-all-signed-details-remain-unclear",
+    "description": "US President Donald Trump said on Monday a preliminary agreement to end the war in the Gulf has already been",
+    "published": "Tue, 16 Jun 2026 04:22:54 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/16/medium/Trump-(15)-6a30581dc84ba.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
