@@ -66638,5 +66638,23 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/21/medium/Prime-Minister's-Special-Assistant-on-Health-Affairs-Dr-SM-Ziauddin-Hyder-BSS-6a3825992c956.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/decade-half-chinas-20b-pledge-enters-aid-pipeline-4204616",
+    "title": "A decade on, half of China’s $20b pledge enters aid pipeline",
+    "link": "https://www.thedailystar.net/business/economy/news/decade-half-chinas-20b-pledge-enters-aid-pipeline-4204616",
+    "description": "",
+    "published": "Mon, 22 Jun 2026 05:20:44 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/7356e08fbd38",
+    "title": "NBR faces Tk 1.4tn June revenue gap",
+    "link": "https://bdnews24.com/economy/7356e08fbd38",
+    "description": "[Economy] NBR faces Tk 1.4tn June revenue gap",
+    "published": "Mon, 22 Jun 2026 05:20:44 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/national-board-of-revenue-260125-01-1738525960.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
