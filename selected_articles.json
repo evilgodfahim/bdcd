@@ -68523,5 +68523,59 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/25/medium/Qatar-6a3c40dd3bd64.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/38559ddcc1ca",
+    "title": "Europe buckles under ‘Omega’ heatwave",
+    "link": "https://bdnews24.com/world/38559ddcc1ca",
+    "description": "[World] Europe buckles under ‘Omega’ heatwave",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/europe-buckles-omega-heatwave-240626-01-1782335620.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/surge-in-high-powered-money-weakens-inflation-combat",
+    "title": "Surge in high-powered money weakens inflation combat",
+    "link": "https://thefinancialexpress.com.bd/economy/surge-in-high-powered-money-weakens-inflation-combat",
+    "description": "After a downturn, inflation-fueling high-powered money has surged again, largely negating the effect of a contractionary policy pursued by the regulator to stem price rises.\n\n\n\nThe money being injected into the market through some channels is stoking fear of higher monetary regime ahead.\nMoney",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159306/p1-info-high-powere-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/export-data-mismatch-remains-unresolved-despite-years-of-scrutiny",
+    "title": "Export data mismatch remains unresolved despite years of scrutiny",
+    "link": "https://thefinancialexpress.com.bd/trade/export-data-mismatch-remains-unresolved-despite-years-of-scrutiny",
+    "description": "A controversy that exposed serious flaws in Bangladesh's export reporting has lingered far beyond the fall of one government, with billions of dollars still separating the country's key export datasets.\nData released by the Export Promotion Bureau (EPB) and Bangladesh Bank show a gap of nearly $4",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159287/export-data-mismatch-remains-unresolved-despite-years-of-scrutiny.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "0e35ff735c0a69d8d9fa47105da93b05784d021c",
+    "title": "UN nuclear agency boss says that inspectors will visit Iran’s nuclear sites",
+    "link": "https://apnews.com/video/un-nuclear-agency-boss-says-that-inspectors-will-visit-irans-nuclear-sites-27369fc4d7a449409aeade6e95b3bfa6",
+    "description": "UN nuclear agency boss says that inspectors will visit Iran’s nuclear sites",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "de07ddd63b879f6baf3b01bc35dacd4089717b2c",
+    "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan, meteorological agency says",
+    "link": "https://apnews.com/article/japan-earthquake-tsunami-d55ef22e943aba927183ca016aa486e6",
+    "description": "Powerful 6.9-magnitude earthquake strikes off northern Japan, meteorological agency says",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "a2d89ffa1dd2ee272b9a3ef9350dd3d0b55cee60",
+    "title": "A powerful 7.1-magnitude earthquake hits Venezuela, swaying buildings in the capital",
+    "link": "https://apnews.com/article/venezuela-earthquake-caracas-7179acaee70a9c543f953852f15d4814",
+    "description": "A powerful 7.1-magnitude earthquake hits Venezuela, swaying buildings in the capital",
+    "published": "Thu, 25 Jun 2026 05:10:37 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
