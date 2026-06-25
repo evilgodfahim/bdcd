@@ -69213,5 +69213,77 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/25/26678b6d3db188f8a8717869a57a545b-6a3d58998a3ee.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/882452",
+    "title": "Govt pushes deregulation, tech-driven industrialisation",
+    "link": "https://www.daily-sun.com/business/882452",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/small/DS-'06'26-110-6a3d76217fd5d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/882484/bangla-qr-mandatory-from-1-july-to-boost-cashless-transaction",
+    "title": "Bangla QR mandatory from 1 July to boost cashless transaction",
+    "link": "https://www.daily-sun.com/business/882484/bangla-qr-mandatory-from-1-july-to-boost-cashless-transaction",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/chinese-premier-assures-bangladesh-chinas-role-resolving-rohingya-crisis-humaiun-1472576",
+    "title": "Chinese Premier assures Bangladesh of China's role in resolving Rohingya crisis: Humaiun",
+    "link": "https://www.tbsnews.net/bangladesh/chinese-premier-assures-bangladesh-chinas-role-resolving-rohingya-crisis-humaiun-1472576",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/26/pms_adviser.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/private-firms-buy-bad-loans-take-over-companies-4208491",
+    "title": "Private firms to buy bad loans, take over companies",
+    "link": "https://www.thedailystar.net/business/economy/news/private-firms-buy-bad-loans-take-over-companies-4208491",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/413633/businesses-demand-withdrawing-0.2%25-advance-tax-on",
+    "title": "Businesses demand withdrawing 0.2% advance tax on retailers",
+    "link": "https://www.dhakatribune.com/business/413633/businesses-demand-withdrawing-0.2%25-advance-tax-on",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bangladesh-bank-removes-lending-cap-on-consumer-loans-to-boost-spending",
+    "title": "Bangladesh lifts consumer loan cap",
+    "link": "https://thefinancialexpress.com.bd/trade/bangladesh-bank-removes-lending-cap-on-consumer-loans-to-boost-spending",
+    "description": "Bangladesh Bank has lifted the annual limit on the amount of loans banks can extend to individuals to boost consumer spending.\nThe banking regulator announced the decision on Thursday, saying banks will have no limits on lending to the consumer sector from now on.\nThe limit had been set in 2017,",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159476/bangladesh-bank-removes-lending-cap-on-consumer-loans-to-boost-spending.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/882479/us-pledges-150m-in-aid-for-venezuela-earthquake",
+    "title": "US pledges $150m in aid for Venezuela earthquake",
+    "link": "https://www.daily-sun.com/world/882479/us-pledges-150m-in-aid-for-venezuela-earthquake",
+    "description": "The State Department said the package would include $50 million in new bilateral awards to aid groups...",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/Venezuela-earthquake-25-June-2026-AFP-2-6a3d84615f3a7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/diplomacy/882315/india-to-resume-tourist-visa-services-for-bangladeshis-from-28-june",
+    "title": "India to resume tourist visas for Bangladeshis from 28 June",
+    "link": "https://daily-sun.com/diplomacy/882315/india-to-resume-tourist-visa-services-for-bangladeshis-from-28-june",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 05:23:04 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
