@@ -69674,5 +69674,131 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/China-Bangladesh-ties-6a3e66efdb16b.jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/teesta-project-beijing-says-its-cooperation-dhaka-should-be-free-3rd-party-influence",
+    "title": "Teesta Project: Beijing says its cooperation with Dhaka should be free from 3rd party influence",
+    "link": "https://www.tbsnews.net/foreign-policy/teesta-project-beijing-says-its-cooperation-dhaka-should-be-free-3rd-party-influence",
+    "description": "The spokesperson stated China's position after a reporter flagged India's concerns over Teesta cooperation between Bangladesh and China",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/26/china_fm_spokesperson.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/health/2fc389e5db33",
+    "title": "5.5mn-child gap raises vaccine questions",
+    "link": "https://bdnews24.com/health/2fc389e5db33",
+    "description": "[Health] 5.5mn-child gap raises vaccine questions",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-vaccination-050426-09-1775380180.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/environment/cb8494d11b9f",
+    "title": "Scientists blame climate change for Europe heatwave",
+    "link": "https://bdnews24.com/environment/cb8494d11b9f",
+    "description": "[Environment] Scientists blame climate change for Europe heatwave",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/heatwave-in-europe-260626-01-1782490780.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/latin-america/413688/venezuela-earthquakes-toll-soars-to-589-amid",
+    "title": "Venezuela earthquakes toll soars to 589 amid desperate rescue effort",
+    "link": "https://www.dhakatribune.com/world/latin-america/413688/venezuela-earthquakes-toll-soars-to-589-amid",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/26/6d4f9ff35518d0c83ad5bee9ac5e2550-6a3ea1b2314cc.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/africa/413681/sudan-fears-of-atrocities-as-rsf-surrounds-key",
+    "title": "Sudan: Fears of atrocities as RSF surrounds key city",
+    "link": "https://www.dhakatribune.com/world/africa/413681/sudan-fears-of-atrocities-as-rsf-surrounds-key",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2025/02/06/000_36WB8V8-8b22a1b97952390fd844c86875fbdd99.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/413676/un-says-iran-nuclear-pledge-needs-%E2%80%98very-strong%E2%80%99",
+    "title": "UN says Iran nuclear pledge needs ‘very strong’ verification",
+    "link": "https://www.dhakatribune.com/world/middle-east/413676/un-says-iran-nuclear-pledge-needs-%E2%80%98very-strong%E2%80%99",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/foreign-affairs/413679/pm%E2%80%99s-adviser-humayun-kabir-xi-pledges-china-will",
+    "title": "Foreign adviser: President Xi pledges China will remain Bangladesh's trusted friend",
+    "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/413679/pm%E2%80%99s-adviser-humayun-kabir-xi-pledges-china-will",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/413685/ships-crossing-hormuz-use-oman-passage-despite",
+    "title": "Ships crossing Hormuz use Oman passage despite Iran warnings",
+    "link": "https://www.dhakatribune.com/world/middle-east/413685/ships-crossing-hormuz-use-oman-passage-despite",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml"
+  },
+  {
+    "id": "3ca6076f82f7962283a0fce0823d79ef3cbfc988",
+    "title": "Trump threatens 100% tax on European imports if countries impose tax on digital services",
+    "link": "https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/2cb04a6/2147483647/strip/true/crop/3072x2048+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F93%2F0577910be171aa35cab325094479%2F25bd08ecdb99431e8e29c0706abb9ab9\" /><br />Trump threatens 100% tax on European imports if countries impose tax on digital services",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/2cb04a6/2147483647/strip/true/crop/3072x2048+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F93%2F0577910be171aa35cab325094479%2F25bd08ecdb99431e8e29c0706abb9ab9",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ad5cb8025c05160d123e9558a2076dbc9fbf13e1",
+    "title": "Congo files an ICJ case against Rwanda over decades of violence in eastern Congo",
+    "link": "https://apnews.com/article/congo-rwanda-icj-genocide-m23-b08bf540d56a8588bd6fbfcc3f8b1ea6",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/c388a29/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F31%2Fa9011e22eb721a627bf1fb39fe93%2Fd3df4c2e6cba40bc908f42b91e60ad4f\" /><br />Congo files an ICJ case against Rwanda over decades of violence in eastern Congo",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/c388a29/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F31%2Fa9011e22eb721a627bf1fb39fe93%2Fd3df4c2e6cba40bc908f42b91e60ad4f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "93ba426d9b977e321fff9c78da0e3720032f6308",
+    "title": "Trump blames Iran for a drone strike on a cargo ship in the Strait of Hormuz",
+    "link": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296",
+    "description": "Trump blames Iran for a drone strike on a cargo ship in the Strait of Hormuz",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/882580/lebanon-israel-us-sign-trilateral-framework-agreement-in-washington",
+    "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
+    "link": "https://www.daily-sun.com/world/882580/lebanon-israel-us-sign-trilateral-framework-agreement-in-washington",
+    "description": "Lebanon, Israel, and the United States signed a framework agreement for peace, marking a significant step towards resolving long-standing tensions",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/27/medium/Lebanon_Israel_US_sign_trilateral_deal-6a3ec6b5cc657.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/882577/magnitude-6-7-quake-hits-off-southern-philippines-usgs",
+    "title": "Magnitude 6.7 earthquake hits off southern Philippines: USGS",
+    "link": "https://www.daily-sun.com/world/882577/magnitude-6-7-quake-hits-off-southern-philippines-usgs",
+    "description": "A 6.7-magnitude earthquake hit off the southern Philippines, near Sarangani, just weeks after a deadly tremor. No tsunami warnings reported.",
+    "published": "Sat, 27 Jun 2026 01:57:51 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/Earthquake2-6a3ebcfa05cdc.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
