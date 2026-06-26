@@ -69800,5 +69800,59 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/Earthquake2-6a3ebcfa05cdc.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-lebanon-sign-framework-peace-deal-after-us-mediated-talks-4209121",
+    "title": "Israel, Lebanon sign framework peace deal after US-mediated talks",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/israel-lebanon-sign-framework-peace-deal-after-us-mediated-talks-4209121",
+    "description": "Israel drops leaflets on southern Lebanese town ordering residents to flee",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/health/b9275b82f212",
+    "title": "Ebola response raised at highest level",
+    "link": "https://bdnews24.com/health/b9275b82f212",
+    "description": "[Health] Ebola response raised at highest level",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ebola-190626-1781844279.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "c5b3666608c8c9f5e3e54c6bbeee39fd1bc586bc",
+    "title": "Tanzania bans political rallies ahead of planned anti-government protests",
+    "link": "https://apnews.com/article/tanzania-political-rallies-ban-830f6a6db6ac7d8573b12e146006cd35",
+    "description": "Tanzania bans political rallies ahead of planned anti-government protests",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "98411afb83cf5e528e78f377ae84c94f9f609f73",
+    "title": "Appeals court rejects Trump EPA bid to abandon rule restricting deadly soot pollution",
+    "link": "https://apnews.com/article/epa-soot-pollution-trump-zeldin-coal-dce0b711b208cec535de1f472079d219",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/fa1c94a/2147483647/strip/true/crop/2860x1907+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2Ff2%2Fb865da0d55a56c754bbee18fd643%2F6b1b018178434179ad03a35a8334ba05\" /><br />Appeals court rejects Trump EPA bid to abandon rule restricting deadly soot pollution",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/fa1c94a/2147483647/strip/true/crop/2860x1907+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2Ff2%2Fb865da0d55a56c754bbee18fd643%2F6b1b018178434179ad03a35a8334ba05",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/882581/saudi-arabia-imposes-travel-ban-on-citizens-of-three-countries",
+    "title": "Saudi Arabia imposes travel ban on citizens of three countries",
+    "link": "https://www.daily-sun.com/world/882581/saudi-arabia-imposes-travel-ban-on-citizens-of-three-countries",
+    "description": "Saudi authorities impose an entry ban on travelers from three African nations due to the Ebola outbreak. Enhanced health screenings",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/27/medium/Saudi_Arabia_Ebola--6a3ed7e48fb9d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/world/882485/venezuela-earthquakes-death-toll-rises-to-188",
+    "title": "Venezuela earthquakes death toll rises to 188",
+    "link": "https://daily-sun.com/world/882485/venezuela-earthquakes-death-toll-rises-to-188",
+    "description": "",
+    "published": "Sat, 27 Jun 2026 03:25:08 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
