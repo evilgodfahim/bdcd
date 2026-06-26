@@ -69285,5 +69285,35 @@
     "description": "",
     "published": "Fri, 26 Jun 2026 05:23:04 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/pm-tarique-begins-talks-chinese-president-xi-jinping-beijing-1472676",
+    "title": "PM Tarique begins talks with Chinese President Xi Jinping in Beijing",
+    "link": "https://www.tbsnews.net/bangladesh/pm-tarique-begins-talks-chinese-president-xi-jinping-beijing-1472676",
+    "description": "The meeting began around 10:40am local time (8:30am Bangladesh time), Prime Minister's Additional Press Secretary Atikur Rahman Rumon said.",
+    "published": "Fri, 26 Jun 2026 10:11:28 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/26/tarique_xi_jinping.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/un-halts-escort-ships-through-hormuz-after-vessel-comes-under-attack-1472611",
+    "title": "UN halts escort of ships through Hormuz after vessel comes under attack",
+    "link": "https://www.tbsnews.net/world/un-halts-escort-ships-through-hormuz-after-vessel-comes-under-attack-1472611",
+    "description": "The cargo ship said it was hit close to Oman by a projectile, British navy agency UKMTO said, hours after Tehran warned vessels against taking routes that it had not approved.",
+    "published": "Fri, 26 Jun 2026 10:11:28 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/25/hormuz_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/bangladesh-highlights-inclusive-digital-public-infrastructure-un-forum-1472631",
+    "title": "Bangladesh highlights inclusive digital public infrastructure at UN forum",
+    "link": "https://www.tbsnews.net/economy/corporates/bangladesh-highlights-inclusive-digital-public-infrastructure-un-forum-1472631",
+    "description": "",
+    "published": "Fri, 26 Jun 2026 10:11:28 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/26/whatsapp_image_2026-06-25_at_5.09.52_pm_16x9.png",
+    "thumbnail_type": "image/png"
   }
 ]
