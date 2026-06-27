@@ -70313,5 +70313,29 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/27/c47e1e5c04ade5bee13dd107a647c0f4-6a3ff49cd8006.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/882787/11-chinese-companies-propose-9-21b-investment-in-bangladesh",
+    "title": "11 Chinese companies propose $9.21b investment in Bangladesh",
+    "link": "https://www.daily-sun.com/business/882787/11-chinese-companies-propose-9-21b-investment-in-bangladesh",
+    "description": "",
+    "published": "Sun, 28 Jun 2026 03:10:56 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "42429c0b2790bf73fe727169d382fdf803ff1d6b",
+    "title": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp",
+    "link": "https://apnews.com/article/gaza-israel-palestinians-hamas-ceasefire-drone-muwasi-7f419c617992434865dc47598c169eb5",
+    "description": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp",
+    "published": "Sun, 28 Jun 2026 03:10:56 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "75ba0a5b34eecb45b76ccbec300698cb2d4ae8ac",
+    "title": "Militant rams explosive-laden vehicle into paramilitary headquarters in Pakistan",
+    "link": "https://apnews.com/article/pakistan-militants-attack-paramilitary-rangers-headquarters-karachi-c587c48d9bceba758ede65b34bea75cd",
+    "description": "Militant rams explosive-laden vehicle into paramilitary headquarters in Pakistan",
+    "published": "Sun, 28 Jun 2026 03:10:56 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
