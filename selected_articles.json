@@ -70337,5 +70337,45 @@
     "description": "Militant rams explosive-laden vehicle into paramilitary headquarters in Pakistan",
     "published": "Sun, 28 Jun 2026 03:10:56 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/budget/vat-retail-business-mandatory-tin-opening-bank-account-may-be-scrapped-1473816",
+    "title": "VAT on retail business, mandatory TIN for opening bank account may be scrapped",
+    "link": "https://www.tbsnews.net/economy/budget/vat-retail-business-mandatory-tin-opening-bank-account-may-be-scrapped-1473816",
+    "description": "The government is also considering raising the tax-free income threshold for individual taxpayers from Tk3,75,000 to Tk4 lakh for the next tax year, with the same threshold likely to remain in place for 2027-28.",
+    "published": "Sun, 28 Jun 2026 10:19:39 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/28/vat.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/882784",
+    "title": "Bangladesh launches first short-term sovereign Sukuk",
+    "link": "https://www.daily-sun.com/business/882784",
+    "description": "",
+    "published": "Sun, 28 Jun 2026 10:19:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/small/sukuk-6a405c3c7e09d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/882783",
+    "title": "World Bank approves $1.1b emergency fund for Bangladesh",
+    "link": "https://www.daily-sun.com/business/882783",
+    "description": "",
+    "published": "Sun, 28 Jun 2026 10:19:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/small/World-Bank-6a405df48829d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/882798/us-carries-out-fresh-strikes-on-iran-after-another-tanker-struck-in-hormuz",
+    "title": "US carries out fresh strikes on Iran after another tanker struck in Hormuz",
+    "link": "https://www.daily-sun.com/world/882798/us-carries-out-fresh-strikes-on-iran-after-another-tanker-struck-in-hormuz",
+    "description": "The strikes mark the worst escalation since the two sides signed an interim peace deal two weeks ago",
+    "published": "Sun, 28 Jun 2026 10:19:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/medium/IRAN-CRISIS-SHIPPING-IMO-6a40568154224.JPG",
+    "thumbnail_type": "image/jpeg"
   }
 ]
