@@ -70908,5 +70908,45 @@
     "description": "",
     "published": "Mon, 29 Jun 2026 01:37:54 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/economy/71fd6eff73a2",
+    "title": "NBR mandates online tax return filing again",
+    "link": "https://bdnews24.com/economy/71fd6eff73a2",
+    "description": "[Economy] NBR mandates online tax return filing again",
+    "published": "Mon, 29 Jun 2026 03:08:54 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025October/SM/income-tax-fair-031025-1759558715.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/national-savings-dip-to-5yr-low",
+    "title": "National savings dip to 5yr low",
+    "link": "https://thefinancialexpress.com.bd/economy/national-savings-dip-to-5yr-low",
+    "description": "Bangladesh's gross national savings (GNS) are projected to decline to 26.93 per cent of gross domestic product (GDP) in the outgoing fiscal year-hitting a five-year low,\n\n\n\nThe latest savings figure collated by Bangladesh Bureau of Statistics (BBS) marks a decline of 0.74-percentage points from",
+    "published": "Mon, 29 Jun 2026 03:08:54 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159896/p1-info-gns-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "bbb4597562d0f5cc782fef91b5c8ec5ed79bea36",
+    "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants",
+    "link": "https://apnews.com/article/pakistan-operation-afghanistan-border-killed-fab8de4e4e82590da5a259587e0b84ff",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/c873838/2147483647/strip/true/crop/1200x792+0+0/resize/727x480!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F3c%2F48ce0fa6e4efaad61433cd7c4302%2Fc34a32546e91441188e98457f9e2c5e0\" /><br />Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants",
+    "published": "Mon, 29 Jun 2026 03:08:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/c873838/2147483647/strip/true/crop/1200x792+0+0/resize/727x480!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F3c%2F48ce0fa6e4efaad61433cd7c4302%2Fc34a32546e91441188e98457f9e2c5e0",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1ca9dc3728c28eff66a8181002037fe2218b92d5",
+    "title": "Israeli strikes and shelling in Gaza kill at least 4 Palestinians, health workers say",
+    "link": "https://apnews.com/article/gaza-israel-palestinians-war-ceasefire-hamas-ecd5e42902fa2ea31b6cd64e84adeebd",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/76cff75/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2Fb4%2Fa55301140543238429b87d977126%2Fb1fa900baa5a403d999bf67775d31b1d\" /><br />Israeli strikes and shelling in Gaza kill at least 4 Palestinians, health workers say",
+    "published": "Mon, 29 Jun 2026 03:08:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/76cff75/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2Fb4%2Fa55301140543238429b87d977126%2Fb1fa900baa5a403d999bf67775d31b1d",
+    "thumbnail_type": "image/jpeg"
   }
 ]
