@@ -72683,5 +72683,23 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/medium/US-6a454e8a86cf6.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bb-unveils-npl-combat-roadmap",
+    "title": "Central bank unveils NPL combat roadmap",
+    "link": "https://thefinancialexpress.com.bd/economy/bb-unveils-npl-combat-roadmap",
+    "description": "The central bank has unveiled a medium-term roadmap to reduce mounting non-performing loans (NPLs) through stricter supervision, faster loan recovery, legal reforms and adoption of internationally practised expected credit-loss standards.\n\"The level of NPLs remains a key focus area for the banking",
+    "published": "Thu, 02 Jul 2026 05:20:17 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/revenue-earning-rises-to-tk-42-trillion-shortens-predicted-gap",
+    "title": "Revenue earning rises to Tk 4.2 trillion, shortens predicted gap",
+    "link": "https://thefinancialexpress.com.bd/economy/revenue-earning-rises-to-tk-42-trillion-shortens-predicted-gap",
+    "description": "Taxmen in their last-minute efforts managed to mobilise around Tk 4.20 trillion for the just-concluded fiscal year, shortening an anticipated large gap to Tk 800 billion against the revised budgetary target, officials say.\n\n\n\nEconomists had projected the revenue gap could exceed Tk 1.0 trillion",
+    "published": "Thu, 02 Jul 2026 05:20:17 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160408/nbr-performance.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
