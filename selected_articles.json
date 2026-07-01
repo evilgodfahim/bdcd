@@ -72183,5 +72183,35 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/medium/Untitled-design-6a442457e34bb.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/bb-allow-waiver-tk1-lakh-crore-interest-default-loans-clean-balance-sheet-1476641",
+    "title": "BB to allow waiver of Tk1 lakh crore interest on default loans to clean balance sheet",
+    "link": "https://www.tbsnews.net/economy/banking/bb-allow-waiver-tk1-lakh-crore-interest-default-loans-clean-balance-sheet-1476641",
+    "description": "In a circular issued on Monday, banks were allowed to waive both charged and uncharged interest of borrowers, relaxing the condition of ensuring recovery of the cost of funds before waiver.",
+    "published": "Wed, 01 Jul 2026 10:22:17 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/10/28/bangladesh_bank.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/883354",
+    "title": "A-Challan mandatory for all govt receipts from today",
+    "link": "https://www.daily-sun.com/business/883354",
+    "description": "",
+    "published": "Wed, 01 Jul 2026 10:22:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/small/01-07-2026-p3-3-6a43facc5704d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/883352",
+    "title": "Govt keeps fuel prices unchanged for July",
+    "link": "https://www.daily-sun.com/business/883352",
+    "description": "",
+    "published": "Wed, 01 Jul 2026 10:22:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/small/fuel-oil-govt-6a4424f3a2192.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
