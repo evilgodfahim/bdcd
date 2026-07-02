@@ -73692,5 +73692,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/US-Dollar-Reuters-5-6a46a1f382e12.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/18028193311e",
+    "title": "Reserves top $33bn",
+    "link": "https://bdnews24.com/economy/18028193311e",
+    "description": "[Economy] Reserves top $33bn",
+    "published": "Fri, 03 Jul 2026 03:14:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/ri-1726154505.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/govts-bank-borrowing-overshoots-revised-higher-target-in-fy26",
+    "title": "Govt's bank borrowing overshoots revised higher target in FY'26",
+    "link": "https://thefinancialexpress.com.bd/economy/govts-bank-borrowing-overshoots-revised-higher-target-in-fy26",
+    "description": "Government's bank-borrowing debt deepens as the borrowed aggregate sum ballooned over the revised higher target to Tk 1.32 trillion even before the just-past financial year's end.\nTo meet budgetary shortfall, the government had initially set a bank-borrowing target of Tk 1.04 trillion for the fisc",
+    "published": "Fri, 03 Jul 2026 03:14:49 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160553/p1-borrowing-info-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-export-earnings-fall-058pc-in-fy26-miss-annual-target-by-13pc",
+    "title": "Bangladesh export earnings fall 0.58pc in FY26, miss annual target by 13pc",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-export-earnings-fall-058pc-in-fy26-miss-annual-target-by-13pc",
+    "description": "Bangladesh's export earnings have declined in the 2025-26 fiscal year despite a sharp rebound in June, with receipts falling 0.58 per cent from the previous year to $48 billion.\nThe annual export figure also fell nearly 13 per cent short of the government's target of $55 billion, as per a bdnews24",
+    "published": "Fri, 03 Jul 2026 03:14:49 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/883759/india-japan-vow-closer-work-on-critical-minerals",
+    "title": "India, Japan vow closer work on critical minerals",
+    "link": "https://www.daily-sun.com/world/883759/india-japan-vow-closer-work-on-critical-minerals",
+    "description": "Both India and Japan depend on imports for many such minerals, used in everything from electric vehicles...",
+    "published": "Fri, 03 Jul 2026 03:14:49 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Japan-Prime-Minister-Modi-AFP-6a46bad726889.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/883758/bangladesh-australia-reaffirm-commitment-to-strengthening-bilate",
+    "title": "Bangladesh, Australia reaffirm commitment to boosting ties",
+    "link": "https://www.daily-sun.com/diplomacy/883758/bangladesh-australia-reaffirm-commitment-to-strengthening-bilate",
+    "description": "The meeting reflected the continued engagement between Dhaka and Canberra to deepen cooperation on issues of mutual interest...",
+    "published": "Fri, 03 Jul 2026 03:14:49 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Susan-Ryle-Khalilur-Rahman-MoFA-6a46b6d4dec4e.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
