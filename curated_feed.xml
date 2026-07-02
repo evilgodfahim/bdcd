@@ -4,23 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Wed, 01 Jul 2026 23:20:24 +0000</lastBuildDate>
-    <item>
-      <title>Trains halted across Germany because of communication system problem</title>
-      <link>https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b</link>
-      <guid isPermaLink="false">ffc65b0122e721bc8a1842b57201811315686ec7</guid>
-      <description>Trains halted across Germany because of communication system problem</description>
-      <pubDate>Wed, 24 Jun 2026 05:11:54 +0600</pubDate>
-    </item>
-    <item>
-      <title>Why Bangladesh is interested in China’s J-10CE fighter jets</title>
-      <link>https://www.daily-sun.com/diplomacy/882056/why-bangladesh-is-interested-in-china-s-j-10ce-fighter-jets</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/diplomacy/882056/why-bangladesh-is-interested-in-china-s-j-10ce-fighter-jets</guid>
-      <description>The J-10 is the most prolific fighter in the Chinese Air Force</description>
-      <pubDate>Wed, 24 Jun 2026 05:11:54 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/24/medium/J10-6a3ae6441ef4a.gif" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/24/medium/J10-6a3ae6441ef4a.gif" type="image/gif" length="0" />
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 04:01:47 +0000</lastBuildDate>
     <item>
       <title>Heat protections for migrant workers falling short in Gulf states: HRW</title>
       <link>https://www.daily-sun.com/feature/882006/heat-protections-for-migrant-workers-falling-short-in-gulf-states-hrw</link>
@@ -5482,6 +5466,24 @@ Economists had projected the revenue gap could exceed Tk 1.0 trillion</descripti
       <pubDate>Thu, 02 Jul 2026 05:20:17 +0600</pubDate>
       <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160408/nbr-performance.jpg" />
       <enclosure url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160408/nbr-performance.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US, Iran talks conclude in Doha, focused on Strait of Hormuz</title>
+      <link>https://www.tbsnews.net/worldbiz/middle-east/us-iran-talks-conclude-doha-focused-strait-hormuz-1477586</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/middle-east/us-iran-talks-conclude-doha-focused-strait-hormuz-1477586</guid>
+      <description>Sources familiar with the discussions said negotiators for the two countries spent two days in Doha discussing maritime traffic in the Strait of Hormuz and unfreezing Iran's funds, two critical issues under the initial agreement</description>
+      <pubDate>Thu, 02 Jul 2026 10:01:29 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/18/hormuz_0.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/18/hormuz_0.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Corporate profits plunge 44% as inflation, energy crisis deepen pressure</title>
+      <link>https://www.tbsnews.net/economy/corporate-profits-plunge-44-inflation-energy-crisis-deepen-pressure-1477581</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/economy/corporate-profits-plunge-44-inflation-energy-crisis-deepen-pressure-1477581</guid>
+      <description>According to data from Lion City Advisory, aggregate net profits fell to Tk2,764.45 crore in Q1 of 2026, down from Tk4,962.11 crore in the same period last year</description>
+      <pubDate>Thu, 02 Jul 2026 10:01:29 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/05/24/symbol-2088735_1920.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/05/24/symbol-2088735_1920.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
