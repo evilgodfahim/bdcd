@@ -74199,5 +74199,55 @@
     "description": "",
     "published": "Sat, 04 Jul 2026 03:13:27 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/sport/world-cup-2026/fcb92a68f2ee",
+    "title": "Police pushed player, team director at WC: Egypt",
+    "link": "https://bdnews24.com/sport/world-cup-2026/fcb92a68f2ee",
+    "description": "[2026 FIFA World Cup] Police pushed player, team director at WC: Egypt",
+    "published": "Sat, 04 Jul 2026 09:38:50 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/police-push-player-04072026-01-1783109349.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/campus/e3acc966d3ef",
+    "title": "UGC sets conditions for research funds",
+    "link": "https://bdnews24.com/campus/e3acc966d3ef",
+    "description": "[Campus] UGC sets conditions for research funds",
+    "published": "Sat, 04 Jul 2026 09:38:50 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ugc-logo-03072026-1783100390.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/edac7fa5ffe5",
+    "title": "Rescuers scour rubble, Kyiv mourns deadliest Russian strike",
+    "link": "https://bdnews24.com/world/edac7fa5ffe5",
+    "description": "[World] Rescuers scour rubble, Kyiv mourns deadliest Russian strike",
+    "published": "Sat, 04 Jul 2026 09:38:50 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kyiv-rubble-rescue-04072026-01-1783105449.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/gdp-growth-slows-as-inflation-inflates-consumption-expenses",
+    "title": "GDP growth slows as inflation inflates consumption expenses",
+    "link": "https://thefinancialexpress.com.bd/economy/gdp-growth-slows-as-inflation-inflates-consumption-expenses",
+    "description": "Economic growth in Bangladesh slows as inflation inflates household and governmental consumption expenses and deflates the volumes of goods and services consumed, just-past fiscal year's available accounts show such domino effect of price rises.\nProvisional estimates prepared by Bangladesh Bureau",
+    "published": "Sat, 04 Jul 2026 09:38:50 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160709/p1-gdp-outline.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/884024/saudi-arabia-unveils-detailed-rules-for-foreign-property-ownership",
+    "title": "Saudi Arabia unveils detailed rules for foreign property ownership",
+    "link": "https://www.daily-sun.com/world/884024/saudi-arabia-unveils-detailed-rules-for-foreign-property-ownership",
+    "description": "Saudi Arabia's new regulations streamline foreign property ownership, enhancing market governance and transparency while ensuring compliance with strict requirements.",
+    "published": "Sat, 04 Jul 2026 09:38:50 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/04/medium/Saudi_Arabia-6a48293cd5576.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
