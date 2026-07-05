@@ -74869,5 +74869,89 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/Weather-bd-6a4a5d72846a0.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/foreign-stock-buy-sell-25-amid-sustained-capital-outflow-1480466",
+    "title": "Foreign stock buy-sell up 25% amid sustained capital outflow",
+    "link": "https://www.tbsnews.net/economy/stocks/foreign-stock-buy-sell-25-amid-sustained-capital-outflow-1480466",
+    "description": "The Dhaka Stock Exchange (DSE) data showed that foreign stock turnover in last fiscal year hit a four-year high, matching levels not seen since FY22.",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/08/12/inflow.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/dse-turnover-jumps-55-fy26-stock-market-rebounds-1480476",
+    "title": "DSE turnover jumps 55% in FY26 as stock market rebounds",
+    "link": "https://www.tbsnews.net/economy/stocks/dse-turnover-jumps-55-fy26-stock-market-rebounds-1480476",
+    "description": "The highest single-day turnover during the year stood at Tk1,529 crore, while the lowest was Tk267 crore.",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/09/07/dse.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/33-senior-police-officers-including-14-digs-sent-compulsory-retirement-1480436",
+    "title": "33 senior police officers, including 14 DIGs, sent on compulsory retirement",
+    "link": "https://www.tbsnews.net/bangladesh/33-senior-police-officers-including-14-digs-sent-compulsory-retirement-1480436",
+    "description": "The notification said the retired officers would receive retirement benefits in accordance with the applicable service rules.",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-reaffirms-support-diplomacy-middle-east-4216511",
+    "title": "Bangladesh reaffirms support for diplomacy in Middle East",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-reaffirms-support-diplomacy-middle-east-4216511",
+    "description": "",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/bangladesh-bank-keeps-export-cash-incentives-unchanged-fy2026-27-4216481",
+    "title": "Bangladesh Bank keeps export cash incentives unchanged for FY2026-27",
+    "link": "https://www.thedailystar.net/business/news/bangladesh-bank-keeps-export-cash-incentives-unchanged-fy2026-27-4216481",
+    "description": "Cash incentives will be available for 43 specified export items, with rates ranging from 0.30% to 10%",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/asia-pacific/71d4a404d1b7",
+    "title": "Taiwan revives 'anti-communist' military classes",
+    "link": "https://bdnews24.com/world/asia-pacific/71d4a404d1b7",
+    "description": "[Asia Pacific] Taiwan revives 'anti-communist' military classes",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taiwan-anti-communist-class-05072026-01-1783264242.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/e4223eb75af2",
+    "title": "Iran, Qatar resume maritime trade: state media",
+    "link": "https://bdnews24.com/business/e4223eb75af2",
+    "description": "[Business] Iran, Qatar resume maritime trade: state media",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-qatar-trade-05072026-01-1783262774.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/884369/opec-raises-quotas-again-as-middle-east-calms",
+    "title": "OPEC+ raises quotas again as Middle East calms",
+    "link": "https://www.daily-sun.com/business/884369/opec-raises-quotas-again-as-middle-east-calms",
+    "description": "Seven OPEC+ members decided on Sunday to again raise oil production quotas as Gulf countries reel from the Middle East",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/OPEC-raises-quotas-again-as-Middle-East-calms-6a4a87c09c822.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "cf06fff8518a8e9611956eec33571032",
+    "title": "Foxconn’s second-quarter revenue jumps, company cautions on geopolitics",
+    "link": "https://en.bonikbarta.com/technology/y2qzrhWCIHZ88YzQ/",
+    "description": "Strong AI demand led ​to robust revenue growth for its cloud and networking products ​division, while smart consumer electronics, which includes iPhones, posted “significant” growth, the company ‌said.",
+    "published": "Sun, 05 Jul 2026 23:17:44 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
