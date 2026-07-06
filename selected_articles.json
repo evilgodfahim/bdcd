@@ -75647,5 +75647,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Russian_strike_Daily_Sun--6a4c00c822e90.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/features/panorama/fy27-budget-marks-strategic-shift-towards-energy-security-1481601",
+    "title": "FY27 budget marks a strategic shift towards energy security",
+    "link": "https://www.tbsnews.net/features/panorama/fy27-budget-marks-strategic-shift-towards-energy-security-1481601",
+    "description": "While the reduction in sectoral allocation has drawn attention, the more important story may be the budget’s attempt to align energy security, domestic resource development, renewable energy expansion, fiscal discipline, and long-term economic resilience within a single policy framework",
+    "published": "Tue, 07 Jul 2026 05:12:32 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/07/p_8-peno.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/average-annual-inflation-cools-to-868-per-cent-in-fy26",
+    "title": "Average annual inflation cools to 8.68 per cent in FY26",
+    "link": "https://thefinancialexpress.com.bd/economy/average-annual-inflation-cools-to-868-per-cent-in-fy26",
+    "description": "A tightfisted policy stance on the monetary front and supply bounties pay off as Bangladesh saw 12-month average inflation rate for the just-concluded financial year fall significantly to 8.68 per cent from preceding double-digit level.\n\n\n\nThe rate dropped from 10.03 per cent in the previous",
+    "published": "Tue, 07 Jul 2026 05:12:32 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161203/p1-info-inflation-outline.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
