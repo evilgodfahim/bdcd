@@ -75521,5 +75521,131 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/06/medium/Gaza-city-AFP-(2)-6a4bb4cbafc05.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-out-cambodia-vietnam-capture-chinas-apparel-market-share-rapid-1481571",
+    "title": "Bangladesh loses out as Cambodia, Vietnam capture China's apparel market share: RAPID",
+    "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-out-cambodia-vietnam-capture-chinas-apparel-market-share-rapid-1481571",
+    "description": "The study also warned that Bangladesh’s readymade garment exports to the European Union could decline by more than 43% after its graduation from the least developed country category if exports become subject to the EU’s most favoured nation tariffs.",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/07/rapid.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-out-cambodia-vietnam-capture-chinas-apparel-market-share-rapid-1481571",
+    "title": "Bangladesh loses out as Cambodia, Vietnam capture China's apparel market share: RAPID",
+    "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-out-cambodia-vietnam-capture-chinas-apparel-market-share-rapid-1481571",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/07/rapid.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/bangladesh-iom-pledge-deeper-cooperation-migrant-welfare-1481396",
+    "title": "Bangladesh, IOM pledge deeper cooperation on migrant welfare",
+    "link": "https://www.tbsnews.net/economy/corporates/bangladesh-iom-pledge-deeper-cooperation-migrant-welfare-1481396",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/06/738235589_1005571379123716_7380317059072299242_n_16x9.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/eu-invites-pm-address-global-gateway-forum-1481386",
+    "title": "EU invites PM to address Global Gateway Forum",
+    "link": "https://www.tbsnews.net/economy/corporates/eu-invites-pm-address-global-gateway-forum-1481386",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/06/737046093_2415640055590819_335664739253310867_n_16x9.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/china-test-fires-missile-pacific-alarming-regional-powers-1481321",
+    "title": "China test fires missile into Pacific, alarming regional powers",
+    "link": "https://www.tbsnews.net/world/china-test-fires-missile-pacific-alarming-regional-powers-1481321",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2024/04/19/china_flag.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/ec-plans-phased-local-polls-october-seek-govts-approval-1481291",
+    "title": "EC plans phased local polls from October, to seek govt's approval",
+    "link": "https://www.tbsnews.net/bangladesh/ec-plans-phased-local-polls-october-seek-govts-approval-1481291",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/11/03/election_polls_vote_voting.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/inflation-eases-916-june-4217581",
+    "title": "Inflation eases to  9.16% in June",
+    "link": "https://www.thedailystar.net/business/economy/news/inflation-eases-916-june-4217581",
+    "description": "",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/1fab98c99e66",
+    "title": "350,000 Rohingya sleep under ‘death's shadow’",
+    "link": "https://bdnews24.com/bangladesh/1fab98c99e66",
+    "description": "[Bangladesh] 350,000 Rohingya sleep under ‘death's shadow’",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxsbazar-hill-rohingya-dead-060726-01-1783357205.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "44bc707bf7b921d17ec926cf43711a49d92b8980",
+    "title": "NATO chief demands allies present credible plans to reach defense spending targets",
+    "link": "https://apnews.com/article/nato-summit-spending-rutte-afeb65422318e1dd91c5a433f9d35980",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/ac0ccfd/2147483647/strip/true/crop/6162x4108+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2Ff9%2F6a691521ffee848d19a287e2a893%2F91c79e1aa532445b81bdd68aa9dead9e\" /><br />NATO chief demands allies present credible plans to reach defense spending targets",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/ac0ccfd/2147483647/strip/true/crop/6162x4108+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2Ff9%2F6a691521ffee848d19a287e2a893%2F91c79e1aa532445b81bdd68aa9dead9e",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ac799f9e3ae4126bb7f0e3d4b325acb36727b359",
+    "title": "Island-wide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles",
+    "link": "https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5",
+    "description": "Island-wide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "4ccc4a06b09401a3753040cdf4543a69bbc84d93",
+    "title": "Islandwide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles",
+    "link": "https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/d204110/2147483647/strip/true/crop/8088x5392+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F66%2F9c2e210e503693826ebe57d3890e%2F91dd378eee414eac91b77dd7634b7eb0\" /><br />Islandwide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/d204110/2147483647/strip/true/crop/8088x5392+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F66%2F9c2e210e503693826ebe57d3890e%2F91dd378eee414eac91b77dd7634b7eb0",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/884578/bangladesh-joins-international-maritime-liability-conventions",
+    "title": "Bangladesh joins international maritime liability conventions",
+    "link": "https://www.daily-sun.com/bangladesh/884578/bangladesh-joins-international-maritime-liability-conventions",
+    "description": "Bangladesh has joined international maritime liability conventions to help protect the marine environment, safeguard coastal communities, and ensure sustainable",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/06/medium/_international-maritime-liability-conventions-6a4bdb270dc06.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/884668/russian-strikes-kill-22-in-kyiv-region-on-eve-of-nato-summit",
+    "title": "Russian strikes kill 22 in Kyiv region on eve of NATO summit",
+    "link": "https://www.daily-sun.com/world/884668/russian-strikes-kill-22-in-kyiv-region-on-eve-of-nato-summit",
+    "description": "Russia launched a destructive missile attack in Kyiv, killing 22 ahead of the NATO summit. President Zelensky calls for stronger",
+    "published": "Tue, 07 Jul 2026 03:40:29 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Russian_strike_Daily_Sun--6a4c00c822e90.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
