@@ -76108,5 +76108,69 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Bangladesh_Netherlands--6a4cc8bbee750.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/jet-fuel-price-cut-tk1922-litre-1482461",
+    "title": "Jet fuel price cut by Tk19.22 per litre",
+    "link": "https://www.tbsnews.net/bangladesh/energy/jet-fuel-price-cut-tk1922-litre-1482461",
+    "description": "The latest reduction marks the third consecutive monthly cut after a series of steep hikes earlier this year.",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/24/jet_fuel.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/dse-suspends-trading-loss-making-zeal-bangla-sugar-dsex-ends-red-1482466",
+    "title": "DSE suspends trading in loss-making Zeal Bangla Sugar as DSEX ends in the red",
+    "link": "https://www.tbsnews.net/economy/stocks/dse-suspends-trading-loss-making-zeal-bangla-sugar-dsex-ends-red-1482466",
+    "description": "",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/10/29/zeal_bangla.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/bangladesh-fdi-rose-45-2025-unctad-4217996",
+    "title": "Bangladesh FDI rose 45% in 2025: UNCTAD",
+    "link": "https://www.thedailystar.net/business/news/bangladesh-fdi-rose-45-2025-unctad-4217996",
+    "description": "",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/the-parliament-watch/parliament/news/over-521-lakh-govt-posts-vacant-public-admin-state-minister-4218186",
+    "title": "Over 5.21 lakh govt posts vacant: Public admin state minister",
+    "link": "https://www.thedailystar.net/news/the-parliament-watch/parliament/news/over-521-lakh-govt-posts-vacant-public-admin-state-minister-4218186",
+    "description": "",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/884758/israeli-minister-touts-oil-pipeline-to-bypass-hormuz",
+    "title": "Israeli minister touts oil pipeline to bypass Hormuz",
+    "link": "https://www.daily-sun.com/business/884758/israeli-minister-touts-oil-pipeline-to-bypass-hormuz",
+    "description": "Arab Gulf countries' dependence on oil shipments through the Strait of Hormuz could be significantly reduced by a pipeline linking",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/ISRAEL-ENERGY-MINISTRY-6a4d1ceae740d.JPG",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/884751/nato-allies-to-discuss-hormuz-tensions-mission-with-gulf-arabs",
+    "title": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
+    "link": "https://www.daily-sun.com/world/884751/nato-allies-to-discuss-hormuz-tensions-mission-with-gulf-arabs",
+    "description": "France and Britain unveil a multinational maritime mission for the Strait of Hormuz amid Iran's rejection, impacting global shipping and",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/NATO_Sun-6a4d118ed0b31.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e6de22ca291980f23ed7c7f5d281f12c",
+    "title": "Malaysia reopens labour market for Bangladesh after PM’s visit: Minister",
+    "link": "https://en.bonikbarta.com/bangladesh/MfyOy15lc9Mj4iup/",
+    "description": "The minister said the benefits of the prime minister’s foreign tour have already started to materialise, adding that Malaysia reopened its labour market for Bangladesh from July 6.",
+    "published": "Wed, 08 Jul 2026 00:04:46 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
