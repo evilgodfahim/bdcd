@@ -76304,5 +76304,47 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Untitled-design-6a4d2da0a0736.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-launches-new-strikes-iran-after-reinstating-oil-sanctions-over-shipping",
+    "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-launches-new-strikes-iran-after-reinstating-oil-sanctions-over-shipping",
+    "description": "The incidents were only the latest threat to the ceasefire agreement the US and Iran struck last month, pausing the conflict that started in February with US and Israeli strikes across the Islamic Republic",
+    "published": "Wed, 08 Jul 2026 09:21:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/23/hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/forex-reserves-stay-above-365b-after-acu-payment",
+    "title": "Forex reserves stay above $36.5b after ACU payment",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/forex-reserves-stay-above-365b-after-acu-payment",
+    "description": "Foreign exchange reserves remained above the US$36.5 billion mark after the country settled $1.48 billion in import payments to Asian Clearing Union (ACU) member countries.\nRobust remittance inflows, lower import demand and Bangladesh Bank's dollar purchases from commercial banks helped keep the r",
+    "published": "Wed, 08 Jul 2026 09:21:29 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/pmi-slips-as-manufacturing-loses-momentum",
+    "title": "PMI slips as manufacturing loses momentum",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/pmi-slips-as-manufacturing-loses-momentum",
+    "description": "The private sector continued to expand in June, albeit at a slower pace, as manufacturing and construction slipped back into contraction, highlighting mounting pressure from higher production costs, weaker demand and seasonal disruptions.\nPurchasing Managers' Index (PMI) fell by 9.9 points in June",
+    "published": "Wed, 08 Jul 2026 09:21:29 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/bd-posts-44pc-rise-in-investments",
+    "title": "BD posts 44pc rise in investments",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/bd-posts-44pc-rise-in-investments",
+    "description": "Bangladesh netted a phenomenally higher annual foreign direct investment worth US$1.78 billion in 2025 as the global flow of FDI marked resurgence last year after two barren years.&nbsp;\nThe global and local FDI rises are quantified in the World Investment Report (WIR) 2026 just released in Geneva",
+    "published": "Wed, 08 Jul 2026 09:21:29 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/bangladesh/govt-borrowing-10b-hard-term-isdb-loan-1",
+    "title": "Govt borrowing $1.0b hard-term IsDB loan",
+    "link": "https://thefinancialexpress.com.bd/economy/bangladesh/govt-borrowing-10b-hard-term-isdb-loan-1",
+    "description": "Bangladesh is borrowing US$1.0-billion hard-term loan from the Islamic Development Bank (IsDB) for much-needed upgrading of Eastern Refinery's oil-refining capacity by 3.0 million tonnes a year, officials say.\nThe government's Standing Committee on Non-Concessional Loans, headed by Finance and Pla",
+    "published": "Wed, 08 Jul 2026 09:21:29 +0600",
+    "source": "https://evilgodfahim.github.io/fen/feeds/feed.xml"
   }
 ]
