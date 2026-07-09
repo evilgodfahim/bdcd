@@ -77648,5 +77648,25 @@
     "description": "",
     "published": "Fri, 10 Jul 2026 03:26:39 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885313",
+    "title": "Govt looks to send 1cr skilled workers abroad in 5 years",
+    "link": "https://www.daily-sun.com/business/885313",
+    "description": "",
+    "published": "Fri, 10 Jul 2026 05:17:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/small/Migrant-worker-file-6a50031cbf1a3.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885302",
+    "title": "BSEC to halt trading of non-operational firms",
+    "link": "https://www.daily-sun.com/business/885302",
+    "description": "",
+    "published": "Fri, 10 Jul 2026 05:17:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/small/DS-'07'10-111-6a4ff123982d7.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
