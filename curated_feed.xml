@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Wed, 08 Jul 2026 23:13:53 +0000</lastBuildDate>
-    <item>
-      <title>EC gears up for local govt polls</title>
-      <link>https://www.dhakatribune.com/bangladesh/election/414031/ec-gears-up-for-local-govt-polls</link>
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/election/414031/ec-gears-up-for-local-govt-polls</guid>
-      <description />
-      <pubDate>Wed, 01 Jul 2026 02:05:06 +0600</pubDate>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/29/915a7c495c29513d83f4f43f502d0b40-697b7a5ac4bb8.jpg" />
-      <enclosure url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/29/915a7c495c29513d83f4f43f502d0b40-697b7a5ac4bb8.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 03:49:17 +0000</lastBuildDate>
     <item>
       <title>Supreme Court will consider striking down assault weapons bans, in Connecticut and the Chicago-area</title>
       <link>https://apnews.com/article/supreme-court-assault-weapons-ban-ar15-a362863265ba8630e71068fe5b75bb8e</link>
@@ -5252,6 +5243,15 @@ According to the BIBM study, the NPL rate specifically related to trade fina</de
       <pubDate>Thu, 09 Jul 2026 05:13:12 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/09/medium/China-sends-nuclear-missile-message-as-US-looks-elsewhere-6a4ea43cd09bf.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/09/medium/China-sends-nuclear-missile-message-as-US-looks-elsewhere-6a4ea43cd09bf.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US military carries out fresh strikes on Iran, prompting Iran attacks on Kuwait and Bahrain</title>
+      <link>https://www.tbsnews.net/world/us-military-carries-out-fresh-strikes-iran-prompting-iran-attacks-kuwait-and-bahrain-1483551</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/world/us-military-carries-out-fresh-strikes-iran-prompting-iran-attacks-kuwait-and-bahrain-1483551</guid>
+      <description>The US strikes rattled several cities along Iran's southern coast ​and left some areas without power. Iran responded with a second day of attacks on Kuwait and Bahrain, both home to US military bases.</description>
+      <pubDate>Thu, 09 Jul 2026 09:48:45 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/09/screenshot_2026-07-09_084850.png" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/09/screenshot_2026-07-09_084850.png" type="image/png" length="0" />
     </item>
   </channel>
 </rss>
