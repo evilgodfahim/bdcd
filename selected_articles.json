@@ -77734,5 +77734,45 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Sri_Lanka-6a50892703f06.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-iran-escalation-could-threaten-2027-oil-market-surplus-iea-says-1484751",
+    "title": "US-Iran escalation could threaten 2027 oil market surplus, IEA says",
+    "link": "https://www.tbsnews.net/world/us-iran-escalation-could-threaten-2027-oil-market-surplus-iea-says-1484751",
+    "description": "The IEA said ⁠global oil supply rose by 4.1 million bpd in June, but remained 9.4 million bpd below pre-war levels.",
+    "published": "Fri, 10 Jul 2026 17:10:07 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/10/29bac841-7fff-4c8c-b14a-d080b02c1f3e_3.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/bangladesh-hands-wfp-139-tonnes-rice-rohingya-response-1484586",
+    "title": "Bangladesh hands WFP 139 tonnes of rice for Rohingya response",
+    "link": "https://www.tbsnews.net/economy/corporates/bangladesh-hands-wfp-139-tonnes-rice-rohingya-response-1484586",
+    "description": "",
+    "published": "Fri, 10 Jul 2026 17:10:07 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/10/ministry_of_disaster_management_and_relief_bangladesh_government_and_wfp_bangladesh_team_at_the_handover_ceremony_16x9.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/weather/885368/bmd-forecasts-heavy-to-very-heavy-rain-warns-of-landslides",
+    "title": "BMD forecasts heavy to very heavy rain, warns of landslides",
+    "link": "https://www.daily-sun.com/weather/885368/bmd-forecasts-heavy-to-very-heavy-rain-warns-of-landslides",
+    "description": "Bangladesh's Meteorological Department warns of heavy rainfall across multiple divisions, potentially triggering landslides in Chattogram and waterlogging in Dhaka.",
+    "published": "Fri, 10 Jul 2026 17:10:07 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Landslide-(1)-6a50b112dde92.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/885367/water-levels-on-five-rivers-remain-above-danger-mark",
+    "title": "Water levels on five rivers remain above danger mark",
+    "link": "https://www.daily-sun.com/bangladesh/885367/water-levels-on-five-rivers-remain-above-danger-mark",
+    "description": "Bangladesh's rivers remain above danger levels due to monsoon rains. The FFWC warns residents to stay vigilant as flooding risks",
+    "published": "Fri, 10 Jul 2026 17:10:07 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Flood-6a50afc3a3186.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
