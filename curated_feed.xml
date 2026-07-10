@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Fri, 10 Jul 2026 19:40:05 +0000</lastBuildDate>
-    <item>
-      <title>Exports slip 0.58% to $48b in FY26 despite June rebound</title>
-      <link>https://www.tbsnews.net/economy/exports-slip-058-48b-fy26-despite-june-rebound-1478001</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/economy/exports-slip-058-48b-fy26-despite-june-rebound-1478001</guid>
-      <description>The country earned $4.20 billion from merchandise exports in June, the final month of the fiscal year, up nearly 26% from the same month last year.</description>
-      <pubDate>Thu, 02 Jul 2026 18:12:05 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/07/export-decline.png" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/07/export-decline.png" type="image/png" length="0" />
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 21:10:26 +0000</lastBuildDate>
     <item>
       <title>Bangladesh enacts new anti-online gambling law</title>
       <link>https://www.tbsnews.net/bangladesh/bangladesh-enacts-new-anti-online-gambling-law-1477991</link>
@@ -5174,6 +5165,16 @@ Both sides reached a broad understanding to work together on technology transfer
       <pubDate>Sat, 11 Jul 2026 01:39:59 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Untitled-1-6a512ae1e8b25.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Untitled-1-6a512ae1e8b25.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>IMF to assess BD macroeconomic situation, negotiate new credit prog</title>
+      <link>https://thefinancialexpress.com.bd/economy/imf-to-assess-bd-macroeconomic-situation-negotiate-new-credit-prog</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/imf-to-assess-bd-macroeconomic-situation-negotiate-new-credit-prog</guid>
+      <description>An International Monetary Fund (IMF) team will engage in weeklong parleys with finance officials from tomorrow to assess Bangladesh's macroeconomic situation and discuss new financing packages, officials say.
+The IMF Mission Chief for Bangladesh, Ivo Krznar, will lead the 11-memebr delegation whic</description>
+      <pubDate>Sat, 11 Jul 2026 03:10:21 +0600</pubDate>
+      <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161917/p1-info-imf-outline.jpg" />
+      <enclosure url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161917/p1-info-imf-outline.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
