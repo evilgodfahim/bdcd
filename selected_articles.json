@@ -78034,5 +78034,73 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/11/medium/Untitled-design-(1)-6a5150023aefd.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/flooding-persists-7-districts-4-rivers-flow-above-danger-level-1485191",
+    "title": "Flooding persists in 7 districts; 4 rivers flow above danger level",
+    "link": "https://www.tbsnews.net/bangladesh/flooding-persists-7-districts-4-rivers-flow-above-danger-level-1485191",
+    "description": "",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/10/ctg_flood02.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/south-asia/pakistans-sharif-holds-talks-iran-qatar-leaders-revive-us-iran-negotiations-1485171",
+    "title": "Pakistan's Sharif holds talks with Iran, Qatar leaders to revive US-Iran negotiations",
+    "link": "https://www.tbsnews.net/world/south-asia/pakistans-sharif-holds-talks-iran-qatar-leaders-revive-us-iran-negotiations-1485171",
+    "description": "",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/09/18/0f59e2ea-582f-4bb7-bbd5-3eea86a4080c.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/china/missile-test-showcases-sensitive-chinese-submarine-capabilities-key-nuclear-deterrent",
+    "title": "Missile test showcases sensitive Chinese submarine capabilities key to nuclear deterrent",
+    "link": "https://www.tbsnews.net/worldbiz/china/missile-test-showcases-sensitive-chinese-submarine-capabilities-key-nuclear-deterrent",
+    "description": "",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/08/20/china_nuclear_submarine.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "8024288a42f416a91987be5cf8061bb7f1081a3a",
+    "title": "10 injured in overnight Russian missile and drone strikes on Kyiv",
+    "link": "https://apnews.com/article/russia-ukraine-war-missiles-drones-kyiv-578044d589f94cc985b699ffcf301297",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/f216262/2147483647/strip/true/crop/7889x5254+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fb6%2F352e2a301e15ebe89f2d55cd5921%2F5b48235007c0443599703aed3bac8038\" /><br />10 injured in overnight Russian missile and drone strikes on Kyiv",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/f216262/2147483647/strip/true/crop/7889x5254+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fb6%2F352e2a301e15ebe89f2d55cd5921%2F5b48235007c0443599703aed3bac8038",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aa312cad46e2fff501a8c39dda4c2a24868b5aaf",
+    "title": "Taiwan and eastern China brace for Typhoon Bavi as winds and rain hit Japan’s southern islands",
+    "link": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-bfdfdbb239f38b6c22a54c8349ce8d28",
+    "description": "Taiwan and eastern China brace for Typhoon Bavi as winds and rain hit Japan’s southern islands",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/885520/new-zealand-india-strike-milestone-strategic-partnership",
+    "title": "New Zealand, India strike 'milestone' strategic partnership",
+    "link": "https://www.daily-sun.com/world/885520/new-zealand-india-strike-milestone-strategic-partnership",
+    "description": "New Zealand and India forge a strategic partnership during Modi's visit, enhancing defense, trade, and regional stability amid rising tensions",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/11/medium/India_Modi_New_Zealand-6a51ea065a0e2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/885522/bangladesh-highlights-climate-resilience-innovation-at-un-sustainable-forum",
+    "title": "Bangladesh highlights climate resilience, innovation at UN sustainable forum",
+    "link": "https://www.daily-sun.com/diplomacy/885522/bangladesh-highlights-climate-resilience-innovation-at-un-sustainable-forum",
+    "description": "Bangladesh has highlighted climate resilience, water security, innovation-driven industrialisation and skills development as key priorities for achieving",
+    "published": "Sat, 11 Jul 2026 15:43:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/11/medium/UN-sustainable-forum-6a51f98c4f7f2.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
