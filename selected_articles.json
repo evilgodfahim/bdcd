@@ -78102,5 +78102,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/11/medium/UN-sustainable-forum-6a51f98c4f7f2.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-753-three-more-children-die-24-hours-1485351",
+    "title": "Measles: Death toll reaches 753 as three more children die in 24 hours",
+    "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-753-three-more-children-die-24-hours-1485351",
+    "description": "So far, 93 people have died with confirmed measles infections, while 702 have died with measles-like symptoms, the data showed.",
+    "published": "Sat, 11 Jul 2026 17:10:13 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/04/measles.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/venezuela-earthquake-death-toll-rises-above-3500-health-crisis-fears-grow-1485326",
+    "title": "Venezuela earthquake death toll rises above 3,500 as health crisis fears grow",
+    "link": "https://www.tbsnews.net/world/venezuela-earthquake-death-toll-rises-above-3500-health-crisis-fears-grow-1485326",
+    "description": "The twin earthquakes also injured 16,740 people and left 17,854 without homes.",
+    "published": "Sat, 11 Jul 2026 17:10:13 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/11/death.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-moves-introduce-ration-facilities-employees-grades-12-20-1485331",
+    "title": "Govt moves to introduce ration facilities for employees in Grades 12-20",
+    "link": "https://www.tbsnews.net/bangladesh/govt-moves-introduce-ration-facilities-employees-grades-12-20-1485331",
+    "description": "Against the backdrop of rising inflation and increasing living costs in the country, the Deputy Commissioner of Pirojpur proposed introducing ration facilities for government employees in Grades 12 to 20. This proposal was put forward during the Deputy Commissioners' Conference held on 3 May.",
+    "published": "Sat, 11 Jul 2026 17:10:13 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/06/govt_of_bangladesh.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885543/policy-reforms-crucial-to-unlocking-bangladesh-s-creative-economy-experts",
+    "title": "Policy reforms crucial to unlocking Bangladesh’s creative economy: Experts",
+    "link": "https://www.daily-sun.com/business/885543/policy-reforms-crucial-to-unlocking-bangladesh-s-creative-economy-experts",
+    "description": "",
+    "published": "Sat, 11 Jul 2026 17:10:13 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/features/pursuit/curriculum-misalignment-why-bangladeshs-graduates-are-falling-behind-global-job",
+    "title": "Curriculum misalignment: Why Bangladesh’s graduates are falling behind in the global job market",
+    "link": "https://www.tbsnews.net/features/pursuit/curriculum-misalignment-why-bangladeshs-graduates-are-falling-behind-global-job",
+    "description": "",
+    "published": "Sat, 11 Jul 2026 17:10:13 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/11/skill_gap.png",
+    "thumbnail_type": "image/png"
   }
 ]
