@@ -78656,5 +78656,25 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/11/amir_khosru_budget.jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/default-loans-be-curbed-through-npl-resolution-guideline-bb-tells-imf-1486676",
+    "title": "Default loans to be curbed through NPL resolution guideline, BB tells IMF",
+    "link": "https://www.tbsnews.net/economy/banking/default-loans-be-curbed-through-npl-resolution-guideline-bb-tells-imf-1486676",
+    "description": "Guidelines expected to be issued by Dec, come into effect from 2027.",
+    "published": "Mon, 13 Jul 2026 02:56:55 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/10/12/imf-bd.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/885830/iran-declares-hormuz-strait-closed-us-military-insists-traffic-flowing",
+    "title": "Iran declares Hormuz strait closed, US military insists traffic flowing",
+    "link": "https://www.daily-sun.com/world/885830/iran-declares-hormuz-strait-closed-us-military-insists-traffic-flowing",
+    "description": "Before the war began with surprise US-Israeli strikes against Iran on 28 February, there was free passage through Hormuz, but...",
+    "published": "Mon, 13 Jul 2026 02:56:55 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/medium/Iran-not-going-to-close-Strait-of-Hormuz-Envoy-6a53cf1987cb6.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
