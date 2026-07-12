@@ -78564,5 +78564,49 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/medium/PM-Tarique-Xi-Jinping-PMO-6a53851c2f0fd.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/five-merged-banks-under-special-forensic-audit-finance-minister-vows-action-against",
+    "title": "Five merged banks under special forensic audit; finance minister vows action against those responsible",
+    "link": "https://www.tbsnews.net/economy/banking/five-merged-banks-under-special-forensic-audit-finance-minister-vows-action-against",
+    "description": "The government says the audit is part of a broader banking sector reform aimed at restoring depositor confidence, strengthening governance and addressing financial irregularities through a new resolution framework",
+    "published": "Sun, 12 Jul 2026 21:02:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/12/five_merged_ban2k.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/govts-outstanding-debt-reaches-tk2206-lakh-crore-khosru-tells-parliament-1486506",
+    "title": "Govt's outstanding debt reaches Tk22.06 lakh crore: Khosru tells parliament",
+    "link": "https://www.tbsnews.net/economy/govts-outstanding-debt-reaches-tk2206-lakh-crore-khosru-tells-parliament-1486506",
+    "description": "The finance minister says the government is prioritising higher revenue collection, greater investment and cheaper long-term financing to reduce dependence on borrowing and ensure sustainable debt management.",
+    "published": "Sun, 12 Jul 2026 21:02:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/16/debt.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/news/early-resignation-ends-pension-claim-govt-employees-supreme-court-4222071",
+    "title": "Early resignation ends pension claim for govt employees: Supreme Court",
+    "link": "https://www.thedailystar.net/news/news/early-resignation-ends-pension-claim-govt-employees-supreme-court-4222071",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 21:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-us-trade-more-strikes-fighting-escalates-4222056",
+    "title": "Iran, US trade more strikes as fighting escalates",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-us-trade-more-strikes-fighting-escalates-4222056",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 21:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/the-parliament-watch/parliament/news/defaulted-loans-state-owned-banks-reach-tk-189-lakh-crore-4222051",
+    "title": "Defaulted loans at state-owned banks reach Tk 1.89 lakh crore",
+    "link": "https://www.thedailystar.net/news/the-parliament-watch/parliament/news/defaulted-loans-state-owned-banks-reach-tk-189-lakh-crore-4222051",
+    "description": "Govt to continue crackdown on money launderers, says finance minister",
+    "published": "Sun, 12 Jul 2026 21:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]
