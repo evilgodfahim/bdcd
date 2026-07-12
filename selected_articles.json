@@ -78282,5 +78282,79 @@
     "description": "",
     "published": "Sun, 12 Jul 2026 01:11:43 +0600",
     "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-launches-more-strikes-iran-after-commercial-ship-struck-strait-hormuz",
+    "title": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-launches-more-strikes-iran-after-commercial-ship-struck-strait-hormuz",
+    "description": "A series of attacks between the US and Iran over the past several days led President Donald Trump to declare the end of a ceasefire meant to halt the fighting that the US and Israel began on 28 February, though Trump has left the door open to continued negotiations",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/18/hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/africa/south-africa-anti-immigrant-protests-hit-businesses-bangladeshis-1485831",
+    "title": "South Africa anti-immigrant protests hit businesses by Bangladeshis",
+    "link": "https://www.tbsnews.net/worldbiz/africa/south-africa-anti-immigrant-protests-hit-businesses-bangladeshis-1485831",
+    "description": "While the protests have largely focused on migrants accused by some South Africans of taking jobs and straining public services, Bangladeshi shop owners say they are also bearing the brunt of the unrest",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/03/10/south_africa.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-1485826",
+    "title": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-1485826",
+    "description": "Iran on Sunday said it closed the Strait of Hormuz after a vessel travelled on an unapproved route and was struck, warning that any retaliation over the incident would be met with a \"severe response.\"",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/02/18/strait_of_hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885673",
+    "title": "IMF team visits Dhaka today for new loan talks",
+    "link": "https://www.daily-sun.com/business/885673",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/imf-Photoroom-6a52bb319572e.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885612",
+    "title": "Dollar or yuan? Govt weighs maiden sovereign bond",
+    "link": "https://www.daily-sun.com/business/885612",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/7--12--07-2026-DS-6a527dfe15981.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/only-10-firms-make-40-dse-market-value-4221486",
+    "title": "Only 10 firms make up 40% of DSE market value",
+    "link": "https://www.thedailystar.net/business/economy/news/only-10-firms-make-40-dse-market-value-4221486",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "b460fe48aa8a44c278512e33461a0bac1e43ae7a",
+    "title": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank",
+    "link": "https://apnews.com/article/khanna-israel-military-west-bank-settlers-detained-59c6233f5b8935a62fd87b90696e6821",
+    "description": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://daily-sun.com/weather/885368/bmd-forecasts-heavy-to-very-heavy-rain-warns-of-landslides",
+    "title": "BMD forecasts heavy to very heavy rain, warns of landslides",
+    "link": "https://daily-sun.com/weather/885368/bmd-forecasts-heavy-to-very-heavy-rain-warns-of-landslides",
+    "description": "",
+    "published": "Sun, 12 Jul 2026 09:27:46 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
