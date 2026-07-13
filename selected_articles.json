@@ -78676,5 +78676,66 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/medium/Iran-not-going-to-close-Strait-of-Hormuz-Envoy-6a53cf1987cb6.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/eu-ministers-debate-curbing-trade-israeli-settlements-1486711",
+    "title": "EU ministers to debate curbing trade with Israeli settlements",
+    "link": "https://www.tbsnews.net/worldbiz/europe/eu-ministers-debate-curbing-trade-israeli-settlements-1486711",
+    "description": "The discussion will be based on a confidential paper by the European Commission that floats three different options – an import licensing system, prohibitive tariffs or a ban, a senior EU diplomat and a European official said",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/04/jewish_settlement.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-expands-attacks-gulf-states-after-us-strikes-says-strait-hormuz-closed",
+    "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-expands-attacks-gulf-states-after-us-strikes-says-strait-hormuz-closed",
+    "description": "The renewed violence casts further doubt on the future of an interim US-Iranian agreement signed last month that aimed to reopen the strait and end the war after a further 60 days of negotiations",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/14/hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/885922/oil-prices-jump-above-3-5-on-renewed-us-iran-fighting",
+    "title": "Oil prices jump above 3.5% on renewed US-Iran fighting",
+    "link": "https://www.daily-sun.com/business/885922/oil-prices-jump-above-3-5-on-renewed-us-iran-fighting",
+    "description": "",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/economy/414938/waterlogging-now-threatens-bangladesh%E2%80%99s-economy",
+    "title": "Waterlogging now threatens Bangladesh’s economy",
+    "link": "https://www.dhakatribune.com/business/economy/414938/waterlogging-now-threatens-bangladesh%E2%80%99s-economy",
+    "description": "",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/12/770ff38a8158453a2d425cc14b9c042b-6a5373ff2e428.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/health/414967/measles-outbreak-death-toll-reaches-758-as-five",
+    "title": "Measles outbreak: Death toll reaches 758 as five die in 24 hours",
+    "link": "https://www.dhakatribune.com/bangladesh/health/414967/measles-outbreak-death-toll-reaches-758-as-five",
+    "description": "",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/12/40b3544231269da6ba75c57b55600e1e-6a53a5671f8c5.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/414935/pm-orders-preparedness-to-protect-lives-property",
+    "title": "PM orders nationwide flood alert amid worsening situation",
+    "link": "https://www.dhakatribune.com/bangladesh/414935/pm-orders-preparedness-to-protect-lives-property",
+    "description": "",
+    "published": "Mon, 13 Jul 2026 09:31:03 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/12/45921e685ec1d1779ba763ca75ab8d3e-6a536e8e4eb2e.png",
+    "thumbnail_type": "image/png"
   }
 ]
