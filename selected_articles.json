@@ -79148,5 +79148,23 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-social-media-curbs-13072026-01-1783960417.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/885922/oil-prices-jump-above-3-5-on-renewed-us-iran-fighting",
+    "title": "Oil prices jump above 3.5% on renewed US-Iran fighting",
+    "link": "https://daily-sun.com/business/885922/oil-prices-jump-above-3-5-on-renewed-us-iran-fighting",
+    "description": "",
+    "published": "Tue, 14 Jul 2026 04:59:31 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "db95e6bd24ea47886debfbbdb7ad7bed4217041e",
+    "title": "FACT FOCUS: A look at US and Iranian claims of control over the Strait of Hormuz",
+    "link": "https://apnews.com/article/trump-iran-strait-of-hormuz-8df557699c900b29fb33172e6da7f3e9",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/c053f87/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F75%2Ff03a4bcffb8fd77a6a549133ce6d%2Fec48a42f3f85489ab27a8b28a0f15d66\" /><br />FACT FOCUS: A look at US and Iranian claims of control over the Strait of Hormuz",
+    "published": "Tue, 14 Jul 2026 04:59:31 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/c053f87/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F75%2Ff03a4bcffb8fd77a6a549133ce6d%2Fec48a42f3f85489ab27a8b28a0f15d66",
+    "thumbnail_type": "image/jpeg"
   }
 ]
