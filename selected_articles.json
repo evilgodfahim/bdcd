@@ -79830,5 +79830,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/14/medium/Jaiswal-Hasina-extradition-6a565ee33e4e5.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/49e71fd53a45",
+    "title": "Lebanon, Israel revive talks in Rome",
+    "link": "https://bdnews24.com/world/49e71fd53a45",
+    "description": "[World] Lebanon, Israel revive talks in Rome",
+    "published": "Wed, 15 Jul 2026 03:04:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lebanon-israel-14072026-1784057754.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/886348/us-forces-launch-new-round-of-strikes-on-iran-military",
+    "title": "US forces launch new round of strikes on Iran: Military",
+    "link": "https://www.daily-sun.com/world/886348/us-forces-launch-new-round-of-strikes-on-iran-military",
+    "description": "The strikes are aimed at",
+    "published": "Wed, 15 Jul 2026 03:04:19 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/15/medium/Iran-Attack-6a569655f086c.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/886051/rohingya-strategy-committee-formed-under-prime-minister-s-leadership",
+    "title": "Rohingya strategy committee formed under Prime Minister's leadership",
+    "link": "https://daily-sun.com/bangladesh/886051/rohingya-strategy-committee-formed-under-prime-minister-s-leadership",
+    "description": "",
+    "published": "Wed, 15 Jul 2026 03:04:19 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
