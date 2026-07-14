@@ -79858,5 +79858,15 @@
     "description": "",
     "published": "Wed, 15 Jul 2026 03:04:19 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/9ee9ee734ae6",
+    "title": "US launches fresh strikes on Iran",
+    "link": "https://bdnews24.com/world/middle-east/9ee9ee734ae6",
+    "description": "[West Asia] US launches fresh strikes on Iran",
+    "published": "Wed, 15 Jul 2026 05:00:43 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-projectile-iran-130726-1783926440.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]

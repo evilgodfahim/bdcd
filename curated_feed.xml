@@ -4,14 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Tue, 14 Jul 2026 21:04:34 +0000</lastBuildDate>
-    <item>
-      <title>Foxconn’s second-quarter revenue jumps, company cautions on geopolitics</title>
-      <link>https://en.bonikbarta.com/technology/y2qzrhWCIHZ88YzQ/</link>
-      <guid isPermaLink="false">cf06fff8518a8e9611956eec33571032</guid>
-      <description>Strong AI demand led ​to robust revenue growth for its cloud and networking products ​division, while smart consumer electronics, which includes iPhones, posted “significant” growth, the company ‌said.</description>
-      <pubDate>Sun, 05 Jul 2026 23:17:44 +0600</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 23:00:54 +0000</lastBuildDate>
     <item>
       <title>Bangladesh to skip USTR hearing over 'forced labour'</title>
       <link>https://www.tbsnews.net/bangladesh/bangladesh-skip-ustr-hearing-over-forced-labour-1480571</link>
@@ -5097,6 +5090,15 @@ Alisjahbana reaffirmed UN-ESCAP's support for Bangladesh's LDC transition, regio
       <guid isPermaLink="true">https://daily-sun.com/bangladesh/886051/rohingya-strategy-committee-formed-under-prime-minister-s-leadership</guid>
       <description />
       <pubDate>Wed, 15 Jul 2026 03:04:19 +0600</pubDate>
+    </item>
+    <item>
+      <title>US launches fresh strikes on Iran</title>
+      <link>https://bdnews24.com/world/middle-east/9ee9ee734ae6</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9ee9ee734ae6</guid>
+      <description>[West Asia] US launches fresh strikes on Iran</description>
+      <pubDate>Wed, 15 Jul 2026 05:00:43 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-projectile-iran-130726-1783926440.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-projectile-iran-130726-1783926440.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
