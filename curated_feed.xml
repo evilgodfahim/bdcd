@@ -4,61 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Tue, 14 Jul 2026 02:53:00 +0000</lastBuildDate>
-    <item>
-      <title>US-Iran war trails 1979 oil shock</title>
-      <link>https://bdnews24.com/world/669b005d590a</link>
-      <guid isPermaLink="true">https://bdnews24.com/world/669b005d590a</guid>
-      <description>[World] US-Iran war trails 1979 oil shock</description>
-      <pubDate>Sat, 04 Jul 2026 12:51:44 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-oil-040726-1783142996.jpg" />
-      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-oil-040726-1783142996.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>452 Ebola deaths in Congo as of Jul 1: WHO</title>
-      <link>https://bdnews24.com/world/africa/b4419523d7b8</link>
-      <guid isPermaLink="true">https://bdnews24.com/world/africa/b4419523d7b8</guid>
-      <description>[Africa] 452 Ebola deaths in Congo as of Jul 1: WHO</description>
-      <pubDate>Sat, 04 Jul 2026 12:51:44 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/congo-ebola-cases-100626-01-1781068010.jpg" />
-      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/congo-ebola-cases-100626-01-1781068010.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>St Petersburg region hit by major Ukrainian drone attack: Russian officials</title>
-      <link>https://www.tbsnews.net/worldbiz/europe/st-petersburg-region-hit-major-ukrainian-drone-attack-russian-officials-1479261</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/europe/st-petersburg-region-hit-major-ukrainian-drone-attack-russian-officials-1479261</guid>
-      <description>St Petersburg Governor Alexander Beglov said the city of 6 million had come under a "large-scale" drone attack. He gave no details of specific targets, but local media outlet Bumaga reported a fire at the city's oil terminal</description>
-      <pubDate>Sat, 04 Jul 2026 16:16:23 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/13/ukraine_ai_drone.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/13/ukraine_ai_drone.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Leaders from over 100 countries arrive in Tehran as Khamenei funeral gets underway</title>
-      <link>https://www.tbsnews.net/world/tehran-prepares-khamenei-funeral-leaders-over-100-countries-arrive-1479246</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/world/tehran-prepares-khamenei-funeral-leaders-over-100-countries-arrive-1479246</guid>
-      <description>Khamenei, 86, was killed in a joint United States-Israeli air strike on his compound on 28 February, the first day of the US-Israel war on Iran.</description>
-      <pubDate>Sat, 04 Jul 2026 16:16:23 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/04/735576539_1454880166171583_1073463955954308392_n_0.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/04/735576539_1454880166171583_1073463955954308392_n_0.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Govt plans solar-powered mini cold storage network to reduce farmers' losses: Minister</title>
-      <link>https://www.tbsnews.net/bangladesh/govt-plans-solar-powered-mini-cold-storage-network-reduce-farmers-losses-minister-1479301</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/govt-plans-solar-powered-mini-cold-storage-network-reduce-farmers-losses-minister-1479301</guid>
-      <description />
-      <pubDate>Sat, 04 Jul 2026 16:16:23 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/04/fishery_minister.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/04/fishery_minister.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Maritime ports asked to hoist cautionary signal no 3</title>
-      <link>https://www.tbsnews.net/bangladesh/environment/maritime-ports-asked-hoist-cautionary-signal-no-3-1479226</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/environment/maritime-ports-asked-hoist-cautionary-signal-no-3-1479226</guid>
-      <description />
-      <pubDate>Sat, 04 Jul 2026 16:16:23 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/09/26/maritime.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/09/26/maritime.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 06:17:03 +0000</lastBuildDate>
     <item>
       <title>Govt plans sweeping health sector reforms to take specialised care beyond Dhaka</title>
       <link>https://www.dhakatribune.com/bangladesh/health/414301/govt-plans-sweeping-health-sector-reforms-to-take</link>
@@ -4905,6 +4851,63 @@ Prior to this development, the commission had also initiated the cancellation pr
       <pubDate>Tue, 14 Jul 2026 08:52:52 +0600</pubDate>
       <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/14/yemen_sanaa_airport_strike.png" />
       <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/14/yemen_sanaa_airport_strike.png" type="image/png" length="0" />
+    </item>
+    <item>
+      <title>US resumes military conflict against Iran, Trump formally notifies Congress</title>
+      <link>https://en.prothomalo.com/international/middle-east/qtul89g3d5</link>
+      <guid isPermaLink="false">f630e37f-49dd-4006-8039-c9c12857d23e</guid>
+      <description>
+&lt;p&gt;The United States launched a fresh salvo of strikes against Iran early Tuesday, marking a new escalation in the resumption of hostilities, even as US President Donald Trump said a deal with Tehran was still possible.&lt;/p&gt;&lt;p&gt;“We’re going to hit them very hard tonight, and we’re going to hit them hard tomorrow,” Trump told conservative radio host Hugh Hewitt on Monday.&lt;/p&gt;&lt;p&gt;Oil prices shot up more than nine percent over fears of renewed conflict.&lt;/p&gt;&lt;p&gt;US Central Command (CENTCOM) announced strikes had begun at 2045 GMT, the third consecutive night of attacks.&lt;/p&gt;&lt;p&gt;“These strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz,” CENTCOM said.&lt;/p&gt;&lt;p&gt;Early Tuesday, the United Arab Emirates said Iran had attacked two ships in the vital waterway, killing one crew member and wounding eight others.&lt;/p&gt;&lt;p&gt;The oil-rich UAE is a top US ally in the region and has reported multiple missile and drone strikes from Iran.&lt;/p&gt;&lt;p&gt;“The Ministry of Defence announces that the national tankers Mombasa and Al Bahiyah were targeted by two Iranian cruise missiles while transiting the southern shipping lane of the Strait of Hormuz, within Omani territorial waters,” the Emirati defence ministry wrote on X.&lt;/p&gt;&lt;p&gt;That reported attack came after Iran’s Revolutionary Guards on Monday announced new strikes on Bahrain, Jordan, Kuwait and Oman.&lt;/p&gt;&lt;h3&gt;US Congress notified
+
+&lt;/h3&gt;&lt;p&gt;Trump formally notified Congress last week that the US had resumed military conflict against Iran, the White House confirmed to AFP, giving the Pentagon an additional 60 days to operate in the region without congressional approval.&lt;/p&gt;&lt;p&gt;Trump also threatened to destroy Pickaxe Mountain, a deeply buried nuclear site near Natanz where Western intelligence suspects Iran is building an undeclared enrichment facility.&lt;/p&gt;&lt;p&gt;“Tell the Iranians to be ready. Let them know we’re coming (and) there’s not a damn thing they can do about it,” he told Hewitt.&lt;/p&gt;&lt;p&gt;CENTCOM, following Trump’s orders, announced it would reimpose a blockade on Iranian ports beginning at 2000 GMT on Tuesday.&lt;/p&gt;&lt;p&gt;In a post on Truth Social, the president declared the United States would be “known as ‘THE GUARDIAN OF THE HORMUZ STRAIT’“ and levy a 20 percent fee on all cargo shipped through the waterway.&lt;/p&gt;&lt;p&gt;While Iran’s ports would again be blockaded, Trump said “all other countries will have fair and open use of the strait.”&lt;/p&gt;&lt;p&gt;Iranian Foreign Minister Abbas Araghchi immediately mocked Trump’s toll threat, writing on X that “POTUS is absolutely right” that whoever guarantees safe passage should be compensated -- but that Tehran would charge less.&lt;/p&gt;&lt;p&gt;“20 per cent is of course too much,” he said.&lt;/p&gt;&lt;p&gt;Washington has vehemently opposed Tehran’s desire to charge tolls in the strait, which international law generally forbids.&lt;/p&gt;&lt;h3&gt;‘In crisis’
+
+&lt;/h3&gt;&lt;p&gt;Despite all signs to the contrary, Trump said Monday that a deal with Tehran to end the Middle East war was still possible.&lt;/p&gt;&lt;p&gt;“Yeah, I think a deal is possible. Sure, I do,” Trump told reporters in the Oval Office. “We had a deal with them two days ago and then they said ‘Oh we can’t make that deal. We have to negotiate it further.’“&lt;/p&gt;&lt;p&gt;Iran’s Foreign Ministry spokesman Esmaeil Baqaei said earlier Monday that the June memorandum of understanding that formed the basis for the negotiations and lifted the US blockade was “in crisis.”&lt;/p&gt;&lt;p&gt;Baqaei said Iran would ignore its obligations under the deal if the Washington did the same, but added that Tehran was continuing talks with mediators from Qatar, Pakistan and Oman to prevent further escalation.&lt;/p&gt;&lt;p&gt;Analyst Bader Al-Saif said the escalating attacks would merely delay a permanent agreement.&lt;/p&gt;&lt;p&gt;“Both sides want to end the impasse on their own terms, and they are increasingly finding it difficult to do so. Hence the return to and increase in the scale of attacks,” said Al-Saif, an associate fellow at Chatham House.&lt;/p&gt;&lt;h3&gt;‘Act of war’
+
+&lt;/h3&gt;&lt;p&gt;Iranian state media reported deaths in the latest US strikes, which it said targeted large areas across the south and west.&lt;/p&gt;&lt;p&gt;At least four explosions were heard Monday east of Bandar Abbas, which sits on the Strait of Hormuz, Iranian state media reported, citing a reporter in the port city’s province.&lt;/p&gt;&lt;p&gt;At least 25 people have been killed in Iran since hostilities resumed Wednesday, according to an AFP tally based on Iranian announcements.&lt;/p&gt;&lt;p&gt;Iran’s Revolutionary Guards said they had struck US military targets and bases in Jordan, Bahrain and Kuwait, state media reported.&lt;/p&gt;&lt;p&gt;Iran insists it only targets US interests in the Gulf, but the spokesman for its military command said any collaboration by Gulf countries with the United States would be considered “an act of war.”&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+      <media:thumbnail url="https://media.prothomalo.com/prothomalo-english/2026-01-10/wnpldsj6/prothomalo-bangla2025-12-12s3pqgclftrump-dis.avif?w=280" />
+      <enclosure url="https://media.prothomalo.com/prothomalo-english/2026-01-10/wnpldsj6/prothomalo-bangla2025-12-12s3pqgclftrump-dis.avif?w=280" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UAE says Iran attacked two ships in Hormuz, Indian crew member dead</title>
+      <link>https://www.tbsnews.net/worldbiz/middle-east/uae-says-iran-attacked-two-ships-hormuz-one-dead-1487741</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/middle-east/uae-says-iran-attacked-two-ships-hormuz-one-dead-1487741</guid>
+      <description />
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/18/iran_hormuz.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/18/iran_hormuz.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Constitutional reforms: Special JS committee formed, opposition walks out</title>
+      <link>https://www.thedailystar.net/news/bangladesh/news/constitutional-reforms-special-js-committee-formed-opposition-walks-out-4223341</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/constitutional-reforms-special-js-committee-formed-opposition-walks-out-4223341</guid>
+      <description />
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+    </item>
+    <item>
+      <title>Dhaka pushes for 3yr delay in LDC graduation</title>
+      <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-pushes-3yr-delay-ldc-graduation-4223371</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-pushes-3yr-delay-ldc-graduation-4223371</guid>
+      <description />
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+    </item>
+    <item>
+      <title>Houthis fire missiles at Saudi Arabia</title>
+      <link>https://bdnews24.com/world/middle-east/5b4c7d692f08</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/middle-east/5b4c7d692f08</guid>
+      <description>[West Asia] Houthis fire missiles at Saudi Arabia</description>
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sanaa-yemen-140726-01-1783999444.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sanaa-yemen-140726-01-1783999444.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>China’s exports surge 27% from a year earlier as AI boom drives strong demand</title>
+      <link>https://apnews.com/article/china-trade-ai-tech-economy-29da1a43eba2961b57f6cfbe6f936e42</link>
+      <guid isPermaLink="false">8cd1dceb5989cd55c123e04b88bef26660fbdaa0</guid>
+      <description>&lt;img alt="" src="https://dims.apnews.com/dims4/default/fb2a900/2147483647/strip/true/crop/3510x2089+0+0/resize/240x143!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F84%2F16edb0197dcdadbe1a87ba3a8af8%2F586edfa7a08f4713a7eb8d3d929eb2b0" /&gt;&lt;br /&gt;China’s exports surge 27% from a year earlier as AI boom drives strong demand</description>
+      <pubDate>Tue, 14 Jul 2026 12:16:23 +0600</pubDate>
+      <media:thumbnail url="https://dims.apnews.com/dims4/default/fb2a900/2147483647/strip/true/crop/3510x2089+0+0/resize/240x143!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F84%2F16edb0197dcdadbe1a87ba3a8af8%2F586edfa7a08f4713a7eb8d3d929eb2b0" />
+      <enclosure url="https://dims.apnews.com/dims4/default/fb2a900/2147483647/strip/true/crop/3510x2089+0+0/resize/240x143!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F84%2F16edb0197dcdadbe1a87ba3a8af8%2F586edfa7a08f4713a7eb8d3d929eb2b0" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
