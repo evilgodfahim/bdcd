@@ -80492,5 +80492,23 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/15/medium/IRAN-CRISIS-(2)-6a57b0e3e4e9f.JPG",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/01d043ca76de",
+    "title": "US-Iran war bill may hit $100bn: NBC",
+    "link": "https://bdnews24.com/world/01d043ca76de",
+    "description": "[World] US-Iran war bill may hit $100bn: NBC",
+    "published": "Thu, 16 Jul 2026 03:04:58 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-war-bill-16072026-01-1784142851.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/886552/uk-announces-355-000-in-aid-for-flood-hit-bangladesh",
+    "title": "UK announces £355,000 in aid for flood-hit Bangladesh",
+    "link": "https://www.daily-sun.com/bangladesh/886552/uk-announces-355-000-in-aid-for-flood-hit-bangladesh",
+    "description": "",
+    "published": "Thu, 16 Jul 2026 03:04:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
