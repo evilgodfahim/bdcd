@@ -4,32 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:05:19 +0000</lastBuildDate>
-    <item>
-      <title>Island-wide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles</title>
-      <link>https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5</link>
-      <guid isPermaLink="false">ac799f9e3ae4126bb7f0e3d4b325acb36727b359</guid>
-      <description>Island-wide blackout hits Cuba as its fuel reserve dwindles and aging grid crumbles</description>
-      <pubDate>Tue, 07 Jul 2026 03:40:29 +0600</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh joins international maritime liability conventions</title>
-      <link>https://www.daily-sun.com/bangladesh/884578/bangladesh-joins-international-maritime-liability-conventions</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/bangladesh/884578/bangladesh-joins-international-maritime-liability-conventions</guid>
-      <description>Bangladesh has joined international maritime liability conventions to help protect the marine environment, safeguard coastal communities, and ensure sustainable</description>
-      <pubDate>Tue, 07 Jul 2026 03:40:29 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/06/medium/_international-maritime-liability-conventions-6a4bdb270dc06.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/06/medium/_international-maritime-liability-conventions-6a4bdb270dc06.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Russian strikes kill 22 in Kyiv region on eve of NATO summit</title>
-      <link>https://www.daily-sun.com/world/884668/russian-strikes-kill-22-in-kyiv-region-on-eve-of-nato-summit</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/world/884668/russian-strikes-kill-22-in-kyiv-region-on-eve-of-nato-summit</guid>
-      <description>Russia launched a destructive missile attack in Kyiv, killing 22 ahead of the NATO summit. President Zelensky calls for stronger</description>
-      <pubDate>Tue, 07 Jul 2026 03:40:29 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Russian_strike_Daily_Sun--6a4c00c822e90.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/Russian_strike_Daily_Sun--6a4c00c822e90.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 03:12:41 +0000</lastBuildDate>
     <item>
       <title>FY27 budget marks a strategic shift towards energy security</title>
       <link>https://www.tbsnews.net/features/panorama/fy27-budget-marks-strategic-shift-towards-energy-security-1481601</link>
@@ -5211,6 +5186,31 @@ The DGHS also instructed health authorities to engage local representatives, tea
       <guid isPermaLink="true">https://www.daily-sun.com/bangladesh/886552/uk-announces-355-000-in-aid-for-flood-hit-bangladesh</guid>
       <description />
       <pubDate>Thu, 16 Jul 2026 03:04:58 +0600</pubDate>
+    </item>
+    <item>
+      <title>UK announces £355,000 flood aid for Bangladesh</title>
+      <link>https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521</guid>
+      <description>This support builds on £245,000 (approx. BDT 3.9 crore) in emergency funding released in May 2026 for communities affected by the earlier flooding in the Sylhet region. It brings the UK government’s total disaster response support in Bangladesh this year to more than £600,000 (approx. BDT 9.6 crore), alongside ongoing UK support to strengthen Bangladesh’s climate resilience</description>
+      <pubDate>Thu, 16 Jul 2026 09:12:35 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/04/sylhet_flood.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/04/sylhet_flood.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Three strikes hit different zones of central Gaza after warning from the Israeli army</title>
+      <link>https://apnews.com/video/three-strikes-hit-different-zones-of-central-gaza-after-warning-from-the-israeli-army-bcc95ddab00e4fdb87f4cfdea56541f9</link>
+      <guid isPermaLink="false">178705176e123b4ce6af3795471248488f3f34c0</guid>
+      <description>Three strikes hit different zones of central Gaza after warning from the Israeli army</description>
+      <pubDate>Thu, 16 Jul 2026 09:12:35 +0600</pubDate>
+    </item>
+    <item>
+      <title>EU accepts X's plan to fix digital content violations</title>
+      <link>https://www.daily-sun.com/world/886586/eu-accepts-x-s-plan-to-fix-digital-content-violations</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/886586/eu-accepts-x-s-plan-to-fix-digital-content-violations</guid>
+      <description>Elon Musk's X platform faces a 120-million-euro fine from the EU for transparency violations under the Digital Services Act. New</description>
+      <pubDate>Thu, 16 Jul 2026 09:12:35 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/16/medium/EU-6a580c63776d9.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/16/medium/EU-6a580c63776d9.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

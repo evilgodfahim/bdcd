@@ -80510,5 +80510,33 @@
     "description": "",
     "published": "Thu, 16 Jul 2026 03:04:58 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521",
+    "title": "UK announces £355,000 flood aid for Bangladesh",
+    "link": "https://www.tbsnews.net/bangladesh/uk-announces-ps355000-flood-aid-bangladesh-1489521",
+    "description": "This support builds on £245,000 (approx. BDT 3.9 crore) in emergency funding released in May 2026 for communities affected by the earlier flooding in the Sylhet region. It brings the UK government’s total disaster response support in Bangladesh this year to more than £600,000 (approx. BDT 9.6 crore), alongside ongoing UK support to strengthen Bangladesh’s climate resilience",
+    "published": "Thu, 16 Jul 2026 09:12:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/04/sylhet_flood.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "178705176e123b4ce6af3795471248488f3f34c0",
+    "title": "Three strikes hit different zones of central Gaza after warning from the Israeli army",
+    "link": "https://apnews.com/video/three-strikes-hit-different-zones-of-central-gaza-after-warning-from-the-israeli-army-bcc95ddab00e4fdb87f4cfdea56541f9",
+    "description": "Three strikes hit different zones of central Gaza after warning from the Israeli army",
+    "published": "Thu, 16 Jul 2026 09:12:35 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/886586/eu-accepts-x-s-plan-to-fix-digital-content-violations",
+    "title": "EU accepts X's plan to fix digital content violations",
+    "link": "https://www.daily-sun.com/world/886586/eu-accepts-x-s-plan-to-fix-digital-content-violations",
+    "description": "Elon Musk's X platform faces a 120-million-euro fine from the EU for transparency violations under the Digital Services Act. New",
+    "published": "Thu, 16 Jul 2026 09:12:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/16/medium/EU-6a580c63776d9.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
