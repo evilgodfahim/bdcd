@@ -81150,5 +81150,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/17/medium/IRAN-CRISIS-HOUTHIS-REDSEA-6a5930dca4bfb.JPG",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/d3b13a92bad4",
+    "title": "Pakistan fears entry into US-Iran conflict after Houthi attacks",
+    "link": "https://bdnews24.com/world/d3b13a92bad4",
+    "description": "[World] Pakistan fears entry into US-Iran conflict after Houthi attacks",
+    "published": "Fri, 17 Jul 2026 05:01:55 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pakistan-houthi160726-1784235475.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aad6851bdaab6f3c2dc2cd4523eb72a48890913d",
+    "title": "Homeland Security: Foreign journalist visas set at 240 days, Chinese reporters cut to 90 days",
+    "link": "https://apnews.com/article/journalist-visas-trump-administration-china-357189fdffc55daecbc2585c4276a6cc",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/9f60cef/2147483647/strip/true/crop/7052x4701+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F6c%2F908c6821af1418a45fec9430550e%2F8853d8a5cad447949a546ce8134c6e06\" /><br />Homeland Security: Foreign journalist visas set at 240 days, Chinese reporters cut to 90 days",
+    "published": "Fri, 17 Jul 2026 05:01:55 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/9f60cef/2147483647/strip/true/crop/7052x4701+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F6c%2F908c6821af1418a45fec9430550e%2F8853d8a5cad447949a546ce8134c6e06",
+    "thumbnail_type": "image/jpeg"
   }
 ]
