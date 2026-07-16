@@ -81120,5 +81120,35 @@
     "description": "",
     "published": "Fri, 17 Jul 2026 01:20:27 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/bf3eb5cb207f",
+    "title": "Iran, US intensify attacks",
+    "link": "https://bdnews24.com/world/bf3eb5cb207f",
+    "description": "[World] Iran, US intensify attacks",
+    "published": "Fri, 17 Jul 2026 03:07:17 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iranian-missiles-140726-01-1784029123.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "9b2c85539320eb62a49b69ba977baa35ed184e40",
+    "title": "House Republicans’ $95 billion Iran war package clears first hurdle",
+    "link": "https://apnews.com/article/iran-war-house-republican-budget-47056fcf87e5937bd1bb3f9ae0388d37",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/96aa578/2147483647/strip/true/crop/3807x2546+0+0/resize/240x161!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F6b%2F21285eaddaec79cb7cae34c6adf4%2Fd66febf4e82a49f5a825310a7c5f30ab\" /><br />House Republicans’ $95 billion Iran war package clears first hurdle",
+    "published": "Fri, 17 Jul 2026 03:07:17 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/96aa578/2147483647/strip/true/crop/3807x2546+0+0/resize/240x161!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F6b%2F21285eaddaec79cb7cae34c6adf4%2Fd66febf4e82a49f5a825310a7c5f30ab",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/886814/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network",
+    "title": "Iran tells Houthis to close Red Sea gateway if US hits power network",
+    "link": "https://www.daily-sun.com/world/886814/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network",
+    "description": "Iran has asked Yemen’s Houthi movement to stand ready to close the Red Sea oil route if the United States",
+    "published": "Fri, 17 Jul 2026 03:07:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/17/medium/IRAN-CRISIS-HOUTHIS-REDSEA-6a5930dca4bfb.JPG",
+    "thumbnail_type": "image/jpeg"
   }
 ]
