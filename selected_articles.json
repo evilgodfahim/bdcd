@@ -81660,5 +81660,51 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/17/medium/EU-mulls-social-media-restrictions-for-children-under-13-6a5a53a1c09f3.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/escalation-fears-mount-us-hits-bridges-and-iran-strikes-desalination-plant-4226266",
+    "title": "Escalation fears mount as US hits bridges and Iran strikes desalination plant",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/escalation-fears-mount-us-hits-bridges-and-iran-strikes-desalination-plant-4226266",
+    "description": "",
+    "published": "Sat, 18 Jul 2026 01:18:10 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/hasinas-extradition-india-says-bangladeshs-request-under-legal-review-4226276",
+    "title": "Hasina's extradition: India says Bangladesh’s request is under legal review",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/hasinas-extradition-india-says-bangladeshs-request-under-legal-review-4226276",
+    "description": "",
+    "published": "Sat, 18 Jul 2026 01:18:10 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "b07e22fc00e39299736210b59c86cf54a93db8dc",
+    "title": "China signals US could restore preferential trade privileges for Hong Kong",
+    "link": "https://apnews.com/article/hong-kong-us-china-preferential-trade-b0a7e46fac0906bba975e3a1f52ebe7d",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/67d3870/2147483647/strip/true/crop/4000x2667+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2F5d%2F8ae7b575f8990900ab0312e359d5%2F6ea3e07dff534975a48ae59fdfd7ae2f\" /><br />China signals US could restore preferential trade privileges for Hong Kong",
+    "published": "Sat, 18 Jul 2026 01:18:10 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/67d3870/2147483647/strip/true/crop/4000x2667+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2F5d%2F8ae7b575f8990900ab0312e359d5%2F6ea3e07dff534975a48ae59fdfd7ae2f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "7d640ad81170edd9fa153e553bb875e2179282a5",
+    "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+    "link": "https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/7ef21dd/2147483647/strip/true/crop/8431x5621+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fa3%2Fa90cf36b893447b5eb29a90a9800%2F18a0ad6803c94b6494b40c2c693371ef\" /><br />Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+    "published": "Sat, 18 Jul 2026 01:18:10 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/7ef21dd/2147483647/strip/true/crop/8431x5621+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fa3%2Fa90cf36b893447b5eb29a90a9800%2F18a0ad6803c94b6494b40c2c693371ef",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "cc5c4994aeb5157dfa99aaad7a0ea5247d915a50",
+    "title": "The US plans to auction off sections of water around American Samoa in a push for deep-sea mining",
+    "link": "https://apnews.com/article/american-samoa-trump-deep-sea-mining-72aa92757d931508e983310fd2555149",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/f96c1d3/2147483647/strip/true/crop/4972x3315+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F61%2Fcf9cd90d026bc1d889a9537e14e4%2Ffc834bbc3ffd4c998ac95801e06ac506\" /><br />The US plans to auction off sections of water around American Samoa in a push for deep-sea mining",
+    "published": "Sat, 18 Jul 2026 01:18:10 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/f96c1d3/2147483647/strip/true/crop/4972x3315+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F61%2Fcf9cd90d026bc1d889a9537e14e4%2Ffc834bbc3ffd4c998ac95801e06ac506",
+    "thumbnail_type": "image/jpeg"
   }
 ]
