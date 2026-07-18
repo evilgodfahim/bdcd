@@ -82272,5 +82272,25 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/centcom-180726-1784354302.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e0ddb2503fe34809c5ba54b42b5a81f46ab718bb",
+    "title": "16 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+    "link": "https://apnews.com/article/iran-war-us-deaths-59ecda1ccf1700bb6820b81ae7627bad",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/57db2d9/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F13%2F4f9799427ff53f03188a9054df19%2F921674df0706454b8c9d325872d56c73\" /><br />16 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+    "published": "Sun, 19 Jul 2026 04:55:30 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/57db2d9/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F13%2F4f9799427ff53f03188a9054df19%2F921674df0706454b8c9d325872d56c73",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/887238/iran-threatens-unforgettable-lessons-as-two-us-troops-killed",
+    "title": "Iran threatens ‘unforgettable lessons’ as two US troops killed",
+    "link": "https://www.daily-sun.com/world/887238/iran-threatens-unforgettable-lessons-as-two-us-troops-killed",
+    "description": "Iran's supreme leader promises unforgettable lessons to the US as military conflicts escalate, with increasing fatalities and infrastructure attacks reported.",
+    "published": "Sun, 19 Jul 2026 04:55:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/two_US_troops_killed-6a5bec3a2134d.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
