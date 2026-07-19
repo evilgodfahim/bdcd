@@ -4,14 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Sun, 19 Jul 2026 20:57:09 +0000</lastBuildDate>
-    <item>
-      <title>One million women and girls lose access to support amid aid cuts: UN</title>
-      <link>https://www.thedailystar.net/news/world/news/one-million-women-and-girls-lose-access-support-amid-aid-cuts-un-4220646</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/one-million-women-and-girls-lose-access-support-amid-aid-cuts-un-4220646</guid>
-      <description />
-      <pubDate>Fri, 10 Jul 2026 20:39:45 +0600</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 22:57:17 +0000</lastBuildDate>
     <item>
       <title>Hasina tells Reuters she and senior AL leaders plan to return to Bangladesh around Dec and surrender</title>
       <link>https://www.thedailystar.net/news/politics/news/hasina-tells-reuters-she-and-senior-al-leaders-plan-return-bangladesh-around-dec-and-surrender-4220596</link>
@@ -5545,6 +5538,15 @@ The speakers contributed their views, agreeing that bilateral relations are at t
       <pubDate>Mon, 20 Jul 2026 02:57:03 +0600</pubDate>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/19/878a645e214d67dea41b65cb6256fe4b-6a5cffb63f37d.jpg" />
       <enclosure url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/19/878a645e214d67dea41b65cb6256fe4b-6a5cffb63f37d.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Passports to carry July Uprising, ‘except Israel’ marks</title>
+      <link>https://bdnews24.com/bangladesh/0f764b6a2bc4</link>
+      <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f764b6a2bc4</guid>
+      <description>[Bangladesh] Passports to carry July Uprising, ‘except Israel’ marks</description>
+      <pubDate>Mon, 20 Jul 2026 04:57:06 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bd-passport-israel-220521-1784482849.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bd-passport-israel-220521-1784482849.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
