@@ -82292,5 +82292,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/two_US_troops_killed-6a5bec3a2134d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/adani-power-tariff-59-more-expensive-three-other-indian-suppliers-bangladesh",
+    "title": "Adani power tariff 59% more expensive than three other Indian suppliers to Bangladesh",
+    "link": "https://www.tbsnews.net/bangladesh/energy/adani-power-tariff-59-more-expensive-three-other-indian-suppliers-bangladesh",
+    "description": "An analysis of the Power Division’s financial statements and the Bangladesh Power Development Board’s annual report shows that electricity imported from Adani cost nearly 59% more than the combined weighted average tariff charged by three other Indian power suppliers",
+    "published": "Sun, 19 Jul 2026 09:24:07 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/12/02/adani_power.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-renews-strikes-iran-after-two-military-personnel-killed-iranian-attack",
+    "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-renews-strikes-iran-after-two-military-personnel-killed-iranian-attack",
+    "description": "Before the strikes on Saturday, Iran's supreme leader said Washington would pay for \"seeking to escalate the conflict.\"",
+    "published": "Sun, 19 Jul 2026 09:24:07 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/19/iran_us_strike.png",
+    "thumbnail_type": "image/png"
   }
 ]
