@@ -82488,5 +82488,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/High-Court---Recent-6a5ca20a2e5d0.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/environment/climate-change/climate-driven-extreme-heat-reducing-income-driving-healthcare-costs",
+    "title": "Climate-driven extreme heat reducing income, driving up healthcare costs in Bangladesh: Report warns",
+    "link": "https://www.tbsnews.net/environment/climate-change/climate-driven-extreme-heat-reducing-income-driving-healthcare-costs",
+    "description": "Bangladesh lost $24 billion in labour income in 2024 due to extreme heat, equivalent to 5% of GDP",
+    "published": "Sun, 19 Jul 2026 19:36:52 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/08/heatwave-1536x1024-1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
+    "title": "Bangladesh prepares five-year trade plan to address post-LDC graduation challenges",
+    "link": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
+    "description": "The commerce secretary stressed that preparing policies and research reports alone would not be sufficient, emphasizing that effective implementation would be the key to success.",
+    "published": "Sun, 19 Jul 2026 19:36:52 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/19/ldc-graduation_0.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/887307/bangladesh-prepares-5-year-trade-plan-to-address-post-ldc-graduation-challenges",
+    "title": "Bangladesh prepares 5-year trade plan to address post-LDC graduation challenges",
+    "link": "https://www.daily-sun.com/business/887307/bangladesh-prepares-5-year-trade-plan-to-address-post-ldc-graduation-challenges",
+    "description": "",
+    "published": "Sun, 19 Jul 2026 19:36:52 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
+    "title": "Bangladesh prepares five-year trade plan to address post-LDC graduation challenges",
+    "link": "https://www.tbsnews.net/economy/bangladesh-prepares-five-year-trade-plan-address-post-ldc-graduation-challenges-1492341",
+    "description": "",
+    "published": "Sun, 19 Jul 2026 19:36:52 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/19/4a2a6016-d432-4cd6-b01b-cf1d17a1ee9c.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/887307/bangladesh-prepares-5-year-trade-plan-to-address-post-ldc-graduation-challenges",
+    "title": "Bangladesh prepares 5-year trade plan to address post-LDC graduation challenges",
+    "link": "https://www.daily-sun.com/business/887307/bangladesh-prepares-5-year-trade-plan-to-address-post-ldc-graduation-challenges",
+    "description": "The commerce secretary stressed that preparing policies and research reports alone would not be sufficient",
+    "published": "Sun, 19 Jul 2026 19:36:52 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/Commerce-6a5cb6e0d4bd5.gif",
+    "thumbnail_type": "image/gif"
   }
 ]
