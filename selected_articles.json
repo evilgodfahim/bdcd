@@ -82676,5 +82676,34 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/19/890bfb1695659d704997e187330f438d-6a5ce5b9e7c92.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-us-launch-13-day-joint-military-exercise-tiger-lightning-2026-1492696",
+    "title": "Bangladesh, US launch 13-day joint military exercise Tiger Lightning 2026",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-launch-13-day-joint-military-exercise-tiger-lightning-2026-1492696",
+    "description": "",
+    "published": "Mon, 20 Jul 2026 02:57:03 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/20/bd_us_military_exercise.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/fuel-import-bill-jumps-85-amid-middle-east-conflict-4227776",
+    "title": "Fuel import bill jumps 85% amid Middle East conflict",
+    "link": "https://www.thedailystar.net/business/economy/news/fuel-import-bill-jumps-85-amid-middle-east-conflict-4227776",
+    "description": "",
+    "published": "Mon, 20 Jul 2026 02:57:03 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/government-affairs/415540/july-uprising-to-feature-in-bangladesh%E2%80%99s",
+    "title": "July Uprising to feature in Bangladesh’s e-passports",
+    "link": "https://www.dhakatribune.com/bangladesh/government-affairs/415540/july-uprising-to-feature-in-bangladesh%E2%80%99s",
+    "description": "",
+    "published": "Mon, 20 Jul 2026 02:57:03 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/19/878a645e214d67dea41b65cb6256fe4b-6a5cffb63f37d.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
