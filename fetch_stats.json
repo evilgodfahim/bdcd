@@ -11,24 +11,24 @@
       "capped": 1
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 13,
+      "fetched": 14,
       "passed_age": 12,
       "capped": 12
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 57,
-      "capped": 57
+      "passed_age": 89,
+      "capped": 89
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 38,
-      "capped": 38
+      "passed_age": 44,
+      "capped": 44
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
-      "fetched": 1,
-      "passed_age": 1,
-      "capped": 1
+      "fetched": 20,
+      "passed_age": 20,
+      "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
       "fetched": 500,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 18,
-      "capped": 18
+      "passed_age": 29,
+      "capped": 29
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 26,
-      "capped": 26
+      "passed_age": 38,
+      "capped": 38
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 7,
-      "capped": 7
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4534
+    "DIRECT": 4554
   },
-  "total_fetched": 4534,
-  "total_passed_age": 680,
-  "total_new": 90,
-  "total_signal": 7,
+  "total_fetched": 4554,
+  "total_passed_age": 767,
+  "total_new": 149,
+  "total_signal": 20,
   "total_longread": 0,
-  "total_signal_deduped": 5,
+  "total_signal_deduped": 20,
   "total_longread_deduped": 0,
-  "timestamp": "2026-07-21T10:29:00.888420",
+  "timestamp": "2026-07-21T14:05:41.430586",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 7
+  "total_signal_mistral": 20
 }
