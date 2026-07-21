@@ -4,32 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Mon, 20 Jul 2026 21:15:55 +0000</lastBuildDate>
-    <item>
-      <title>IMF team visits Dhaka today for new loan talks</title>
-      <link>https://www.daily-sun.com/business/885673</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/business/885673</guid>
-      <description />
-      <pubDate>Sun, 12 Jul 2026 09:27:46 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/imf-Photoroom-6a52bb319572e.png" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/imf-Photoroom-6a52bb319572e.png" type="image/png" length="0" />
-    </item>
-    <item>
-      <title>Dollar or yuan? Govt weighs maiden sovereign bond</title>
-      <link>https://www.daily-sun.com/business/885612</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/business/885612</guid>
-      <description />
-      <pubDate>Sun, 12 Jul 2026 09:27:46 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/7--12--07-2026-DS-6a527dfe15981.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/12/small/7--12--07-2026-DS-6a527dfe15981.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Only 10 firms make up 40% of DSE market value</title>
-      <link>https://www.thedailystar.net/business/economy/news/only-10-firms-make-40-dse-market-value-4221486</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/only-10-firms-make-40-dse-market-value-4221486</guid>
-      <description />
-      <pubDate>Sun, 12 Jul 2026 09:27:46 +0600</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 03:18:45 +0000</lastBuildDate>
     <item>
       <title>Democratic congressman says he was detained by the Israeli military and settlers in the West Bank</title>
       <link>https://apnews.com/article/khanna-israel-military-west-bank-settlers-detained-59c6233f5b8935a62fd87b90696e6821</link>
@@ -5582,6 +5557,31 @@ Since March 15, a total of 101,026 patients with suspected measles have been hos
       <guid isPermaLink="true">https://daily-sun.com/bangladesh/887534/govt-cancels-licences-of-49-recruiting-agencies-over-irregularities</guid>
       <description />
       <pubDate>Tue, 21 Jul 2026 03:15:48 +0600</pubDate>
+    </item>
+    <item>
+      <title>Why oil prices haven't gone crazy despite 5 months of US-Iran war</title>
+      <link>https://www.tbsnews.net/world/global-economy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-1493526</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/world/global-economy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-1493526</guid>
+      <description>But Brent crude futures peaked around $126 - comfortably below 2008's all-time high of $147 - and averaged just $101 a barrel between the start of the conflict on 28 February and 11 June</description>
+      <pubDate>Tue, 21 Jul 2026 09:18:35 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/10/oil_brent_crude.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/10/oil_brent_crude.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US imposes new 50% tariffs on some Canadian products</title>
+      <link>https://www.tbsnews.net/worldbiz/usa/us-imposes-new-50-tariffs-some-canadian-products-1493521</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/usa/us-imposes-new-50-tariffs-some-canadian-products-1493521</guid>
+      <description />
+      <pubDate>Tue, 21 Jul 2026 09:18:35 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/06/28/usa_trump_carney.jpg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/06/28/usa_trump_carney.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Video circulating appears to show moment Iran missiles hit Jordan base, killing 2 US service members</title>
+      <link>https://apnews.com/video/video-circulating-appears-to-show-moment-iran-missiles-hit-jordan-base-killing-2-us-service-members-0000019f7b6bd788a1df7fffff5c0000</link>
+      <guid isPermaLink="false">c1ea504ee668ff6434b3ea01ab8ede36b1dc48da</guid>
+      <description>Video circulating appears to show moment Iran missiles hit Jordan base, killing 2 US service members</description>
+      <pubDate>Tue, 21 Jul 2026 09:18:35 +0600</pubDate>
     </item>
   </channel>
 </rss>

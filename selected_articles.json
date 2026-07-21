@@ -83200,5 +83200,33 @@
     "description": "",
     "published": "Tue, 21 Jul 2026 03:15:48 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/global-economy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-1493526",
+    "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
+    "link": "https://www.tbsnews.net/world/global-economy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-1493526",
+    "description": "But Brent crude futures peaked around $126 - comfortably below 2008's all-time high of $147 - and averaged just $101 a barrel between the start of the conflict on 28 February and 11 June",
+    "published": "Tue, 21 Jul 2026 09:18:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/10/oil_brent_crude.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-imposes-new-50-tariffs-some-canadian-products-1493521",
+    "title": "US imposes new 50% tariffs on some Canadian products",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-imposes-new-50-tariffs-some-canadian-products-1493521",
+    "description": "",
+    "published": "Tue, 21 Jul 2026 09:18:35 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/06/28/usa_trump_carney.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "c1ea504ee668ff6434b3ea01ab8ede36b1dc48da",
+    "title": "Video circulating appears to show moment Iran missiles hit Jordan base, killing 2 US service members",
+    "link": "https://apnews.com/video/video-circulating-appears-to-show-moment-iran-missiles-hit-jordan-base-killing-2-us-service-members-0000019f7b6bd788a1df7fffff5c0000",
+    "description": "Video circulating appears to show moment Iran missiles hit Jordan base, killing 2 US service members",
+    "published": "Tue, 21 Jul 2026 09:18:35 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
