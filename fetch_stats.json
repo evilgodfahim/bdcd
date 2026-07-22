@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 14,
-      "capped": 14
+      "passed_age": 17,
+      "capped": 17
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 10,
-      "passed_age": 10,
-      "capped": 10
+      "fetched": 6,
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 103,
+      "passed_age": 129,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 50,
-      "capped": 50
+      "passed_age": 58,
+      "capped": 58
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 53,
-      "capped": 53
+      "passed_age": 63,
+      "capped": 63
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 78,
-      "capped": 78
+      "passed_age": 96,
+      "capped": 96
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 15,
+      "capped": 15
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4550
+    "DIRECT": 4546
   },
-  "total_fetched": 4550,
-  "total_passed_age": 864,
-  "total_new": 193,
-  "total_signal": 21,
+  "total_fetched": 4546,
+  "total_passed_age": 923,
+  "total_new": 175,
+  "total_signal": 25,
   "total_longread": 0,
-  "total_signal_deduped": 18,
+  "total_signal_deduped": 22,
   "total_longread_deduped": 0,
-  "timestamp": "2026-07-22T14:09:36.719595",
+  "timestamp": "2026-07-22T17:25:31.632051",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 21
+  "total_signal_mistral": 25
 }
