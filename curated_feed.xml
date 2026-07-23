@@ -4,14 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Thu, 23 Jul 2026 21:10:30 +0000</lastBuildDate>
-    <item>
-      <title>Reports of suspicious transactions rose  74% in FY25</title>
-      <link>https://www.thedailystar.net/business/economy/news/reports-suspicious-transactions-rose-74-fy25-4224936</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/reports-suspicious-transactions-rose-74-fy25-4224936</guid>
-      <description />
-      <pubDate>Thu, 16 Jul 2026 01:19:13 +0600</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 23:02:05 +0000</lastBuildDate>
     <item>
       <title>Nigeria launches $500mn fund to drive food security</title>
       <link>https://bdnews24.com/world/africa/5f5d445588b7</link>
@@ -5506,6 +5499,15 @@ He also called for measures to make smartphones and internet services more affor
       <pubDate>Fri, 24 Jul 2026 03:09:58 +0600</pubDate>
       <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthi-saudi-240726-01-1784831656.jpg" />
       <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthi-saudi-240726-01-1784831656.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday</title>
+      <link>https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1</link>
+      <guid isPermaLink="false">a3d7717bb7dec8752f1e4fa94801613a07298fbd</guid>
+      <description>&lt;img alt="" src="https://dims.apnews.com/dims4/default/e0e25e9/2147483647/strip/true/crop/3829x2553+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F6d%2F9264a18dbe8934c3b19106d37f5e%2F4a33280e2f1243f18d18780a3f147daa" /&gt;&lt;br /&gt;Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday</description>
+      <pubDate>Fri, 24 Jul 2026 05:01:41 +0600</pubDate>
+      <media:thumbnail url="https://dims.apnews.com/dims4/default/e0e25e9/2147483647/strip/true/crop/3829x2553+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F6d%2F9264a18dbe8934c3b19106d37f5e%2F4a33280e2f1243f18d18780a3f147daa" />
+      <enclosure url="https://dims.apnews.com/dims4/default/e0e25e9/2147483647/strip/true/crop/3829x2553+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F6d%2F9264a18dbe8934c3b19106d37f5e%2F4a33280e2f1243f18d18780a3f147daa" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
