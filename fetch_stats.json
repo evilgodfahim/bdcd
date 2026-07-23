@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 12,
-      "capped": 12
-    },
-    "https://en.prothomalo.com/feed/": {
-      "fetched": 13,
       "passed_age": 13,
       "capped": 13
     },
+    "https://en.prothomalo.com/feed/": {
+      "fetched": 5,
+      "passed_age": 5,
+      "capped": 5
+    },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 109,
+      "passed_age": 100,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 71,
-      "capped": 71
+      "passed_age": 61,
+      "capped": 61
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 92,
-      "capped": 92
+      "passed_age": 104,
+      "capped": 100
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 85,
-      "capped": 85
+      "passed_age": 101,
+      "capped": 100
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 15,
-      "capped": 15
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4553
+    "DIRECT": 4545
   },
-  "total_fetched": 4553,
-  "total_passed_age": 937,
-  "total_new": 155,
-  "total_signal": 21,
+  "total_fetched": 4545,
+  "total_passed_age": 935,
+  "total_new": 59,
+  "total_signal": 10,
   "total_longread": 0,
-  "total_signal_deduped": 15,
+  "total_signal_deduped": 8,
   "total_longread_deduped": 0,
-  "timestamp": "2026-07-23T17:35:44.901603",
+  "timestamp": "2026-07-23T19:25:56.515423",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 21
+  "total_signal_mistral": 10
 }
