@@ -85290,5 +85290,25 @@
     "description": "",
     "published": "Fri, 24 Jul 2026 01:25:32 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
+    "title": "98.4% of mothers, children in Bangladesh lack health insurance: BBS",
+    "link": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
+    "description": "The latest BBS MICS survey found that fewer than 2% of mothers and children in Bangladesh are covered by health insurance, highlighting the country's limited financial protection against healthcare costs.",
+    "published": "Fri, 24 Jul 2026 03:09:58 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/22/measles.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/273c56cf214b",
+    "title": "Oil hits $100 as Houthi attack worsens supply disruption",
+    "link": "https://bdnews24.com/world/273c56cf214b",
+    "description": "[World] Oil hits $100 as Houthi attack worsens supply disruption",
+    "published": "Fri, 24 Jul 2026 03:09:58 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthi-saudi-240726-01-1784831656.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
