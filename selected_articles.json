@@ -84605,5 +84605,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/US-Reaffirms-Support-for-Bangladesh’s-Stability,-Prosperity-After-Talks-with-NCP-Convener-Nahid-Islam-6a6120ed65bf8.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-says-it-reaches-nuclear-power-deal-saudi-arabia-1495476",
+    "title": "US says it reaches nuclear power deal with Saudi Arabia",
+    "link": "https://www.tbsnews.net/world/us-says-it-reaches-nuclear-power-deal-saudi-arabia-1495476",
+    "description": "An industry source said the deal requires a feasibility study on using US technology in Saudi Arabia. The study and the slow pace of building nuclear power plants and uranium enrichment means it could take many years to build the infrastructure.",
+    "published": "Thu, 23 Jul 2026 09:23:28 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/23/saudi_arabia.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-1495466",
+    "title": "Iran strikes on CIA facilities prompt questions about possible Russian role",
+    "link": "https://www.tbsnews.net/world/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-1495466",
+    "description": "At least two CIA sites were struck in March, Reuters and other outlets have reported. One ​of the facilities was the CIA station in Saudi Arabia, which is located in the US embassy in Riyadh, and a separate site was ⁠located in eastern Iraq. Some of the sources said additional CIA sites had been hit, but they did not disclose details.",
+    "published": "Thu, 23 Jul 2026 09:23:28 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/23/iran_us.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
