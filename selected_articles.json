@@ -85748,5 +85748,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/Muktadir-6a633448a3b7d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/888397/bangladesh-iom-launch-1-125m-eu-funded-south-asia-climate-mobility-initiative",
+    "title": "Bangladesh, IOM launch €1.125m EU-funded South Asia climate-mobility initiative",
+    "link": "https://www.daily-sun.com/business/888397/bangladesh-iom-launch-1-125m-eu-funded-south-asia-climate-mobility-initiative",
+    "description": "",
+    "published": "Fri, 24 Jul 2026 21:34:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/d82494d6fc21",
+    "title": "10% US tariff changes nothing: minister",
+    "link": "https://bdnews24.com/business/d82494d6fc21",
+    "description": "[Business] 10% US tariff changes nothing: minister",
+    "published": "Fri, 24 Jul 2026 21:34:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-commerce-minister-240726-01-1784901329.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "880a72aa33afb73c4036339ee30cc02b0360a094",
+    "title": "Bangladesh’s president, once a close ally of ousted premier Sheikh Hasina, resigns",
+    "link": "https://apnews.com/article/bangladesh-president-shahabuddin-resign-hasina-tarique-cc9c70910427166e7fe237d5d10254d1",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/7b97fd4/2147483647/strip/true/crop/1699x1133+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F0d%2F0985db6b3c58a006676f66a87fc0%2Ff0b9062cc2714b1480b9684c7da1d028\" /><br />Bangladesh’s president, once a close ally of ousted premier Sheikh Hasina, resigns",
+    "published": "Fri, 24 Jul 2026 21:34:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/7b97fd4/2147483647/strip/true/crop/1699x1133+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F0d%2F0985db6b3c58a006676f66a87fc0%2Ff0b9062cc2714b1480b9684c7da1d028",
+    "thumbnail_type": "image/jpeg"
   }
 ]
