@@ -4,30 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Fri, 24 Jul 2026 19:36:39 +0000</lastBuildDate>
-    <item>
-      <title>Syrian authorities seize truck of rockets allegedly bound for Lebanon’s Hezbollah</title>
-      <link>https://apnews.com/article/syria-weapons-smuggling-iraq-hezbollah-2e3a328669d876dce0a940714ee8a799</link>
-      <guid isPermaLink="false">89e88b854a92d1c38fa3e41d0d4935500de517c5</guid>
-      <description>Syrian authorities seize truck of rockets allegedly bound for Lebanon’s Hezbollah</description>
-      <pubDate>Thu, 16 Jul 2026 20:05:09 +0600</pubDate>
-    </item>
-    <item>
-      <title>UK, Saudi Arabia reaffirm aid partnership with first joint visit to Rohingya camps</title>
-      <link>https://en.bonikbarta.com/bangladesh/aq80mflywmGuMPG6/</link>
-      <guid isPermaLink="false">a04d60bbe5f0c9d48d6ed81493553ddd</guid>
-      <description>Joint funding of $7.8 million by KSrelief and the UK government aims to support Rohingya refugees and host communities through UN agencies and local partners.</description>
-      <pubDate>Thu, 16 Jul 2026 20:05:09 +0600</pubDate>
-    </item>
-    <item>
-      <title>Iran, US step up attacks, though release of American may signal path to climbdown</title>
-      <link>https://www.tbsnews.net/world/iran-us-step-attacks-though-release-american-may-signal-path-climbdown-1490381</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/world/iran-us-step-attacks-though-release-american-may-signal-path-climbdown-1490381</guid>
-      <description>Iran responded with missiles and drones fired at US military bases in neighbouring countries, including a major barrage at a recently expanded air base in Jordan.</description>
-      <pubDate>Thu, 16 Jul 2026 23:23:54 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/16/strait_of_hormuz.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/16/strait_of_hormuz.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 21:10:01 +0000</lastBuildDate>
     <item>
       <title>BB extends special loan rescheduling facilities for finance companies</title>
       <link>https://www.tbsnews.net/economy/banking/bb-extends-special-loan-rescheduling-facilities-finance-companies-1490371</link>
@@ -5493,6 +5470,33 @@ Energy costs, not just of oil but also of gas in winter, hit both production and
       <pubDate>Sat, 25 Jul 2026 01:36:33 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/Crude-oil-AFP-6a63a634e3742.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/Crude-oil-AFP-6a63a634e3742.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US strikes Iran after Trump threats over Red Sea shipping</title>
+      <link>https://bdnews24.com/world/fbf1a14cf67d</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/fbf1a14cf67d</guid>
+      <description>[World] US strikes Iran after Trump threats over Red Sea shipping</description>
+      <pubDate>Sat, 25 Jul 2026 03:09:49 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strikes-iran-25072026-01-1784922711.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strikes-iran-25072026-01-1784922711.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Yemen teeters towards renewed war</title>
+      <link>https://bdnews24.com/world/64e409c438aa</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/64e409c438aa</guid>
+      <description>[World] Yemen teeters towards renewed war</description>
+      <pubDate>Sat, 25 Jul 2026 03:09:49 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/yemen-renewed-war-24072026-01-1784917772.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/yemen-renewed-war-24072026-01-1784917772.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Physical oil prices jump as Iran, Ukraine wars hit supply</title>
+      <link>https://bdnews24.com/world/3f35140c521b</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/3f35140c521b</guid>
+      <description>[World] Physical oil prices jump as Iran, Ukraine wars hit supply</description>
+      <pubDate>Sat, 25 Jul 2026 03:09:49 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oil-prices-24072026-01-1784917420.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oil-prices-24072026-01-1784917420.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

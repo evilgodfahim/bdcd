@@ -85836,5 +85836,35 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/Crude-oil-AFP-6a63a634e3742.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/fbf1a14cf67d",
+    "title": "US strikes Iran after Trump threats over Red Sea shipping",
+    "link": "https://bdnews24.com/world/fbf1a14cf67d",
+    "description": "[World] US strikes Iran after Trump threats over Red Sea shipping",
+    "published": "Sat, 25 Jul 2026 03:09:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strikes-iran-25072026-01-1784922711.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/64e409c438aa",
+    "title": "Yemen teeters towards renewed war",
+    "link": "https://bdnews24.com/world/64e409c438aa",
+    "description": "[World] Yemen teeters towards renewed war",
+    "published": "Sat, 25 Jul 2026 03:09:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/yemen-renewed-war-24072026-01-1784917772.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/3f35140c521b",
+    "title": "Physical oil prices jump as Iran, Ukraine wars hit supply",
+    "link": "https://bdnews24.com/world/3f35140c521b",
+    "description": "[World] Physical oil prices jump as Iran, Ukraine wars hit supply",
+    "published": "Sat, 25 Jul 2026 03:09:49 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oil-prices-24072026-01-1784917420.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
