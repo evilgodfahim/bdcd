@@ -85786,5 +85786,55 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/24/thai_support_for_asean.jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/4906a902a63d",
+    "title": "ICC members gather to vote on dismissing prosecutor Khan",
+    "link": "https://bdnews24.com/world/4906a902a63d",
+    "description": "[World] ICC members gather to vote on dismissing prosecutor Khan",
+    "published": "Sat, 25 Jul 2026 01:36:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/icc-vote-khan-24072026-01-1784912405.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/d15ea1e21f39",
+    "title": "EU sanctions Iranian judges",
+    "link": "https://bdnews24.com/world/d15ea1e21f39",
+    "description": "[World] EU sanctions Iranian judges",
+    "published": "Sat, 25 Jul 2026 01:36:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-sanction-24072026-01-1784909417.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "a0c9ad06ff7767488a6346187f86c27937852798",
+    "title": "UN human rights chief faces opposition in vote to extend his term for another four years",
+    "link": "https://apnews.com/article/turk-human-rights-chief-united-nations-61dc91622d141da0aba689e6436ea47c",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/343aec8/2147483647/strip/true/crop/6531x4354+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F76%2F6c9324b2f8a5ee178d970ac2a0f9%2F390ae11c570a4db097c8ccb441fab72f\" /><br />UN human rights chief faces opposition in vote to extend his term for another four years",
+    "published": "Sat, 25 Jul 2026 01:36:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/343aec8/2147483647/strip/true/crop/6531x4354+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F76%2F6c9324b2f8a5ee178d970ac2a0f9%2F390ae11c570a4db097c8ccb441fab72f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "249f53862eec14c4f567521ed83a2989eeb7d376",
+    "title": "Trump says US will investigate EU trade practices, claiming the bloc unfairly fined tech giants",
+    "link": "https://apnews.com/article/trump-eu-trade-tech-fine-google-2e125ac0d3c1ac7a96c9194a372ba47e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/a09a049/2147483647/strip/true/crop/2481x1654+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F90%2Fb5f4bfedb2ef4c19ded1127c60ab%2F911133f7531c4e14b2cffeb4bbe80b5f\" /><br />Trump says US will investigate EU trade practices, claiming the bloc unfairly fined tech giants",
+    "published": "Sat, 25 Jul 2026 01:36:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/a09a049/2147483647/strip/true/crop/2481x1654+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F90%2Fb5f4bfedb2ef4c19ded1127c60ab%2F911133f7531c4e14b2cffeb4bbe80b5f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/888427/volatile-brent-oil-price-slides-over-5",
+    "title": "Volatile Brent oil price slides over 5%",
+    "link": "https://www.daily-sun.com/business/888427/volatile-brent-oil-price-slides-over-5",
+    "description": "Brent dropped to $95.61 a barrel having surged above $100 on Thursday...",
+    "published": "Sat, 25 Jul 2026 01:36:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/Crude-oil-AFP-6a63a634e3742.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
