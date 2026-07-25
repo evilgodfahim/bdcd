@@ -85866,5 +85866,41 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oil-prices-24072026-01-1784917420.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-missiles-hit-iran-path-towards-de-escalation-uncertain-1497091",
+    "title": "US missiles hit Iran as path towards de-escalation uncertain",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-missiles-hit-iran-path-towards-de-escalation-uncertain-1497091",
+    "description": "Two weeks after the collapse of an interim truce meant to end the ​war, the Iranian armed forces responded by firing at US bases in neighbouring Arab countries and warning people there that they could strike non-military buildings used by US personnel.",
+    "published": "Sat, 25 Jul 2026 09:16:27 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/25/us_strikes_iran.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/icc-members-dismiss-prosecutor-karim-khan-diplomatic-sources-say-4231671",
+    "title": "ICC members dismiss prosecutor Karim Khan, diplomatic sources say",
+    "link": "https://www.thedailystar.net/news/world/news/icc-members-dismiss-prosecutor-karim-khan-diplomatic-sources-say-4231671",
+    "description": "Khan denies allegations of sexual misconduct",
+    "published": "Sat, 25 Jul 2026 09:16:27 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "639b2e42e02152dc73aaa8df859659ce6c056079",
+    "title": "At least 7 explosions near military base hosting US forces in northern Iraq",
+    "link": "https://apnews.com/video/at-least-7-explosions-near-military-base-hosting-us-forces-in-northern-iraq-6f633b343b0e4611b8761e76e557d1d2",
+    "description": "At least 7 explosions near military base hosting US forces in northern Iraq",
+    "published": "Sat, 25 Jul 2026 09:16:27 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/888511/saudi-strikes-houthi-sites-in-yemen-as-conflict-flares",
+    "title": "Saudi strikes Houthi sites in Yemen as conflict flares",
+    "link": "https://www.daily-sun.com/world/888511/saudi-strikes-houthi-sites-in-yemen-as-conflict-flares",
+    "description": "The Houthis' al-Masirah television said two people were injured -- a worker in the city of Hodeida and a woman",
+    "published": "Sat, 25 Jul 2026 09:16:27 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/25/medium/A-Houthi-follower-rises-a-weapon-as-he-attends-a-rally-marking-one-year-of-Saudi-led-air-strikes,-in-Yemen's-capital-Sanaa,-26-March-2016-6a6402c52830e.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
