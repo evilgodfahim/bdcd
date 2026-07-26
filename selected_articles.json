@@ -86415,5 +86415,45 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Khalilur_Muizzu-6a65122e3de83.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-says-us-military-infrastructure-iraqs-erbil-largely-destroyed-during",
+    "title": "Iran says US military infrastructure in Iraq's Erbil largely destroyed during conflict",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-says-us-military-infrastructure-iraqs-erbil-largely-destroyed-during",
+    "description": "Akraminia said Iranian military operations caused extensive damage to US bases across the region, reducing the operational capability of many facilities. Reuters could not independently verify the claims",
+    "published": "Sun, 26 Jul 2026 09:29:47 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/15/usa_iran.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-warns-uk-bases-used-attacks-its-territory-would-be-legitimate-target-irgc",
+    "title": "Iran warns UK bases used in attacks on its territory would be 'legitimate target': IRGC",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-warns-uk-bases-used-attacks-its-territory-would-be-legitimate-target-irgc",
+    "description": "The Revolutionary Guards also warned Britain against providing further support for US and Israeli military actions against Iran",
+    "published": "Sun, 26 Jul 2026 09:29:47 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/12/strait_of_hormuz.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/888335/us-imposes-new-forced-labour-tariffs-on-bangladesh-59-other-trade-partners",
+    "title": "US imposes new forced labour tariffs on Bangladesh, 59 other trade partners",
+    "link": "https://www.daily-sun.com/business/888335/us-imposes-new-forced-labour-tariffs-on-bangladesh-59-other-trade-partners",
+    "description": "The United States has imposed new tariffs on imports from Bangladesh and nearly 60 other major trading partners,",
+    "published": "Sun, 26 Jul 2026 09:29:47 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/US-imposes-new-forced-labour_tariffs_Sun-6a630a8ac7585.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/888714/16-killed-in-ukrainian-russian-strikes-as-attacks-intensify",
+    "title": "16 killed in Ukrainian-Russian strikes as attacks intensify",
+    "link": "https://www.daily-sun.com/world/888714/16-killed-in-ukrainian-russian-strikes-as-attacks-intensify",
+    "description": "At least 16 killed in Ukraine-Russia strikes, escalating conflict and hitting deep inside Russia as diplomacy stalls. UN warns of",
+    "published": "Sun, 26 Jul 2026 09:29:47 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Ukraine_War-6a653e6d3e1d6.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
