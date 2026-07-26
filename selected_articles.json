@@ -86455,5 +86455,53 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Ukraine_War-6a653e6d3e1d6.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-maldives-pledge-stronger-ties-stress-need-reinvigorate-saarc-1498066",
+    "title": "Bangladesh, Maldives pledge stronger ties, stress need to reinvigorate Saarc",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-maldives-pledge-stronger-ties-stress-need-reinvigorate-saarc-1498066",
+    "description": "The foreign minister conveyed the greetings of Prime Minister Tarique Rahman and thanked President Muizzu for attending the installation ceremony of Bangladesh's newly elected government in February.",
+    "published": "Sun, 26 Jul 2026 12:41:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/26/bangladesh_maldives.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-two-weeks-1498046",
+    "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-two-weeks-1498046",
+    "description": "Washington gave no immediate explanation of why it had abruptly halted a streak of 13 nights of escalating strikes in retaliation for Iranian attacks on shipping in the Strait of Hormuz since an interim deal to end hostilities collapsed",
+    "published": "Sun, 26 Jul 2026 12:41:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/09/25/yemen_houthi_fighters.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/888417",
+    "title": "New US tariffs hit 60 countries; Bangladesh gets lowest rate",
+    "link": "https://www.daily-sun.com/business/888417",
+    "description": "Dhaka’s 10% rate keeps it ahead of key rivals, but economists warn a separate bilateral deal could still push the burden to 19%",
+    "published": "Sun, 26 Jul 2026 12:41:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-war-spreads-red-sea-and-caspian-gulf-quiet-us-forgoes-strikes-1497971",
+    "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-war-spreads-red-sea-and-caspian-gulf-quiet-us-forgoes-strikes-1497971",
+    "description": "",
+    "published": "Sun, 26 Jul 2026 12:41:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/26/red_sea_caspian.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/888720/trump-puts-major-iran-escalation-on-hold-over-pentagon-warning-on-missile-shortage",
+    "title": "Trump puts major Iran escalation on hold over Pentagon warning on missile shortage",
+    "link": "https://www.daily-sun.com/world/888720/trump-puts-major-iran-escalation-on-hold-over-pentagon-warning-on-missile-shortage",
+    "description": "US President Trump delays military escalation against Iran due to concerns over dwindling Patriot missile stocks and potential regional conflict.",
+    "published": "Sun, 26 Jul 2026 12:41:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/American-stockpile-of-Patriot-interceptor-missiles-6a6584049cc82.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
