@@ -87445,5 +87445,100 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/Iran-backed-militia-drone-attack-6a67728ee80b1.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/nbr/nbr-targets-over-10000-firms-plug-tk38000cr-vat-leakages-1499706",
+    "title": "NBR targets over 10,000 firms to plug Tk38,000cr VAT leakages",
+    "link": "https://www.tbsnews.net/nbr/nbr-targets-over-10000-firms-plug-tk38000cr-vat-leakages-1499706",
+    "description": "According to NBR officials, the list will primarily include businesses with monthly transactions exceeding Tk10 lakh that are considered vulnerable to revenue leakage.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/28/nbr_vat.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/govt-suspends-new-gas-connections-load-increases-amid-worsening-supply-crisis",
+    "title": "Govt suspends new gas connections, load increases amid worsening supply crisis",
+    "link": "https://www.tbsnews.net/bangladesh/energy/govt-suspends-new-gas-connections-load-increases-amid-worsening-supply-crisis",
+    "description": "The letter said 1,857 applications for new gas connections remain pending with the country’s gas distribution companies.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/09/19/flame-871136_1920.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/9th-pay-scale-announcement-not-imf-loan-talks-october-1499691",
+    "title": "9th Pay Scale announcement not before IMF loan talks in October",
+    "link": "https://www.tbsnews.net/economy/9th-pay-scale-announcement-not-imf-loan-talks-october-1499691",
+    "description": "National Pay Commission submits reports on 22 January this year recommending salary and allowance increases of 100% to 140%.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/10/12/imf-bd.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/e-coli-found-drinking-water-used-85-household-members-bbs-survey-1499676",
+    "title": "E coli found in drinking water used by 85% of household members: BBS survey",
+    "link": "https://www.tbsnews.net/bangladesh/health/e-coli-found-drinking-water-used-85-household-members-bbs-survey-1499676",
+    "description": "Over one-third of young children have elevated lead levels",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/11/04/water_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/urbanisation/unplanned-urbanisation-erases-21000-ctg-water-bodies-worsens-flooding",
+    "title": "Unplanned urbanisation erases 21,000 Ctg water bodies, worsens flooding: Experts",
+    "link": "https://www.tbsnews.net/bangladesh/urbanisation/unplanned-urbanisation-erases-21000-ctg-water-bodies-worsens-flooding",
+    "description": "Despite having at least 16 masterplans, policies and laws – including the Drainage Masterplan, Detailed Area Plan (DAP), Waterlogging Mitigation Project, Wasa plans and national water and land-use policies – the city has failed to implement them effectively.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-unveils-draft-law-death-penalty-life-imprisonment-enforced-disappearance-1499671",
+    "title": "Govt unveils draft law with death penalty, life imprisonment for enforced disappearance",
+    "link": "https://www.tbsnews.net/bangladesh/govt-unveils-draft-law-death-penalty-life-imprisonment-enforced-disappearance-1499671",
+    "description": "According to the draft, the proposed law aims to prevent enforced disappearances, ensure impartial investigations, provide remedies for victims and fulfil Bangladesh's international commitments.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/12/23/enforced_disappearances.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/loans-under-court-stay-jump-eightfold-three-years-4234146",
+    "title": "Loans under court stay jump eightfold in three years",
+    "link": "https://www.thedailystar.net/business/economy/news/loans-under-court-stay-jump-eightfold-three-years-4234146",
+    "description": "",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/news/gps-tracking-mandatory-public-transport-august-1-4234056",
+    "title": "GPS tracking mandatory for public transport from August 1",
+    "link": "https://www.thedailystar.net/news/news/gps-tracking-mandatory-public-transport-august-1-4234056",
+    "description": "",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/global-economy/news/what-the-new-us-10-tariff-bangladesh-and-how-does-it-differ-time-4234046",
+    "title": "Explainer / What is the new US 10% tariff on Bangladesh and how does it differ this time?",
+    "link": "https://www.thedailystar.net/business/global-economy/news/what-the-new-us-10-tariff-bangladesh-and-how-does-it-differ-time-4234046",
+    "description": "",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/bangladesh-environment/416137/climate-finance-paradox-why-billions-pledged",
+    "title": "Climate finance paradox: Why billions pledged still fall short for vulnerable nations",
+    "link": "https://www.dhakatribune.com/bangladesh/bangladesh-environment/416137/climate-finance-paradox-why-billions-pledged",
+    "description": "Climate finance has become one of the defining pillars of global climate diplomacy. Despite record international commitments, countries such as Bangladesh continue to struggle to access the funding needed for climate resilience and low-carbon development.\n\nExperts describe this growing disconnect as the \"Climate Finance Paradox\"—a situation in which global financial commitments continue to expand while the countries most in need remain constrained by complex funding procedures, institutional barriers, and limited implementation capacity.\n\nThe issue is expected to feature prominently as countries move toward implementing the New Collective Quantified Goal (NCQG) agreed at COP29 in Baku.\n\nClimate finance has evolved significantly since developed countries pledged to mobilize $100 billion annually under the 2009 Copenhagen Accord. The Paris Agreement later placed finance at the center of global climate action by linking it to mitigation, adaptation, and resilience. At COP29, governments agreed to raise the collective target to $300 billion annually by 2035.\n\nYet the gap between commitments and actual needs remains enormous. Climate economists estimate that developing countries require between $5 trillion and $6 trillion annually to meet climate goals while sustaining economic development.\n\n\"The debate has shifted from whether finance should exist to whether the existing financial architecture is capable of delivering what vulnerable countries actually need,\" policy experts at the International Centre for Climate Change and Development (ICCCAD) have repeatedly argued.\n\nBangladesh, widely recognized as one of the world's most climate-vulnerable countries, faces recurring cyclones, floods, river erosion, sea-level rise, and salinity intrusion. Although it has adopted an extensive policy framework—including the Bangladesh Climate Change Strategy and Action Plan, the National Adaptation Plan (NAP), Delta Plan 2100, and its Nationally Determined Contributions (NDCs)—the country continues to face a substantial financing gap for resilient infrastructure, renewable energy, disaster risk reduction, food security, and climate-induced migration.\n\nThe late Dr Saleemul Huq, founder of ICCCAD, consistently argued that climate finance should be judged not by the size of global pledges but by its ability to strengthen resilience on the ground. He frequently warned that vulnerable countries spend years preparing funding proposals instead of implementing climate solutions.\n\nProfessor Navroz K. Dubash of India's Centre for Policy Research has similarly argued that the challenge is no longer simply mobilizing finance but ensuring it supports national development priorities rather than creating parallel systems. Likewise, Dr Rachel Kyte, the UK's special representative for climate, has repeatedly stressed that predictable, long-term financing is essential to unlock private investment.\n\nMeanwhile, Mafalda Duarte, executive director of the Green Climate Fund (GCF), has acknowledged that accreditation and access procedures remain overly complex for many developing countries and has called for simpler processes that strengthen country ownership.\n\nUnlike conventional development assistance, climate finance often requires extensive feasibility studies, environmental safeguards, fiduciary standards, gender assessments, procurement plans, audits and monitoring frameworks. Researchers say preparing a single proposal for major multilateral climate funds can take several years, leaving many local institutions without the technical capacity to compete successfully.\n\nThese challenges are particularly significant because climate adaptation largely takes place at the local level. Communities build embankments, municipalities improve drainage systems and local governments oversee disaster preparedness. Yet only a small share of global climate finance reaches local authorities directly. Most funding is channelled through national or international agencies, often delaying implementation and weakening local ownership.\n\nThe debate extends beyond economics. Developing countries increasingly frame climate finance as an issue of climate justice, arguing that nations responsible for the majority of historical greenhouse gas emissions have an obligation to support those bearing the worst impacts despite contributing little to global emissions. This principle underpins the UN Framework Convention on Climate Change's doctrine of Common but Differentiated Responsibilities (CBDR).\n\nBangladesh now faces the difficult task of expanding renewable energy, maintaining affordable electricity, attracting investment, building resilient infrastructure, creating jobs, and reducing poverty simultaneously. Climate economists argue that these objectives cannot be pursued in isolation, as low-carbon development is fundamentally a development challenge.\n\nWhile international institutions increasingly promote private investment, analysts caution that private finance cannot replace public climate finance. Adaptation initiatives—including cyclone shelters, mangrove restoration, flood protection, and community resilience—deliver immense social benefits but often generate limited commercial returns, making grants and concessional finance indispensable.\n\nAnother concern is the project-based nature of existing climate finance. Many initiatives run for only three to five years before funding ends. Researchers increasingly advocate shifting support toward national institutions, public budgeting systems, long-term planning, policy reforms, and institutional capacity instead of isolated pilot projects.\n\nPolicy experts broadly recommend simplifying application procedures, expanding direct access for vulnerable countries, strengthening local government financing, increasing grant-based support, improving transparency, aligning funding with national development priorities, encouraging blended finance, and investing in institutional capacity.\n\nSpeaking to Dhaka Tribune , Md Abul Basar, team leader of Swisscontact Bangladesh, said climate finance should be viewed as a strategic development opportunity, particularly as traditional official development assistance continues to decline.\n\n\"Climate finance is a strategic opportunity for Bangladesh. However, accessing global climate finance requires strong technical and institutional capacity. Therefore, climate finance readiness and capacity building should be a national priority,\" he said.\n\nEchoing that view, Md Shamsuddoha, chief executive of the Center for Participatory Research and Development (CPRD), said global financing mechanisms must become far more accessible.\n\n\"Climate finance must become simpler, more accessible, and aligned with the development priorities of climate-vulnerable countries like Bangladesh,\" he told Dhaka Tribune .\n\nBangladesh has developed an extensive climate policy framework, but experts say the country's success will ultimately depend not only on how much finance is pledged at future COP negotiations but also on whether those resources become predictable, accessible, and aligned with national priorities.\n\nUnless climate finance becomes easier to access, more predictable, and better aligned with national priorities, the gap between international promises and on-the-ground resilience will continue to widen. For climate-vulnerable countries such as Bangladesh, the challenge is no longer securing ambitious pledges—it is turning those pledges into meaningful action.",
+    "published": "Tue, 28 Jul 2026 01:42:29 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/07/27/fae0ff925a742ca5363b778b422cbc63-6a6795226a6bb.png",
+    "thumbnail_type": "image/png"
   }
 ]

@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 9,
-      "capped": 9
+      "passed_age": 10,
+      "capped": 10
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 6,
-      "passed_age": 6,
-      "capped": 6
+      "fetched": 2,
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 94,
-      "capped": 94
+      "passed_age": 93,
+      "capped": 93
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 46,
-      "capped": 46
+      "passed_age": 40,
+      "capped": 40
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 53,
-      "capped": 53
+      "passed_age": 56,
+      "capped": 56
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 84,
-      "capped": 84
+      "passed_age": 81,
+      "capped": 81
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 13,
-      "capped": 13
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4546
+    "DIRECT": 4542
   },
-  "total_fetched": 4546,
-  "total_passed_age": 845,
-  "total_new": 147,
+  "total_fetched": 4542,
+  "total_passed_age": 833,
+  "total_new": 54,
   "total_signal": 11,
   "total_longread": 0,
   "total_signal_deduped": 10,
   "total_longread_deduped": 0,
-  "timestamp": "2026-07-27T17:47:10.612503",
+  "timestamp": "2026-07-27T19:42:43.043547",
   "total_signal_gemini": 231,
   "total_signal_mistral": 11
 }
