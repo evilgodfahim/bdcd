@@ -87351,5 +87351,99 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/Weather_Update2-6a67158c424e0.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/credit-bottlenecks-energy-costs-weigh-manufacturers-businesses-urge-policy-action-1499611",
+    "title": "Credit bottlenecks, energy costs weigh on manufacturers; businesses urge policy action",
+    "link": "https://www.tbsnews.net/bangladesh/credit-bottlenecks-energy-costs-weigh-manufacturers-businesses-urge-policy-action-1499611",
+    "description": "The business leaders also warn that manufacturers are facing mounting cash-flow pressures due to rising gas prices.",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/04/electricity.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/nbr/govt-seeks-nbr-action-plan-achieve-tk604-lakh-crore-revenue-target-1499561",
+    "title": "Govt seeks NBR action plan to achieve Tk6.04 lakh crore revenue target",
+    "link": "https://www.tbsnews.net/nbr/govt-seeks-nbr-action-plan-achieve-tk604-lakh-crore-revenue-target-1499561",
+    "description": "The prime minister's economic affairs adviser asked the revenue authority to identify potential revenue sources, estimate collections and outline challenges to meeting the target.",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/05/14/revenue_growth.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/888906",
+    "title": "Govt sets $63.4b export target for FY27",
+    "link": "https://www.daily-sun.com/business/888906",
+    "description": "Eyes 15% export growth through FTAs, diversification, and reforms",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/fosun-health-launches-worlds-first-approved-solid-tumor-car-t-therapy-1499531",
+    "title": "Fosun Health launches world’s first approved solid tumor CAR-T therapy",
+    "link": "https://www.tbsnews.net/world/fosun-health-launches-worlds-first-approved-solid-tumor-car-t-therapy-1499531",
+    "description": "",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/27/fosun_health.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/opinion/editorial/news/fixing-our-corporate-tax-system-overdue-4233911",
+    "title": "Fixing our corporate tax system is overdue",
+    "link": "https://www.thedailystar.net/opinion/editorial/news/fixing-our-corporate-tax-system-overdue-4233911",
+    "description": "",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/islamic-4th-gen-banks-buckle-under-npl-liquidity-crises-4234016",
+    "title": "Islamic, 4th-gen banks buckle under NPL, liquidity crises",
+    "link": "https://www.thedailystar.net/business/news/islamic-4th-gen-banks-buckle-under-npl-liquidity-crises-4234016",
+    "description": "The central bank's latest Banking Sector Update shows that the non-performing loan (NPL) ratio of full-fledged Islamic banks surged to 58.4 percent in March 2026, up from 29.2 percent a year earlier",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/1cc586203c9f",
+    "title": "Houthis target Saudi oil routes",
+    "link": "https://bdnews24.com/world/middle-east/1cc586203c9f",
+    "description": "[West Asia] Houthis target Saudi oil routes",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthis-target-saudi-oil-270726-01-1785164523.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/2b51848eebaa",
+    "title": "West Bank violence pushes Palestinians to breaking point",
+    "link": "https://bdnews24.com/world/2b51848eebaa",
+    "description": "[World] West Bank violence pushes Palestinians to breaking point",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/settler-violence-27072026-01-1785164381.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/health/889025/child-mortality-falls-to-33-per-1-000-births-bbs",
+    "title": "Child mortality falls to 33 per 1,000 births: BBS",
+    "link": "https://www.daily-sun.com/health/889025/child-mortality-falls-to-33-per-1-000-births-bbs",
+    "description": "The survey also found that 9.1% of children aged 5-17 were engaged in child labour under the MICS/SDG definition",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/Child-6a677de03b9d9.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/889018/drones-attack-iran-s-neighbours-as-tehran-appears-to-test-trump-s-latest-pause",
+    "title": "Drones attack Iran's neighbours as Tehran appears to test Trump's latest pause",
+    "link": "https://www.daily-sun.com/world/889018/drones-attack-iran-s-neighbours-as-tehran-appears-to-test-trump-s-latest-pause",
+    "description": "Saudi Arabia, Jordan and Iraq reported drone attacks on Monday, two days after the United States abruptly suspended a two-week",
+    "published": "Mon, 27 Jul 2026 23:46:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/Iran-backed-militia-drone-attack-6a67728ee80b1.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
