@@ -88065,5 +88065,51 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sp-ratings-280726-1785256786.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/gas-crisis-strikes-paracetamol-api-other-industries-4235016",
+    "title": "Gas crisis strikes  paracetamol API,  other industries",
+    "link": "https://www.thedailystar.net/business/economy/news/gas-crisis-strikes-paracetamol-api-other-industries-4235016",
+    "description": "",
+    "published": "Wed, 29 Jul 2026 03:12:42 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/asia/south-asia/news/deadly-clashes-break-out-pakistan-administered-kashmir-votes-4234896",
+    "title": "Deadly clashes break out as Pakistan-administered Kashmir votes",
+    "link": "https://www.thedailystar.net/news/asia/south-asia/news/deadly-clashes-break-out-pakistan-administered-kashmir-votes-4234896",
+    "description": "",
+    "published": "Wed, 29 Jul 2026 03:12:42 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/caa6df24e3ff",
+    "title": "China in touch with Houthis to allow ships through Red Sea",
+    "link": "https://bdnews24.com/world/caa6df24e3ff",
+    "description": "[World] China in touch with Houthis to allow ships through Red Sea",
+    "published": "Wed, 29 Jul 2026 03:12:42 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-houthi-29072026-01-1785266630.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/889288/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war",
+    "title": "Netanyahu visits White House for first Trump talks during Iran war",
+    "link": "https://www.daily-sun.com/world/889288/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war",
+    "description": "The talks -- which the White House described as 'positive and productive' -- lasted for about an hour and a",
+    "published": "Wed, 29 Jul 2026 03:12:42 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/28/medium/Netanyahy-Trump-AFP-2-6a68f5dd1fc58.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/889340/nationwide-ambulance-strike-called-off-after-govt-assurance",
+    "title": "Nationwide ambulance strike called off after govt assurance",
+    "link": "https://www.daily-sun.com/bangladesh/889340/nationwide-ambulance-strike-called-off-after-govt-assurance",
+    "description": "The Ambulance Owner Welfare Association had earlier announced an indefinite nationwide strike of ambulances and freezer vans from 6:00 am today to press home its five-point demand",
+    "published": "Wed, 29 Jul 2026 03:12:42 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/Ambulance-6a6915f84f0ac.gif",
+    "thumbnail_type": "image/gif"
   }
 ]
