@@ -88005,5 +88005,65 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/08/09df87eb74e3f4648a612e615630abff-695f8bc339c09.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/russia-wants-rupee-based-trade-bangladesh-bypass-us-sanctions-1500566",
+    "title": "Russia wants rupee-based trade with Bangladesh to bypass US sanctions",
+    "link": "https://www.tbsnews.net/bangladesh/russia-wants-rupee-based-trade-bangladesh-bypass-us-sanctions-1500566",
+    "description": "The proposals, aimed at overcoming payment disruptions caused by sanctions on Russian banks, are expected to be discussed at bilateral talks later this year.",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/08/bangladesh_russia_1.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/bb-imposes-informal-cap-dollar-rates-amid-rising-pressure-1500561",
+    "title": "BB imposes informal cap on dollar rates amid rising pressure",
+    "link": "https://www.tbsnews.net/economy/banking/bb-imposes-informal-cap-dollar-rates-amid-rising-pressure-1500561",
+    "description": "Bankers warn informal rate guidance affects interbank market efficiency.",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/09/04/new_project_7_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/draft-policy-opens-project-director-posts-private-sector-experts-retired-officials",
+    "title": "Draft policy opens project director posts to private sector experts, retired officials",
+    "link": "https://www.tbsnews.net/bangladesh/draft-policy-opens-project-director-posts-private-sector-experts-retired-officials",
+    "description": "The draft policy, however, allows some flexibility in qualification requirements for specialised projects.",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/29/project.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/govt-fast-tracks-spare-parts-import-floating-lng-terminal-restore-gas-supply",
+    "title": "Govt fast-tracks spare parts import for floating LNG terminal to restore gas supply",
+    "link": "https://www.tbsnews.net/bangladesh/energy/govt-fast-tracks-spare-parts-import-floating-lng-terminal-restore-gas-supply",
+    "description": "Consumers will continue to experience severe low gas pressure until supply situation improves, Titas warns.",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/12/lng_supply_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/pm-seek-un-support-recovery-laundered-assets-1500541",
+    "title": "PM to seek UN support for recovery of laundered assets",
+    "link": "https://www.tbsnews.net/bangladesh/pm-seek-un-support-recovery-laundered-assets-1500541",
+    "description": "Tarique to address the UNGA on 24 September",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/16/pm_tarique.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/0d37f14cf9c8",
+    "title": "S&P cuts Bangladesh outlook to negative",
+    "link": "https://bdnews24.com/economy/0d37f14cf9c8",
+    "description": "[Economy] S&amp;P cuts Bangladesh outlook to negative",
+    "published": "Wed, 29 Jul 2026 01:39:35 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sp-ratings-280726-1785256786.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
