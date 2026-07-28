@@ -88111,5 +88111,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/Ambulance-6a6915f84f0ac.gif",
     "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "4506129b0f3df9df2e6e5059fa22f77232dfa665",
+    "title": "The US military says it’s thwarted an Iranian missile attack on American troops",
+    "link": "https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/0b6a3cd/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F95%2F4a2dce863dfccbad95a743110e0b%2F8d58dd12c1db4e6a91734b317ad54d40\" /><br />The US military says it’s thwarted an Iranian missile attack on American troops",
+    "published": "Wed, 29 Jul 2026 05:04:38 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/0b6a3cd/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F95%2F4a2dce863dfccbad95a743110e0b%2F8d58dd12c1db4e6a91734b317ad54d40",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "7ce612a566185bea38a3c348b5f02d2db9450c60",
+    "title": "Magnitude 7.1 earthquake hits Japan’s southern main island of Kyushu",
+    "link": "https://apnews.com/video/japans-pm-comments-after-earthquake-hits-southern-main-island-of-kyushu-2f1c1c4229654b07a8f226251599b68f",
+    "description": "Magnitude 7.1 earthquake hits Japan’s southern main island of Kyushu",
+    "published": "Wed, 29 Jul 2026 05:04:38 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "821c27b50d24955d99d0aab115cf65bca4c33657",
+    "title": "Recent fighting with Iran further draws down key US air defense stockpiles, analysis says",
+    "link": "https://apnews.com/article/iran-war-patriot-thaad-missile-defense-trump-feda2255d8adbfff797da8d3ac8e3033",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/393b431/2147483647/strip/true/crop/4032x3024+0+0/resize/240x180!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2Fc3%2Fae7b5b9b712b09a7c57b3d194e22%2F24042cc3a0864e62a07a5de8603c2c01\" /><br />Recent fighting with Iran further draws down key US air defense stockpiles, analysis says",
+    "published": "Wed, 29 Jul 2026 05:04:38 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/393b431/2147483647/strip/true/crop/4032x3024+0+0/resize/240x180!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2Fc3%2Fae7b5b9b712b09a7c57b3d194e22%2F24042cc3a0864e62a07a5de8603c2c01",
+    "thumbnail_type": "image/jpeg"
   }
 ]
