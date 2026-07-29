@@ -88789,5 +88789,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/iran-war2-6a6a30696d9ab.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/global-economy/news/depositors-merging-banks-can-withdraw-tk-10-lakh-4235771",
+    "title": "Depositors of merging banks can withdraw up to Tk 10 lakh",
+    "link": "https://www.thedailystar.net/business/global-economy/news/depositors-merging-banks-can-withdraw-tk-10-lakh-4235771",
+    "description": "",
+    "published": "Thu, 30 Jul 2026 03:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/f84f9d67887b",
+    "title": "US expands Iran sanctions to insurers, tankers",
+    "link": "https://bdnews24.com/world/f84f9d67887b",
+    "description": "[World] US expands Iran sanctions to insurers, tankers",
+    "published": "Thu, 30 Jul 2026 03:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/strait-of-hormuz-300726-01-1785352587.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/6c79ce35a63f",
+    "title": "China to send shoulder-launched missiles to Iran shortly",
+    "link": "https://bdnews24.com/world/6c79ce35a63f",
+    "description": "[World] China to send shoulder-launched missiles to Iran shortly",
+    "published": "Thu, 30 Jul 2026 03:02:06 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/china-iran-flags-290726-01-1785348410.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
