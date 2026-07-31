@@ -89980,5 +89980,33 @@
     "source": "https://evilgodfahim.github.io/wl/pau.xml",
     "thumbnail": "https://dims.apnews.com/dims4/default/1d50f8b/2147483647/strip/true/crop/3015x2004+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2Fe4%2F54ecacb68a9b8d96d9fa2a4c3841%2Fff268b6dc8a34629a2f0a93cf73b56cc",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/889721",
+    "title": "Supply chains inflate food prices by 116%: CPD",
+    "link": "https://www.daily-sun.com/business/889721",
+    "description": "",
+    "published": "Sat, 01 Aug 2026 05:06:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/small/DS-'07'31-101-6a6b9e796bd64.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/889877/oil-price-rises-after-iran-says-it-stops-ships-in-hormuz",
+    "title": "Oil price rises after Iran says it stops ships in Hormuz",
+    "link": "https://www.daily-sun.com/world/889877/oil-price-rises-after-iran-says-it-stops-ships-in-hormuz",
+    "description": "Iran has blocked most shipping through the Strait of Hormuz since the start of the five-month-old conflict...",
+    "published": "Sat, 01 Aug 2026 05:06:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/01/medium/Fuel-oil-collected-2-6a6d0d99e3f07.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/diplomacy/889755/hasina-s-extradition-request-being-considered-indian-govt-tells-parliament",
+    "title": "Hasina’s extradition request being considered: Indian govt tells parliament",
+    "link": "https://daily-sun.com/diplomacy/889755/hasina-s-extradition-request-being-considered-indian-govt-tells-parliament",
+    "description": "",
+    "published": "Sat, 01 Aug 2026 05:06:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
