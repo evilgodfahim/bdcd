@@ -90453,5 +90453,39 @@
     "description": "",
     "published": "Sun, 02 Aug 2026 01:16:49 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/chinese-footprint-widens-bangladeshs-economic-landscape-4237796",
+    "title": "Chinese footprint widens in Bangladesh’s economic landscape",
+    "link": "https://www.thedailystar.net/business/economy/news/chinese-footprint-widens-bangladeshs-economic-landscape-4237796",
+    "description": "",
+    "published": "Sun, 02 Aug 2026 02:59:58 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/61189bdf6e57",
+    "title": "EU calls meeting discuss Ceuta migrant crossings",
+    "link": "https://bdnews24.com/world/61189bdf6e57",
+    "description": "[World] EU calls meeting discuss Ceuta migrant crossings",
+    "published": "Sun, 02 Aug 2026 02:59:58 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-ceuta-01082026-01-1785602616.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aafeb23c2b409a8900a7df2fb044bbacbba3f5c6",
+    "title": "3 people killed, 15 wounded in Moscow restaurant explosion",
+    "link": "https://apnews.com/article/russia-moscow-explosion-98b7fe61ce6a81f679126844ea182445",
+    "description": "3 people killed, 15 wounded in Moscow restaurant explosion",
+    "published": "Sun, 02 Aug 2026 02:59:58 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://daily-sun.com/business/889922/delegation-from-25-us-companies-to-visit-dhaka-next-week-mahdi-amin",
+    "title": "Delegation from 25 US companies to visit Dhaka next week: Mahdi Amin",
+    "link": "https://daily-sun.com/business/889922/delegation-from-25-us-companies-to-visit-dhaka-next-week-mahdi-amin",
+    "description": "",
+    "published": "Sun, 02 Aug 2026 02:59:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]

@@ -11,24 +11,24 @@
       "capped": 8
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 3,
-      "passed_age": 3,
-      "capped": 3
+      "fetched": 2,
+      "passed_age": 2,
+      "capped": 2
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 71,
-      "capped": 71
+      "passed_age": 57,
+      "capped": 57
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 50,
-      "capped": 50
+      "passed_age": 53,
+      "capped": 53
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
-      "fetched": 1,
-      "passed_age": 1,
-      "capped": 1
+      "fetched": 20,
+      "passed_age": 20,
+      "capped": 20
     },
     "https://evilgodfahim.github.io/dt/home.xml": {
       "fetched": 500,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 45,
-      "capped": 45
+      "passed_age": 44,
+      "capped": 44
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 76,
-      "capped": 76
+      "passed_age": 71,
+      "capped": 71
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 66,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 8,
+      "capped": 8
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4090
+    "DIRECT": 4108
   },
-  "total_fetched": 4090,
-  "total_passed_age": 786,
-  "total_new": 41,
-  "total_signal": 7,
+  "total_fetched": 4108,
+  "total_passed_age": 783,
+  "total_new": 25,
+  "total_signal": 4,
   "total_longread": 0,
-  "total_signal_deduped": 7,
+  "total_signal_deduped": 4,
   "total_longread_deduped": 0,
-  "timestamp": "2026-08-01T19:17:02.766540",
+  "timestamp": "2026-08-01T21:00:04.398216",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 7
+  "total_signal_mistral": 4
 }
