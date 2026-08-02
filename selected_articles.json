@@ -91070,5 +91070,25 @@
     "description": "",
     "published": "Mon, 03 Aug 2026 03:00:53 +0600",
     "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/890257/at-least-72-died-in-spain-s-ceuta-migrant-rush-spain-says",
+    "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+    "link": "https://www.daily-sun.com/world/890257/at-least-72-died-in-spain-s-ceuta-migrant-rush-spain-says",
+    "description": "At least 72 people died during the recent mass influx of migrants into Spain's Ceuta enclave from Morocco, Spanish officials",
+    "published": "Mon, 03 Aug 2026 04:59:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/03/medium/Untitled-(1)-6a6faec5e6f72.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/890251/news-1",
+    "title": "Sudan army drone attack on Darfur court kills 35",
+    "link": "https://www.daily-sun.com/world/890251/news-1",
+    "description": "The Sudanese army on Sunday struck a traditional court in western Darfur with drones, killing 35 people and wounding others,",
+    "published": "Mon, 03 Aug 2026 04:59:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
