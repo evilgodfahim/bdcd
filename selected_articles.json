@@ -91012,5 +91012,45 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Humaiun-Kobir-6a6f69d2c9cff.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/south-asia/18f9c08589de",
+    "title": "‘Suicide bombing’ at Pakistan police station kills 14",
+    "link": "https://bdnews24.com/world/south-asia/18f9c08589de",
+    "description": "[South Asia] ‘Suicide bombing’ at Pakistan police station kills 14",
+    "published": "Mon, 03 Aug 2026 01:18:00 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bombing-pakistan-02082026-01-1785692091.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/59ce4e1dc3e4",
+    "title": "Israeli strikes kill 15 in Gaza",
+    "link": "https://bdnews24.com/world/59ce4e1dc3e4",
+    "description": "[World] Israeli strikes kill 15 in Gaza",
+    "published": "Mon, 03 Aug 2026 01:18:00 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-02082026-01-1785689568.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/890151/4-000-children-killed-injured-during-iran-war-unicef",
+    "title": "4,000 children killed, injured during Iran war: UNICEF",
+    "link": "https://www.daily-sun.com/world/890151/4-000-children-killed-injured-during-iran-war-unicef",
+    "description": "Child casualties have exceeded 4,000 in the five months since the US and Israel launched surprise attacks on Iran, the",
+    "published": "Mon, 03 Aug 2026 01:18:00 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/iran-child-casualty-6a6f70a1ee01e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/890174/us-embassy",
+    "title": "Tiger Lightning 2026 concludes, strengthening Bangladesh-US military cooperation",
+    "link": "https://www.daily-sun.com/diplomacy/890174/us-embassy",
+    "description": "The Tiger Lightning 2026 joint military exercise concluded on 30 July, marking another milestone in military-to-military cooperation between",
+    "published": "Mon, 03 Aug 2026 01:18:00 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Untitled-(1)-6a6f7f40b75c5.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]

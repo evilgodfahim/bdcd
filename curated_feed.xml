@@ -4,37 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Sun, 02 Aug 2026 17:06:20 +0000</lastBuildDate>
-    <item>
-      <title>Low pressure develops over Bay of Bengal; ports hoist cautionary signal 3</title>
-      <link>https://en.bonikbarta.com/bangladesh/Qrb8218uCZny039h/</link>
-      <guid isPermaLink="false">eb49cb5dedeb67de573de81015978053</guid>
-      <description>Authorities cautioned that squally weather could affect the north Bay of Bengal, coastal districts and port areas.</description>
-      <pubDate>Sat, 25 Jul 2026 17:15:26 +0600</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh, Chile discuss opening resident diplomatic missions</title>
-      <link>https://en.bonikbarta.com/bangladesh/EmNmXSBHKcE0TSIb/</link>
-      <guid isPermaLink="false">80187c462dd75a44bf525b359ce076e9</guid>
-      <description>The foreign minister suggested exchanges of business delegations between the two countries to identify new investment and trade opportunities and strengthen private-sector engagement.</description>
-      <pubDate>Sat, 25 Jul 2026 17:15:26 +0600</pubDate>
-    </item>
-    <item>
-      <title>UN adopts Bangladesh-sponsored culture of peace resolution unanimously</title>
-      <link>https://en.bonikbarta.com/bangladesh/cHUZH6d0pyRDjRJF/</link>
-      <guid isPermaLink="false">33e571196d2741b13c0045dddc3502fd</guid>
-      <description>The “Follow-up to the Declaration and Programme of Action on a Culture of Peace” resolution was adopted by the UN General Assembly.</description>
-      <pubDate>Sat, 25 Jul 2026 17:15:26 +0600</pubDate>
-    </item>
-    <item>
-      <title>Around 9,600 people die from drowning each year in Bangladesh: WHO</title>
-      <link>https://www.tbsnews.net/bangladesh/around-9600-people-die-drowning-each-year-bangladesh-who-1497581</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/around-9600-people-die-drowning-each-year-bangladesh-who-1497581</guid>
-      <description />
-      <pubDate>Sat, 25 Jul 2026 19:46:17 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/07/25/world_drowning_prevention_day_.png" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/07/25/world_drowning_prevention_day_.png" type="image/png" length="0" />
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 19:20:10 +0000</lastBuildDate>
     <item>
       <title>Gazette published on Shahabuddin's resignation</title>
       <link>https://www.thedailystar.net/news/news/gazette-published-shahabuddins-resignation-4232056</link>
@@ -6251,6 +6221,42 @@ Those affected called on the government to take urgent measures to normalize the
       <pubDate>Sun, 02 Aug 2026 23:06:02 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Humaiun-Kobir-6a6f69d2c9cff.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Humaiun-Kobir-6a6f69d2c9cff.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘Suicide bombing’ at Pakistan police station kills 14</title>
+      <link>https://bdnews24.com/world/south-asia/18f9c08589de</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/south-asia/18f9c08589de</guid>
+      <description>[South Asia] ‘Suicide bombing’ at Pakistan police station kills 14</description>
+      <pubDate>Mon, 03 Aug 2026 01:18:00 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bombing-pakistan-02082026-01-1785692091.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bombing-pakistan-02082026-01-1785692091.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israeli strikes kill 15 in Gaza</title>
+      <link>https://bdnews24.com/world/59ce4e1dc3e4</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/59ce4e1dc3e4</guid>
+      <description>[World] Israeli strikes kill 15 in Gaza</description>
+      <pubDate>Mon, 03 Aug 2026 01:18:00 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-02082026-01-1785689568.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-02082026-01-1785689568.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>4,000 children killed, injured during Iran war: UNICEF</title>
+      <link>https://www.daily-sun.com/world/890151/4-000-children-killed-injured-during-iran-war-unicef</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/890151/4-000-children-killed-injured-during-iran-war-unicef</guid>
+      <description>Child casualties have exceeded 4,000 in the five months since the US and Israel launched surprise attacks on Iran, the</description>
+      <pubDate>Mon, 03 Aug 2026 01:18:00 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/iran-child-casualty-6a6f70a1ee01e.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/iran-child-casualty-6a6f70a1ee01e.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tiger Lightning 2026 concludes, strengthening Bangladesh-US military cooperation</title>
+      <link>https://www.daily-sun.com/diplomacy/890174/us-embassy</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/diplomacy/890174/us-embassy</guid>
+      <description>The Tiger Lightning 2026 joint military exercise concluded on 30 July, marking another milestone in military-to-military cooperation between</description>
+      <pubDate>Mon, 03 Aug 2026 01:18:00 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Untitled-(1)-6a6f7f40b75c5.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Untitled-(1)-6a6f7f40b75c5.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
