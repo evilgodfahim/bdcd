@@ -90693,5 +90693,61 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/US-Special-Envoy-Sergio-Gor-meets-PM-Tarique-Rahman-in-Dhaka-6a6d8046b6a1f-6a6eb1bb837dd.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/measles-outbreak-death-toll-reaches-844-4-more-die-24-hours-1504406",
+    "title": "Measles outbreak: Death toll reaches 844 as 4 more die in 24 hours",
+    "link": "https://www.tbsnews.net/bangladesh/measles-outbreak-death-toll-reaches-844-4-more-die-24-hours-1504406",
+    "description": "According to the latest data from the Directorate General of Health Services (DGHS), the number of suspected measles deaths has risen to 748, while laboratory-confirmed measles deaths now stand at 96.",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/11/measles_tbs.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-bars-imports-43-more-companies-over-chinas-alleged-forced-labor-involving-uyghurs-1504316",
+    "title": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
+    "link": "https://www.tbsnews.net/world/us-bars-imports-43-more-companies-over-chinas-alleged-forced-labor-involving-uyghurs-1504316",
+    "description": "Beijing has regularly dismissed accusations of forced labour and other abuses against Uyghurs and other Muslim minorities in the region of Xinjiang.",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/02/usa_china.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-myanmar-agree-boost-trade-connectivity-and-rohingya-repatriation-efforts",
+    "title": "Bangladesh, Myanmar agree to boost trade, connectivity and Rohingya repatriation efforts",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-myanmar-agree-boost-trade-connectivity-and-rohingya-repatriation-efforts",
+    "description": "",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/02/bd_myanmar.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "720aff2ad54b2608dcf2515721b98bda56ee1d1a",
+    "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+    "link": "https://apnews.com/article/iran-war-trump-saudi-crown-prince-call-814164417aa284dc8a6d34ac22ea1a8e",
+    "description": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/890091/russia-says-intercepted-635-ukrainian-drones-overnight",
+    "title": "Russia says intercepted 635 Ukrainian drones overnight",
+    "link": "https://www.daily-sun.com/world/890091/russia-says-intercepted-635-ukrainian-drones-overnight",
+    "description": "Russian air defence systems intercepted 635 Ukrainian drones overnight, showing ongoing tensions and military readiness in the region.",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Russia_Sun-6a6ed1ea8f925.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "744af23bd2722e162655c572dae5a742",
+    "title": "Bangladesh’s gas crisis leaves government with few immediate options",
+    "link": "https://en.bonikbarta.com/business/jjBbklsjoOi7FPRf/",
+    "description": "Declining output from ageing gas fields, constrained LNG imports and damaged infrastructure have widened the country’s daily gas deficit, leaving the government with few immediate options.",
+    "published": "Sun, 02 Aug 2026 16:02:04 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
