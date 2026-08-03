@@ -91090,5 +91090,15 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/oil-prices-fall-nearly-5-after-us-announces-new-iran-talks-1504976",
+    "title": "Oil prices fall nearly 5% after US announces new Iran talks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/oil-prices-fall-nearly-5-after-us-announces-new-iran-talks-1504976",
+    "description": "Investor concerns over potential supply disruptions eased after Washington signalled a diplomatic push with Tehran, sending benchmark crude prices sharply lower in early Asian trading.",
+    "published": "Mon, 03 Aug 2026 09:29:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/11/07/oil_price.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
