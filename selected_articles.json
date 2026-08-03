@@ -91663,5 +91663,51 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2023/11/09/RMG-Mahmud-Hossain-Opu-5-771aaa1f70b2465412b0e11916dc8064.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-scraps-2026-essential-medicines-list-drug-pricing-policy-1505941",
+    "title": "Govt scraps essential medicines list, drug pricing policy",
+    "link": "https://www.tbsnews.net/bangladesh/govt-scraps-2026-essential-medicines-list-drug-pricing-policy-1505941",
+    "description": "The Cabinet says the 2026 list and pricing framework were adopted without consulting the National Drug Advisory Council, as required under the Drugs and Cosmetics Act, 2023.",
+    "published": "Tue, 04 Aug 2026 01:47:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/09/27/medicine.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/bangladesh-south-korea-sign-cepa-today-1505936",
+    "title": "Bangladesh, South Korea to sign Cepa today",
+    "link": "https://www.tbsnews.net/foreign-policy/bangladesh-south-korea-sign-cepa-today-1505936",
+    "description": "Commerce Ministry Public Relations Officer Md Kamal Hossain confirmed the development.",
+    "published": "Tue, 04 Aug 2026 01:47:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/27/bd_s_korea.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/890237",
+    "title": "Foreign debt repayment hits record high",
+    "link": "https://www.daily-sun.com/business/890237",
+    "description": "Bangladesh's foreign debt servicing reached $4.49 billion in FY26, highlighting economic pressures as new loan",
+    "published": "Tue, 04 Aug 2026 01:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/news/padma-barrage-project-could-add-05-1-gdp-pms-adviser-4239496",
+    "title": "Padma Barrage project could add 0.5-1% to GDP: PM’s adviser",
+    "link": "https://www.thedailystar.net/news/news/padma-barrage-project-could-add-05-1-gdp-pms-adviser-4239496",
+    "description": "Rashed Al Mahmud Titumir says project part of integrated water management plan",
+    "published": "Tue, 04 Aug 2026 01:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/b56185b772ba",
+    "title": "Govt considers retaining lottery for school admissions",
+    "link": "https://bdnews24.com/bangladesh/b56185b772ba",
+    "description": "[Bangladesh] Govt considers retaining lottery for school admissions",
+    "published": "Tue, 04 Aug 2026 01:47:03 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moualvibazar-flowers-high-school-051223-1785775336.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
