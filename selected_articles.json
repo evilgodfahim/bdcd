@@ -92138,5 +92138,55 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/04/medium/Rooftop-solar-power-Reuters-6a72019fdffc7.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/cepa-signed-south-korea-could-it-reshape-bangladeshs-industrial-future-1506896",
+    "title": "Cepa signed with South Korea – could it reshape Bangladesh’s industrial future?",
+    "link": "https://www.tbsnews.net/foreign-policy/cepa-signed-south-korea-could-it-reshape-bangladeshs-industrial-future-1506896",
+    "description": "South Korea possesses capital, technology and advanced manufacturing expertise, while Bangladesh offers a large, young workforce and comparatively low production costs.",
+    "published": "Wed, 05 Aug 2026 01:43:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/06/27/bd_s_korea.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/private-sector-credit-growth-plunges-record-low-447-june-1506886",
+    "title": "Private sector credit growth plunges to record low at 4.47% in June",
+    "link": "https://www.tbsnews.net/economy/banking/private-sector-credit-growth-plunges-record-low-447-june-1506886",
+    "description": "Growth rate stays below 5% for four consecutive months",
+    "published": "Wed, 05 Aug 2026 01:43:03 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/05/private_credit_growth.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/rooftop-solar-tops-1000mw-cuts-bangladeshs-daytime-power-demand-6-1506866",
+    "title": "Rooftop solar tops 1,000MW, cuts Bangladesh’s daytime power demand by 6%",
+    "link": "https://www.tbsnews.net/bangladesh/energy/rooftop-solar-tops-1000mw-cuts-bangladeshs-daytime-power-demand-6-1506866",
+    "description": "",
+    "published": "Wed, 05 Aug 2026 01:43:03 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/04/bdb59d8e-cb3d-4ae1-83d0-b1b1530366a2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/politics/adac618fa566",
+    "title": "July reform pact faces political test",
+    "link": "https://bdnews24.com/politics/adac618fa566",
+    "description": "[Politics] July reform pact faces political test",
+    "published": "Wed, 05 Aug 2026 01:43:03 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025October/SM/july-charter-signing-ceremony-171025-02-1760704603.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/11d8ff60a38c",
+    "title": "Gas crunch slashes garment output",
+    "link": "https://bdnews24.com/business/11d8ff60a38c",
+    "description": "[Business] Gas crunch slashes garment output",
+    "published": "Wed, 05 Aug 2026 01:43:03 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bgmea-btma-040726-01-1785864047.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
