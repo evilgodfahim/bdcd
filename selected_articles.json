@@ -92597,5 +92597,29 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/05/medium/Palestinians-gather-as-they-receive-food-cooked-by-a-charity-kitchen,-in-Khan-Younis,-southern-Gaza-Strip,-on-29-April-2025-6a73813c56f38.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/tax-return-filing-rate-falls-fy26-multi-year-low-4241011",
+    "title": "Tax return filing rate falls in FY26 to multi-year low",
+    "link": "https://www.thedailystar.net/business/economy/news/tax-return-filing-rate-falls-fy26-multi-year-low-4241011",
+    "description": "",
+    "published": "Thu, 06 Aug 2026 03:17:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/overseas-jobs-fall-five-year-low-amid-middle-east-uncertainty-4240871",
+    "title": "Overseas jobs fall to five-year low amid Middle East uncertainty",
+    "link": "https://www.thedailystar.net/business/economy/news/overseas-jobs-fall-five-year-low-amid-middle-east-uncertainty-4240871",
+    "description": "According to BMET, more than 9.69 lakh people left Bangladesh for overseas jobs during the last fiscal year, down 5 percent from a year earlier",
+    "published": "Thu, 06 Aug 2026 03:17:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/us-lifts-sanctions-iraqi-airline-linked-irans-revolutionary-guards-4240866",
+    "title": "US lifts sanctions on Iraqi airline linked to Iran's Revolutionary Guards",
+    "link": "https://www.thedailystar.net/news/world/news/us-lifts-sanctions-iraqi-airline-linked-irans-revolutionary-guards-4240866",
+    "description": "However, US Treasury maintains its sanctions against a man previously identified as the company's owner, Basheer Abdulkadhim Alwan al-Shabbani",
+    "published": "Thu, 06 Aug 2026 03:17:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]
