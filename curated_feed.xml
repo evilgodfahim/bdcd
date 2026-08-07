@@ -4,25 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Fri, 07 Aug 2026 13:15:31 +0000</lastBuildDate>
-    <item>
-      <title>Iran to get Chinese shoulder-launched missile systems in weeks</title>
-      <link>https://www.daily-sun.com/world/889386/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/world/889386/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks</guid>
-      <description>Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers</description>
-      <pubDate>Wed, 29 Jul 2026 20:21:49 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/chinese-manpads-6a69d692277cf.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/chinese-manpads-6a69d692277cf.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US bans foreign-made humanoid robots, targeting China over national security</title>
-      <link>https://www.daily-sun.com/sci-tech/889373/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/sci-tech/889373/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security</guid>
-      <description>The FCC bans foreign-made humanoid robots, targeting China for national security risks. This decision may impact US-China relations amid tech</description>
-      <pubDate>Wed, 29 Jul 2026 20:21:49 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/humanoid-robots_Sun-6a69bedd54273.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/humanoid-robots_Sun-6a69bedd54273.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 14:57:56 +0000</lastBuildDate>
     <item>
       <title>China completes 582-tonne world’s largest magnet, ready to build artificial Sun</title>
       <link>https://www.daily-sun.com/sci-tech/889371/china-completes-582-tonne-world-s-largest-magnet-ready-to-build-artificial-sun</link>
@@ -5677,6 +5659,22 @@ Currently, no US law bans so-called birth tourism, but a federal regulation imp
       <pubDate>Fri, 07 Aug 2026 19:14:59 +0600</pubDate>
       <media:thumbnail url="https://dims.apnews.com/dims4/default/35cee4d/2147483647/strip/true/crop/6254x4169+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2Fa2%2F85036b50cf9156218b639f7446cf%2Fdea4a52d26904d3f8e473701fe16ac1e" />
       <enclosure url="https://dims.apnews.com/dims4/default/35cee4d/2147483647/strip/true/crop/6254x4169+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2Fa2%2F85036b50cf9156218b639f7446cf%2Fdea4a52d26904d3f8e473701fe16ac1e" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pakistan says any attack under new tri-party defence pact is attack on all</title>
+      <link>https://www.thedailystar.net/news/world/middle-east/news/pakistan-says-any-attack-under-new-tri-party-defence-pact-attack-all-4242256</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/pakistan-says-any-attack-under-new-tri-party-defence-pact-attack-all-4242256</guid>
+      <description>Agreement commits three countries to collective deterrence against armed aggression</description>
+      <pubDate>Fri, 07 Aug 2026 20:57:41 +0600</pubDate>
+    </item>
+    <item>
+      <title>Saudi, Turkey, Pakistan sign defence pact</title>
+      <link>https://bdnews24.com/world/middle-east/bb369cc6886e</link>
+      <guid isPermaLink="true">https://bdnews24.com/world/middle-east/bb369cc6886e</guid>
+      <description>[West Asia] Saudi, Turkey, Pakistan sign defence pact</description>
+      <pubDate>Fri, 07 Aug 2026 20:57:41 +0600</pubDate>
+      <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" />
+      <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
