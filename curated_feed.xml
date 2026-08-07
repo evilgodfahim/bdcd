@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Fri, 07 Aug 2026 14:57:56 +0000</lastBuildDate>
-    <item>
-      <title>China completes 582-tonne world’s largest magnet, ready to build artificial Sun</title>
-      <link>https://www.daily-sun.com/sci-tech/889371/china-completes-582-tonne-world-s-largest-magnet-ready-to-build-artificial-sun</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/sci-tech/889371/china-completes-582-tonne-world-s-largest-magnet-ready-to-build-artificial-sun</guid>
-      <description>China advances toward an artificial Sun, completing the largest superconducting fusion magnet, crucial for clean energy generation by 2030.</description>
-      <pubDate>Wed, 29 Jul 2026 20:21:49 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/China_Sun_Daily_Sun-6a69c57089ca5.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/29/medium/China_Sun_Daily_Sun-6a69c57089ca5.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 16:58:01 +0000</lastBuildDate>
     <item>
       <title>Govt approves Tk16,089cr refined fuel import for July-December</title>
       <link>https://www.tbsnews.net/bangladesh/energy/govt-approves-tk16089cr-refined-fuel-import-july-december-1501586</link>
@@ -5675,6 +5666,13 @@ Currently, no US law bans so-called birth tourism, but a federal regulation imp
       <pubDate>Fri, 07 Aug 2026 20:57:41 +0600</pubDate>
       <media:thumbnail url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" />
       <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>3 more die with suspected measles, combined toll now 863</title>
+      <link>https://www.thedailystar.net/health/disease/news/3-more-die-suspected-measles-combined-toll-now-863-4242281</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/3-more-die-suspected-measles-combined-toll-now-863-4242281</guid>
+      <description>DGHS reports 1,017 new suspected measles and 201 new confirmed cases in 24 hours</description>
+      <pubDate>Fri, 07 Aug 2026 22:57:51 +0600</pubDate>
     </item>
   </channel>
 </rss>
