@@ -93640,5 +93640,41 @@
     "source": "https://en.prothomalo.com/feed/",
     "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-05-25/oj06f98z/rmg-factory.avif?w=280",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/brics-chair-india-opposes-common-currency-counter-us-dollar-1509241",
+    "title": "BRICS chair India opposes common currency to counter US dollar",
+    "link": "https://www.tbsnews.net/world/brics-chair-india-opposes-common-currency-counter-us-dollar-1509241",
+    "description": "Over the past few years, some BRICS nations, particularly Russia and China, have favoured an alternative to the US dollar or creating a dedicated BRICS currency.",
+    "published": "Sat, 08 Aug 2026 11:02:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/27/brics.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/spain-italy-suspend-schengen-travel-arrangements-amid-migration-dispute-1509236",
+    "title": "Spain, Italy suspend Schengen travel arrangements amid migration dispute",
+    "link": "https://www.tbsnews.net/worldbiz/europe/spain-italy-suspend-schengen-travel-arrangements-amid-migration-dispute-1509236",
+    "description": "Spain imposed border controls on air and sea travel arriving from Italy at midnight on Friday, requiring passport, nationality and visa checks for Italian passengers and travellers from other countries arriving from Italy",
+    "published": "Sat, 08 Aug 2026 11:02:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/01/ceuta.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/us-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-4242596",
+    "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+    "link": "https://www.thedailystar.net/news/world/news/us-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-4242596",
+    "description": "",
+    "published": "Sat, 08 Aug 2026 11:02:44 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/spain-imposes-border-checks-italy-migrant-showdown-grows-4242601",
+    "title": "Spain imposes border checks on Italy as migrant showdown grows",
+    "link": "https://www.thedailystar.net/news/world/news/spain-imposes-border-checks-italy-migrant-showdown-grows-4242601",
+    "description": "Spanish police have been monitoring online rumours and social media about possible fresh arrivals in Ceuta in mid-August, according to local media",
+    "published": "Sat, 08 Aug 2026 11:02:44 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]
