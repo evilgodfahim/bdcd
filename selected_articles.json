@@ -94713,5 +94713,54 @@
     "description": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases",
     "published": "Sun, 09 Aug 2026 22:41:40 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/current-account-deficit-hits-16b-import-bills-surge-1510811",
+    "title": "Current account deficit hits $1.6b as import bills surge",
+    "link": "https://www.tbsnews.net/economy/current-account-deficit-hits-16b-import-bills-surge-1510811",
+    "description": "Central bank data shows imports on a free-on-board (FOB) basis rose 10.5% to over $71.1 billion, up from $64.36 billion a year earlier.",
+    "published": "Mon, 10 Aug 2026 00:48:49 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/09/09/collage-dollar.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/bb-declares-four-financial-institutions-non-viable-starts-resolution-process-1510806",
+    "title": "BB declares four financial institutions non-viable, starts resolution process",
+    "link": "https://www.tbsnews.net/economy/banking/bb-declares-four-financial-institutions-non-viable-starts-resolution-process-1510806",
+    "description": "The central bank dissolved the boards and cancelled the appointments of CEOs of Aviva Finance, Fareast Finance, FAS Finance and International Leasing.",
+    "published": "Mon, 10 Aug 2026 00:48:49 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/07/30/bangladesh_bank.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/891264",
+    "title": "BB grants wider powers to administrators",
+    "link": "https://www.daily-sun.com/business/891264",
+    "description": "The Bangladesh Bank has issued detailed regulations governing the appointment, powers, and responsibilities of temporary",
+    "published": "Mon, 10 Aug 2026 00:48:49 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/election/417094/presidential-election-set-for-first-contested-vote",
+    "title": "Presidential election set for first contested vote in 35 years",
+    "link": "https://www.dhakatribune.com/bangladesh/election/417094/presidential-election-set-for-first-contested-vote",
+    "description": "BNP and Jamaat-led alliance to field candidates as MPs prepare for secret-ballot vote on August 20",
+    "published": "Mon, 10 Aug 2026 00:48:49 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2024/01/12/Bangabhaban-5664cbe54edf923a2974a422b438d34d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/891340/iran-says-hormuz-deal-with-oman-is-in-final-stages-but-us-must-act-to-open-strait",
+    "title": "Iran says Hormuz deal with Oman is in 'final stages' but US must act to open strait",
+    "link": "https://www.daily-sun.com/world/891340/iran-says-hormuz-deal-with-oman-is-in-final-stages-but-us-must-act-to-open-strait",
+    "description": "Iran said on Sunday that a deal with Oman defining new shipping lanes in the Strait of Hormuz was in",
+    "published": "Mon, 10 Aug 2026 00:48:49 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/hormuz-strait-6a78aa066385b.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]

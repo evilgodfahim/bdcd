@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 8,
+      "capped": 8
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 7,
-      "passed_age": 6,
-      "capped": 6
+      "fetched": 3,
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 98,
-      "capped": 98
+      "passed_age": 75,
+      "capped": 75
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 73,
-      "capped": 73
+      "passed_age": 72,
+      "capped": 72
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 27,
-      "capped": 27
+      "passed_age": 32,
+      "capped": 32
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 54,
-      "capped": 54
+      "passed_age": 53,
+      "capped": 53
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 165,
-      "passed_age": 7,
-      "capped": 7
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4212
+    "DIRECT": 4208
   },
-  "total_fetched": 4212,
-  "total_passed_age": 811,
-  "total_new": 85,
-  "total_signal": 24,
+  "total_fetched": 4208,
+  "total_passed_age": 788,
+  "total_new": 39,
+  "total_signal": 7,
   "total_longread": 0,
-  "total_signal_deduped": 17,
+  "total_signal_deduped": 5,
   "total_longread_deduped": 0,
-  "timestamp": "2026-08-09T16:42:05.415370",
+  "timestamp": "2026-08-09T18:49:06.172456",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 24
+  "total_signal_mistral": 7
 }
