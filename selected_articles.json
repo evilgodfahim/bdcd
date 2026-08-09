@@ -94762,5 +94762,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/hormuz-strait-6a78aa066385b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/berc-adjusts-jet-fuel-prices-23-hike-domestic-flights-1510831",
+    "title": "BERC adjusts jet fuel prices; 23% hike for domestic flights",
+    "link": "https://www.tbsnews.net/bangladesh/energy/berc-adjusts-jet-fuel-prices-23-hike-domestic-flights-1510831",
+    "description": "For international flights, the price has been set at $1.0358 per litre, up from $0.8556.",
+    "published": "Mon, 10 Aug 2026 02:38:20 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/12/15/jet_fuel.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/trade-deficit-hits-three-year-high-273b-4243951",
+    "title": "Trade deficit hits three-year high at $27.3b",
+    "link": "https://www.thedailystar.net/business/economy/news/trade-deficit-hits-three-year-high-273b-4243951",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 02:38:20 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/banking/news/bangladesh-bank-moves-liquidate-four-nbfis-4244071",
+    "title": "Bangladesh Bank moves to liquidate four NBFIs",
+    "link": "https://www.thedailystar.net/business/banking/news/bangladesh-bank-moves-liquidate-four-nbfis-4244071",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 02:38:20 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/891454/iran-guards-say-won-t-reopen-hormuz-without-us-meeting-tehran-s-demands",
+    "title": "Iran Guards say won't reopen Hormuz without US meeting Tehran's demands",
+    "link": "https://www.daily-sun.com/world/891454/iran-guards-say-won-t-reopen-hormuz-without-us-meeting-tehran-s-demands",
+    "description": "Iran's Revolutionary Guards insisted Sunday that they would not reopen the Strait of Hormuz until the United States complied with",
+    "published": "Mon, 10 Aug 2026 02:38:20 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Hormuz-reuters-4-6a78d3c291633.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
