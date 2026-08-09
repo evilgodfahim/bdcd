@@ -94798,5 +94798,29 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Hormuz-reuters-4-6a78d3c291633.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/891412/report-2",
+    "title": "Bangladesh's gross forex reserves rise to $36.86bn",
+    "link": "https://www.daily-sun.com/business/891412/report-2",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 04:35:59 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/bangladesh-china-push-technology-transfer-boost-ceramics-industry-4244086",
+    "title": "Bangladesh, China push for technology transfer to boost ceramics industry",
+    "link": "https://www.thedailystar.net/business/news/bangladesh-china-push-technology-transfer-boost-ceramics-industry-4244086",
+    "description": "",
+    "published": "Mon, 10 Aug 2026 04:35:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701",
+    "title": "Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?",
+    "link": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701",
+    "description": "Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?",
+    "published": "Mon, 10 Aug 2026 04:35:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]

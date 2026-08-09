@@ -4,34 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Sun, 09 Aug 2026 20:38:26 +0000</lastBuildDate>
-    <item>
-      <title>Indian companies profited with weapons sale to Israel amid ongoing Gaza genocide: Amnesty</title>
-      <link>https://www.daily-sun.com/world/889770/indian-companies-profited-with-weapons-sale-to-israel-amid-ongoing-gaza-genocide-amnesty-report-says</link>
-      <guid isPermaLink="true">https://www.daily-sun.com/world/889770/indian-companies-profited-with-weapons-sale-to-israel-amid-ongoing-gaza-genocide-amnesty-report-says</guid>
-      <description>India has sold over 2500 shipments of weapons to Israel since the 7 October Hamas attacks despite risks that they</description>
-      <pubDate>Fri, 31 Jul 2026 23:44:19 +0600</pubDate>
-      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/medium/Modi-and-Netanyahu-6a6c907eddfc6.jpg" />
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/medium/Modi-and-Netanyahu-6a6c907eddfc6.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Rohingya crisis: US urges global partners to increase contributions</title>
-      <link>https://www.tbsnews.net/foreign-policy/rohingya-crisis-us-urges-global-partners-increase-contributions-1503331</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/foreign-policy/rohingya-crisis-us-urges-global-partners-increase-contributions-1503331</guid>
-      <description>The US Special Envoy Sergio Gor is scheduled to meet Prime Minister Tarique Rahman today (1 August).</description>
-      <pubDate>Sat, 01 Aug 2026 01:41:56 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/01/sergio_gor_on_rohingya.jpeg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/01/sergio_gor_on_rohingya.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Saudi Arabia unveils plans for multinational maritime defence coalition</title>
-      <link>https://www.tbsnews.net/worldbiz/middle-east/saudi-arabia-unveils-plans-multinational-maritime-defence-coalition-1503326</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/worldbiz/middle-east/saudi-arabia-unveils-plans-multinational-maritime-defence-coalition-1503326</guid>
-      <description>It said 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, issued a joint statement supporting the proposed coalition.</description>
-      <pubDate>Sat, 01 Aug 2026 01:41:56 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/27/yemen_bab_el-mandeb_strait.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/27/yemen_bab_el-mandeb_strait.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 22:36:04 +0000</lastBuildDate>
     <item>
       <title>US to make visa bond requirements permanent, affecting mostly African countries</title>
       <link>https://apnews.com/article/visa-bonds-permanent-us-state-department-travelers-ca7e5a540309d7cafad47ed1520b9c68</link>
@@ -5782,6 +5755,27 @@ The survey was conducted between May 16 and June 24 among 5,000 adults across al
       <pubDate>Mon, 10 Aug 2026 02:38:20 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Hormuz-reuters-4-6a78d3c291633.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Hormuz-reuters-4-6a78d3c291633.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Bangladesh's gross forex reserves rise to $36.86bn</title>
+      <link>https://www.daily-sun.com/business/891412/report-2</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/business/891412/report-2</guid>
+      <description />
+      <pubDate>Mon, 10 Aug 2026 04:35:59 +0600</pubDate>
+    </item>
+    <item>
+      <title>Bangladesh, China push for technology transfer to boost ceramics industry</title>
+      <link>https://www.thedailystar.net/business/news/bangladesh-china-push-technology-transfer-boost-ceramics-industry-4244086</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-china-push-technology-transfer-boost-ceramics-industry-4244086</guid>
+      <description />
+      <pubDate>Mon, 10 Aug 2026 04:35:59 +0600</pubDate>
+    </item>
+    <item>
+      <title>Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?</title>
+      <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
+      <description>Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?</description>
+      <pubDate>Mon, 10 Aug 2026 04:35:59 +0600</pubDate>
     </item>
   </channel>
 </rss>
