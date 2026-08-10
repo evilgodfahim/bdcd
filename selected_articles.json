@@ -95509,5 +95509,33 @@
     "description": "Contiguous US breaks its record for hottest month ever, NOAA says",
     "published": "Tue, 11 Aug 2026 01:03:48 +0600",
     "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/least-111-killed-after-74-quake-hits-colombia-4244601",
+    "title": "Update / At least 111 killed after 7.4 quake hits Colombia",
+    "link": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/least-111-killed-after-74-quake-hits-colombia-4244601",
+    "description": "Buildings toppled, people trapped; the early-morning quake was also felt in Ecuador, Panama and Venezuela -- itself hit by a devastating quake in late June",
+    "published": "Tue, 11 Aug 2026 02:49:38 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/71398ad124ae",
+    "title": "Hasina ‘calls’ reveal alleged crackdown orders",
+    "link": "https://bdnews24.com/bangladesh/71398ad124ae",
+    "description": "[Bangladesh] Hasina ‘calls’ reveal alleged crackdown orders",
+    "published": "Tue, 11 Aug 2026 02:49:38 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/setu-bhaban-attack-quota-protest-210724-001-1721753757.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/d1397a9a8b00",
+    "title": "New visa rules bring 34 categories",
+    "link": "https://bdnews24.com/bangladesh/d1397a9a8b00",
+    "description": "[Bangladesh] New visa rules bring 34 categories",
+    "published": "Tue, 11 Aug 2026 02:49:38 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-visa-100826-1786384878.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
