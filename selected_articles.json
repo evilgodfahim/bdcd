@@ -95927,5 +95927,62 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/solar-power-6a7b09af49b75.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
+    "title": "Inflation falls to 8.32% in July, lowest in 8-month",
+    "link": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
+    "description": "Food inflation dropped to a nine-month low of 7.16%, while non-food inflation fell to its lowest level in four months, BBS data shows.",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/10/22/inflation.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bb-plans-tk1000cr-fund-create-5000-new-entrepreneurs-1512361",
+    "title": "BB plans Tk1,000cr fund to create 5,000 entrepreneurs",
+    "link": "https://www.tbsnews.net/economy/bb-plans-tk1000cr-fund-create-5000-new-entrepreneurs-1512361",
+    "description": "The Association of Bankers, Bangladesh chairman says work is underway on the special refinancing and grant package for young entrepreneurs.",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/11/abb_chairman_and_city_bank_managing_director_mashrur_arefin.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/891705/three-closed-state-run-jute-mills-to-reopen-under-lease",
+    "title": "Three closed state-run jute mills leased to PRAN-RFL, HAMCO",
+    "link": "https://www.daily-sun.com/business/891705/three-closed-state-run-jute-mills-to-reopen-under-lease",
+    "description": "",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/govt-take-strict-action-against-data-manipulation-4245226",
+    "title": "Govt to take strict action against data manipulation",
+    "link": "https://www.thedailystar.net/business/news/govt-take-strict-action-against-data-manipulation-4245226",
+    "description": "",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417243/bangladesh-china-pledge-to-work-together-on-water",
+    "title": "Bangladesh-China pledge to work together on water resources management",
+    "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417243/bangladesh-china-pledge-to-work-together-on-water",
+    "description": "Bangladesh and China expressed their commitment to working together on water resources management.\n\nThe two sides made the commitment as Chinese Ambassador to Bangladesh Yao Wen paid a courtesy call on Water Resources Minister Md Shahiduddin Chowdhury Anee at his Secretariat office in the capital on Tuesday.\n\nState Minister for Water Resources Forhad Hossain Azad was also present.\n\nAnee said China and Bangladesh are long-standing and time-tested friends, and that the two countries maintain strong bilateral relations. He called for cooperation between the two countries in exchanging knowledge and experience in water resources management, education, technological cooperation, professional capacity development, and research.\n\nYao Wen said that China is interested in working with Bangladesh to ensure the conservation of water resources and maintain environmental balance.\n\nHe said China wants to stand by Bangladesh in addressing issues related to water resources management, floods, droughts, waterlogging, and river erosion.\n\nWater Resources Secretary Dr AKM Shahabuddin and Chinese Embassy’s Economic and Commercial Counsellor Song Yang were present during the meeting.",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/11/156a78d899c6aa222489c8b7c6dadd6d-6a7b3453f00d7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/891708/india-invites-pm-tarique-for-bilateral-visit-brics-outreach-session",
+    "title": "India invites PM Tarique for bilateral visit, BRICS outreach session",
+    "link": "https://www.daily-sun.com/diplomacy/891708/india-invites-pm-tarique-for-bilateral-visit-brics-outreach-session",
+    "description": "India has invited Prime Minister Tarique Rahman to visit the country on a bilateral trip and attend the outreach session",
+    "published": "Tue, 11 Aug 2026 21:03:10 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Pm-office-6a7b2b6924323.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
