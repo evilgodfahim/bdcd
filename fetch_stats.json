@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 8,
-      "capped": 8
+      "passed_age": 14,
+      "capped": 14
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 8,
-      "passed_age": 8,
-      "capped": 8
+      "fetched": 3,
+      "passed_age": 3,
+      "capped": 3
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 112,
-      "capped": 100
+      "passed_age": 91,
+      "capped": 91
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 37,
-      "capped": 37
+      "passed_age": 32,
+      "capped": 32
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 49,
-      "capped": 49
+      "passed_age": 54,
+      "capped": 54
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 45,
-      "capped": 45
+      "passed_age": 63,
+      "capped": 63
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 214,
-      "passed_age": 13,
-      "capped": 13
+      "passed_age": 12,
+      "capped": 12
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4262
+    "DIRECT": 4257
   },
-  "total_fetched": 4262,
-  "total_passed_age": 812,
-  "total_new": 81,
-  "total_signal": 11,
+  "total_fetched": 4257,
+  "total_passed_age": 809,
+  "total_new": 60,
+  "total_signal": 15,
   "total_longread": 0,
-  "total_signal_deduped": 7,
+  "total_signal_deduped": 12,
   "total_longread_deduped": 0,
-  "timestamp": "2026-08-12T17:01:04.775967",
+  "timestamp": "2026-08-12T19:08:13.517208",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 11
+  "total_signal_mistral": 15
 }
