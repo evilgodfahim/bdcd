@@ -96307,5 +96307,87 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/North_Korea-6a7bfee8c3d7d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-sells-scrap-two-sanctioned-oil-tankers-seized-after-venezuela-raid-1512861",
+    "title": "US sells for scrap two sanctioned oil tankers seized after Venezuela raid",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-sells-scrap-two-sanctioned-oil-tankers-seized-after-venezuela-raid-1512861",
+    "description": "Dubai-headquartered vessel recycling firm Global Marketing Systems purchased the tankers last month for an undisclosed sum",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/12/usa_seized_oil_tanker.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/ukraine-halts-strikes-tankers-using-russian-port-us-request-ft-1512841",
+    "title": "Ukraine halts strikes on tankers using Russian port at US request: FT",
+    "link": "https://www.tbsnews.net/worldbiz/europe/ukraine-halts-strikes-tankers-using-russian-port-us-request-ft-1512841",
+    "description": "The paper said last month's request followed US alarm that Ukraine was destabilising oil markets and harming US firms by targeting tankers carrying crude piped from Kazakhstan to a Caspian Pipeline Consortium (CPC) terminal at the port",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/12/ukraine_zelenskiy_vance.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/russia-still-holding-more-16000-ukrainian-civilians-amid-ukraine-war-un-1512791",
+    "title": "Russia still holding more than 16,000 Ukrainian civilians amid Ukraine war: UN",
+    "link": "https://www.tbsnews.net/world/russia-still-holding-more-16000-ukrainian-civilians-amid-ukraine-war-un-1512791",
+    "description": "More than 95% of interviewed Ukrainian POWs and 85% of civilian detainees reported torture or ill-treatment, often repeatedly.",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/12/russia_ukraine_un.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "d0bd9d3a-bf99-4382-a3ce-411e3e820a63",
+    "title": "US helicopter fired on ship that tried to break Iran ports blockade",
+    "link": "https://en.prothomalo.com/international/middle-east/owj6w31lcx",
+    "description": "PANAMA-CANAL-TRANSPORT\n<p>A US helicopter fired missiles on Tuesday into the engine room of a Panama-flagged cargo ship that attempted to break the American blockade of Iran's ports, the United States military said.</p><p>The US Navy MH-60 helicopter fired on and disabled the M/V Vela Nova \"after the ship's civilian crew ignored repeated warnings from American forces,\" US Central Command (CENTCOM) said on X, adding that the vessel \"is no longer transiting to Iran in violation of the US blockade.\"</p><p>It was the third time the United States, in a months-long war against Iran, has forcibly halted a vessel since reinstating the ports blockade on 14 July.</p><p>CENTCOM said it has redirected 55 ships that tried to run the blockade and boarded two others as of Tuesday.</p><p>US forces previously blockaded Iranian ports from 13 April to 18 June, during which they disabled nine ships and redirected more than 140, according to CENTCOM.</p><p>Iran has demanded that the United States end the ports blockade as part of its conditions to reopen the Strait of Hormuz, a key conduit for oil and gas shipments before the war that has seen traffic plummet due to Tehran's attacks on ships in the area.</p><p>US President Donald Trump repeated his frequent claim Tuesday that the United States has taken over the waterway.</p><p>\"We have total control over the Hormuz Strait right now. They don't have control. We have total control. We own it,\" Trump told reporters.</p>",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-08-12/5b3xwaj6/252030-01-02.jpg?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/news/rooftop-solar-panels-can-add-3600mwp-national-grid-4245801",
+    "title": "Rooftop solar panels can add 3,600MWp to national grid",
+    "link": "https://www.thedailystar.net/news/bangladesh/news/rooftop-solar-panels-can-add-3600mwp-national-grid-4245801",
+    "description": "Bangladesh could generate more than 3,600 megawatts peak (MWp) of electricity from rooftop solar panels, according to a new assessment by the state-owned Infrastructure Development Company Limited (Idcol).",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "69cb1a090213df2042a650476d82ccab28df4aa8",
+    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+    "link": "https://apnews.com/article/chery-africa-ev-china-autos-3138ab43620ff7e0a7d2b7b658facdf1",
+    "description": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/891846/india-unveils-19-modern-passenger-coaches-for-bangladesh-railway",
+    "title": "India unveils 19 modern passenger coaches for Bangladesh Railway",
+    "link": "https://www.daily-sun.com/bangladesh/891846/india-unveils-19-modern-passenger-coaches-for-bangladesh-railway",
+    "description": "The Rail Coach Factory in India unveiled 19 modern passenger coaches for Bangladesh Railway, enhancing cooperation and passenger comfort with",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/passenger-coaches_Sun-6a7c0e28d2d4a.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "94b7973a83c066aea585c7352dcf67a7",
+    "title": "Syria sentences absent Bashar al-Assad to death over killings and torture",
+    "link": "https://en.bonikbarta.com/international/CEQcurfCOXHGPXYN/",
+    "description": "Assad fled the capital Damascus as rebel fighters closed ​in nearly two years ago, and is currently in Russia, where he and his family were granted asylum on humanitarian grounds.",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
+  },
+  {
+    "id": "f1dd0cede02e3a93af67c98df1786a0b",
+    "title": "New attacks on shipping as Iran war talks hit fresh impasse",
+    "link": "https://en.bonikbarta.com/international/NnUcjQUe3HZJJGYO/",
+    "description": "The fatalities aboard the Egyptian-owned Tihamah would be the first deaths on shipping by Yemen’s Iran-aligned Houthis since the Iran ​war began.",
+    "published": "Wed, 12 Aug 2026 13:39:57 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
