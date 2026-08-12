@@ -96894,5 +96894,57 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/Arrest-held-detained-edited-6a7ca7f4cabb7.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/892012/finance-minister-pledges-deregulation-police-support-to-attract-us-investment",
+    "title": "Finance Minister pledges deregulation, police support to attract US investment",
+    "link": "https://www.daily-sun.com/business/892012/finance-minister-pledges-deregulation-police-support-to-attract-us-investment",
+    "description": "",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/shops-markets-must-close-8pm-govt-tightens-power-saving-measures-4246181",
+    "title": "Shops, markets must close by 8pm as govt tightens power-saving measures",
+    "link": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/shops-markets-must-close-8pm-govt-tightens-power-saving-measures-4246181",
+    "description": "",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-tokyo-reaffirm-strategic-partnership-4246251",
+    "title": "Dhaka, Tokyo reaffirm strategic partnership",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-tokyo-reaffirm-strategic-partnership-4246251",
+    "description": "Both sides pledge stronger ties in trade, defence, energy",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/6fd5bf58abb0",
+    "title": "Iran sees no progress on reviving interim US deal",
+    "link": "https://bdnews24.com/world/6fd5bf58abb0",
+    "description": "[World] Iran sees no progress on reviving interim US deal",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/anti-us-billboard-130826-01-1786561580.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "fa53df5416fa2610824c5aac6fb91941d3dc00c0",
+    "title": "Oman says the oil spill from a grounded tanker has reached its coastline",
+    "link": "https://apnews.com/article/iran-war-oman-oil-spill-russia-9e41eccb841c68e074f16274307d3b89",
+    "description": "Oman says the oil spill from a grounded tanker has reached its coastline",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "dbab01948999a91f6fa39f945f7332c8b4d3147b",
+    "title": "Afghanistan’s Taliban rulers detain two members of the UN political mission",
+    "link": "https://apnews.com/article/un-afghanistan-taliban-detain-intelligence-pakistan-humanitarian-be6074c4d51220a3daf94f6618abc9ef",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/0e96c57/2147483647/strip/true/crop/6000x4000+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F80%2F40345a245dbb044b241c4a57354f%2Fc03b64dde6e542388d02bbb5a3572020\" /><br />Afghanistan’s Taliban rulers detain two members of the UN political mission",
+    "published": "Thu, 13 Aug 2026 04:47:24 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/0e96c57/2147483647/strip/true/crop/6000x4000+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F80%2F40345a245dbb044b241c4a57354f%2Fc03b64dde6e542388d02bbb5a3572020",
+    "thumbnail_type": "image/jpeg"
   }
 ]
