@@ -4,23 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Thu, 13 Aug 2026 19:08:48 +0000</lastBuildDate>
-    <item>
-      <title>11-Party Alliance announces nationwide protests over gas, electricity crisis</title>
-      <link>https://www.thedailystar.net/news/politics/news/11-party-alliance-announces-nationwide-protests-over-gas-electricity-crisis-4241431</link>
-      <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/11-party-alliance-announces-nationwide-protests-over-gas-electricity-crisis-4241431</guid>
-      <description>Coalition announces long marches, rail journey and Dhaka rally from September to November</description>
-      <pubDate>Thu, 06 Aug 2026 16:44:48 +0600</pubDate>
-    </item>
-    <item>
-      <title>Measles: 6 more deaths in a day</title>
-      <link>https://bdnews24.com/health/a3c49e12e665</link>
-      <guid isPermaLink="true">https://bdnews24.com/health/a3c49e12e665</guid>
-      <description>[Health] Measles: 6 more deaths in a day</description>
-      <pubDate>Thu, 06 Aug 2026 16:44:48 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/measles-1000-1786009489.jpg" />
-      <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/measles-1000-1786009489.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 20:49:47 +0000</lastBuildDate>
     <item>
       <title>Presidential vote set for Aug 20</title>
       <link>https://bdnews24.com/bangladesh/02779ff9a17b</link>
@@ -6170,6 +6154,22 @@ According to the latest data, that momentum has pushed gross reserves back above
       <guid isPermaLink="true">https://daily-sun.com/diplomacy/891973/japan-invites-pm-to-tokyo-pledge-to-deepen-strategic-ties</guid>
       <description />
       <pubDate>Fri, 14 Aug 2026 01:08:40 +0600</pubDate>
+    </item>
+    <item>
+      <title>Law enforcers step up surveillance after UN warns of Al-Qaeda cell attempts in Bangladesh</title>
+      <link>https://www.tbsnews.net/bangladesh/law-enforcers-step-surveillance-after-un-warns-al-qaeda-cell-attempts-bangladesh-1514686</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/law-enforcers-step-surveillance-after-un-warns-al-qaeda-cell-attempts-bangladesh-1514686</guid>
+      <description>Police are reviewing possible links between concerns raised in a recent UN report and individuals or networks already under surveillance.</description>
+      <pubDate>Fri, 14 Aug 2026 02:49:40 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/09/07/police.jpeg" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/09/07/police.jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Previous regime’s financial irregularities could hurt upcoming evaluation, APG says</title>
+      <link>https://www.thedailystar.net/business/economy/news/previous-regimes-financial-irregularities-could-hurt-upcoming-evaluation-apg-says-4247116</link>
+      <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/previous-regimes-financial-irregularities-could-hurt-upcoming-evaluation-apg-says-4247116</guid>
+      <description />
+      <pubDate>Fri, 14 Aug 2026 02:49:40 +0600</pubDate>
     </item>
   </channel>
 </rss>
