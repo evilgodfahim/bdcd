@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 6,
-      "capped": 6
+      "passed_age": 4,
+      "capped": 4
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 11,
-      "passed_age": 11,
-      "capped": 11
+      "fetched": 4,
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 102,
-      "capped": 100
+      "passed_age": 90,
+      "capped": 90
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 54,
-      "capped": 54
+      "passed_age": 45,
+      "capped": 45
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 20,
@@ -42,18 +42,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 35,
-      "capped": 35
+      "passed_age": 27,
+      "capped": 27
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 54,
-      "capped": 54
+      "passed_age": 50,
+      "capped": 50
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 252,
-      "passed_age": 14,
-      "capped": 14
+      "passed_age": 11,
+      "capped": 11
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -63,16 +63,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4303
+    "DIRECT": 4296
   },
-  "total_fetched": 4303,
-  "total_passed_age": 816,
-  "total_new": 78,
-  "total_signal": 6,
+  "total_fetched": 4296,
+  "total_passed_age": 771,
+  "total_new": 51,
+  "total_signal": 4,
   "total_longread": 0,
-  "total_signal_deduped": 4,
+  "total_signal_deduped": 3,
   "total_longread_deduped": 0,
-  "timestamp": "2026-08-15T14:27:59.283519",
+  "timestamp": "2026-08-15T16:30:59.219750",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 6
+  "total_signal_mistral": 4
 }
