@@ -98029,5 +98029,105 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/01/95504ade25250a5a90dc10a27279d309-6a6db152b54a5.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/bangladesh-spends-record-1063b-fuel-imports-fy26-1515256",
+    "title": "Bangladesh spends record $10.63b on fuel imports in FY26",
+    "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-spends-record-1063b-fuel-imports-fy26-1515256",
+    "description": "Fuel imports more than doubled from $5.14 billion a year earlier, rising 107% in a single year",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/27/fuel.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/892099",
+    "title": "Bangladesh seeks durable US economic partnership",
+    "link": "https://www.daily-sun.com/business/892099",
+    "description": "PM Tarique urges American businesses to invest in Bangladesh with confidence",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/summit-lng-begins-supplying-110mmcfd-national-grid-1515331",
+    "title": "Summit LNG begins supplying 110mmcfd to national grid",
+    "link": "https://www.tbsnews.net/economy/corporates/summit-lng-begins-supplying-110mmcfd-national-grid-1515331",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/15/15th_aug_pr_2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/corporates/badc-canadian-commercial-corporation-renew-mop-fertiliser-import-deal-1515326",
+    "title": "BADC, Canadian Commercial Corporation renew MOP fertiliser import deal",
+    "link": "https://www.tbsnews.net/economy/corporates/badc-canadian-commercial-corporation-renew-mop-fertiliser-import-deal-1515326",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/15/15th_aug_pr_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936",
+    "title": "‘Bangladesh, 40 nations helping China evade tariffs’",
+    "link": "https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-says-will-soon-declare-hormuz-strait-us-territory-4248026",
+    "title": "Trump says will 'soon' declare Hormuz strait US territory",
+    "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-says-will-soon-declare-hormuz-strait-us-territory-4248026",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/gdp-calculation-methodology-has-significant-flaws-4247891",
+    "title": "GDP calculation methodology has ‘significant flaws’",
+    "link": "https://www.thedailystar.net/business/news/gdp-calculation-methodology-has-significant-flaws-4247891",
+    "description": "There have been “significant flaws” in the methodology used to calculate Bangladesh’s national income and gross domestic product (GDP), according to a paper presented by a government-formed forensic audit committee yesterday.",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016",
+    "title": "Putin visits disputed island near Japan, drawing Tokyo's ire",
+    "link": "https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/d460800ba093",
+    "title": "Draft law to replace RAB draws little response",
+    "link": "https://bdnews24.com/bangladesh/d460800ba093",
+    "description": "[Bangladesh] Draft law to replace RAB draws little response",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/bangladesh-rab-police-reute-1738841889.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "a593fb45f7c7d52ff510c46f239a3e44da29e312",
+    "title": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
+    "link": "https://apnews.com/article/myanmar-rohingya-repatriation-rakhine-89fcdccc35af7126d62ea7331fa8fdbb",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/a32bba9/2147483647/strip/true/crop/8256x5504+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F9f%2Fd93ceeb9151b773328f92faa07d9%2F0e697e2f847246a0b3e2a1961ef672d9\" /><br />Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/a32bba9/2147483647/strip/true/crop/8256x5504+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F9f%2Fd93ceeb9151b773328f92faa07d9%2F0e697e2f847246a0b3e2a1961ef672d9",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/892367/gas-supply-resumes-from-lng-terminals-as-crisis-expected-to-ease-soon",
+    "title": "Gas supply resumes from LNG terminals as crisis expected to ease soon",
+    "link": "https://www.daily-sun.com/bangladesh/892367/gas-supply-resumes-from-lng-terminals-as-crisis-expected-to-ease-soon",
+    "description": "Gas supply from Summit and Excelerate Energy's LNG terminals in Maheshkhali has resumed, boosting supplies to ease Bangladesh's gas crisis.",
+    "published": "Sat, 15 Aug 2026 12:46:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/LNG_Terminals-6a80003c76f77.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
