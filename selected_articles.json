@@ -98129,5 +98129,49 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/LNG_Terminals-6a80003c76f77.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-tell-partners-they-must-pick-sides-ai-race-china-1515481",
+    "title": "US to tell partners they must pick sides in AI race with China",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-tell-partners-they-must-pick-sides-ai-race-china-1515481",
+    "description": "Washington last year launched the Pax Silica initiative aimed at securing supply chains for AI models, semiconductors and critical minerals, amid a fierce technology rivalry with Beijing",
+    "published": "Sat, 15 Aug 2026 14:34:34 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/04/30/2023-04-29t184913z_1_lynxmpej3s079_rtroptp_4_usa-china.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/africa/50m-hostage-ransom-funded-al-qaedas-mali-offensive-un-1515451",
+    "title": "A $50m hostage ransom funded al Qaeda's Mali offensive: UN",
+    "link": "https://www.tbsnews.net/worldbiz/africa/50m-hostage-ransom-funded-al-qaedas-mali-offensive-un-1515451",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 14:34:34 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/26/mali_soldier.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/us-raises-pressure-eu-deliver-non-tariff-trade-commitments-4248081",
+    "title": "US raises pressure on EU to 'deliver' on non-tariff trade commitments",
+    "link": "https://www.thedailystar.net/business/news/us-raises-pressure-eu-deliver-non-tariff-trade-commitments-4248081",
+    "description": "",
+    "published": "Sat, 15 Aug 2026 14:34:34 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "75dfa9b0c6077a5ea00f1063fa067073d4fa4211",
+    "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+    "link": "https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad",
+    "description": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+    "published": "Sat, 15 Aug 2026 14:34:34 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "b21be3d566f683a3af19c501081801db",
+    "title": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
+    "link": "https://en.bonikbarta.com/international/jzv1Rh2TCPofiax7/",
+    "description": "Myanmar said it had verified 426,545 of the 828,824 refugees on a list provided by Bangladesh as of the end of July, and determined that 308,797 of those verified were former residents of Rakhine.",
+    "published": "Sat, 15 Aug 2026 14:34:34 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
