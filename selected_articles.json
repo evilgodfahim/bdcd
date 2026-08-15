@@ -98448,5 +98448,23 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/f17e452521f47a0d432ed46e6ee9c22e-69e70b77915aa.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481",
+    "title": "Phantom exports worth Tk 24cr surface",
+    "link": "https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481",
+    "description": "",
+    "published": "Sun, 16 Aug 2026 02:28:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/57b658542936",
+    "title": "Bangladesh's RMG exports to EU fall hardest",
+    "link": "https://bdnews24.com/business/57b658542936",
+    "description": "[Business] Bangladesh's RMG exports to EU fall hardest",
+    "published": "Sun, 16 Aug 2026 02:28:06 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rmg-china-150826-1-1786817506.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
