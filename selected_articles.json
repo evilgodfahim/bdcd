@@ -98804,5 +98804,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW---Copy-6a81e3f132a59.JPG",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-eyes-vetiver-grass-check-river-erosion-save-embankments-water-resources-minister",
+    "title": "Govt eyes vetiver grass to check river erosion, save embankments: Water resources minister",
+    "link": "https://www.tbsnews.net/bangladesh/govt-eyes-vetiver-grass-check-river-erosion-save-embankments-water-resources-minister",
+    "description": "",
+    "published": "Mon, 17 Aug 2026 00:35:33 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/16/shahid_uddin_chowdhury_annie.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231",
+    "title": "High-profile Indian business delegation scheduled to visit Bangladesh on Aug 17-18",
+    "link": "https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231",
+    "description": "",
+    "published": "Mon, 17 Aug 2026 00:35:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/892591/new-pay-scale-for-govt-employees-at-final-stage-announcement-anytime",
+    "title": "‘New pay scale for govt employees at final stage, announcement anytime’",
+    "link": "https://www.daily-sun.com/bangladesh/892591/new-pay-scale-for-govt-employees-at-final-stage-announcement-anytime",
+    "description": "The government has been working on the Ninth National Pay Scale to revise the salaries and allowances of public-sector employees...",
+    "published": "Mon, 17 Aug 2026 00:35:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Bangladesh-Govt-logo-6a81eb6c3167a.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
