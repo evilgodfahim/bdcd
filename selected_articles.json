@@ -98832,5 +98832,34 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Bangladesh-Govt-logo-6a81eb6c3167a.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/excess-liquidity-banks-pushes-treasury-bill-yields-below-9-1516916",
+    "title": "Excess liquidity in banks pushes treasury bill yields below 9%",
+    "link": "https://www.tbsnews.net/economy/banking/excess-liquidity-banks-pushes-treasury-bill-yields-below-9-1516916",
+    "description": "The yield on 91-day treasury bills fell below 9% to 8.93% yesterday, down from 9.19% a week earlier.",
+    "published": "Mon, 17 Aug 2026 02:28:15 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/02/bank_representational_image_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/foreign-investment-stocks-keeps-falling-4249376",
+    "title": "Foreign investment in stocks keeps falling",
+    "link": "https://www.thedailystar.net/business/economy/news/foreign-investment-stocks-keeps-falling-4249376",
+    "description": "",
+    "published": "Mon, 17 Aug 2026 02:28:15 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/417634/service-sector-expands-by-11.5%25-in-fy26",
+    "title": "Service sector expands by 11.5% in FY26",
+    "link": "https://www.dhakatribune.com/business/417634/service-sector-expands-by-11.5%25-in-fy26",
+    "description": "The contribution of the service sector to Bangladesh's economy continues to grow. In the outgoing FY26, the size of this sector reached Tk32,06,000 crore, up from Tk28,75,000 crore in the previous fiscal year.\nThis marks a year-on-year increase of Tk331,000 crore, or approximately 11.5%,...",
+    "published": "Mon, 17 Aug 2026 02:28:15 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2023/10/22/SME-MEHEDI-HASAN-7-c0fe2b94a2e1b6a49f910ab127aed742.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
