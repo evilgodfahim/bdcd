@@ -98486,5 +98486,25 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/25/hormuz_0.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/vat-refunds-pile-nbrs-online-system-stalls-1516041",
+    "title": "VAT refunds pile up as NBR's online system stalls",
+    "link": "https://www.tbsnews.net/economy/vat-refunds-pile-nbrs-online-system-stalls-1516041",
+    "description": "NBR officials said businesses that are already entitled to refunds, as well as those seeking to submit new claims, are being affected because the online software module is taking time to update.",
+    "published": "Sun, 16 Aug 2026 10:40:32 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/16/vat.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/technology/62ee35e82641",
+    "title": "Must pick sides in AI race with China: US to partners",
+    "link": "https://bdnews24.com/technology/62ee35e82641",
+    "description": "[Technology] Must pick sides in AI race with China: US to partners",
+    "published": "Sun, 16 Aug 2026 10:40:32 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-ai-race-160826-01-1786852972.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
