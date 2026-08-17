@@ -98909,5 +98909,66 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/04/us-iranpng.png",
     "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/tk12000cr-stuck-interbank-legal-battles-over-lc-guarantees-1516971",
+    "title": "Tk12,000cr stuck in interbank legal battles over LC guarantees",
+    "link": "https://www.tbsnews.net/economy/banking/tk12000cr-stuck-interbank-legal-battles-over-lc-guarantees-1516971",
+    "description": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company.",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/17/bank.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/world/europe/41a2b3ce2ff6",
+    "title": "Russia hits steel plant in new strikes on Ukraine",
+    "link": "https://bdnews24.com/world/europe/41a2b3ce2ff6",
+    "description": "[Europe] Russia hits steel plant in new strikes on Ukraine",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-attack-170826-01-1786938454.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/europe/8256ee830acb",
+    "title": "EU plans ‘far-reaching sanctions package’ against Russia",
+    "link": "https://bdnews24.com/world/europe/8256ee830acb",
+    "description": "[Europe] EU plans ‘far-reaching sanctions package’ against Russia",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-sanctions-russia-170826-01-1786937796.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/a2b55c62caf5",
+    "title": "Iran parliament backs tougher foreign influence law",
+    "link": "https://bdnews24.com/world/middle-east/a2b55c62caf5",
+    "description": "[West Asia] Iran parliament backs tougher foreign influence law",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-parliament-170826-1786936436.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/8eacca77287a",
+    "title": "Trump orders Pentagon to cut back S Korea military exercises",
+    "link": "https://bdnews24.com/world/8eacca77287a",
+    "description": "[World] Trump orders Pentagon to cut back S Korea military exercises",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-army-soldiers-170826-01-1786935652.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/417635/trump-welcomes-defense-pact-between-saudi-turkey",
+    "title": "Trump welcomes defense pact between Saudi, Turkey and Pakistan",
+    "link": "https://www.dhakatribune.com/world/417635/trump-welcomes-defense-pact-between-saudi-turkey",
+    "description": "",
+    "published": "Mon, 17 Aug 2026 10:49:24 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/07/a961c920c5cc6857b4fe805043efa836-69ac412f5fd34.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
