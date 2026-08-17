@@ -99625,5 +99625,62 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Amit-Shah-AFP-(2)-6a833c06db27d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/over-90-economic-units-have-no-tin-4250251",
+    "title": "Over 90% of economic units have no TIN",
+    "link": "https://www.thedailystar.net/business/economy/news/over-90-economic-units-have-no-tin-4250251",
+    "description": "",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-japans-changing-indo-pacific-strategy-means-bangladesh-4250346",
+    "title": "What Japan’s changing Indo-Pacific strategy means for Bangladesh",
+    "link": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-japans-changing-indo-pacific-strategy-means-bangladesh-4250346",
+    "description": "",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/ecfc72c8ee39",
+    "title": "150 wells promise more gas, but is it enough?",
+    "link": "https://bdnews24.com/bangladesh/ecfc72c8ee39",
+    "description": "[Bangladesh] 150 wells promise more gas, but is it enough?",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/begumgonj-3-bapex-170826-03-1786993280.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/72a67679399e",
+    "title": "Battered by war, Iran fears fresh US economic pressure",
+    "link": "https://bdnews24.com/world/72a67679399e",
+    "description": "[World] Battered by war, Iran fears fresh US economic pressure",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-us-170826-01-1786991932.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/d06ac2b1894f",
+    "title": "No breakthrough as Kushner meets Israel, Hamas on Gaza",
+    "link": "https://bdnews24.com/world/d06ac2b1894f",
+    "description": "[World] No breakthrough as Kushner meets Israel, Hamas on Gaza",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kushner-hamas-170826-01-1786991052.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/dhaka/417723/gas-crisis-cuts-cng-rented-car-drivers%E2%80%99-earnings",
+    "title": "Gas crisis cuts CNG, rented-car drivers’ earnings",
+    "link": "https://www.dhakatribune.com/bangladesh/dhaka/417723/gas-crisis-cuts-cng-rented-car-drivers%E2%80%99-earnings",
+    "description": "",
+    "published": "Tue, 18 Aug 2026 04:29:19 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/17/572213022d2bed91b62269ea66f7e11b-6a8341e998f6a.png",
+    "thumbnail_type": "image/png"
   }
 ]
