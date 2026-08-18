@@ -100082,5 +100082,63 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/PM_revenue_system-6a841c54d469f.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/bangladesh-bhutan-eye-expanded-product-coverage-under-pta-explore-fta-possibility",
+    "title": "Bangladesh, Bhutan eye expanded product coverage under PTA; explore FTA possibility",
+    "link": "https://www.tbsnews.net/foreign-policy/bangladesh-bhutan-eye-expanded-product-coverage-under-pta-explore-fta-possibility",
+    "description": "The two sides also exchange views on cooperation at regional and multilateral level on matters of mutual interest.",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/06/11/image-82593-1663169019_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/dhaka-rejects-myanmars-erroneous-statistics-rohingyas-1518561",
+    "title": "Dhaka rejects Myanmar's erroneous statistics on Rohingyas",
+    "link": "https://www.tbsnews.net/foreign-policy/dhaka-rejects-myanmars-erroneous-statistics-rohingyas-1518561",
+    "description": "Dhaka also urges Myanmar to speed up verification, include new arrivals and children born in Bangladesh, and recognise the Rohingyas’ ethnic identity.",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/12/14/rohingya_camp.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/2-task-forces-proposed-boost-bangladesh-india-trade-investment-1518431",
+    "title": "2 task forces proposed to boost Bangladesh-India trade, investment",
+    "link": "https://www.tbsnews.net/foreign-policy/2-task-forces-proposed-boost-bangladesh-india-trade-investment-1518431",
+    "description": "Commerce ministry and Confederation of Indian Industry stress efficient land ports, Indian investment in infrastructure, and digital cooperation",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/18/bd-ind_relation.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/economy/ed715172ab66",
+    "title": "Bangladesh ready to fund its own growth: Khosru",
+    "link": "https://bdnews24.com/economy/ed715172ab66",
+    "description": "[Economy] Bangladesh ready to fund its own growth: Khosru",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amir-khasru-mahmud-chowdhury-180826-01-1787052121.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "202b1275106ff4a6c87720740be2e3a5eb7c42a6",
+    "title": "Turkey’s Erdogan signs law offering conditional pardon for thousands of PKK militants",
+    "link": "https://apnews.com/article/turkey-pkk-peace-initiative-erdogan-approval-c42dcbcd10bbbbfc6ce954b8a46f2225",
+    "description": "Turkey’s Erdogan signs law offering conditional pardon for thousands of PKK militants",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "931449898c28ad423dde9388bf81d8dfc0c3e1e2",
+    "title": "US and Canada hold last-minute talks to stop Trump’s 50% tariffs",
+    "link": "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c22617bec7a99f670a2c787ef9",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/fbd8b46/2147483647/strip/true/crop/1131x754+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F70%2F7bcc59eeac1ec22e96643156f0e9%2F7b1e140d16014075ad7a5c4295bb3465\" /><br />US and Canada hold last-minute talks to stop Trump’s 50% tariffs",
+    "published": "Tue, 18 Aug 2026 18:55:19 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/fbd8b46/2147483647/strip/true/crop/1131x754+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F70%2F7bcc59eeac1ec22e96643156f0e9%2F7b1e140d16014075ad7a5c4295bb3465",
+    "thumbnail_type": "image/jpeg"
   }
 ]
