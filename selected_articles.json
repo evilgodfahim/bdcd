@@ -100428,5 +100428,43 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Shama-6a848dbbd2809.gif",
     "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/over-900-textile-mills-shut-gas-supply-shows-no-sign-improvement-1518861",
+    "title": "Over 900 textile mills shut as gas supply shows no sign of improvement",
+    "link": "https://www.tbsnews.net/bangladesh/energy/over-900-textile-mills-shut-gas-supply-shows-no-sign-improvement-1518861",
+    "description": "Over 900 textile mills have shut as gas shortages disrupt production in steel, paper, ceramics and other industries.",
+    "published": "Wed, 19 Aug 2026 02:29:50 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/19/shut_down.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/92-measles-deaths-among-unvaccinated-children-16-lakh-more-children-shots-1518856",
+    "title": "92% of measles deaths among unvaccinated children, 16 lakh more children up for shots",
+    "link": "https://www.tbsnews.net/bangladesh/health/92-measles-deaths-among-unvaccinated-children-16-lakh-more-children-shots-1518856",
+    "description": "Death toll now 918.",
+    "published": "Wed, 19 Aug 2026 02:29:50 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/campus/news/du-provost-body-proposes-one-hour-extension-womens-hall-entry-4251211",
+    "title": "DU provost body proposes one-hour extension for women’s hall entry",
+    "link": "https://www.thedailystar.net/campus/news/du-provost-body-proposes-one-hour-extension-womens-hall-entry-4251211",
+    "description": "",
+    "published": "Wed, 19 Aug 2026 02:29:50 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/893061/3-dcs-one-divisional-head-withdrawn",
+    "title": "3 DCs, one divisional head withdrawn",
+    "link": "https://www.daily-sun.com/bangladesh/893061/3-dcs-one-divisional-head-withdrawn",
+    "description": "The Ministry of Public Administration issued separate notifications in this regard on Tuesday night",
+    "published": "Wed, 19 Aug 2026 02:29:50 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Govt-Logo-6a84b5a1efca4.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
