@@ -99702,5 +99702,46 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/30/malaysia_evicted_rohingya.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
+    "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
+    "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
+    "description": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed",
+    "published": "Tue, 18 Aug 2026 10:40:13 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/18/bb.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/capital-machinery-imports-yet-recover-1517991",
+    "title": "Capital machinery imports yet to recover",
+    "link": "https://www.tbsnews.net/economy/capital-machinery-imports-yet-recover-1517991",
+    "description": "The government’s major challenges are to bring down inflation and attract private investment.",
+    "published": "Tue, 18 Aug 2026 10:40:13 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/04/10/kepz_factory.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/417725/dhaka-air-4th-worst-in-world-tuesday-morning",
+    "title": "Dhaka air 4th worst in world Tuesday morning",
+    "link": "https://www.dhakatribune.com/bangladesh/417725/dhaka-air-4th-worst-in-world-tuesday-morning",
+    "description": "",
+    "published": "Tue, 18 Aug 2026 10:40:13 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2025/11/26/08f98fe8c65ac20c811e90ff62619cb9-6926a1a91f98c.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e7055dbd62c48486ea3c58c87b823abf1a9d68a6",
+    "title": "Asia shares decline as worries about rising oil prices outweigh perks from strong earnings",
+    "link": "https://apnews.com/article/stock-markets-oil-war-iran-trump-a805333e767251279e68e0686b28a8c9",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/4d46bf6/2147483647/strip/true/crop/4696x3130+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F65%2F98a4eaa86381eb7096d768558316%2F3f98cb37568b4c4a8b85b79de0d0db8f\" /><br />Asia shares decline as worries about rising oil prices outweigh perks from strong earnings",
+    "published": "Tue, 18 Aug 2026 10:40:13 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/4d46bf6/2147483647/strip/true/crop/4696x3130+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F65%2F98a4eaa86381eb7096d768558316%2F3f98cb37568b4c4a8b85b79de0d0db8f",
+    "thumbnail_type": "image/jpeg"
   }
 ]
