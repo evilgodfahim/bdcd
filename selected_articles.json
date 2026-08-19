@@ -100522,5 +100522,75 @@
     "source": "https://tbsnews.net/top-news/rss.xml",
     "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/03/24/uae_flag.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-rejects-uae-allegations-over-ballistic-missile-launches-abu-dhabi-suspends",
+    "title": "Iran rejects UAE allegations over ballistic missile launches as Abu Dhabi suspends trade ties",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-rejects-uae-allegations-over-ballistic-missile-launches-abu-dhabi-suspends",
+    "description": "Foreign Ministry spokesman Esmaeil Baghaei described the UAE's accusations as \"Baseless\" and said the UAE's behaviour contradicted the principle of \"Good neighbourliness\"",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/11/19/iran_esmaeil_baghaei.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/8b-world-bank-finance-stuck-long-project-procedures-design-flaws-1518896",
+    "title": "$8b of World Bank finance stuck in long project procedures, design flaws",
+    "link": "https://www.tbsnews.net/economy/8b-world-bank-finance-stuck-long-project-procedures-design-flaws-1518896",
+    "description": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges.",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/19/world-bank.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/world/ad69af0bd50f",
+    "title": "US sanctions ICC president, senior trial lawyer",
+    "link": "https://bdnews24.com/world/ad69af0bd50f",
+    "description": "[World] US sanctions ICC president, senior trial lawyer",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-exterior-190826-01-1787109262.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "0befa94a3fe63d1a0531ef8e23153c239386d67a",
+    "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
+    "link": "https://apnews.com/article/stocks-futures-bonds-oil-inflation-trump-ai-9e355be634e4a21059fc1d1f20a1239e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/02eaa1c/2147483647/strip/true/crop/4335x2890+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F51%2F7bd04582a01945516e8e20f974e8%2F9149d534dc234d8bab513d93366820cf\" /><br />Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/02eaa1c/2147483647/strip/true/crop/4335x2890+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F51%2F7bd04582a01945516e8e20f974e8%2F9149d534dc234d8bab513d93366820cf",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893070/trump-uae-president-discuss-middle-east-developments",
+    "title": "Trump, UAE president discuss Middle East developments",
+    "link": "https://www.daily-sun.com/world/893070/trump-uae-president-discuss-middle-east-developments",
+    "description": "UAE President Sheikh Mohamed bin Zayed Al Nahyan spoke with US President Donald Trump about strengthening ties and discussing Middle",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Phone-conversation-between-Trump-and-UAE-President-6a851c6a425dd.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893067/trump-carney-talk-as-canada-seeks-to-hold-off-new-us-tariffs",
+    "title": "Trump, Carney talk as Canada seeks to hold off new US tariffs",
+    "link": "https://www.daily-sun.com/world/893067/trump-carney-talk-as-canada-seeks-to-hold-off-new-us-tariffs",
+    "description": "Canada's Prime Minister Mark Carney held urgent talks with Trump to avert new US tariffs on Canadian goods, targeting $20",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/US_Canada_Flags-6a8518e2b4b7d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893066/us-south-korea-cut-drills-short-after-trump-criticism",
+    "title": "US, South Korea cut drills short after Trump criticism",
+    "link": "https://www.daily-sun.com/world/893066/us-south-korea-cut-drills-short-after-trump-criticism",
+    "description": "South Korea and the US shorten joint military drills after Trump calls them 'inappropriate.' The move may impact US-North Korea",
+    "published": "Wed, 19 Aug 2026 10:41:45 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/the-Korean-War-Memorial_Sun-6a851a31bd2ca.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
