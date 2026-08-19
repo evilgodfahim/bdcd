@@ -101067,5 +101067,85 @@
     "published_inferred": true,
     "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/19/27d591c1aba3411b6333d44e22dcf26e-6a85c217b3bd6.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/893175/russia-and-ukraine-s-black-sea-grain-exports-grind-to-a-virtual-halt",
+    "title": "Russia and Ukraine's Black Sea grain exports grind to a virtual halt",
+    "link": "https://www.daily-sun.com/business/893175/russia-and-ukraine-s-black-sea-grain-exports-grind-to-a-virtual-halt",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/organisation-news/news/bsec-proposes-major-amendments-margin-loan-rules-4251866",
+    "title": "BSEC proposes major amendments to margin loan rules",
+    "link": "https://www.thedailystar.net/business/organisation-news/news/bsec-proposes-major-amendments-margin-loan-rules-4251866",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/israeli-airstrike-kills-nine-palestinians-police-post-gaza-medics-say-4251816",
+    "title": "Israeli airstrike kills nine Palestinians at police post in Gaza, medics say",
+    "link": "https://www.thedailystar.net/news/world/news/israeli-airstrike-kills-nine-palestinians-police-post-gaza-medics-say-4251816",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/gold-mine-collapse-kills-least-100-people-cafrica-4251811",
+    "title": "Gold mine collapse kills at least 100 people in C.Africa",
+    "link": "https://www.thedailystar.net/news/world/news/gold-mine-collapse-kills-least-100-people-cafrica-4251811",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "c978dd9b2e7d0e6d0c120736faf719052ba90a67",
+    "title": "Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test",
+    "link": "https://apnews.com/article/moderna-mrna-merck-cancer-melanoma-intismeran-keytruda-2330dce708b0af215b68570b19d025df",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/c44374f/2147483647/strip/true/crop/3839x2559+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F46%2Fecc71d1055b7d69c32c17c0079ea%2F6552e992b2e342cb89bd11d2672e531c\" /><br />Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/c44374f/2147483647/strip/true/crop/3839x2559+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F46%2Fecc71d1055b7d69c32c17c0079ea%2F6552e992b2e342cb89bd11d2672e531c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e07e19cf96358868a229b994051b0fd06298bbc7",
+    "title": "OAS warns Haiti needs help as it prepares to hold elections for the first time since 2016",
+    "link": "https://apnews.com/article/haiti-oas-ramdin-elections-gangs-violence-4d4e414524cd0981150cc829fd6b4b69",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/7598fcd/2147483647/strip/true/crop/8317x5544+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fd1%2F271da1587c8a86bff0def2feebbb%2F50b49d58944d4c14a41e9433467b3502\" /><br />OAS warns Haiti needs help as it prepares to hold elections for the first time since 2016",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/7598fcd/2147483647/strip/true/crop/8317x5544+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fd1%2F271da1587c8a86bff0def2feebbb%2F50b49d58944d4c14a41e9433467b3502",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "198c6f1a41a1f1eb5f77474d6ce15da00f3c1a71",
+    "title": "An alarmed bond market gets the Trump administration to act again",
+    "link": "https://apnews.com/article/bond-market-yields-treasury-bessent-bd0cead63ff1b7f2e99d4c8cce0a28d3",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/b4e1da5/2147483647/strip/true/crop/3587x2391+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F4b%2F4e4fe8d4502fd15bb92cd11d9887%2F0d381a89a44b4b90b8011301759ab258\" /><br />An alarmed bond market gets the Trump administration to act again",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/b4e1da5/2147483647/strip/true/crop/3587x2391+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F4b%2F4e4fe8d4502fd15bb92cd11d9887%2F0d381a89a44b4b90b8011301759ab258",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893192/us-and-canada-say-they-are-close-to-final-trade-deal",
+    "title": "US and Canada say they are close to final trade deal",
+    "link": "https://www.daily-sun.com/world/893192/us-and-canada-say-they-are-close-to-final-trade-deal",
+    "description": "The US and Canada near a trade deal as Trump delays tariffs. Canadian leaders praise significant progress with US negotiators",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/trade-deal-6a85ebcc6ff9a.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "da599fc6e951392412f33ca4501ba4a9",
+    "title": "Climate change is driving record heat in Europe’s seas, scientists say",
+    "link": "https://en.bonikbarta.com/environment/gwLa4GCan8Q69kvw/",
+    "description": "Last month, the average temperature in the Mediterranean was 27 degrees Celsius (81 degrees Fahrenheit), the highest for any July on record, while an offshore buoy near Mallorca recorded 33 C in early August.",
+    "published": "Thu, 20 Aug 2026 00:41:50 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
