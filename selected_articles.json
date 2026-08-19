@@ -100680,5 +100680,59 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Bangladesh_Qatar-6a853568be77f.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/saudi-arabia-tightens-scrutiny-financial-transfers-uae-sources-1519111",
+    "title": "Saudi Arabia tightens scrutiny of financial transfers to UAE: Sources",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/saudi-arabia-tightens-scrutiny-financial-transfers-uae-sources-1519111",
+    "description": "",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/07/06/saudi_uae.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/global-economy/news/trump-pauses-planned-50-tariffs-canadian-goods-three-days-4251351",
+    "title": "Trump pauses planned 50% tariffs on Canadian goods for three days",
+    "link": "https://www.thedailystar.net/business/global-economy/news/trump-pauses-planned-50-tariffs-canadian-goods-three-days-4251351",
+    "description": "",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/irans-armed-forces-warn-gulf-countries-against-assisting-us-military-4251461",
+    "title": "Iran's armed forces warn Gulf countries against assisting US military",
+    "link": "https://www.thedailystar.net/news/world/news/irans-armed-forces-warn-gulf-countries-against-assisting-us-military-4251461",
+    "description": "War between Iran and the United States broke out on February 28 after US-Israeli attacks on the Islamic republic, which retaliated with missile and drone strikes including on US bases across the region.",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893085/oil-prices-cross-91-raising-market-volatility-fears",
+    "title": "Oil prices cross $91, raising market volatility fears",
+    "link": "https://www.daily-sun.com/world/893085/oil-prices-cross-91-raising-market-volatility-fears",
+    "description": "Oil prices gain more than 2% in a week",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Oil-price-surge-6a7aadaa573d8-6a85522786ab7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893083/uae-suspends-all-trade-and-financial-transactions-with-iran",
+    "title": "UAE suspends all trade and financial transactions with Iran",
+    "link": "https://www.daily-sun.com/world/893083/uae-suspends-all-trade-and-financial-transactions-with-iran",
+    "description": "Move aims to protect international financial integrity and regional stability",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/UAE-6a85501f591de.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "3d0ed172c1ff3a609ec41257a90f8e97",
+    "title": "US, South Korea to cut length, scope of military drills after Trump order",
+    "link": "https://en.bonikbarta.com/international/DdFweZnVj2AjC7FK/",
+    "description": "A U.S. Department of Defense official said the department had substantially ​reduced the exercise and associated live-training events, with some cancelled or switched to simulations.",
+    "published": "Wed, 19 Aug 2026 14:43:22 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
