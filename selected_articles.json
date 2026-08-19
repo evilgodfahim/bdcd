@@ -100502,5 +100502,25 @@
     "description": "",
     "published": "Wed, 19 Aug 2026 07:36:19 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-sanctions-icc-president-senior-trial-lawyer-latest-attack-court-1518876",
+    "title": "US sanctions ICC president, senior trial lawyer in latest attack on court",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-sanctions-icc-president-senior-trial-lawyer-latest-attack-court-1518876",
+    "description": "The move is the latest escalation in the Trump administration's campaign against the The Hague-based court, which was established in 2002 by the international community to prosecute war crimes, genocide and crimes against humanity.",
+    "published": "Wed, 19 Aug 2026 09:02:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/11/23/united_nations_international_criminal_court.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/uae-says-two-missiles-detected-earlier-were-launched-iran-1518871",
+    "title": "UAE says two missiles detected earlier were launched from Iran",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/uae-says-two-missiles-detected-earlier-were-launched-iran-1518871",
+    "description": "The defence ministry said in a statement later that the missiles were targeting \"maritime traffic\" based on its assessments. Both missiles fell into the sea",
+    "published": "Wed, 19 Aug 2026 09:02:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2023/03/24/uae_flag.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
