@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Thu, 20 Aug 2026 20:34:31 +0000</lastBuildDate>
-    <item>
-      <title>Iran, US make competing claims over control of Strait of Hormuz</title>
-      <link>https://www.tbsnews.net/world/iran-us-make-competing-claims-over-control-strait-hormuz-1514226</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/world/iran-us-make-competing-claims-over-control-strait-hormuz-1514226</guid>
-      <description>The US subsequently imposed a naval blockade on Iranian shipping and ports, while ‌saying ⁠it would protect freedom of navigation for vessels travelling to and from non-Iranian ports.</description>
-      <pubDate>Thu, 13 Aug 2026 19:22:39 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/13/strait_of_hormuz.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/13/strait_of_hormuz.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 22:32:51 +0000</lastBuildDate>
     <item>
       <title>Gas crisis, bureaucratic hurdles holding back foreign investment: BKMEA chief</title>
       <link>https://www.tbsnews.net/bangladesh/gas-crisis-bureaucratic-hurdles-holding-back-foreign-investment-bkmea-chief-1514201</link>
@@ -5892,6 +5883,15 @@ With the technical stages advancing, the politically and fiscally consequential 
       <guid isPermaLink="true">https://daily-sun.com/diplomacy/893271/delhi-signals-clear-intent-with-tarique-rahman-invitation-ball-now-in-dhaka-s-court</guid>
       <description />
       <pubDate>Fri, 21 Aug 2026 02:34:11 +0600</pubDate>
+    </item>
+    <item>
+      <title>Israel advances settlement plan to upend two-state solution</title>
+      <link>https://www.daily-sun.com/world/893461/israel-advances-settlement-plan-to-upend-two-state-solution</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/893461/israel-advances-settlement-plan-to-upend-two-state-solution</guid>
+      <description>The Israeli government has advanced an internationally condemned settlement plan in the occupied West Bank that could split the territory</description>
+      <pubDate>Fri, 21 Aug 2026 04:32:43 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Palestinian-Israel-Conflict-Settlements-----6a876a0d5df00.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Palestinian-Israel-Conflict-Settlements-----6a876a0d5df00.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
