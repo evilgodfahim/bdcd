@@ -40,7 +40,9 @@ FEED_URLS = [
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml",
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "https://evilgodfahim.github.io/dt/home.xml",
-    "https://evilgodfahim.github.io/fen/feeds/feed.xml",
+    "https://evilgodfahim.github.io/fen/fe_homepage.xml",
+
+"https://evilgodfahim.github.io/fen/fe_today.xml",
     "https://evilgodfahim.github.io/wl/pau.xml",
     "https://evilgodfahim.github.io/ds/todays_news.xml",
     "https://evilgodfahim.github.io/bben/feed.xml",
