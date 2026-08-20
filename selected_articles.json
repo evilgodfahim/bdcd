@@ -101203,5 +101203,71 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/UK-summons-Israeli-envoy_Sun-6a86631409222.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-debt-crosses-40t-threshold-after-doubling-under-trump-and-biden-1519986",
+    "title": "US debt crosses $40t threshold after doubling under Trump and Biden",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-debt-crosses-40t-threshold-after-doubling-under-trump-and-biden-1519986",
+    "description": "The Treasury's latest daily cash and debt balances statement showed total public debt outstanding at $40.047 trillion on ​Tuesday, a total that includes Treasury securities held by the public of $32.266 trillion and intra-governmental debt holdings of $7.782 trillion",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/05/ykw2ztxayvnfripju2tzj37t6y.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-chokes-industries-raises-fear-mass-layoffs-1519976",
+    "title": "Gas chokehold for industries",
+    "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-chokes-industries-raises-fear-mass-layoffs-1519976",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/20/gas_crisis_narsingdi_7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221",
+    "title": "Iran goes on offensive as diplomacy with US stalls",
+    "link": "https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221",
+    "description": "",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/127ab0e66cf7",
+    "title": "Bangladesh takes visa-on-arrival process online",
+    "link": "https://bdnews24.com/bangladesh/127ab0e66cf7",
+    "description": "[Bangladesh] Bangladesh takes visa-on-arrival process online",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/immigration-police-200826-01-1787197379.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aee871bc65833024fbb3b84169beb4daa54c25ae",
+    "title": "Russian missile barrage kills at least 6 in Kyiv, injures 33",
+    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-92ff5d7d1073fd8692a75e4e677f425b",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/489cba4/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F34%2Fd6cbfede71fd5a01334bce0ab433%2Faa509292edf643e49f23465ff8ed2593\" /><br />Russian missile barrage kills at least 6 in Kyiv, injures 33",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/489cba4/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F34%2Fd6cbfede71fd5a01334bce0ab433%2Faa509292edf643e49f23465ff8ed2593",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1c2c90c79db1f039877dace12c60fc5ed945b924",
+    "title": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit",
+    "link": "https://apnews.com/article/gaza-israel-war-kushner-talks-trump-netanyahu-8c8741e238c72bcbc45e1647afbde206",
+    "description": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "76859e89370b44126e8ff85f250aaa41e40c125a",
+    "title": "Chinese court sentences Evergrande founder to life in prison for fraud",
+    "link": "https://apnews.com/article/china-evergrande-founder-real-estate-fraud-5573868904b3ced0c5c9b0314c56ae5a",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/78d4184/2147483647/strip/true/crop/400x267+0+0/resize/400x267!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F9bce76a810cde6356ec6b3f16072ba6c%2F400.jpeg\" /><br />Chinese court sentences Evergrande founder to life in prison for fraud",
+    "published": "Thu, 20 Aug 2026 10:41:54 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/78d4184/2147483647/strip/true/crop/400x267+0+0/resize/400x267!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F9bce76a810cde6356ec6b3f16072ba6c%2F400.jpeg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
