@@ -102503,5 +102503,47 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Randhir-Jaiswal---PTI-File-Photo-6a884a086ce7c.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/governance/news/pm-tarique-expands-cabinet-5-new-members-promotes-one-minister-4253471",
+    "title": "PM Tarique expands cabinet with 5 new members, promotes one to minister",
+    "link": "https://www.thedailystar.net/news/governance/news/pm-tarique-expands-cabinet-5-new-members-promotes-one-minister-4253471",
+    "description": "",
+    "published": "Sat, 22 Aug 2026 00:42:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/politics/election/news/mirza-fakhrul-sworn-bangladeshs-president-4253461",
+    "title": "Mirza Fakhrul sworn in as Bangladesh’s president",
+    "link": "https://www.thedailystar.net/news/politics/election/news/mirza-fakhrul-sworn-bangladeshs-president-4253461",
+    "description": "",
+    "published": "Sat, 22 Aug 2026 00:42:45 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/national/dghs-directs-cent-percent-attendance-of-doctors-health-workers-at-hospitals",
+    "title": "DGHS directs 100% attendance of doctors at hospitals",
+    "link": "https://thefinancialexpress.com.bd/national/dghs-directs-cent-percent-attendance-of-doctors-health-workers-at-hospitals",
+    "description": "DGHS directs 100% attendance of doctors at hospitals",
+    "published": "Sat, 22 Aug 2026 00:42:45 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/govt-worries-as-agrani-bank-npls-hit-40pc-1787335773",
+    "title": "Govt worries as Agrani Bank NPLs hit 40pc",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/govt-worries-as-agrani-bank-npls-hit-40pc-1787335773",
+    "description": "Ballooning non-performing loans (NPLs), huge provision shortfall and capital inadequacy...",
+    "published": "Sat, 22 Aug 2026 00:42:45 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/govt-targets-lofty-345pc-investment-gdp-ratio-for-fy27-1787335823",
+    "title": "Govt targets lofty 34.5pc investment-GDP ratio for FY27",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/govt-targets-lofty-345pc-investment-gdp-ratio-for-fy27-1787335823",
+    "description": "",
+    "published": "Sat, 22 Aug 2026 00:42:45 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1787335823.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
