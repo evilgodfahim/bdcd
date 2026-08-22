@@ -103257,5 +103257,33 @@
     "description": "NEW YORK, Aug 22 (Reuters): A US federal judge has...",
     "published": "Sun, 23 Aug 2026 00:37:16 +0600",
     "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iraq-gets-hormuz-passage-trump-threatens-iran-sanctions-1522156",
+    "title": "Iraq gets Hormuz passage as Trump threatens Iran sanctions",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iraq-gets-hormuz-passage-trump-threatens-iran-sanctions-1522156",
+    "description": "Ukraine hits Russian oil refinery in Perm, ​Zelenskiy says.",
+    "published": "Sun, 23 Aug 2026 02:28:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/16/strait-of-hormuz.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "51569c3b5f4c5c2ac493a3dfd49e6871301955cc",
+    "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
+    "link": "https://apnews.com/article/tunisia-capsized-boat-migrant-61dd16cc4a38dc1cd6b769ee38978c6d",
+    "description": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
+    "published": "Sun, 23 Aug 2026 02:28:11 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/893792/5-9-magnitude-earthquake-hits-japan",
+    "title": "5.9 magnitude earthquake hits Japan",
+    "link": "https://www.daily-sun.com/world/893792/5-9-magnitude-earthquake-hits-japan",
+    "description": "A magnitude 5.9 earthquake hit Japan's Honshu island early Sunday, rattling Tokyo and neighboring prefectures, but no tsunami threat was",
+    "published": "Sun, 23 Aug 2026 02:28:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/Earthquake-1-6a89f839592e2.gif",
+    "thumbnail_type": "image/gif"
   }
 ]
