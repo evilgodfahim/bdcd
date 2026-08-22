@@ -102645,5 +102645,33 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/22/medium/Benjamin-Netanyahu-AFP-6a88cf7ba97c3.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-bangladesh-74-other",
+    "title": "US judge strikes down policy suspending immigrant visa processing for Bangladesh, 74 other nations",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-bangladesh-74-other",
+    "description": "The State Department's suspension that also took effect in January",
+    "published": "Sat, 22 Aug 2026 10:38:14 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/01/_us_state_department_building_.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/govt-worries-as-agrani-bank-npls-hit-40pc",
+    "title": "Govt worries as Agrani Bank NPLs hit 40pc",
+    "link": "https://thefinancialexpress.com.bd/trade/govt-worries-as-agrani-bank-npls-hit-40pc",
+    "description": "Govt worries as Agrani Bank NPLs hit 40pc",
+    "published": "Sat, 22 Aug 2026 10:38:14 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "bf21d1747d53ad1a40381fb1f11fbd16c18a40eb",
+    "title": "US imposes 50% tariffs on $20 billion worth of Canadian products",
+    "link": "https://apnews.com/article/canada-us-trade-tariffs-trump-857ef76b20a766e370d70176135b678e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/0b354e5/2147483647/strip/true/crop/2523x1682+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F1d%2Fbe707c0da67c014e5f423776e866%2F5a88ff382bce47d6974b9059cae30c31\" /><br />US imposes 50% tariffs on $20 billion worth of Canadian products",
+    "published": "Sat, 22 Aug 2026 10:38:14 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/0b354e5/2147483647/strip/true/crop/2523x1682+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F1d%2Fbe707c0da67c014e5f423776e866%2F5a88ff382bce47d6974b9059cae30c31",
+    "thumbnail_type": "image/jpeg"
   }
 ]
