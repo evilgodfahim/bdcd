@@ -103315,5 +103315,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/BFA-6a8a22e654b4c.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/energy/bangladesh-faces-new-charge-india-electricity-imports-1522201",
+    "title": "Bangladesh faces new charge on India electricity imports",
+    "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-faces-new-charge-india-electricity-imports-1522201",
+    "description": "The SNA charge is separate from the electricity tariff and covers grid operations, scheduling, metering, energy accounting and the settlement of cross-border electricity transactions.",
+    "published": "Sun, 23 Aug 2026 10:42:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/06/02/power_2_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/canada-retaliate-us-tariffs-worsening-ties-after-talks-fail-1522206",
+    "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
+    "link": "https://www.tbsnews.net/world/canada-retaliate-us-tariffs-worsening-ties-after-talks-fail-1522206",
+    "description": "The new US tariffs cover around 5% of Canada's exports to the US.",
+    "published": "Sun, 23 Aug 2026 10:42:06 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/03/14/carney.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/iran-warns-any-country-joining-us-sanctions-considered-enemy-4254551",
+    "title": "Iran warns any country joining US sanctions considered 'enemy'",
+    "link": "https://www.thedailystar.net/news/world/news/iran-warns-any-country-joining-us-sanctions-considered-enemy-4254551",
+    "description": "",
+    "published": "Sun, 23 Aug 2026 10:42:06 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/bangladesh/bangladesh-seeks-53b-wb-loan-for-mrt-2",
+    "title": "Bangladesh seeks $5.3b WB loan for MRT-2",
+    "link": "https://thefinancialexpress.com.bd/bangladesh/bangladesh-seeks-53b-wb-loan-for-mrt-2",
+    "description": "Bangladesh seeks $5.3b WB loan for MRT-2",
+    "published": "Sun, 23 Aug 2026 10:42:06 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
   }
 ]
