@@ -103876,5 +103876,86 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/agrochemical-6a8b19e20142b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "5f600a59-7430-44de-8db2-f1c62a29550c",
+    "title": "India seeks new charge on electricity exports to Bangladesh",
+    "link": "https://en.prothomalo.com/bangladesh/f9lwcn85y1",
+    "description": "\n<p>Bangladesh regularly imports electricity from India. India has now sought to impose a new charge on the electricity it exports to Bangladesh, demanding 0.005 Indian rupees per unit. If the charge is added, the cost of imported electricity will increase.</p><p>However, delays in reaching an agreement over the charge could disrupt electricity imports from India.</p><p>The Ministry of Power, Energy and Mineral Resources has sought the Finance Ministry’s opinion on signing a new agreement. In a letter sent to the Finance Division on 18 August, the Power Division said a Settlement Nodal Agency (SNA) agreement needs to be signed between the Bangladesh Power Development Board (BPDB) and NTPC Vidyut Vyapar Nigam Ltd (NVVN), an Indian state-owned company.</p><p>Any delay in signing the agreement could create complications in importing 1,160 megawatts of electricity through NVVN, it said.</p><p>According to the letter, India’s Central Electricity Regulatory Commission (CERC) initially proposed a charge of 0.01 Indian rupees per unit for cross-border electricity trade. Following an application by BPDB, the charge was later reduced by half to 0.005 rupees.</p><p>Officials from the Power Division and BPDB said the SNA charge is not part of the price of electricity; rather, it covers the cost of grid operations and settlement of cross-border electricity transactions. As a result, the additional cost will not be significant, they said.</p><p>They also said signing the agreement with NVVN would simplify transactions, as there would no longer be a need to settle bills separately with individual power plants.</p><p>The Power Division’s letter said CERC introduced the SNA system to simplify the settlement of grid-related charges in electricity trade with neighbouring countries. The same SNA charge is also being levied on electricity traded between India and Nepal and Bhutan.</p><p>According to BPDB sources, India has proposed the charge to cover the costs of scheduling the amount of electricity to be supplied at different times, collecting consumption data from meters, reconciling supply and consumption figures, and operating the grid.</p><p>Bangladesh currently has agreements allowing it to import a total of 2,656MW of electricity from India under several contracts. Of this, government-level arrangements through NVVN include 250MW from an NTPC power plant, 300MW from Damodar Valley Corporation (DVC) and 160MW from the Tripura State Electricity Corporation.</p><p>In addition, Bangladesh has agreements to import 200MW from a power plant of Sembcorp Energy India through PTC India and another 250MW directly from Sembcorp. The initiative to sign an SNA agreement between NVVN and BPDB covers a total of 1,160MW.</p><p>Separately, Bangladesh has an agreement to import 1,496MW from the Adani power plant in Godda, Jharkhand. BPDB officials said the power purchase agreement with Adani already includes provisions for such charges, so a separate SNA agreement will not be required for that electricity.</p>",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-08-23/132apqi5/elec.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/features/panorama/how-decades-policy-failures-created-bangladeshs-power-crisis-1522496",
+    "title": "How decades of policy failures created Bangladesh’s power crisis",
+    "link": "https://www.tbsnews.net/features/panorama/how-decades-policy-failures-created-bangladeshs-power-crisis-1522496",
+    "description": "",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/23/energy_mumitm-4437_0_0_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001",
+    "title": "Govt plans directorate for victims of enforced disappearances, extrajudicial killings",
+    "link": "https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001",
+    "description": "",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996",
+    "title": "Hackers claim 6 million Bangladeshi CVs for sale on dark web",
+    "link": "https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996",
+    "description": "",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/ca0e7e5a7529",
+    "title": "Women’s voter share nears 50%, while only 2.3% of MPs: EC",
+    "link": "https://bdnews24.com/bangladesh/ca0e7e5a7529",
+    "description": "[Bangladesh] Women’s voter share nears 50%, while only 2.3% of MPs: EC",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/anwarul-islam-sarker-230826-01-1787500460.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418183/chinese-linked-crime-rings-take-root-in-dhaka",
+    "title": "Chinese-linked crime rings take root in Dhaka",
+    "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418183/chinese-linked-crime-rings-take-root-in-dhaka",
+    "description": "",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/23/e3bd2bfe489bb0e5702ad706b813b1b9-6a8b1d837332e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/govt-debt-balloons-as-bank-borrowing-far-outstrips-mark-1787508334",
+    "title": "Govt debt balloons as bank borrowing far outstrips mark",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/govt-debt-balloons-as-bank-borrowing-far-outstrips-mark-1787508334",
+    "description": "Government bank-borrowing debt deepens with the aggregate sum borrowed from...",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/rohingya-crisis-deepens-as-intl-humanitarian-support-dwindles-1787508427",
+    "title": "Rohingya crisis deepens as int'l humanitarian support dwindles",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/rohingya-crisis-deepens-as-intl-humanitarian-support-dwindles-1787508427",
+    "description": "Nine years after more than a million Rohingya fled Myanmar...",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/editorial/protracted-unemployment-crisis-bodes-ill-for-stability-1787499913",
+    "title": "Protracted unemployment crisis bodes ill for stability",
+    "link": "https://today.thefinancialexpress.com.bd/editorial/protracted-unemployment-crisis-bodes-ill-for-stability-1787499913",
+    "description": "A recent job fair in Dhaka gives a grim picture...",
+    "published": "Mon, 24 Aug 2026 00:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
   }
 ]
