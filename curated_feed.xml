@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Mon, 24 Aug 2026 20:36:05 +0000</lastBuildDate>
-    <item>
-      <title>Dhaka rejects Myanmar's erroneous statistics on Rohingyas</title>
-      <link>https://www.tbsnews.net/foreign-policy/dhaka-rejects-myanmars-erroneous-statistics-rohingyas-1518561</link>
-      <guid isPermaLink="true">https://www.tbsnews.net/foreign-policy/dhaka-rejects-myanmars-erroneous-statistics-rohingyas-1518561</guid>
-      <description>Dhaka also urges Myanmar to speed up verification, include new arrivals and children born in Bangladesh, and recognise the Rohingyas’ ethnic identity.</description>
-      <pubDate>Tue, 18 Aug 2026 18:55:19 +0600</pubDate>
-      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/12/14/rohingya_camp.jpg" />
-      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2020/12/14/rohingya_camp.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 22:31:53 +0000</lastBuildDate>
     <item>
       <title>2 task forces proposed to boost Bangladesh-India trade, investment</title>
       <link>https://www.tbsnews.net/foreign-policy/2-task-forces-proposed-boost-bangladesh-india-trade-investment-1518431</link>
@@ -5276,6 +5267,15 @@ For more than a million Rohingya living in Bangladesh, the question is no longer
       <pubDate>Tue, 25 Aug 2026 02:35:58 +0600</pubDate>
       <media:thumbnail url="https://dims.apnews.com/dims4/default/722ee32/2147483647/strip/true/crop/2003x1335+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c" />
       <enclosure url="https://dims.apnews.com/dims4/default/722ee32/2147483647/strip/true/crop/2003x1335+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Saudi Arabia, France push diplomacy on Iran, reject threats to Hormuz</title>
+      <link>https://www.daily-sun.com/world/894165/saudi-arabia-france-push-diplomacy-on-iran-and-reject-threats-to-hormuz</link>
+      <guid isPermaLink="true">https://www.daily-sun.com/world/894165/saudi-arabia-france-push-diplomacy-on-iran-and-reject-threats-to-hormuz</guid>
+      <description>The two countries deepen strategic partnership with 21 agreements and MoUs</description>
+      <pubDate>Tue, 25 Aug 2026 04:31:15 +0600</pubDate>
+      <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Saudi-Arabia,-France-push-diplomacy-6a8cb669beabf.jpg" />
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Saudi-Arabia,-France-push-diplomacy-6a8cb669beabf.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
