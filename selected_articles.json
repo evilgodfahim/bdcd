@@ -104205,5 +104205,101 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/saleh-6a8bd6c152c3b-6a8bd8bc62e1b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/cpd-sees-inflation-tamed-exports-improving-deeper-fiscal-strains-undercut-govt-first-6",
+    "title": "CPD sees inflation tamed, exports improving but deeper fiscal strains undercut govt in first 6 months",
+    "link": "https://www.tbsnews.net/economy/cpd-sees-inflation-tamed-exports-improving-deeper-fiscal-strains-undercut-govt-first-6",
+    "description": "The trade deficit widened from $6.7 billion to $10.4 billion, and the current account balance swung from a $1.3 billion surplus to a $0.6 billion deficit.",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/11/03/cpd_logo.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/govt-eyes-reopening-land-ports-border-haats-boost-india-trade-commerce-minister",
+    "title": "Govt eyes reopening land ports, border haats to boost India trade: Commerce minister",
+    "link": "https://www.tbsnews.net/foreign-policy/govt-eyes-reopening-land-ports-border-haats-boost-india-trade-commerce-minister",
+    "description": "Commerce Minister Khandaker Abdul Muktadir and Indian High Commissioner Dinesh Trivedi also discussed lifting yarn import restrictions and boosting joint investment.",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/23/image-417169-1787455116.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/india-eyes-stronger-business-ties-bangladesh-politics-continue-its-own-way-trivedi",
+    "title": "India eyes stronger business ties with Bangladesh; politics to continue in its own way: Trivedi",
+    "link": "https://www.tbsnews.net/bangladesh/india-eyes-stronger-business-ties-bangladesh-politics-continue-its-own-way-trivedi",
+    "description": "Dinesh Trivedi highlights importance of peace, prosperity",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/24/screenshot_2026-08-24_130555.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/893789",
+    "title": "Bangladesh to launch $2b fund in Hong Kong",
+    "link": "https://www.daily-sun.com/business/893789",
+    "description": "Equity-based fund aimed at diversifying financing, reviving capital market and reducing bank borrowing",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/893788",
+    "title": "BIDA, BEZA, PPPA merge as Invest Bangladesh begins operations",
+    "link": "https://www.daily-sun.com/business/893788",
+    "description": "The newly formed Invest Bangladesh has started its initial operational activities following the merger of",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/transport/news/govt-plans-comprehensive-road-safety-law-dec-2027-4255541",
+    "title": "Govt plans comprehensive road safety law by Dec 2027",
+    "link": "https://www.thedailystar.net/news/transport/news/govt-plans-comprehensive-road-safety-law-dec-2027-4255541",
+    "description": "Rabiul says law will be part of a broader effort to cut road deaths, with better driver training, vehicle scrapping and faster emergency response",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/weather/news/maritime-ports-asked-keep-cautionary-signal-3-hoisted-4255521",
+    "title": "Maritime ports asked to keep cautionary signal 3 hoisted",
+    "link": "https://www.thedailystar.net/news/environment/weather/news/maritime-ports-asked-keep-cautionary-signal-3-hoisted-4255521",
+    "description": "",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/national/hrw-urges-bangladesh-to-end-prolonged-pretrial-detention-of-political-opponents",
+    "title": "HRW urges Bangladesh to end prolonged detention of political opponents",
+    "link": "https://thefinancialexpress.com.bd/national/hrw-urges-bangladesh-to-end-prolonged-pretrial-detention-of-political-opponents",
+    "description": "HRW urges Bangladesh to end prolonged detention of political opponents",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/bangladesh/runner-signs-byd-deal-to-build-ev-manufacturing-plant",
+    "title": "Runner signs BYD deal to build EV manufacturing plant",
+    "link": "https://thefinancialexpress.com.bd/bangladesh/runner-signs-byd-deal-to-build-ev-manufacturing-plant",
+    "description": "Runner signs BYD deal to build EV manufacturing plant",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/894016/bangladesh-seeks-us-expertise-in-water-waste-management-renewable-energy",
+    "title": "Bangladesh seeks US expertise in water, waste management, renewable energy",
+    "link": "https://www.daily-sun.com/diplomacy/894016/bangladesh-seeks-us-expertise-in-water-waste-management-renewable-energy",
+    "description": "US Ambassador Brent T Christensen met with Dr Abdul Moyeen Khan to enhance Bangladesh-US cooperation in local government and development.",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/US_BD-6a8bfe093b2cc.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ac04a5a57d3f3c0b575d09da8b55ab48",
+    "title": "Mutual dependence key to lasting Bangladesh-India ties, Indian envoy says",
+    "link": "https://en.bonikbarta.com/bangladesh/hgHeEL2nq0b7vBq3/",
+    "description": "The Indian high commissioner said stronger economic ties should help drive bilateral relations, while political and other issues can progress at their own pace.",
+    "published": "Mon, 24 Aug 2026 14:54:01 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
