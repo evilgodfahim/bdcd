@@ -104711,5 +104711,65 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/cpd-6a8c72ca5213b.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/894147/bangladesh-s-gross-forex-reserves-rise-to-37-47bn",
+    "title": "Bangladesh's gross forex reserves rise to $37.47bn",
+    "link": "https://www.daily-sun.com/business/894147/bangladesh-s-gross-forex-reserves-rise-to-37-47bn",
+    "description": "",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/longer-road-recovery-19-economic-indicators-worsen-4256066",
+    "title": "Longer road to recovery as 19 economic indicators worsen",
+    "link": "https://www.thedailystar.net/business/economy/news/longer-road-recovery-19-economic-indicators-worsen-4256066",
+    "description": "",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/sept-lng-cargoes-cost-more-double-pre-war-rates-4256056",
+    "title": "Sept LNG cargoes cost more than double pre-war rates",
+    "link": "https://www.thedailystar.net/business/economy/news/sept-lng-cargoes-cost-more-double-pre-war-rates-4256056",
+    "description": "",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/economic-recovery-may-linger",
+    "title": "Reforms must keep 1972 Constitution: Law Minister",
+    "link": "https://thefinancialexpress.com.bd/economy/economic-recovery-may-linger",
+    "description": "Bangladesh's economic recovery is likely to linger as stabilisation remains fragile and structural weaknesses continue to weigh on investment, employment and growth, says CPD regarding performance of this government in first six months. Presenting its assessment Monday at a media dialogue in",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/july-adp-spending-stagnant-below-10-per-cent-1787595972",
+    "title": "July ADP spending stagnant below 1.0 per cent",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/july-adp-spending-stagnant-below-10-per-cent-1787595972",
+    "description": "The Annual Development Programme (ADP) implementation remained stagnant at 0.69...",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "62d781a627da3d73bac9dc5eb0e7adc3a94073d6",
+    "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff",
+    "link": "https://apnews.com/article/taiwan-china-us-nvidia-ai-server-chip-illegal-export-511e9ae69d517c49f19512d45b1a8b0c",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/e833160/2147483647/strip/true/crop/6000x3999+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Ff9%2Ff013a9a7814f8ea1c970dfc16575%2Fef7be70307644f0d8063ed537ae92e07\" /><br />Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/e833160/2147483647/strip/true/crop/6000x3999+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Ff9%2Ff013a9a7814f8ea1c970dfc16575%2Fef7be70307644f0d8063ed537ae92e07",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "835584c04bccbd3308207ee882df12beb8f6072a",
+    "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+    "link": "https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/722ee32/2147483647/strip/true/crop/2003x1335+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c\" /><br />US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+    "published": "Tue, 25 Aug 2026 02:35:58 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/722ee32/2147483647/strip/true/crop/2003x1335+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c",
+    "thumbnail_type": "image/jpeg"
   }
 ]
