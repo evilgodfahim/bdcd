@@ -105711,5 +105711,41 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Bangladesh,-China-discuss-strengthening-education-cooperation-6a8dc386cfc2a.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921",
+    "title": "RMG faces stiffer competition, rising cost: BB",
+    "link": "https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921",
+    "description": "",
+    "published": "Wed, 26 Aug 2026 02:34:21 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/business/44a464a96a39",
+    "title": "Gas crisis forces 600 textile factories to halt production: BTMA",
+    "link": "https://bdnews24.com/business/44a464a96a39",
+    "description": "[Business] Gas crisis forces 600 textile factories to halt production: BTMA",
+    "published": "Wed, 26 Aug 2026 02:34:21 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/garment-machines-rmg-mzo-1000-1787683623.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/ciid-detects-massive-undervaluation-and-misdeclaration-1787682260",
+    "title": "CIID detects massive undervaluation and misdeclaration",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/ciid-detects-massive-undervaluation-and-misdeclaration-1787682260",
+    "description": "",
+    "published": "Wed, 26 Aug 2026 02:34:21 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1787682260.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/judicial-independence-labour-rights-crucial-for-eu-mkt-access-1787682485",
+    "title": "Judicial independence, labour rights crucial for EU mkt access",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/judicial-independence-labour-rights-crucial-for-eu-mkt-access-1787682485",
+    "description": "Labour rights, environmental protection and the independence of judicial institutions...",
+    "published": "Wed, 26 Aug 2026 02:34:21 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
   }
 ]
