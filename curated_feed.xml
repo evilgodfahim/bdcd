@@ -4,16 +4,7 @@
     <title>Curated News</title>
     <link>https://yourusername.github.io/yourrepo/</link>
     <description>AI-curated signal: Bangladesh affairs and international geopolitics</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:20 +0000</lastBuildDate>
-    <item>
-      <title>US delegation to visit Rohingya camps</title>
-      <link>https://bdnews24.com/bangladesh/6ee45fb9bea6</link>
-      <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ee45fb9bea6</guid>
-      <description>[Bangladesh] US delegation to visit Rohingya camps</description>
-      <pubDate>Sat, 22 Aug 2026 20:26:44 +0600</pubDate>
-      <media:thumbnail url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rohingya-refugee-camp-140520-02-1780426774.jpg" />
-      <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rohingya-refugee-camp-140520-02-1780426774.jpg" type="image/jpeg" length="0" />
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 05:14:34 +0000</lastBuildDate>
     <item>
       <title>Energy, work order deficits shut 457 factories down in 2 years</title>
       <link>https://www.dhakatribune.com/business/418095/energy-work-order-deficits-shut-457-factories</link>
@@ -5000,6 +4991,15 @@ Foreign Minister Dr Khalilur, while attending the ninth Indian Ocean Conference 
       <pubDate>Sun, 30 Aug 2026 05:59:20 +0600</pubDate>
       <media:thumbnail url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/29/medium/Untitled-(3)-6a930224d66dc.jpg" />
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/29/medium/Untitled-(3)-6a930224d66dc.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Banks under strain as Tk8,565cr remittance incentive stalls</title>
+      <link>https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166</link>
+      <guid isPermaLink="true">https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166</guid>
+      <description>Under government policy, banks disburse a 2.5% cash incentive to expatriate Bangladeshis on incoming remittances on behalf of the state.</description>
+      <pubDate>Sun, 30 Aug 2026 11:14:01 +0600</pubDate>
+      <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/30/remittance-incentive.png" />
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/30/remittance-incentive.png" type="image/png" length="0" />
     </item>
   </channel>
 </rss>

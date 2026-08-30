@@ -107856,5 +107856,15 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/29/medium/Untitled-(3)-6a930224d66dc.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166",
+    "title": "Banks under strain as Tk8,565cr remittance incentive stalls",
+    "link": "https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166",
+    "description": "Under government policy, banks disburse a 2.5% cash incentive to expatriate Bangladeshis on incoming remittances on behalf of the state.",
+    "published": "Sun, 30 Aug 2026 11:14:01 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/30/remittance-incentive.png",
+    "thumbnail_type": "image/png"
   }
 ]
