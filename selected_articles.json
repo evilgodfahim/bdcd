@@ -109396,5 +109396,49 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/30/medium/IPU-CHIEF-6a9444970c84e.jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/895083/sergio-gor-says-bangladesh-commits-to-spending-billions-on-boeing-aircraft",
+    "title": "Sergio Gor says Bangladesh commits to spending billions on Boeing aircraft",
+    "link": "https://www.daily-sun.com/business/895083/sergio-gor-says-bangladesh-commits-to-spending-billions-on-boeing-aircraft",
+    "description": "",
+    "published": "Mon, 31 Aug 2026 06:19:33 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/imports-india-rise-despite-trade-restrictions-4260636",
+    "title": "Imports from India rise despite trade restrictions",
+    "link": "https://www.thedailystar.net/business/economy/news/imports-india-rise-despite-trade-restrictions-4260636",
+    "description": "",
+    "published": "Mon, 31 Aug 2026 06:19:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-leaves-dhaka-assume-unga-presidency-4260806",
+    "title": "Khalilur leaves Dhaka to assume UNGA presidency",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-leaves-dhaka-assume-unga-presidency-4260806",
+    "description": "Khalilur is scheduled to remain on the visit from August 31 to October 21",
+    "published": "Mon, 31 Aug 2026 06:19:33 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "4e7ae2e8f6e4e271b4ce6c082adfebb9b9c583db",
+    "title": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+    "link": "https://apnews.com/article/iran-strait-hormuz-strike-united-states-6b098da673ac3161a266ee459d5eff44",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/5ac6cb3/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Fb9%2Fe1e4e309ea407f8bd4c51e748a1a%2F36577a27946e459f88941c37cb14e095\" /><br />US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+    "published": "Mon, 31 Aug 2026 06:19:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/5ac6cb3/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Fb9%2Fe1e4e309ea407f8bd4c51e748a1a%2F36577a27946e459f88941c37cb14e095",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "8b30fcbf395194ff0cf4c03d55530f51c5763e07",
+    "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+    "link": "https://apnews.com/article/bessent-interview-iran-sanctions-bank-68d1bb0817c9f83eaa34e9ec643690fa",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/3e2de02/2147483647/strip/true/crop/4595x3063+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F97%2Ffe5f32cda2a4a7f2ed0afb36f1d4%2Fee42f55198044d9b81ed29b8076c9f62\" /><br />US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+    "published": "Mon, 31 Aug 2026 06:19:33 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/3e2de02/2147483647/strip/true/crop/4595x3063+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F97%2Ffe5f32cda2a4a7f2ed0afb36f1d4%2Fee42f55198044d9b81ed29b8076c9f62",
+    "thumbnail_type": "image/jpeg"
   }
 ]
