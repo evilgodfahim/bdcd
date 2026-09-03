@@ -3,8 +3,7 @@
 RSS Feed Processor
 
 All articles from all feeds go to one Mistral call.
-Mistral classifies each headline into signal or noise.
-A Gemini call deduplicates near-identical signal titles.
+Mistral classifies each headline into signal or noise and deduplicates them.
 
 Output:  curated_feed.xml
 Stats:   fetch_stats.json
@@ -19,7 +18,6 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import xml.etree.ElementTree as ET
-from google import genai
 from mistralai.client import Mistral
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
@@ -55,7 +53,6 @@ KL_API_FEEDS       = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-DEDUP_MODEL           = "gemini-3-flash-preview"
 MISTRAL_MODEL         = "mistral-medium-latest"
 
 PROCESSED_FILE        = "processed_articles.json"
@@ -99,6 +96,8 @@ STEP 2 — SCOPE CHECK.
 
 WHEN IN DOUBT → NOISE.
 
+STEP 3 — DEDUPLICATION. Identify groups of titles covering the same story. For each group keep only the lowest index, discard the rest. Distinct topics must all be kept.
+
 Output only: {{"signal": [0-based indices]}}. Valid JSON, no markdown, no explanation.
 
 EXAMPLES:
@@ -141,13 +140,6 @@ Output: {{"signal": [0, 1, 3, 7, 9, 10, 11, 13]}}
 Article titles:
 {titles}
 """
-
-DEDUP_PROMPT = """You are a news deduplication engine. Identify groups of titles covering the same story. For each group keep only the lowest index, discard the rest. Distinct topics must all be kept.
-
-Return only the 0-based indices to KEEP as a JSON array of integers. No markdown, no preamble.
-
-Article titles:
-{titles}"""
 
 # -- CONSTANTS -----------------------------------------------------------------
 
@@ -488,6 +480,7 @@ def extract_signal_indices(text):
 
 
 def send_to_mistral(articles):
+    """Single Mistral call. Returns deduplicated SIGNAL indices via prompt instructions."""
     api_key = os.environ.get("MS")
     if not api_key or not articles:
         return []
@@ -509,61 +502,6 @@ def send_to_mistral(articles):
         print(f"Mistral classification error: {e}")
         return []
 
-
-def deduplicate_articles(articles):
-    if not articles:
-        return articles
-
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        return articles
-
-    try:
-        client      = genai.Client(api_key=api_key)
-        titles_text = "\n".join([f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)])
-
-        response = client.models.generate_content(
-            model=DEDUP_MODEL,
-            contents=DEDUP_PROMPT.format(titles=titles_text),
-            config={"response_mime_type": "application/json"},
-        )
-
-        raw = response.text if hasattr(response, "text") else ""
-        raw = raw.replace("```json", "").replace("```", "").strip()
-
-        keep_indices = None
-        try:
-            parsed = json.loads(raw)
-            if isinstance(parsed, list):
-                keep_indices = [i for i in parsed if isinstance(i, int) and 0 <= i < len(articles)]
-        except Exception:
-            pass
-
-        if keep_indices is None:
-            m = re.search(r"\[[\d,\s]+\]", raw)
-            if m:
-                try:
-                    keep_indices = [
-                        i for i in json.loads(m.group(0))
-                        if isinstance(i, int) and 0 <= i < len(articles)
-                    ]
-                except Exception:
-                    pass
-
-        if keep_indices is None:
-            print("Dedup: could not parse response, keeping all articles.")
-            return articles
-
-        keep_indices = sorted(set(keep_indices))
-        deduped      = [articles[i] for i in keep_indices]
-        dropped      = len(articles) - len(deduped)
-        if dropped:
-            print(f"Dedup: removed {dropped} near-duplicate title(s).")
-        return deduped
-
-    except Exception as e:
-        print(f"Gemini dedup error: {e}")
-        return articles
 
 # -- XML -----------------------------------------------------------------------
 
@@ -699,9 +637,6 @@ def main():
 
     signal_articles   = [new_articles[i] for i in mistral_indices]
     excluded_articles = [new_articles[i] for i in range(len(new_articles)) if i not in set(mistral_indices)]
-
-    print(f"Deduplicating {len(signal_articles)} signal article(s)...")
-    signal_articles = deduplicate_articles(signal_articles)
 
     STATS["total_signal_deduped"] = len(signal_articles)
 
