@@ -51,7 +51,7 @@ KL_API_FEEDS = set()
 
 # -- CONFIG --------------------------------------------------------------------
 
-MISTRAL_MODEL = "mistral-large-2512"
+MISTRAL_MODEL = "mistral-medium-latest"
 
 PROCESSED_FILE = "processed_articles.json"
 SELECTED_FILE = "selected_articles.json"
