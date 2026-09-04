@@ -11,9 +11,9 @@
       "capped": 4
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 5,
-      "passed_age": 5,
-      "capped": 5
+      "fetched": 4,
+      "passed_age": 4,
+      "capped": 4
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
@@ -68,16 +68,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4209
+    "DIRECT": 4208
   },
-  "total_fetched": 4209,
-  "total_passed_age": 835,
+  "total_fetched": 4208,
+  "total_passed_age": 834,
   "total_new": 176,
   "total_signal": 0,
   "total_longread": 0,
   "total_signal_deduped": 0,
   "total_longread_deduped": 0,
-  "timestamp": "2026-09-04T10:24:14.399631",
+  "timestamp": "2026-09-04T10:26:18.815233",
   "total_signal_gemini": 231,
   "total_signal_mistral": 0
 }
