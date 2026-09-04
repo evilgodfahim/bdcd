@@ -65,7 +65,7 @@ ALLOW_MISSING_DATES = True
 ALLOW_OLDER = False
 MAX_FEED_ITEMS = 500
 
-BATCH_SIZE = 100
+BATCH_SIZE = 50
 BATCH_INTERVAL_SECONDS = 5
 
 # -- PROMPT --------------------------------------------------------------------
