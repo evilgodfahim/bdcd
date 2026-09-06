@@ -116223,5 +116223,365 @@
     "description": "",
     "published": "Sun, 06 Sep 2026 11:29:02 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/court/hc-dismisses-writ-challenging-mostaqurs-appointment-bangladesh-bank-governor",
+    "title": "HC dismisses writ challenging Mostaqur's appointment as Bangladesh Bank governor",
+    "link": "https://www.tbsnews.net/bangladesh/court/hc-dismisses-writ-challenging-mostaqurs-appointment-bangladesh-bank-governor",
+    "description": "Court also rejects challenge to Ahsan Mansur's removal and replacement",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/11/19/high_courtt.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/president-revokes-punishment-21-nbr-officials-over-2025-protests-1534746",
+    "title": "President revokes punishment of 21 NBR officials over 2025 protests",
+    "link": "https://www.tbsnews.net/bangladesh/president-revokes-punishment-21-nbr-officials-over-2025-protests-1534746",
+    "description": "The officials had faced disciplinary action over revenue sector protests last year",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/10/02/new_nbr_building_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/pm-orders-nationwide-cleanliness-drives-public-participation-prevent-dengue-1534731",
+    "title": "PM orders nationwide cleanliness drives with public participation to prevent dengue",
+    "link": "https://www.tbsnews.net/bangladesh/pm-orders-nationwide-cleanliness-drives-public-participation-prevent-dengue-1534731",
+    "description": "Emphasising prevention as the key to combating dengue, he directed the authorities concerned to work in a coordinated manner and undertake extensive awareness campaigns to ensure people's participation in cleanliness activities.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/06/pm_.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/dsex-plunges-103-points-amid-heavy-selling-pressure-1534701",
+    "title": "DSEX plunges 103 points amid heavy selling pressure",
+    "link": "https://www.tbsnews.net/economy/stocks/dsex-plunges-103-points-amid-heavy-selling-pressure-1534701",
+    "description": "The DSEX fell 103 points, or 1.83%, to close at 5,558, while the blue-chip DS30 index dropped 24 points to 2,116.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2024/11/05/dsex.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/home-minister-says-rohingya-crisis-becoming-regional-security-threat-urges-protection",
+    "title": "Home minister says Rohingya crisis becoming regional security threat, urges protection, repatriation",
+    "link": "https://www.tbsnews.net/bangladesh/home-minister-says-rohingya-crisis-becoming-regional-security-threat-urges-protection",
+    "description": "He said there is no alternative to a political solution to create conditions for their safe and sustainable return.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/06/796376150_1792921308694190_8639725450152625906_n.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/gold-price-cut-tk2216-bhori-1534661",
+    "title": "Gold price cut by Tk2,216 per bhori",
+    "link": "https://www.tbsnews.net/economy/gold-price-cut-tk2216-bhori-1534661",
+    "description": "Under the new rate, per bhori of 22-carat gold jewellery will now cost Tk2,35,146, including VAT.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/06/16/gold_jewellery.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/humaiun-kobir-lauds-japans-efforts-durable-rohingya-solution-1534646",
+    "title": "Humaiun Kobir lauds Japan's efforts for durable Rohingya solution",
+    "link": "https://www.tbsnews.net/foreign-policy/humaiun-kobir-lauds-japans-efforts-durable-rohingya-solution-1534646",
+    "description": "The State Minister said Bangladesh remains firmly committed to working with the international community to resolve this prolonged humanitarian and regional challenge.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/06/9146159.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/environment/pm-calls-collective-action-protect-rivers-ensure-liveable-environment-1534641",
+    "title": "PM calls for collective action to protect rivers, ensure liveable environment",
+    "link": "https://www.tbsnews.net/bangladesh/environment/pm-calls-collective-action-protect-rivers-ensure-liveable-environment-1534641",
+    "description": "The prime minister directed the authorities concerned to take effective steps to quickly implement the plans adopted so far.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896274/bangladesh-bank-raises-annual-travel-quota-to-18-000",
+    "title": "Bangladesh Bank raises annual travel quota to $18,000",
+    "link": "https://www.daily-sun.com/business/896274/bangladesh-bank-raises-annual-travel-quota-to-18-000",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/small/BB-05-6a119c31093bf-6a9d2cc0e11fd.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896273/48-non-tariff-barriers-with-eu-solved-13-under-process",
+    "title": "48 non-tariff barriers with EU solved 13 under process",
+    "link": "https://www.daily-sun.com/business/896273/48-non-tariff-barriers-with-eu-solved-13-under-process",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/small/Non-tariff_barriers_with_EU-6a9d27b696ea4.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896226",
+    "title": "BGMEA, BKMEA call for repeal of knit fabric import ban",
+    "link": "https://www.daily-sun.com/business/896226",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/small/DS-'09'06-103-6a9c63ab2190b.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896228",
+    "title": "BSEC moves to revive direct listing after 11 years",
+    "link": "https://www.daily-sun.com/business/896228",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/small/DS-'09'06-101-6a9c63ab80c05.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896129",
+    "title": "THE BAD LOAN BOMB",
+    "link": "https://www.daily-sun.com/business/896129",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/small/DS-'09'06-1-6a9c4e33e3cc8.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "17969aa4-0f52-4061-bf26-d0cf38497a23",
+    "title": "The Mecca Agreement will create military and economic opportunities for us",
+    "link": "https://en.prothomalo.com/opinion/interview/16fwg2qq65",
+    "description": "\n<p>Against the backdrop of recent discussions in various quarters surrounding the Mecca Joint Defence Agreement, Prothom Alo interviewed <strong>Major General (Retd.) Fazle Elahi Akbar</strong>, Chairman of the Foundation for Strategic and Development Studies. The interview was conducted by <strong>Sohul Ahmed</strong>.</p><p>In what global geopolitical context was the Mecca Joint Defence Agreement signed?</p><p><strong>Fazle Elahi Akbar:</strong> To understand the context of this agreement, it is necessary to go back in history. Since the beginning of the Ottoman Empire’s decline after World War I, Western powers have sought to keep the Muslim world divided by keeping the Shia-Sunni conflict in focus. For the past 150 years, this artificial division has sustained conflict between the Sunni bloc led by Saudi Arabia and the Shia bloc centered on Iran, Iraq, and Syria. To counter the challenge posed by the Shia bloc, the United States emerged as a “security umbrella” for the Gulf states and, in return, established a series of military bases across the Middle East.</p><p>However, the conventional understanding of warfare has changed in recent times. Despite putting immense pressure on Iran, neither the United States nor Israel has been able to defeat Iran militarily. During this war, countries in the Middle East came to realize that the United States could not ensure their genuine security. Against this backdrop, a common ground emerged between the thinking of both the Shia and Sunni sides. Iran made it clear that it had no fundamental hostility toward the Arab countries; rather, the presence of foreign military bases in Arab countries was the root cause of the conflict.</p><p>The Mecca Agreement emerged from this mutual understanding and the guarantee of security for the GCC countries. Although it is currently at an early stage, it has given rise to a new concept. It is essentially a defensive alliance, rather than an offensive one like NATO. Its principal objective is to protect member states through mutual assistance if any one of them comes under attack.</p><p>There are geopolitical reasons behind the participation of the three countries involved. First, all three are predominantly Sunni and possess strong military foundations. Despite being NATO members, Turkey is seeking an alternative alliance because of uncertainty over whether it would receive collective security assistance (under Article 5) in times of danger. Saudi Arabia, meanwhile, has refrained from signing the Abraham Accords despite considerable pressure. It believes that if Iran loses its power, Israel could become a threat to Saudi Arabia itself in the future. Pakistan’s inclusion in this alliance is primarily due to its nuclear capability, extensive experience in warfare, and advanced air-defense capabilities. Ultimately, the convergence of these three countries’ own capabilities and geopolitical interests is the driving force behind the Mecca Agreement.</p><p>In what context is the Mecca Agreement generating discussion in Bangladesh?</p><p><strong>Fazle Elahi Akbar:</strong> First, there is our geographical position and its limitations. Bangladesh is a small, densely populated country, and it has no Muslim neighbors. Since we lack mountains or deserts that could naturally provide protection, our “strategic depth” is extremely limited. If a war were to break out, we would not have much of an advantage because our supply system is heavily dependent on the outside world. While neighboring countries are trying to become self-reliant in defense, our capabilities in this area are very limited.</p><p>Second, despite following a diplomatic policy of supporting world peace for the past 55 years, we have no genuine ally today who would stand by us selflessly in a crisis. There is not even a permanent member of the UN Security Council that would stand up for us. As a result of pursuing the policy of “friendship with all,” we have, in reality, no true friends. Consequently, we have found ourselves in a state of global isolation and uncertainty.</p><p>Third, there is the regional context and India’s role. The main reason behind the interest of ordinary Bangladeshis in the Mecca Agreement is essentially India’s attitude. Repeated threats and derogatory statements from the Indian media, social media, and political leaders have created a profound sense of insecurity in Bangladesh. Despite years of efforts to maintain friendly relations, this hostile behavior has made it imperative for Bangladesh to seek a new “security umbrella” to protect its sovereignty.</p><p>Perhaps for the first time, the Bangladesh government appears positive about joining a defence alliance. How do you view this?</p><p><strong>Fazle Elahi Akbar:</strong> Yes, this is certainly the first time we are in the process of becoming part of a defence alliance. However, in my view, the scope of this agreement is not limited to military protection. When efforts are made to develop the states covered by an agreement into effective partners, their standard of living and economic capacity must also be raised to a certain level.</p><p>Turkey and Saudi Arabia, which are currently at the center of the Mecca Agreement, as well as countries interested in joining in the future, are extremely prosperous economically. If we are able to gain membership in this alliance, it will open the door to significant cooperation in strengthening our economic capacity as a member of the alliance. Alongside national security, this agreement would also present a unique opportunity for Bangladesh’s economic development.</p><blockquote>A reduction in hostilities between Iran and the Arab countries would also be reassuring for the United States. Bangladesh is maintaining a balance here with considerable prudence</blockquote><div><div class=\"question\"><p>You have highlighted the positive aspects of this agreement, but are there any risks for Bangladesh in joining the alliance?</p></div><div class=\"answer\"><p><strong>Fazle Elahi Akbar:</strong> The risks associated with this agreement are often exaggerated. Citing NATO’s “Article 5,” or the principle of collective security, many people fear that if one country is attacked, all members would be compelled to go to war. But in NATO’s many-decade history, this provision has been invoked only once, following the 9/11 attacks; during the smaller conflicts involving member states, the other countries did not go to war. Therefore, the fear that joining this agreement would mean Bangladesh becoming directly involved in a war between India and Pakistan is unfounded. Moreover, the provisions of the agreement have not yet been finalised. Once they are finalised, we can scrutinise them and make a decision based on our capabilities.</p></div></div><aside><a href=\"https://en.prothomalo.com/opinion/op-ed/tika2o7zzp\">Mecca Pact: What Bangladesh should do</a></aside><p>India has reacted strongly since discussions about this agreement began. How should Bangladesh view India’s concerns?</p><p><strong>Fazle Elahi Akbar:</strong> We must remember that we are an independent and sovereign state. We have the full right to decide what is in our own interests. The current government’s policy is also “Bangladesh First.” As a neighbor, India may certainly express its concerns, but the final decision will be ours. What we need is national unity and solidarity. If that can be ensured, there is no reason to be unsettled by any threat.</p><div><div class=\"question\"><p>Bangladesh has fairly close relations with both China and the United States. Could the Mecca Agreement create any complications for our international relations?</p></div><div class=\"answer\"><p><strong>Fazle Elahi Akbar:</strong> At first glance, there should not be any complications; rather, there is a shared interest here. China is trying to reduce the Shia-Sunni divide and bring Saudi Arabia and Iran together. This is because stability in the Middle East helps ensure China’s energy security.</p><p>On the other hand, US President Trump has also described this initiative as a “bold step.” This is because the United States has an election ahead and wants to stabilise the global economy by keeping oil supplies from the Middle East flowing normally. A reduction in hostilities between Iran and the Arab countries would also be reassuring for the United States. Bangladesh is maintaining a balance here with considerable prudence.</p></div></div><p>What should the decision-making process look like when considering whether to join any defence alliance?</p><p><strong>Fazle Elahi Akbar:</strong> The process of deciding whether to join an alliance is extremely important. Although details of many agreements with neighboring countries have been kept secret in the past, there is no scope for secrecy on an issue as significant as the Mecca Agreement. Every term and provision of the agreement must be thoroughly scrutinized. The decision should be made through consultations with Parliament, political parties, and all stakeholders, and on the basis of national consensus. In a democracy, the people are the ultimate source of power, so this strategic step should be taken only after ensuring an accurate reflection of public opinion.&nbsp;</p><div><div class=\"question\"><p>Thank you.</p></div><div class=\"answer\"><p><strong>Fazle Elahi Akbar:</strong> Thank you as well.</p></div></div>",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-08-07/n6quky3z/akbar-2.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "45dbd9d2-fed0-4934-a6f0-1a1beecbf0e6",
+    "title": "Tuberculosis spreading through surgical procedures",
+    "link": "https://en.prothomalo.com/bangladesh/ccaokntm9n",
+    "description": "\n<p>Several days after Jaya Rani Das underwent a caesarean section to give birth, the surgical wound had still not healed. Physicians prescribed one medicine after another, but the wound did not improve. Then one day, tests revealed tuberculosis at the wound site. The wound was not healing because of the that. </p><p>Later, it emerged that Jaya Rani was not the only one affected, at least 11 other women who had undergone surgery at the same hospital had also contracted the disease. The health department has launched an investigation into the incident.</p><p>The incident took place at Al-Madina Lab and Hospital in Faridpur upazila of Pabna. Around 120 women underwent surgical deliveries at the hospital in May and June. Of them, 11 were found to have contracted tuberculosis at the hospital. In addition, tuberculosis was detected in the wound of a man who had undergone gallbladder surgery. </p><p>TB specialists, however, say infections during surgical procedures are not a new phenomenon. But they consider the scale of the incident in Pabna to be significant.</p><aside><a href=\"https://en.prothomalo.com/bangladesh/8m2i7tmw2s\">Tuberculosis kills 121 a day: No success even after 3 decades of effort</a></aside><p>Jaya Rani Das lives in the Thanapara area of the upazila. She is around 20 years old. She was admitted to Al-Madina Hospital on 22 May and underwent surgery to deliver her baby that day. She returned home with her baby on 24 May. </p><p>On 29 May, she went back to the hospital to have her stitches removed and the wound dressed before returning home. She took the prescribed medicines and followed the physicians’ instructions. But even after about two weeks, the wound on her abdomen had not healed.</p><p>The Prothom Alo correspondent spoke to Jaya Rani and her parents on 30 August. They said the entire surgical wound was not healing. Pus accumulated and fluid continued to ooze from it. Jaya went to the hospital several times and physicians prescribed medicines, but the wound did not heal.</p><p>At one point, a tissue sample from the wound was sent to a private hospital in Rajshahi. Jaya Rani was also sent to Rajshahi. Tests on the sample in the final week of July detected tuberculosis at the wound site. Jaya was then quickly provided with anti-tuberculosis medication through the National Tuberculosis Control Programme. According to the records, Jaya Rani Das began taking TB medication on 25 July.</p><blockquote>The incident took place at Al-Madina Lab and Hospital in Faridpur upazila of Pabna. Around 120 women underwent surgical deliveries at the hospital in May and June. Of them, 11 were found to have contracted tuberculosis at the hospital. In addition, tuberculosis was detected in the wound of a man who had undergone gallbladder surgery.</blockquote><p>Describing the incident as alarming, Faridpur Upazila Health and Family Planning Officer Md Rashedul Hasan told Prothom Alo, 12 people who had undergone surgery at the hospital in May and June were later diagnosed with tuberculosis. One of them had undergone gallbladder surgery, while the other 11 had undergone surgery to deliver their babies. He added that identifying the source of tuberculosis is difficult and time-consuming.</p><p>The upazila health and family planning officer said they had taken three measures. Surgical procedures at Al-Madina Hospital had been suspended, a three-member committee has been formed to investigate the incident, and a letter had been sent to the Institute of Epidemiology, Disease Control and Research (IEDCR), requesting an investigation into the cause of the infections.</p><p>District Civil Surgeon Md Abul Kalam Azad told Prothom Alo that some of the hospital’s equipment was relatively old. Surgical procedures had been suspended for the time being. The district civil surgeon’s office had informed the National Tuberculosis Control Programme about the incident and requested a proper investigation.</p><aside><a href=\"https://en.prothomalo.com/bangladesh/d4hihllfb6\">Tuberculosis risk increases due to fund cut</a></aside><p>A team comprising National Tuberculosis Control Programme Director Mohammad Shahriar Sazzad, officials from IEDCR and the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b) arrived in Pabna on Saturday evening.</p><p>Tuberculosis is primarily a disease of the lungs. As it affects the lungs, it is commonly associated with coughing. Medical science says tuberculosis can also affect several other organs of the body besides the lungs. This is known as extrapulmonary tuberculosis.</p><p>Tuberculosis occurring at a wound site is also a form of extrapulmonary TB. Treatment for this type of tuberculosis also requires daily, regular intake of anti-tuberculosis medicines. The government provides these medicines free of charge. Jaya Rani Das is also taking medication provided through the government programme </p><h3>What the hospital authorities say</h3><p>Al-Madina Hospital is located at the Muktijoddha Complex in the Tetultala area of Faridpur upazila. The hospital occupies the ground and first floors of the complex building. On 30 August, this correspondent spoke to the hospital’s managing director, Md Masud Rana, operating theatre (OT) in-charge Md Ariful Islam, and several other officials and employees.</p><p>The hospital has 10 beds. According to the Directorate General of Health Services, a 10-bed hospital must have at least three permanent physicians, six nurses, a labour room, an operating theatre, an 800-square-foot ward and an emergency room, among other facilities. The hospital has been operating since 2020 without fully meeting these requirements.</p><blockquote>Medical science says tuberculosis can also affect several other organs of the body besides the lungs. This is known as extrapulmonary tuberculosis. Tuberculosis occurring at a wound site is also a form of extrapulmonary TB. Treatment for this type of tuberculosis also requires daily, regular intake of anti-tuberculosis medicines.</blockquote><p>During a visit to the hospital it was found that there was no room measuring 800 square feet. The operating theatre was quite clean and appeared to have been washed and cleaned recently. Two old autoclave machines had been cleaned and kept there. A new autoclave machine had been brought in a day or two earlier and had not yet been used. Next to the operating theatre was a room for normal deliveries, but no bed was seen there.</p><p>Hospital managing director Md Masud Rana said two to three deliveries are performed by caesarean section at the hospital every day. There are 60 to 70 such operations a month. Caesarean deliveries are the hospital’s main source of income. Some normal deliveries are also performed, he said.</p><p>Obstetricians say every facility must follow labour room protocols or delivery-room guidelines for each delivery. The hospital’s managing director and OT in-charge could not show this correspondent any such guidelines, nor did they know that such guidelines were required. Both claimed that the equipment is sterilised after every operation. However, they could not provide any evidence to support this.</p><p>OT in-charge Md Ariful Islam said there were two possible sources of the tuberculosis infection: a patient or the operating theatre. Managing director Md Masud Rana said, “This is a very serious incident for us. It will be difficult to avoid responsibility for the infection. We also need to find out how this happened.” </p><aside><a href=\"https://en.prothomalo.com/bangladesh/d4hihllfb6\">Tuberculosis risk increases due to fund cut</a></aside><h3>There are more such incidents</h3><p>Cases of tuberculosis spreading due to operating theatres and surgical equipment not being properly sterilised have also been reported. In February this year, several women contracted tuberculosis during caesarean deliveries at Modern Diagnostic Centre and Clinic in Bhedarganj upazila of Shariatpur district. IEDCR and the National Tuberculosis Control Programme jointly investigated the incident in June and confirmed the incident.</p><p>Bhedarganj Upazila Health and Family Planning Officer Abu Naim Md Iftekharul Islam told Prothom Alo on Saturday that tuberculosis had been detected in 51 people who had undergone surgery at the clinic. The clinic and its operating theatre have been closed since March. However, its diagnostic services remain operational.</p><p>Mohammad Shahriar Sazzad, director of the National Tuberculosis Control Programme, told Prothom Alo that they were aware of incidents in two upazilas in Pabna and Shariatpur. He said they were not aware of any such incidents elsewhere.</p><blockquote>Obstetricians say every facility must follow labour room protocols or delivery-room guidelines for each delivery. The hospital’s managing director and OT in-charge could not show this correspondent any such guidelines, nor did they know that such guidelines were required. Both claimed that the equipment is sterilised after every operation. However, they could not provide any evidence to support this.</blockquote><p>However, an official of a foreign organisation working with the National Tuberculosis Control Programme told Prothom Alo on Saturday that they had contacted four hospitals in four northern districts and learned that those hospitals were finding patients with tuberculosis at surgical wound sites on a fairly regular basis.</p><p>Senior obstetrics and gynaecology specialist Professor Rowshan Ara Begum said, “It is frightening to hear about these cases.” She told Prothom Alo, “We had previously heard about tuberculosis infections occurring during laparoscopy—surgery performed through small openings in the abdomen rather than by making a large incision. Now we are hearing that it is occurring during childbirth by surgery. The Directorate General of Health Services should take urgent action.” </p><h3>What needs to be done</h3><p>According to the World Health Organization (WHO), Bangladesh is one of the countries in the world with a high prevalence of tuberculosis. Around 350,000 people in the country develop tuberculosis every year. Not everyone who contracts tuberculosis each year is diagnosed. Not everyone who is diagnosed receives treatment, and not everyone who receives treatment recovers. Around 44,000 people die from tuberculosis every year.</p><p>Tuberculosis specialists, obstetricians and gynaecologists, and health officials working at the field level who spoke to Prothom Alo expressed concern over the incidents in Pabna and Shariatpur. They all said the health authorities need to pay particular attention to the issue. One upazila health official said urgent measures need to be determined to address the matter. At the same time, it is also important to take steps to prevent fear from spreading among the public.</p><p>Renowned chest specialist Asif Mujtaba Mahmud told Prothom Alo, “Before use, it must be ensured that the hospital’s operating theatres and surgical equipment are properly disinfected in accordance with the prescribed procedures.”</p><p>(Sarwar Morshed, Pabna, contributed to this report.)</p>",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-09-06/76h0mt11/prothomalo-bangla2026-09-051yur1mvyUntitled-1.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/industry/tk10000cr-fund-sought-make-private-economic-zones-investment-ready-1534556",
+    "title": "Tk10,000cr fund sought to make private economic zones investment-ready",
+    "link": "https://www.tbsnews.net/economy/industry/tk10000cr-fund-sought-make-private-economic-zones-investment-ready-1534556",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/14/jamalpur_economic_zone.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/yemen-forces-recapture-strategic-hais-district-amid-houthi-clashes-1534601",
+    "title": "Yemen forces recapture strategic Hais district amid Houthi clashes",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/yemen-forces-recapture-strategic-hais-district-amid-houthi-clashes-1534601",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2024/09/25/yemen_houthi_fighters.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-seeks-contain-unrest-us-pressure-deepens-economic-woes-1534591",
+    "title": "Iran seeks to contain unrest as US pressure deepens economic woes",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-seeks-contain-unrest-us-pressure-deepens-economic-woes-1534591",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/03/2026-09-02t074355z_1705017253_rc2tana0vpdk_rtrmadp_3_iran-crisis.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/bangladesh-reaffirms-commitment-climate-action-stronger-cooperation-maldives-1534576",
+    "title": "Bangladesh reaffirms commitment to climate action, stronger cooperation with Maldives",
+    "link": "https://www.tbsnews.net/foreign-policy/bangladesh-reaffirms-commitment-climate-action-stronger-cooperation-maldives-1534576",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/06/795980387_1063242729964317_1080590920354311567_n.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/netanyahu-boasts-about-bombing-qatar-says-funds-went-gaza-aid-1534571",
+    "title": "Netanyahu boasts about bombing Qatar, says funds went to Gaza aid",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/netanyahu-boasts-about-bombing-qatar-says-funds-went-gaza-aid-1534571",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/03/19/netanyahu_reuters_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/major-part-tripuras-border-bangladesh-fenced-state-govt-1534566",
+    "title": "Major part of Tripura’s border with Bangladesh fenced: State govt",
+    "link": "https://www.tbsnews.net/world/major-part-tripuras-border-bangladesh-fenced-state-govt-1534566",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/12/25/border-india_and_bangladesh.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-hire-5000-doctors-1-lakh-health-staff-improved-grassroots-care-1534541",
+    "title": "Govt to hire 5,000 doctors, 1 lakh health staff for improved grassroots care",
+    "link": "https://www.tbsnews.net/bangladesh/govt-hire-5000-doctors-1-lakh-health-staff-improved-grassroots-care-1534541",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/01/01/doctor.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/asia/media-leaders-adopt-shenzhen-consensus-boost-asia-pacific-cooperation-1534531",
+    "title": "Media leaders adopt Shenzhen Consensus to boost Asia-Pacific cooperation",
+    "link": "https://www.tbsnews.net/worldbiz/asia/media-leaders-adopt-shenzhen-consensus-boost-asia-pacific-cooperation-1534531",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/06/whatsapp_image_2026-09-05_at_12.05.16_pm_1.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/crime-justice/news/families-55-enforced-disappearance-victims-begin-testifying-ict-4266021",
+    "title": "Families of 55 enforced disappearance victims begin testifying before ICT",
+    "link": "https://www.thedailystar.net/news/crime-justice/news/families-55-enforced-disappearance-victims-begin-testifying-ict-4266021",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/environment/news/rivers-erase-land-5-times-the-size-dhaka-5-decades-4265881",
+    "title": "Star Interactive / Rivers erase land 5 times the size of Dhaka in 5 decades",
+    "link": "https://www.thedailystar.net/news/environment/news/rivers-erase-land-5-times-the-size-dhaka-5-decades-4265881",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/south-asia/4532ac6e4a55",
+    "title": "No trace left of China-Nepal port after floods",
+    "link": "https://bdnews24.com/world/south-asia/4532ac6e4a55",
+    "description": "[South Asia] No trace left of China-Nepal port after floods",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/nepal-china-port-060926-01-1788683393.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/57f704eec74b",
+    "title": "Oil ends week higher on renewed US-Iran strikes",
+    "link": "https://bdnews24.com/business/57f704eec74b",
+    "description": "[Business] Oil ends week higher on renewed US-Iran strikes",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/venezuelan-oil-020926-01-1788340040.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/9f487990292f",
+    "title": "Strong job gains signal Fed hike",
+    "link": "https://bdnews24.com/economy/9f487990292f",
+    "description": "[Economy] Strong job gains signal Fed hike",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/fed-reserve-building-110926-01-1788673012.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/49d405288cef",
+    "title": "Anak Krakatau eruption disrupts Indonesia",
+    "link": "https://bdnews24.com/world/49d405288cef",
+    "description": "[World] Anak Krakatau eruption disrupts Indonesia",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/volcano-indonesia-060926-1788672810.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "f05b1153f36ed9359393729c542a2be2084c1a97",
+    "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+    "link": "https://apnews.com/article/iran-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/3224a29/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F02%2F59affd348701aaff358a8ec7010c%2F49362fe7898047c3a0e76cb94b304a0c\" /><br />Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/3224a29/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F02%2F59affd348701aaff358a8ec7010c%2F49362fe7898047c3a0e76cb94b304a0c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "03b0a84bcac375ec869511070065aef33bdabe66",
+    "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
+    "link": "https://apnews.com/article/russia-ukraine-war-witkoff-kushner-zelenskyy-putin-44bba3b57b480560d9f48dba7d28534e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/d260893/2147483647/strip/true/crop/3561x2374+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2Fee%2Fc838d3b3a8905ec7d2e6319d2e09%2F329ef7c40afe42e0839c39d4f618600c\" /><br />US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/d260893/2147483647/strip/true/crop/3561x2374+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2Fee%2Fc838d3b3a8905ec7d2e6319d2e09%2F329ef7c40afe42e0839c39d4f618600c",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/896246/iranian-oil-tanker-has-sunk-in-gulf-of-oman-after-us-strikes",
+    "title": "Iranian oil tanker has sunk in Gulf of Oman after US strikes",
+    "link": "https://www.daily-sun.com/world/896246/iranian-oil-tanker-has-sunk-in-gulf-of-oman-after-us-strikes",
+    "description": "Iran has strongly condemned the US attacks on its commercial vessels",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Iranian-oil-tanker-has-sunk-in-Gulf-of-Oman-after-US-strikes-6a9ce568cdc7d.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/896243/kremlin-says-ukraine-talks-with-us-envoys-were-useful-no-sign-of-breakthrough",
+    "title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough",
+    "link": "https://www.daily-sun.com/world/896243/kremlin-says-ukraine-talks-with-us-envoys-were-useful-no-sign-of-breakthrough",
+    "description": "Russian President Putin meets US envoys, discussing potential Ukraine war settlement. Talks deemed 'highly useful' despite no breakthrough, says aide.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/US-envoys_Daily-Sun-6a9cd346800eb.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/896113/anarchy-attempts-to-face-strict-action-under-law-pm",
+    "title": "Anarchy attempts to face strict action under law: PM",
+    "link": "https://daily-sun.com/bangladesh/896113/anarchy-attempts-to-face-strict-action-under-law-pm",
+    "description": "",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/896272/bangladesh-moves-to-break-bpc-monopoly-on-fuel-market",
+    "title": "Bangladesh moves to break BPC monopoly on fuel market",
+    "link": "https://www.daily-sun.com/bangladesh/896272/bangladesh-moves-to-break-bpc-monopoly-on-fuel-market",
+    "description": "Private sector may be allowed to import, distribute and sell petroleum products under proposed policy",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/BPC_Fuel-market-6a9d27a22cc5f.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "0fdcc98bff30ab52ba66ad6efbd10f86",
+    "title": "Mild fever masks rapid deterioration as dengue cases rise",
+    "link": "https://en.bonikbarta.com/bangladesh/D24qJEJM0bTnAuk1/",
+    "description": "Platelet counts can fall within hours, while bleeding, plasma leakage and liver or kidney complications may develop with little warning.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
+  },
+  {
+    "id": "9296836b13b47db8595cebfbaf23be97",
+    "title": "US, Iranian forces fire at vessels in waters near Iran",
+    "link": "https://en.bonikbarta.com/international/Yxre3P2RwxQu8MTH/",
+    "description": "The exchange of attacks followed an escalation ​in the past week that threatens to deepen a conflict that has continued since the U.S. and Israel launched strikes on Iran in February.",
+    "published": "Sun, 06 Sep 2026 16:12:25 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
