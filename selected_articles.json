@@ -117506,5 +117506,61 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Russian-Foreign-Minister-Sergei-Lavrov-AFP-6a9d9dba0ee0d.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/potato-exports-halve-mideast-war-drives-shipping-costs-1535341",
+    "title": "Potato exports halve as Mideast war drives up shipping costs",
+    "link": "https://www.tbsnews.net/economy/potato-exports-halve-mideast-war-drives-shipping-costs-1535341",
+    "description": "Potato shipments through the country’s premier seaport fell by 19,939 tonnes year-on-year, a decline of 49%, according to data from the Plant Quarantine Centre at Chattogram Port",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/05/05/potato_farmer.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/896274/bangladesh-bank-raises-annual-travel-quota-to-18-000",
+    "title": "Bangladesh Bank raises annual travel quota to $18,000",
+    "link": "https://daily-sun.com/business/896274/bangladesh-bank-raises-annual-travel-quota-to-18-000",
+    "description": "",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "87e91eac1e6ac42793627ac56afffac40baa7c7f",
+    "title": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
+    "link": "https://apnews.com/article/north-korea-kim-destroyer-nuclear-trump-5c3ab31efd058e734ac645991fd22567",
+    "description": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/896351/report-3",
+    "title": "Mintoo, Nepalese envoy for strengthening cooperation in environmental protection",
+    "link": "https://www.daily-sun.com/diplomacy/896351/report-3",
+    "description": "Nepalese Ambassador to Bangladesh Ghanshyam Bhandari on Sunday paid a courtesy call on Environment, Forest and Climate Change Minister",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Untitled-(1)-6a9da68c4eb14.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/896349/report-2",
+    "title": "Ten more parliamentary committees constituted",
+    "link": "https://www.daily-sun.com/bangladesh/896349/report-2",
+    "description": "Ten more parliamentary standing committees on different ministries were formed in the Jatiya Sangsad on Sunday while another committee was",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Parliament-house-6a9dbce5d8d37.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/896319/iran-threatens-greater-force-if-us-launches-more-attacks",
+    "title": "Iran threatens greater force if US launches more attacks",
+    "link": "https://www.daily-sun.com/world/896319/iran-threatens-greater-force-if-us-launches-more-attacks",
+    "description": "Washington is also seeking to choke Iran's economy, rolling out sanctions on entities with financial links to the Islamic republic...",
+    "published": "Mon, 07 Sep 2026 08:41:23 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/US-Iran-flags-Reuters-6a9d978c937cf.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
