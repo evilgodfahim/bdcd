@@ -119683,5 +119683,347 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/08/medium/Houthis_accuse_Saudi-_Arabia-6a9f91703ee84.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/trade-deficit-widens-2b-exports-fall-petroleum-fertiliser-imports-rise-1537316",
+    "title": "Trade deficit widens to $2b as exports fall, petroleum, fertiliser imports rise",
+    "link": "https://www.tbsnews.net/economy/trade-deficit-widens-2b-exports-fall-petroleum-fertiliser-imports-rise-1537316",
+    "description": "According to BoP data, imports grew by 8.6% in July, while exports declined by 1.9%. As imports exceed exports, the trade deficit widens.",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2019/06/16/trade_deficit.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/iran-guards-claim-capture-one-smartest-us-submarines-strait-hormuz-1537301",
+    "title": "Iran Guards claim capture of 'one of smartest' US submarines in Strait of Hormuz",
+    "link": "https://www.tbsnews.net/world/iran-guards-claim-capture-one-smartest-us-submarines-strait-hormuz-1537301",
+    "description": "The IRGC said it would release photographs and detailed video footage of the captured US asset later.",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/01/strait_of_hormuz.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/unga-president-khalilur-rahman-vows-open-inclusive-presidency-1537281",
+    "title": "UNGA President Khalilur Rahman vows open, inclusive presidency",
+    "link": "https://www.tbsnews.net/bangladesh/unga-president-khalilur-rahman-vows-open-inclusive-presidency-1537281",
+    "description": "Khalilur pledges to place place a “high premium on cooperation and dialogue” during his presidency.",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/08/fm_unga.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
+    "title": "Customers withdraw Tk670cr from Sammilito Islami Bank in two days",
+    "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
+    "description": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied.",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/07/sammilito_islami_bank.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/stocks/bangladesh-bank-appoints-administrator-fareast-finance-resolution-1537186",
+    "title": "Bangladesh Bank appoints administrator for Fareast Finance resolution",
+    "link": "https://www.tbsnews.net/economy/stocks/bangladesh-bank-appoints-administrator-fareast-finance-resolution-1537186",
+    "description": "All three officials formally assumed their respective roles on 9 August, the disclosure said.",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/08/fareast_finance_investment.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/896504/inflation-drops-for-third-straight-month-to-8-26-in-august",
+    "title": "Inflation drops for 3rd straight month to 8.26% in August",
+    "link": "https://daily-sun.com/business/896504/inflation-drops-for-third-straight-month-to-8-26-in-august",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896653/govt-cuts-aromatic-rice-export-quota-by-50pc",
+    "title": "Govt cuts aromatic rice export quota by 50pc",
+    "link": "https://www.daily-sun.com/business/896653/govt-cuts-aromatic-rice-export-quota-by-50pc",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896764",
+    "title": "Yarn import rules tightened, garment exporters protest",
+    "link": "https://www.daily-sun.com/business/896764",
+    "description": "Textile millers welcome the move",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896762",
+    "title": "HSIA third terminal soft opening set for 16 Dec",
+    "link": "https://www.daily-sun.com/business/896762",
+    "description": "HSIA third terminal soft opening set for 16 Dec",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/09/medium/HSIA-Third-Terminal-6aa07c996a748.gif",
+    "thumbnail_type": "image/gif"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/896733",
+    "title": "One lakh families to get subsidised LPG from Nov",
+    "link": "https://www.daily-sun.com/business/896733",
+    "description": "One lakh families to get subsidised LPG from Nov",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/09/medium/21---09-09-2026-ds-6aa04684eab77.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladesh-economy-shows-resilience-agriculture-expands-construction-rebounds-august-1537136",
+    "title": "Bangladesh economy shows resilience as agriculture expands, construction rebounds in August",
+    "link": "https://www.tbsnews.net/economy/bangladesh-economy-shows-resilience-agriculture-expands-construction-rebounds-august-1537136",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/07/08/pmi.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/energy/govt-targets-20-electricity-renewables-2030-amit-1537066",
+    "title": "Govt targets 20% of electricity from renewables by 2030: Amit",
+    "link": "https://www.tbsnews.net/economy/energy/govt-targets-20-electricity-renewables-2030-amit-1537066",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/09/03/solar_power.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/uk-france-and-canada-sanction-israeli-west-bank-settlements-support-two-state-solution-1537031",
+    "title": "Israel to close British consulate in East Jerusalem after UK, France and Canada ban imports from settlements",
+    "link": "https://www.tbsnews.net/world/uk-france-and-canada-sanction-israeli-west-bank-settlements-support-two-state-solution-1537031",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/08/_drone_view.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/govt-raises-social-security-allowances-expands-beneficiaries-fy27-1536981",
+    "title": "Govt raises social security allowances, expands beneficiaries in FY27",
+    "link": "https://www.tbsnews.net/bangladesh/govt-raises-social-security-allowances-expands-beneficiaries-fy27-1536981",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/01/26/social-safety.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/wb-recommends-phased-tariff-reform-boost-bangladeshs-trade-competitiveness-1536971",
+    "title": "WB recommends phased tariff reform to boost Bangladesh’s trade competitiveness",
+    "link": "https://www.tbsnews.net/economy/wb-recommends-phased-tariff-reform-boost-bangladeshs-trade-competitiveness-1536971",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/08/world_bank.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/parliamentary-committee-approves-bill-replace-rab-special-response-battalion-1536951",
+    "title": "Parliamentary committee approves bill to replace RAB with Special Response Battalion",
+    "link": "https://www.tbsnews.net/bangladesh/parliamentary-committee-approves-bill-replace-rab-special-response-battalion-1536951",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/08/11/766598454_1838136720506883_187089125413660101_n.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-backed-houthis-attack-four-saudi-cities-expansion-middle-east-war-73-hurt",
+    "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-backed-houthis-attack-four-saudi-cities-expansion-middle-east-war-73-hurt",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/08/houthis_attack_.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/pm-modi-russias-putin-hold-bilateral-talks-friday-su-57-aircraft-sale-india-agenda-1536796",
+    "title": "Modi, Putin to hold bilateral talks Friday, Su-57 aircraft sale to India on agenda",
+    "link": "https://www.tbsnews.net/world/pm-modi-russias-putin-hold-bilateral-talks-friday-su-57-aircraft-sale-india-agenda-1536796",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/08/screenshot_2026-09-08_163600.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/news/bangladesh-makes-final-push-defer-ldc-graduation-4267416",
+    "title": "Bangladesh makes final push to defer LDC graduation",
+    "link": "https://www.thedailystar.net/business/news/bangladesh-makes-final-push-defer-ldc-graduation-4267416",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/power-and-energy/news/petrobangla-loosens-rules-attract-spot-lng-suppliers-4267411",
+    "title": "Petrobangla loosens rules to attract spot LNG suppliers",
+    "link": "https://www.thedailystar.net/news/power-and-energy/news/petrobangla-loosens-rules-attract-spot-lng-suppliers-4267411",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/419391/us-slaps-sanctions-on-iran-airlines-service",
+    "title": "US slaps sanctions on Iran airlines, service providers",
+    "link": "https://www.dhakatribune.com/world/middle-east/419391/us-slaps-sanctions-on-iran-airlines-service",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/11/ec9b735dc04558b98255aeb2192511b9-6a2a53e2895be.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/europe/419353/russia-ukraine-talks-possible-this-month-zelensky",
+    "title": "Russia-Ukraine talks possible this month, Zelensky says, as Moscow pounds Kyiv",
+    "link": "https://www.dhakatribune.com/world/europe/419353/russia-ukraine-talks-possible-this-month-zelensky",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/09/08/dda63ead09cf6a83e22fbd1fe64bc191-6a9fef1d0de2e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/419365/remittances-fall-from-6-of-the-top-10-sending",
+    "title": "Remittances fall from 6 of the top 10 sending countries",
+    "link": "https://www.dhakatribune.com/business/419365/remittances-fall-from-6-of-the-top-10-sending",
+    "description": "In the first two months (July–August) of the current FY27, remittance inflows to Bangladesh decreased from six out of the top ten source countries.\nConversely, inward remittances increased...",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2025/01/20/pexels-john-guccione-www-advergroup-com-1874301-3531895-5ac071fac74e069c26c13c6b19093f1e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/business/419352/bangladesh%E2%80%99s-august-pmi-reports-slight-economic",
+    "title": "Bangladesh’s August PMI reports slight economic contraction",
+    "link": "https://www.dhakatribune.com/business/419352/bangladesh%E2%80%99s-august-pmi-reports-slight-economic",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/11/31a48823eac5ac1c808203c52e8e7301-6a2a8eee114ff.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/govt-to-buy-6-more-spot-lng-cargoes-for-oct-delivery",
+    "title": "Govt to buy 6 more spot LNG cargoes for Oct delivery",
+    "link": "https://thefinancialexpress.com.bd/trade/govt-to-buy-6-more-spot-lng-cargoes-for-oct-delivery",
+    "description": "Govt to buy 6 more spot LNG cargoes for Oct delivery",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/national/tender-for-mrt-line-1-rolling-stock-depot-equipment-to-open-oct-12",
+    "title": "Tender for MRT Line-1 rolling stock, depot equipment to open Oct 12",
+    "link": "https://thefinancialexpress.com.bd/national/tender-for-mrt-line-1-rolling-stock-depot-equipment-to-open-oct-12",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml",
+    "thumbnail": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/171200/metro-08.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/economy/falling-inflation-offers-little-relief-as-wage-growth-lags-squeezing-real-incomes",
+    "title": "Falling inflation offers little relief as wage growth lags, squeezing real incomes",
+    "link": "https://thefinancialexpress.com.bd/economy/falling-inflation-offers-little-relief-as-wage-growth-lags-squeezing-real-incomes",
+    "description": "On paper, the inflation situation in Bangladesh is improving, but the squeeze on households continues as wage growth has slowed further, lowering real incomes. Updated figures from the Bangladesh Bureau of Statistics (BBS) show overall inf...",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/ban-on-knit-fabric-imports-abolished",
+    "title": "Ban on knit fabric imports abolished",
+    "link": "https://thefinancialexpress.com.bd/trade/ban-on-knit-fabric-imports-abolished",
+    "description": "FE Online Report The government on Tuesday has abolished the provision, which prohibits the import of knit fabrics, in the new import policy for 2026-29 amid the withdrawal demand from the garment exporters. The restriction remain...",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/banks-provisioning-shortfall-crosses-tk-20-trillion-1788890056",
+    "title": "Banks' provisioning shortfall crosses Tk 2.0 trillion",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/banks-provisioning-shortfall-crosses-tk-20-trillion-1788890056",
+    "description": "",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1788890056.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/current-account-records-64m-surplus-in-july-1788891164",
+    "title": "Current account records $64m surplus in July",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/current-account-records-64m-surplus-in-july-1788891164",
+    "description": "Bangladesh's current account remained in surplus in July, the first...",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/wb-weighs-300m-package-to-shield-coastal-bangladesh-from-future-floods-1788891310",
+    "title": "WB weighs $300m package to shield coastal Bangladesh from future floods",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/wb-weighs-300m-package-to-shield-coastal-bangladesh-from-future-floods-1788891310",
+    "description": "The World Bank has signalled its interest in helping Bangladesh...",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "16f033836dfbf1d3ad612515d8667e0c82626730",
+    "title": "What to know as Canada’s retaliatory tariffs on $20 billion worth of US goods take effect",
+    "link": "https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/915e351/2147483647/strip/true/crop/3000x1856+0+0/resize/599x371!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Fa8%2Fbdde94a2bac327067aab245c44c2%2F00c2c6a26d3b4061ba25590f48e727bb\" /><br />What to know as Canada’s retaliatory tariffs on $20 billion worth of US goods take effect",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/915e351/2147483647/strip/true/crop/3000x1856+0+0/resize/599x371!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Fa8%2Fbdde94a2bac327067aab245c44c2%2F00c2c6a26d3b4061ba25590f48e727bb",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "d2db8933b912ecc1f86a75e26883b5ad2900486a",
+    "title": "Nicaragua tells top UN court Germany is violating international law by selling weapons to Israel",
+    "link": "https://apnews.com/article/world-court-israel-germany-genocide-nicaragua-arms-b7dde110e9349ce3070a852bdbede518",
+    "description": "Nicaragua tells top UN court Germany is violating international law by selling weapons to Israel",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "7b7128defbcf80f2a874de5daa0b435667df186f",
+    "title": "Zelenskyy says US envoys have ‘very good’ ideas to end Russia’s war on Ukraine",
+    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/435211f/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Ffd%2Ff0034e9e34f917830539006f42f6%2Fff4f65208af44d3a8236560861c3b0fe\" /><br />Zelenskyy says US envoys have ‘very good’ ideas to end Russia’s war on Ukraine",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/435211f/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Ffd%2Ff0034e9e34f917830539006f42f6%2Fff4f65208af44d3a8236560861c3b0fe",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "90e84a65b09f7fcc0affedbf7ed3c63680d301b0",
+    "title": "Putin assures Trump that Moscow doesn’t have aggressive plans toward Europe, Kremlin says",
+    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/0ea431f/2147483647/strip/true/crop/4240x2832+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F6e%2F87393d480c47ddd57b5b73510a71%2Fa14bb6630fa54782aed9835cc18ed957\" /><br />Putin assures Trump that Moscow doesn’t have aggressive plans toward Europe, Kremlin says",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/0ea431f/2147483647/strip/true/crop/4240x2832+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F6e%2F87393d480c47ddd57b5b73510a71%2Fa14bb6630fa54782aed9835cc18ed957",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "00e3f2372e0da08c2f91f97ca1698ce75bfa7354",
+    "title": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship",
+    "link": "https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/b553c96/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fa7%2Fd9c819d35f27086a4e7a284f26c3%2F738bd527fbc84c7bb723ae239f1d98cd\" /><br />US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship",
+    "published": "Wed, 09 Sep 2026 05:10:05 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/b553c96/2147483647/strip/true/crop/6000x4000+0+0/resize/727x485!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fa7%2Fd9c819d35f27086a4e7a284f26c3%2F738bd527fbc84c7bb723ae239f1d98cd",
+    "thumbnail_type": "image/jpeg"
   }
 ]
