@@ -123049,5 +123049,426 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Saudi-strikes-in-fresh-attack_Sun-6aa26aed0a5f9.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/agriculture/fertiliser-shortage-claims-grow-despite-govt-claim-adequate-stocks-1539556",
+    "title": "Fertiliser shortage claims grow despite govt claim of adequate stocks",
+    "link": "https://www.tbsnews.net/agriculture/fertiliser-shortage-claims-grow-despite-govt-claim-adequate-stocks-1539556",
+    "description": "Govt blames dealer gaps.",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/19/fertiliser_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/897071",
+    "title": "‘Rice imports set to climb 14%’",
+    "link": "https://www.daily-sun.com/business/897071",
+    "description": "USDA report cites Aus, Aman crop losses as import gap set to widen to 1.6m tonnes",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/897070",
+    "title": "Defaults push 15 banks’ provision gap to record Tk2.29 lakh crore",
+    "link": "https://www.daily-sun.com/business/897070",
+    "description": "Economists warn of risk to depositor confidence",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/897170/oil-prices-surge-6-on-continued-mideast-tanker-attacks",
+    "title": "Oil prices surge 6% on continued Mideast tanker attacks",
+    "link": "https://www.daily-sun.com/business/897170/oil-prices-surge-6-on-continued-mideast-tanker-attacks",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/897169/imf-says-world-avoids-worst-of-mideast-energy-shock-but-risks-remain-high",
+    "title": "IMF says world avoids worst of Mideast energy shock, but risks remain high",
+    "link": "https://www.daily-sun.com/business/897169/imf-says-world-avoids-worst-of-mideast-energy-shock-but-risks-remain-high",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1009-7-more-children-die-1538961",
+    "title": "Measles death toll reaches 1,009 as 7 more children die",
+    "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1009-7-more-children-die-1538961",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/news/no-decision-yet-cross-border-trains-india-must-send-formal-proposal-additional-secretary-4269771",
+    "title": "No decision yet on cross-border trains; India must send formal proposal: Additional secretary",
+    "link": "https://www.thedailystar.net/news/news/no-decision-yet-cross-border-trains-india-must-send-formal-proposal-additional-secretary-4269771",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/1e5e8bad514e",
+    "title": "Canada has agreed to big air defence package for Ukraine: Carney",
+    "link": "https://bdnews24.com/world/1e5e8bad514e",
+    "description": "[World] Canada has agreed to big air defence package for Ukraine: Carney",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/canada-zelensky-10092026-01-1789062831.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/a2daf1930b43",
+    "title": "Bangladesh's first envoy presents credentials to New Zealand",
+    "link": "https://bdnews24.com/bangladesh/a2daf1930b43",
+    "description": "[Bangladesh] Bangladesh's first envoy presents credentials to New Zealand",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/bangladesh-newzealand-100926-01-1789054148.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/parliament/419561/pm-assures-people-of-gradually-resolving-gas",
+    "title": "PM assures people of gradually resolving gas, power crisis",
+    "link": "https://www.dhakatribune.com/bangladesh/parliament/419561/pm-assures-people-of-gradually-resolving-gas",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/09/10/909a4e9e57420d9dbb45dacfe08e3858-6aa2ccd7def22.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.dhakatribune.com/world/middle-east/419559/oil-prices-flare-as-iran-tightens-grip-on-hormuz",
+    "title": "Oil prices flare as Iran tightens grip on Hormuz",
+    "link": "https://www.dhakatribune.com/world/middle-east/419559/oil-prices-flare-as-iran-tightens-grip-on-hormuz",
+    "description": "Tehran requires vessels to obtain permission and pay transit fees\nTrump said oil prices would fall after America wins",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/08/12/7a79791b286a14786feab5f0a5536457-6a7c912221836.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.dhakatribune.com/sport/other-sports/419570/bangladesh-nepal-discuss-strengthening-ties",
+    "title": "Bangladesh, Nepal discuss strengthening ties through sports diplomacy",
+    "link": "https://www.dhakatribune.com/sport/other-sports/419570/bangladesh-nepal-discuss-strengthening-ties",
+    "description": "Bangladesh and Nepal discussed ways to strengthen bilateral ties through cricket and sports diplomacy when Nepal's ambassador to Bangladesh, Ghanashyam Bhandari, met State Minister for Youth and...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/09/10/92752cc2e8cae97c2f4ca0141dbf5cc1-6aa2ece817a53.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/editorial/building-sufficient-lng-storage-facility",
+    "title": "Building sufficient LNG storage facility",
+    "link": "https://thefinancialexpress.com.bd/editorial/building-sufficient-lng-storage-facility",
+    "description": "Building sufficient LNG storage facility",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/trade/bangladesh-unveils-185b-plan-for-equitable-green-economic-transition",
+    "title": "Bangladesh unveils $1.85b plan for equitable green economic transition",
+    "link": "https://thefinancialexpress.com.bd/trade/bangladesh-unveils-185b-plan-for-equitable-green-economic-transition",
+    "description": "Bangladesh unveils $1.85b plan for equitable green economic transition",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/pm-not-attending-brics-summit-in-india-1789064325",
+    "title": "PM not attending BRICS Summit in India",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/pm-not-attending-brics-summit-in-india-1789064325",
+    "description": "Bangladesh Prime Minister or any other representative will not participate...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/pertamina-to-get-om-contract-for-bds-first-spm-1789064389",
+    "title": "Pertamina to get O&M contract for BD's first SPM",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/pertamina-to-get-om-contract-for-bds-first-spm-1789064389",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789064389.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/hc-orders-yunus-grameen-kalyan-to-pay-tk-666b-in-taxes-1789064579",
+    "title": "HC orders Yunus' Grameen Kalyan to pay Tk 6.66b in taxes",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/hc-orders-yunus-grameen-kalyan-to-pay-tk-666b-in-taxes-1789064579",
+    "description": "The High Court has upheld a Tk 6.66 billion tax...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/post-clearance-audit-detects-huge-sums-in-lost-revenue-1789064674",
+    "title": "Post-clearance audit detects huge sums in lost revenue",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/post-clearance-audit-detects-huge-sums-in-lost-revenue-1789064674",
+    "description": "Customs detected Tk 6.18 billion in lost revenue through post-clearance...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/all-eligible-individuals-can-contest-local-govt-polls-1789064766",
+    "title": "All eligible individuals can contest local govt polls",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/all-eligible-individuals-can-contest-local-govt-polls-1789064766",
+    "description": "Anyone who meets the requirements will be able to contest...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/thakurgaon-1-by-election-on-oct-29-1789064799",
+    "title": "Thakurgaon-1 by-election on Oct 29",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/thakurgaon-1-by-election-on-oct-29-1789064799",
+    "description": "The by-election to Thakurgaon-1 constituency will be held on October...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/soybean-oil-supply-yet-to-get-normal-despite-price-surge-1789064919",
+    "title": "Soybean oil supply yet to get normal, despite price surge",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/soybean-oil-supply-yet-to-get-normal-despite-price-surge-1789064919",
+    "description": "Soybean oil supplies remain tight in the city despite a...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/govt-adopts-strategic-plans-to-improve-law-and-order-salahuddin-1789064932",
+    "title": "Govt adopts strategic plans to improve law and order: Salahuddin",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/govt-adopts-strategic-plans-to-improve-law-and-order-salahuddin-1789064932",
+    "description": "Home Minister Salahuddin Ahmed on Thursday said the government has...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/govt-has-no-intention-to-muzzle-press-freedom-thru-proposed-csa-1789065005",
+    "title": "Govt has no intention to muzzle press freedom thru proposed CSA",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/govt-has-no-intention-to-muzzle-press-freedom-thru-proposed-csa-1789065005",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789065005.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/us-overtakes-india-in-bangladesh-trade-1789065253",
+    "title": "US overtakes India in Bangladesh trade",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/us-overtakes-india-in-bangladesh-trade-1789065253",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789065253.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/rab-disbanded-new-battalion-srb-born-1789065308",
+    "title": "RAB disbanded, new battalion SRB born",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/rab-disbanded-new-battalion-srb-born-1789065308",
+    "description": "A new elite force styled Special Response Battalion (SRB) is...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/saima-resigns-as-who-regional-head-after-fraud-allegations-1789065365",
+    "title": "Saima resigns as WHO regional head after fraud allegations",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/saima-resigns-as-who-regional-head-after-fraud-allegations-1789065365",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789065364.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/pubali-bank-plans-capital-hike-to-meet-bbs-cash-dividend-requirement-1789060500",
+    "title": "Pubali Bank plans capital hike to meet BB's cash dividend requirement",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/pubali-bank-plans-capital-hike-to-meet-bbs-cash-dividend-requirement-1789060500",
+    "description": "Pubali Bank is set to double its authorised capital to...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/dhaka-bourse-extends-losing-streak-as-oil-prices-inflation-fears-weigh-on-investors-1789060539",
+    "title": "Dhaka bourse extends losing streak as oil prices, inflation fears weigh on investors",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/dhaka-bourse-extends-losing-streak-as-oil-prices-inflation-fears-weigh-on-investors-1789060539",
+    "description": "The Dhaka bourse closed the week's last session in the...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/brac-bank-marks-completion-of-countrys-first-social-bond-1789060617",
+    "title": "BRAC Bank marks completion of country's first social bond",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/brac-bank-marks-completion-of-countrys-first-social-bond-1789060617",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789060617.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/saudi-led-coalition-houthis-trade-strikes-as-yemen-conflict-deepens-1789058934",
+    "title": "Saudi-led coalition, Houthis trade strikes as Yemen conflict deepens",
+    "link": "https://today.thefinancialexpress.com.bd/world/saudi-led-coalition-houthis-trade-strikes-as-yemen-conflict-deepens-1789058934",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789058934.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/india-hosts-brics-summit-as-iran-war-tests-bloc-unity-1789058993",
+    "title": "India hosts BRICS summit as Iran war tests bloc unity",
+    "link": "https://today.thefinancialexpress.com.bd/world/india-hosts-brics-summit-as-iran-war-tests-bloc-unity-1789058993",
+    "description": "NEW DELHI, Sept 10 (Reuters): India will host the BRICS...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/august-hottest-month-ever-recorded-globally-1789059077",
+    "title": "August hottest month ever recorded globally",
+    "link": "https://today.thefinancialexpress.com.bd/world/august-hottest-month-ever-recorded-globally-1789059077",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789059077.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/palm-oil-imports-far-outpace-soybean-oil-1789060153",
+    "title": "Palm oil imports far outpace soybean oil",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/palm-oil-imports-far-outpace-soybean-oil-1789060153",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789060153.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/bangladesh-to-explore-potato-export-potential-in-sri-lanka-1789060278",
+    "title": "Bangladesh to explore potato export potential in Sri Lanka",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/bangladesh-to-explore-potato-export-potential-in-sri-lanka-1789060278",
+    "description": "Bangladesh has planned to send a trade delegation to Sri...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/ctg-port-service-charges-payable-via-rtgs-from-sept-15-1789060302",
+    "title": "Ctg port service charges payable via RTGS from Sept 15",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/ctg-port-service-charges-payable-via-rtgs-from-sept-15-1789060302",
+    "description": "CHATTOGRAM, Sep 10: Bangladesh Bank (BB) is set to introduce...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/prime-bank-joins-bbs-tk-30b-refinance-scheme-1789060335",
+    "title": "PRIME BANK JOINS BB'S TK 30B REFINANCE SCHEME",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/prime-bank-joins-bbs-tk-30b-refinance-scheme-1789060335",
+    "description": "",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1789060335.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "f633f0ec43db8b673b6350ce5b7a41b1bf569a2a",
+    "title": "Africa’s top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter",
+    "link": "https://apnews.com/article/congo-ebola-africa-cdc-spreading-beyond-ituri-d89532548b1b41245892d7e0cbe594d3",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/b5fcee9/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F22%2Fa6c4df90cdb1ea61034b19014ceb%2Fec9ec616753c481daa573b73484f40c5\" /><br />Africa’s top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/b5fcee9/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F22%2Fa6c4df90cdb1ea61034b19014ceb%2Fec9ec616753c481daa573b73484f40c5",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "7f0d30f2e8abcff9a45c87fdcc9df4af30df2964",
+    "title": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 21",
+    "link": "https://apnews.com/article/gangs-cartels-sinaloa-aragua-trump-terrorist-organizations-dda946feb76a561e0cade793b2096a39",
+    "description": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 21",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/897054/brig-gen-mostafa-kamal-appointed-new-ig-prisons",
+    "title": "Mustafa Kamal promoted to Brig Gen, appointed new IG prisons",
+    "link": "https://www.daily-sun.com/bangladesh/897054/brig-gen-mostafa-kamal-appointed-new-ig-prisons",
+    "description": "The government has appointed Brig Gen Mohammad Mostafa Kamal as the new Inspector General (IG) of Prisons in a reshuffle",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Untitled-6aa2c5d2d86db.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/feature/897042/asylum-applications-fall-in-europe-rise-13-among-bangladeshis",
+    "title": "Asylum applications fall in Europe, rise 13% among Bangladeshis",
+    "link": "https://www.daily-sun.com/feature/897042/asylum-applications-fall-in-europe-rise-13-among-bangladeshis",
+    "description": "France received the highest number of asylum applications among EU+ countries during the first six months of 2026",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/At-least-50-Sudanese-refugees-dead-in-Libya-shipwreck-6aa2b0f2a1089.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/897041/mecca-defence-pact",
+    "title": "No plans to expand Mecca Defence Pact for now: Pakistan",
+    "link": "https://www.daily-sun.com/bangladesh/897041/mecca-defence-pact",
+    "description": "Pakistan on Thursday said there are currently no plans to expand the Mecca Defence Alliance, a three-member pact involving Pakistan,",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Mecca-pact-6aa2b41529751.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/897039/humaiun-seeks-norwegian-investment-in-renewable-energy",
+    "title": "Humaiun seeks Norwegian investment in renewable energy",
+    "link": "https://www.daily-sun.com/diplomacy/897039/humaiun-seeks-norwegian-investment-in-renewable-energy",
+    "description": "State Minister for Foreign Affairs Humaiun Kobir on Thursday sought Norway’s support to expand and accelerate investment in Bangladesh’s renewable",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Untitled-(1)-6aa2aa7fc0ced.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/897038/rab-dissolved-srb-bill-passed-in-parliament",
+    "title": "JS passes SRB Bill dissolving RAB amid opposition objections",
+    "link": "https://www.daily-sun.com/bangladesh/897038/rab-dissolved-srb-bill-passed-in-parliament",
+    "description": "The bill was passed by voice vote amid objections from opposition lawmakers on Thursday...",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Jatiya-Sangsad-parliament-HS-BSS-6aa2a8ffcd4b9.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/897121/mecca-group-avoids-military-move-over-houthi-strikes-on-saudi-arabia-but-urges-iran-to-rein-in-militias",
+    "title": "Mecca group avoids military move over Houthi strikes on Saudi Arabia, but warns Iran to rein in militias",
+    "link": "https://www.daily-sun.com/world/897121/mecca-group-avoids-military-move-over-houthi-strikes-on-saudi-arabia-but-urges-iran-to-rein-in-militias",
+    "description": "Pakistan said on Thursday that there were no discussions about a military reaction from Islamabad under the Mecca agreement in",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/mecca-defence-pact-6aa2efbf2b9de.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/897109/houthis-advance-along-yemeni-coast-in-new-threat-to-shipping",
+    "title": "Houthis advance along Yemeni coast in new threat to shipping",
+    "link": "https://www.daily-sun.com/world/897109/houthis-advance-along-yemeni-coast-in-new-threat-to-shipping",
+    "description": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/IRAN-CRISIS-SAUDI-YEMEN-6aa2eb55e9833.JPG",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/897074/nbr",
+    "title": "NBR transfers, appoints 266 officials",
+    "link": "https://www.daily-sun.com/bangladesh/897074/nbr",
+    "description": "A total of 266 assistant revenue officers of the National Board of Revenue (NBR) have been transferred and posted, said",
+    "published": "Fri, 11 Sep 2026 05:40:35 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/nbr-6aa322e850622.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
