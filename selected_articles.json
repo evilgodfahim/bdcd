@@ -124697,5 +124697,79 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/11/medium/Untitled-6aa41dff18fd3.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/features/panorama/bangladeshs-property-law-amendment-puts-lifetime-security-deed-1540221",
+    "title": "Bangladesh’s property law amendment puts lifetime security on the deed",
+    "link": "https://www.tbsnews.net/features/panorama/bangladeshs-property-law-amendment-puts-lifetime-security-deed-1540221",
+    "description": "The amendment creates an optional, parallel civil route for property transfer, protecting vulnerable elderly parents without altering existing personal laws",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/12/pano_elderly_parents_copy.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-discuss-strait-hormuz-gulf-states-oman-monday-1540211",
+    "title": "Iran to discuss Strait of Hormuz with Gulf states in Oman on Monday",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-discuss-strait-hormuz-gulf-states-oman-monday-1540211",
+    "description": "Meeting seeks agreement on temporary shipping arrangements",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/12/oil_tankers_and_cargo_vessels_anchor_off_the_coast_of_oman.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/houthis-used-ai-develop-guided-rockets-and-missiles-anthropic-1540206",
+    "title": "Houthis used AI to develop guided rockets and missiles: Anthropic",
+    "link": "https://www.tbsnews.net/world/houthis-used-ai-develop-guided-rockets-and-missiles-anthropic-1540206",
+    "description": "Anthropic detected three weapons programmes in northern Yemen.",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/12/houthi_militants_march_in_sanaa.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/houthis-claim-control-key-island-near-bab-el-mandab-1540196",
+    "title": "Houthis claim control of key island near Bab el-Mandab",
+    "link": "https://www.tbsnews.net/world/houthis-claim-control-key-island-near-bab-el-mandab-1540196",
+    "description": "Takeover expands Houthi reach over vital shipping route",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/12/houthi_fighters.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/middle-east/6775f7121f42",
+    "title": "Saudi shuts down East-West pipeline after attacks",
+    "link": "https://bdnews24.com/world/middle-east/6775f7121f42",
+    "description": "[West Asia] Saudi shuts down East-West pipeline after attacks",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/2026-09-11t095921z-322715747-rc2xgna2b7kz-rtrmadp-3-iran-crisis-saudi-pipeline-satellite-1789159383.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "c9556b58e3b35a28b8308e591349f13dfd17507c",
+    "title": "The Houthi advance in Yemen raises concerns about a key shipping choke point",
+    "link": "https://apnews.com/article/yemen-houthis-iran-strait-mokha-shipping-ab2e69eb2959979bae44eb4d45ae637e",
+    "description": "The Houthi advance in Yemen raises concerns about a key shipping choke point",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://daily-sun.com/world/897121/mecca-group-avoids-military-move-over-houthi-strikes-on-saudi-arabia-but-urges-iran-to-rein-in-militias",
+    "title": "Mecca group avoids military move over Houthi strikes on Saudi Arabia, but warns Iran to rein in militias",
+    "link": "https://daily-sun.com/world/897121/mecca-group-avoids-military-move-over-houthi-strikes-on-saudi-arabia-but-urges-iran-to-rein-in-militias",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://daily-sun.com/sports/897165/bangladesh-nepal-eye-stronger-ties-through-sports-diplomacy",
+    "title": "Bangladesh, Nepal eye stronger ties through sports diplomacy",
+    "link": "https://daily-sun.com/sports/897165/bangladesh-nepal-eye-stronger-ties-through-sports-diplomacy",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 04:12:44 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
