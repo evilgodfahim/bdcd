@@ -124771,5 +124771,85 @@
     "description": "",
     "published": "Sat, 12 Sep 2026 04:12:44 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://daily-sun.com/business/897170/oil-prices-surge-6-on-continued-mideast-tanker-attacks",
+    "title": "Oil prices surge 6% on continued Mideast tanker attacks",
+    "link": "https://daily-sun.com/business/897170/oil-prices-surge-6-on-continued-mideast-tanker-attacks",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
+    "title": "Gas supply to improve within 5-7 days, says PM Tarique",
+    "link": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/technology/news/anthropic-disrupts-pro-awami-league-fake-news-operation-bangladesh-4270441",
+    "title": "Anthropic disrupts pro-Awami League fake-news operation in Bangladesh",
+    "link": "https://www.thedailystar.net/news/technology/news/anthropic-disrupts-pro-awami-league-fake-news-operation-bangladesh-4270441",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/power-and-energy/news/bangladesh-plans-1600mmcfd-lng-capacity-expansion-2030-state-minister-4270506",
+    "title": "Bangladesh plans 1,600mmcfd LNG capacity expansion by 2030: State minister",
+    "link": "https://www.thedailystar.net/news/power-and-energy/news/bangladesh-plans-1600mmcfd-lng-capacity-expansion-2030-state-minister-4270506",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "e9dd5e61bf87ec1292043aecad053ce6bbeb66ad",
+    "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
+    "link": "https://apnews.com/article/yemen-houthis-anthropic-ai-missiles-9b20934e031ff3d99dd8bb49d85d97a9",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/3fffffd/2147483647/strip/true/crop/6720x4480+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Ffe%2Ff41811281c4a7c06172d6f629dc5%2F75d49a0c1da944dfa000c67d59c4b540\" /><br />Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/3fffffd/2147483647/strip/true/crop/6720x4480+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Ffe%2Ff41811281c4a7c06172d6f629dc5%2F75d49a0c1da944dfa000c67d59c4b540",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/897308/saudi-arabia-shuts-east-west-pipeline-as-precaution-after-attacks",
+    "title": "Saudi Arabia shuts East-West Pipeline as precaution after attacks",
+    "link": "https://www.daily-sun.com/world/897308/saudi-arabia-shuts-east-west-pipeline-as-precaution-after-attacks",
+    "description": "Saudi Arabia's East-West Pipeline is temporarily shut down after Houthis attack, injuring multiple civilians. Emergency teams secure the site.",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/12/medium/Saudi-Arabia-shuts-East-West-Pipeline--Reuters-6aa465a6b4edf.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/897260/trump-shadow-looms-large-over-brics-as-modi-hosts-putin-and-xi-in",
+    "title": "Trump shadow looms large over BRICS as Modi hosts Putin and Xi in Delhi",
+    "link": "https://www.daily-sun.com/world/897260/trump-shadow-looms-large-over-brics-as-modi-hosts-putin-and-xi-in",
+    "description": "Leaders from 11 BRICS nations will hold talks on a wide range of issues…",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/11/medium/BRICS-India-2026-AFP-6aa46aee99c9e.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/897310/one-visa-for-six-gulf-countries-gcc-chief-says-scheme-will-launch-soon",
+    "title": "One visa for six Gulf countries: GCC chief says scheme will launch 'soon'",
+    "link": "https://www.daily-sun.com/world/897310/one-visa-for-six-gulf-countries-gcc-chief-says-scheme-will-launch-soon",
+    "description": "The unified permit, also referred to as the GCC Grand Tourist Visa, is expected to allow foreign tourists to visit",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/12/medium/GCC-Jasem-Mohamed-Albudaiwi-AFP-6aa491baae0bb.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/world/897109/houthis-advance-along-yemeni-coast-in-new-threat-to-shipping",
+    "title": "Houthis advance along Yemeni coast in new threat to shipping",
+    "link": "https://daily-sun.com/world/897109/houthis-advance-along-yemeni-coast-in-new-threat-to-shipping",
+    "description": "",
+    "published": "Sat, 12 Sep 2026 06:52:36 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
