@@ -126208,5 +126208,35 @@
     "description": "The country's food grain stock has increased by 148,484 tonnes...",
     "published": "Sun, 13 Sep 2026 03:10:54 +0600",
     "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/8-killed-russian-strikes-ukraine-putin-warns-europe-1540946",
+    "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe",
+    "link": "https://www.tbsnews.net/worldbiz/europe/8-killed-russian-strikes-ukraine-putin-warns-europe-1540946",
+    "description": "kraine faces an intensifying Russian air campaign involving ballistic missiles and jet-powered drones, including attacks on its power grid ahead of winter.",
+    "published": "Sun, 13 Sep 2026 08:56:22 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/03/21/putin_.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/south-asia/iran-and-uae-back-joint-brics-statement-urging-restraint-war-1540941",
+    "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+    "link": "https://www.tbsnews.net/world/south-asia/iran-and-uae-back-joint-brics-statement-urging-restraint-war-1540941",
+    "description": "Iranian President Masoud Pezeshkian also met the Crown Prince of Abu Dhabi on the sidelines of the first day of the New Delhi summit, in the countries' highest-level meeting since the start of the conflict",
+    "published": "Sun, 13 Sep 2026 08:56:22 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/13/brics_leaders.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/agriculture/transition-new-dealer-policy-disrupts-fertiliser-supply-despite-ample-stocks-1540936",
+    "title": "Transition to new dealer policy disrupts fertiliser supply despite ample stocks",
+    "link": "https://www.tbsnews.net/agriculture/transition-new-dealer-policy-disrupts-fertiliser-supply-despite-ample-stocks-1540936",
+    "description": "Dealers lift only half allocations as farmers queue for supplies",
+    "published": "Sun, 13 Sep 2026 08:56:22 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/19/fertiliser_1.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
