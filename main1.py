@@ -793,7 +793,7 @@ def send_to_mistral(articles):
         print(
             f"Gemini classification error: {e}"
         )
-        return []
+        sys.exit(1)
 
 
 def deduplicate_articles(articles):
