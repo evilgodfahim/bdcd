@@ -45,7 +45,26 @@ jobs:
           MS: ${{ secrets.MS }}
         run: |
           set -euo pipefail
-          python main1.py
+
+          max_attempts=4
+          base_delay=300
+          delay_step=120
+
+          for attempt in $(seq 1 $max_attempts); do
+            echo "Attempt $attempt/$max_attempts"
+            if python main1.py; then
+              exit 0
+            fi
+
+            if [ $attempt -lt $max_attempts ]; then
+              delay=$(( base_delay + (attempt - 1) * delay_step ))
+              echo "Failed. Waiting ${delay}s before retry $((attempt + 1))..."
+              sleep $delay
+            fi
+          done
+
+          echo "All $max_attempts attempts exhausted."
+          exit 1
 
       - name: Commit processed files
         shell: bash
