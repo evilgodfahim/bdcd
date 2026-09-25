@@ -751,49 +751,29 @@ def extract_signal_indices(text):
 
 
 def send_to_mistral(articles):
-    api_key = os.environ.get(
-        "GEMINI_API_KEY"
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key or not articles:
+        return {"signal": [], "longread": []}
+
+    client = genai.Client(api_key=api_key)
+    titles_text = "\n".join(
+        f"{i}. {a.get('title', '')}" for i, a in enumerate(articles)
     )
 
-    if not api_key or not articles:
-        return []
+    for attempt in range(2):
+        try:
+            chat = client.chats.create(model=MISTRAL_MODEL)
+            response = chat.send_message(
+                PROMPT.format(titles=titles_text),
+                config={"response_mime_type": "application/json"},
+            )
+            text = response.text if hasattr(response, "text") else ""
+            return extract_json_object(text)
+        except Exception as e:
+            print(f"Gemini classification error: {e}")
+            sys.exit(1)
 
-    try:
-        client = genai.Client(
-            api_key=api_key
-        )
-
-        titles_text = "\n".join(
-            [
-                f"{i}. {a.get('title', '')}"
-                for i, a in enumerate(articles)
-            ]
-        )
-
-        response = client.models.generate_content(
-            model=MISTRAL_MODEL,
-            contents=PROMPT.format(
-                titles=titles_text
-            ),
-            config={
-                "response_mime_type":
-                    "application/json"
-            },
-        )
-
-        text = (
-            response.text
-            if hasattr(response, "text")
-            else ""
-        )
-
-        return extract_signal_indices(text)
-
-    except Exception as e:
-        print(
-            f"Gemini classification error: {e}"
-        )
-        sys.exit(1)
+    return {"signal": [], "longread": []}
 
 
 def deduplicate_articles(articles):
