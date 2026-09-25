@@ -768,7 +768,7 @@ def send_to_mistral(articles):
                 config={"response_mime_type": "application/json"},
             )
             text = response.text if hasattr(response, "text") else ""
-            return extract_json_object(text)
+            return extract_signal_indices(text)
         except Exception as e:
             print(f"Gemini classification error: {e}")
             sys.exit(1)
