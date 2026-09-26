@@ -138294,5 +138294,67 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/26/medium/Volker-Türk-PM-Tarique-25-Sept-2026-PMO-6ab6ed1c246d5.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/foreign-policy/pm-wall-street-bangladesh-open-business-1553831",
+    "title": "PM to Wall Street: Bangladesh is open for business",
+    "link": "https://www.tbsnews.net/foreign-policy/pm-wall-street-bangladesh-open-business-1553831",
+    "description": "The Prime Minister made the call while addressing a breakfast meeting hosted by JPMorgan Chase at its headquarters in Manhattan, where he outlined Bangladesh’s economic potential, investment opportunities and the government’s efforts to create a more predictable and investor-friendly business environment.",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/07/30/wall_street.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/lots-fanfare-no-breakthroughs-4283036",
+    "title": "Trump-Xi Summit / Lots of fanfare, but no breakthroughs",
+    "link": "https://www.thedailystar.net/news/world/news/lots-fanfare-no-breakthroughs-4283036",
+    "description": "",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/wars-conflicts-deepen-global-economic-woes-4283041",
+    "title": "Wars, conflicts deepen global economic woes",
+    "link": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/wars-conflicts-deepen-global-economic-woes-4283041",
+    "description": "",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/news/45-fy27-power-lng-subsidies-spent-just-3-months-4283026",
+    "title": "45% of FY27 power, LNG subsidies spent in just 3 months",
+    "link": "https://www.thedailystar.net/news/bangladesh/news/45-fy27-power-lng-subsidies-spent-just-3-months-4283026",
+    "description": "The government had budgeted Tk 42,000 crore for electricity and LNG subsidies in the ongoing 2026-27 fiscal year, but it has already released nearly Tk 19,000 crore in the first three months.",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/world/news/trump-rejects-iranian-peace-proposal-wsj-reports-4283111",
+    "title": "Trump rejects Iranian peace proposal",
+    "link": "https://www.thedailystar.net/news/world/news/trump-rejects-iranian-peace-proposal-wsj-reports-4283111",
+    "description": "",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "c085dd5dc7ef6607160f2a525452437d019b89c3",
+    "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+    "link": "https://apnews.com/article/trump-rescissions-fundind-46b356590699e6225f783c74e7ee3597",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/5c893bf/2147483647/strip/true/crop/5178x3452+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2F8c%2F8172797eecf24ebf137b69e80e43%2F19b3b8eb2c5e49bb9f8515a2cb66eecf\" /><br />Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/5c893bf/2147483647/strip/true/crop/5178x3452+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2F8c%2F8172797eecf24ebf137b69e80e43%2F19b3b8eb2c5e49bb9f8515a2cb66eecf",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/899895/bangladesh-calls-for-stronger-health-systems-in-global-pandemic-p",
+    "title": "Bangladesh calls for stronger health systems in global pandemic preparedness",
+    "link": "https://www.daily-sun.com/bangladesh/899895/bangladesh-calls-for-stronger-health-systems-in-global-pandemic-p",
+    "description": "Hyder underscored that the COVID-19 pandemic demonstrated how rapidly a health emergency can evolve into a profound social, economic...",
+    "published": "Sat, 26 Sep 2026 07:58:59 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/26/medium/SM-Ziauddin-Hyder-courtesy-6ab71245b2b49.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
