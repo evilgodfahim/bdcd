@@ -76,7 +76,7 @@ Then, among SIGNAL titles only, identify groups of titles covering the same stor
 
 Return only the 0-based indices of titles that are SIGNAL and are also kept after deduplication.
 
-GOAL: Retain major national and international news while filtering out localized, minor, or routine noise.
+GOAL: Retain major national and international news while filtering out localized, minor, or routine noise. The bar of selection is Super High [Extreme Low < Super Low < Low < Normal < High < Super High < Ultimate High].
 
 CLASSIFICATION RULES:
 
