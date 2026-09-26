@@ -139627,5 +139627,73 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/26/medium/Bill-Gates--6ab7f6ec90341.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/899836",
+    "title": "Fuel price hike pushes up vegetable prices",
+    "link": "https://www.daily-sun.com/business/899836",
+    "description": "Prices of several vegetables have risen by Tk10 to Tk20 per kilogram (kg) at kitchen",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/govt-launches-nationwide-measles-vaccination-campaign-1790443023",
+    "title": "Govt launches nationwide measles vaccination campaign",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/govt-launches-nationwide-measles-vaccination-campaign-1790443023",
+    "description": "",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1790443022.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/bangladesh-invites-wall-street-firms-to-invest-use-country-as-regional-hub-1790443134",
+    "title": "Bangladesh invites Wall Street firms to invest, use country as regional hub",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/bangladesh-invites-wall-street-firms-to-invest-use-country-as-regional-hub-1790443134",
+    "description": "Bangladesh has invited Wall Street firms to invest in the...",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/un-human-rights-chief-volker-tuerk-meets-pm-1790444026",
+    "title": "UN human rights chief Volker Türk meets PM",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/un-human-rights-chief-volker-tuerk-meets-pm-1790444026",
+    "description": "",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1790444025.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/govt-to-purchase-095-million-tonnes-of-non-urea-fertiliser-1790443716",
+    "title": "Govt to purchase 0.95 million tonnes of non-urea fertiliser",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/govt-to-purchase-095-million-tonnes-of-non-urea-fertiliser-1790443716",
+    "description": "The government has targeted purchase of 0.95 million tonnes of...",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/bangladesh-us-sign-strategic-civil-nuclear-cooperation-agreement-1790443755",
+    "title": "Bangladesh, US sign strategic civil nuclear cooperation agreement",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/bangladesh-us-sign-strategic-civil-nuclear-cooperation-agreement-1790443755",
+    "description": "Bangladesh and the United States have signed a strategic agreement...",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/indonesian-firm-set-to-start-operating-spm-in-feb-1790443807",
+    "title": "Indonesian firm set to start operating SPM in Feb",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/indonesian-firm-set-to-start-operating-spm-in-feb-1790443807",
+    "description": "Indonesian Company PT Pertamina Trans Kontinental is set to initiate...",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/foreign-funds-keep-draining-as-bangladesh-faces-fallout-of-global-tensions-1790435365",
+    "title": "Foreign funds keep draining as Bangladesh faces fallout of global tensions",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/foreign-funds-keep-draining-as-bangladesh-faces-fallout-of-global-tensions-1790435365",
+    "description": "Foreign portfolio investors (FPIs) have continued to pull out funds...",
+    "published": "Sun, 27 Sep 2026 03:59:01 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
   }
 ]
