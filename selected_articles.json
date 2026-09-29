@@ -142555,5 +142555,43 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/28/medium/Jamaat-e-Islami-6aba95a1635a8.jpeg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/us-grant-sanctions-waiver-flights-between-iran-and-iraqs-najaf-source-says",
+    "title": "US to grant sanctions waiver for flights between Iran and Iraq's Najaf, source says",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/us-grant-sanctions-waiver-flights-between-iran-and-iraqs-najaf-source-says",
+    "description": "In recent days, countries including Turkey, the UAE and Iraq have cancelled direct flights with Iran as a result of US pressure.",
+    "published": "Tue, 29 Sep 2026 09:33:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/29/protestors_near_najaf_airport.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/miliband-says-uk-has-reset-approach-israel-and-palestine-1556881",
+    "title": "Miliband says UK has reset approach to Israel and Palestine",
+    "link": "https://www.tbsnews.net/worldbiz/europe/miliband-says-uk-has-reset-approach-israel-and-palestine-1556881",
+    "description": "Addressing millions of people who had protested Israel's war on Gaza and criticised Labour's previous position, Miliband said: \"we hear you, you were right\".",
+    "published": "Tue, 29 Sep 2026 09:33:25 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/05/13/ed_miliband.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/900327/pm-uae-envoy-eye-expanding-trade-investment",
+    "title": "PM, UAE envoy eye expanding trade, investment",
+    "link": "https://www.daily-sun.com/business/900327/pm-uae-envoy-eye-expanding-trade-investment",
+    "description": "State Minister-1 for Foreign Affairs Humaiun Kobir, Invest Bangladesh Authority Chairman Ashik Chowdhury were present",
+    "published": "Tue, 29 Sep 2026 09:33:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/900321/mcci-pakistan-envoy-discuss-enhancing-bilateral-trade",
+    "title": "MCCI, Pakistan envoy discuss enhancing bilateral trade",
+    "link": "https://www.daily-sun.com/business/900321/mcci-pakistan-envoy-discuss-enhancing-bilateral-trade",
+    "description": "The leadership of MCCI appreciated Pakistan’s significant growth in the Information and Communication Technology sector",
+    "published": "Tue, 29 Sep 2026 09:33:25 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/28/medium/Pakistan-6aba33d794375.gif",
+    "thumbnail_type": "image/gif"
   }
 ]
