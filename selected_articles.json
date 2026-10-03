@@ -148525,5 +148525,31 @@
     "description": "",
     "published": "Sat, 03 Oct 2026 05:17:39 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/israeli-strike-kills-five-gaza-health-officials-1560896",
+    "title": "Israeli strike kills five in Gaza: Health officials",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/israeli-strike-kills-five-gaza-health-officials-1560896",
+    "description": "There was no immediate comment from the Israeli military",
+    "published": "Sat, 03 Oct 2026 08:04:24 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/07/30/gaza.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/901065",
+    "title": "Exports grow 6.34% to $13b in Jul-Sep",
+    "link": "https://www.daily-sun.com/business/901065",
+    "description": "September earnings rise 8.54%; exporters call growth a positive sign",
+    "published": "Sat, 03 Oct 2026 08:04:24 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/power-and-energy/news/uranium-rooppur-nuclear-power-plant-arrives-dhaka-russia-4288881",
+    "title": "Uranium for Rooppur Nuclear Power Plant arrives in Dhaka from Russia",
+    "link": "https://www.thedailystar.net/news/power-and-energy/news/uranium-rooppur-nuclear-power-plant-arrives-dhaka-russia-4288881",
+    "description": "Shipment comes after September 24 delivery was postponed over lack of airspace clearance",
+    "published": "Sat, 03 Oct 2026 08:04:24 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]
