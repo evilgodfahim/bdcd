@@ -150848,5 +150848,31 @@
     "description": "",
     "published": "Mon, 05 Oct 2026 03:31:35 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/901452/one-us-dollar-is-now-fetching-2-7-million-iranian-rials",
+    "title": "One US dollar is now fetching 2.7 million Iranian Rials",
+    "link": "https://www.daily-sun.com/business/901452/one-us-dollar-is-now-fetching-2-7-million-iranian-rials",
+    "description": "Iran's rial continues to decline as the central bank injects $2 billion to stabilize the",
+    "published": "Mon, 05 Oct 2026 06:09:55 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://daily-sun.com/business/901471/12-kg-lpg-cylinder-price-hiked-by-tk252",
+    "title": "Price of 12kg LPG cylinder hiked by Tk252",
+    "link": "https://daily-sun.com/business/901471/12-kg-lpg-cylinder-price-hiked-by-tk252",
+    "description": "",
+    "published": "Mon, 05 Oct 2026 06:09:55 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/901653/brig-gen-anwarul-kabir-appointed-new-ig-prisons",
+    "title": "Brig Gen Anwarul Kabir appointed new IG prisons",
+    "link": "https://www.daily-sun.com/bangladesh/901653/brig-gen-anwarul-kabir-appointed-new-ig-prisons",
+    "description": "The government has appointed Brig Gen Md Anwarul Kabir as the new Inspector General of Prisons.",
+    "published": "Mon, 05 Oct 2026 06:09:55 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/05/medium/public-admin-mins-6ac2c06cd88d2.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
