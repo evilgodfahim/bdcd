@@ -150874,5 +150874,71 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/05/medium/public-admin-mins-6ac2c06cd88d2.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/africa/egypt-eritrea-somalia-and-sudan-call-peaceful-solutions-regional-summit-1562936",
+    "title": "Egypt, Eritrea, Somalia and Sudan call for peaceful solutions at regional summit",
+    "link": "https://www.tbsnews.net/worldbiz/africa/egypt-eritrea-somalia-and-sudan-call-peaceful-solutions-regional-summit-1562936",
+    "description": "The leaders endorsed Sudan's military-led government and called for a political process led by Sudanese parties to resolve the civil war that has continued since April 2023",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/05/egypt_africa_leaders.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/un-rights-chief-calls-no-further-execution-attempts-against-christa-pike-1562886",
+    "title": "UN rights chief calls for no further execution attempts against Christa Pike",
+    "link": "https://www.tbsnews.net/world/un-rights-chief-calls-no-further-execution-attempts-against-christa-pike-1562886",
+    "description": "The failed execution has renewed concerns over the use of the death penalty and the risks associated with unsuccessful executions.",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/05/untitled_design.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/banking/bb-limit-borrowers-sector-wide-exposure-target-each-banks-top-defaulters-tame-bad",
+    "title": "BB to limit borrower's sector-wide exposure, target each bank's top defaulters to tame bad loans",
+    "link": "https://www.tbsnews.net/economy/banking/bb-limit-borrowers-sector-wide-exposure-target-each-banks-top-defaulters-tame-bad",
+    "description": "No overall shortage of liquidity in banking sector, says BB",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/05/img_6707.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/us-removes-b-1-bombers-uk-base-amid-security-concerns-1562826",
+    "title": "US removes B-1 bombers from UK base amid security concerns",
+    "link": "https://www.tbsnews.net/world/us-removes-b-1-bombers-uk-base-amid-security-concerns-1562826",
+    "description": "Britain has 'strong indications' that Iran was involved in a suspected plot targeting the base, Prime Minister Andy Burnham said on Wednesday (30 September).",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/05/oim4s2r2ozjqfphqji4phc4kau.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/migration/overseas-jobs-fall-29-september-yoy-1562796",
+    "title": "Overseas jobs fall 29% in September YoY",
+    "link": "https://www.tbsnews.net/bangladesh/migration/overseas-jobs-fall-29-september-yoy-1562796",
+    "description": "",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2024/12/24/migrant_workers_final_0.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646",
+    "title": "Zero-cost Malaysia jobs for 10,000 Workers",
+    "link": "https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646",
+    "description": "",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/bangladesh/news/govt-employees-will-get-hiked-pay-month-mpo-teachers-wont-4290686",
+    "title": "Govt employees will get hiked pay this month, MPO teachers won’t",
+    "link": "https://www.thedailystar.net/news/bangladesh/news/govt-employees-will-get-hiked-pay-month-mpo-teachers-wont-4290686",
+    "description": "Government officers and employees will receive four months’ salary under the new pay scale, including three months’ arrears, in the last week of this month, but teachers and staff under the MPO scheme, along with judges and judicial service employees, will have to wait longer.",
+    "published": "Mon, 05 Oct 2026 11:30:46 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
   }
 ]
