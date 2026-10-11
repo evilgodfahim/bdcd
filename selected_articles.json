@@ -157143,5 +157143,25 @@
     "description": "",
     "published": "Sun, 11 Oct 2026 04:28:05 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/902534",
+    "title": "Dhaka seeks removal of Indian trade barriers",
+    "link": "https://www.daily-sun.com/business/902534",
+    "description": "Bangladesh urges India to remove trade barriers, review anti-dumping duties and extend tariff benefits to boost exports and improve bilateral",
+    "published": "Sun, 11 Oct 2026 07:08:21 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/10/medium/DS-'10'10-3-6ac91cc97d682.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/health/902806/bangladesh-eib-plan-250m-push-for-maternal-care-cancer-services",
+    "title": "Bangladesh, EIB plan €250m push for maternal care, cancer services",
+    "link": "https://www.daily-sun.com/health/902806/bangladesh-eib-plan-250m-push-for-maternal-care-cancer-services",
+    "description": "Programme aims to expand healthcare access for 47 million women and girls by 2031",
+    "published": "Sun, 11 Oct 2026 07:08:21 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/11/medium/Bangladesh,-EIB-plan-€250m-push-for-maternal-care,-cancer-services-6acaa53719ebb.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
