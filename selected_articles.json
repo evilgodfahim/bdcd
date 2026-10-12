@@ -158300,5 +158300,63 @@
     "description": "",
     "published": "Mon, 12 Oct 2026 04:27:24 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladesh-eyes-currency-swap-facilitate-remittances-maldives-1569781",
+    "title": "Bangladesh eyes currency swap to facilitate remittances from Maldives",
+    "link": "https://www.tbsnews.net/economy/bangladesh-eyes-currency-swap-facilitate-remittances-maldives-1569781",
+    "description": "$118m in remittances came from Maldives in FY26, down from $141.1m in FY25",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/09/29/fitch_taka.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/gcvg77ywac",
+    "title": "Foreign debt hits record $115bn",
+    "link": "https://bdnews24.com/economy/gcvg77ywac",
+    "description": "[Economy] Foreign debt hits record $115bn",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-11/bfws3hwi/dollar-rate-exchange-140523.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/business/41gyo6uzzz",
+    "title": "Net FDI rises 12.78% in April-June",
+    "link": "https://bdnews24.com/business/41gyo6uzzz",
+    "description": "[Business] Net FDI rises 12.78% in April-June",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-11/2wnyfujb/leathertech_expo_221124_020_1732273770.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/902999/11-killed-in-turkey-coach-truck-collision",
+    "title": "11 killed, 27 injured in tour bus crash in western Turkey",
+    "link": "https://www.daily-sun.com/bangladesh/902999/11-killed-in-turkey-coach-truck-collision",
+    "description": "Eleven people were killed and 27 hurt in western Turkey on Sunday when a coach turned over after colliding with",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/12/medium/Untitled-(2)-6acbea95011aa.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/902996/24-injured",
+    "title": "24 Bangladeshis injured in Riyadh airport attack",
+    "link": "https://www.daily-sun.com/world/902996/24-injured",
+    "description": "Two Bangladeshis were killed and 24 others injured in an attack on King Khalid International Airport in Riyadh, the capital",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/12/medium/foreign-affairs-ministry-6acbe0fc999c8.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/world/902860/109-migrants-including-15-children-dead-after-boat-capsizes-near-djibouti",
+    "title": "139 migrants including 15 children dead after boat capsizes near Djibouti",
+    "link": "https://daily-sun.com/world/902860/109-migrants-including-15-children-dead-after-boat-capsizes-near-djibouti",
+    "description": "",
+    "published": "Mon, 12 Oct 2026 07:31:28 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
