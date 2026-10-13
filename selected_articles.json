@@ -159948,5 +159948,61 @@
     "description": "",
     "published": "Tue, 13 Oct 2026 05:40:40 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/imf-cuts-bangladesh-growth-forecast-32-raises-inflation-outlook-109-1571001",
+    "title": "IMF cuts Bangladesh growth forecast to 3.2%, raises inflation outlook to 10.9%",
+    "link": "https://www.tbsnews.net/economy/imf-cuts-bangladesh-growth-forecast-32-raises-inflation-outlook-109-1571001",
+    "description": "The forecast is lower than those of other international organisations. The World Bank has projected growth of 3.4% for FY2026-27, while the Asian Development Bank has forecast 4%.",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/05/image-431372-1791180302.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/riyadh-airport-shutdown-extended-through-17-october-after-attacks-1570986",
+    "title": "Riyadh airport shutdown extended through 17 October after attacks",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/riyadh-airport-shutdown-extended-through-17-october-after-attacks-1570986",
+    "description": "Cancellations across Saudi airports reached 46.4%, while air traffic avoided Riyadh and flights continued to land in Jeddah",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/12/saudi_arabia_king_fahd_airport.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/houthis-warn-swift-response-if-us-intervenes-yemen-war-1570976",
+    "title": "Houthis warn of swift response if US intervenes in Yemen war",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/houthis-warn-swift-response-if-us-intervenes-yemen-war-1570976",
+    "description": "Bukhaiti also warned employees at Saudi oil facilities and airports to stay away from those locations, declaring them legitimate targets.",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/03/houthi_supporters_.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/business/903063/india-bangladesh-flag-trade-barriers-in-first-talks-after-prolonged-gap",
+    "title": "India, Bangladesh flag trade barriers in first talks after prolonged gap",
+    "link": "https://daily-sun.com/business/903063/india-bangladesh-flag-trade-barriers-in-first-talks-after-prolonged-gap",
+    "description": "",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/dcpdakdhqk",
+    "title": "Russia 'hits' Ukraine energy sites despite Trump’s truce claim",
+    "link": "https://bdnews24.com/world/dcpdakdhqk",
+    "description": "[World] Russia 'hits' Ukraine energy sites despite Trump’s truce claim",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-12/3po6foyq/russia-ukraine-01-13102026.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/903068/hsc-results-to-be-published-in-final-week-of-october",
+    "title": "HSC results to be published in final week of October",
+    "link": "https://daily-sun.com/bangladesh/903068/hsc-results-to-be-published-in-final-week-of-october",
+    "description": "",
+    "published": "Tue, 13 Oct 2026 09:52:02 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
