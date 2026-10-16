@@ -164249,5 +164249,21 @@
     "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
     "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-15/r934557r/yemen-houthi-161026-01.jpg?w=300",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/903554",
+    "title": "Foreign banks’ profits fall despite strong capital in H1",
+    "link": "https://www.daily-sun.com/business/903554",
+    "description": "Experts cite macroeconomic challenges, structural weaknesses",
+    "published": "Fri, 16 Oct 2026 07:14:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "7ca58c18cd389ab208a54c6de37109b307726d82",
+    "title": "Iraq parliament fills Cabinet posts, naming a US-sanctioned deputy prime minister",
+    "link": "https://apnews.com/article/iraq-deputy-prime-minister-sanctions-laith-khazali-5b602c6e33a4fefe1abb53277de44263",
+    "description": "Iraq parliament fills Cabinet posts, naming a US-sanctioned deputy prime minister",
+    "published": "Fri, 16 Oct 2026 07:14:17 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
