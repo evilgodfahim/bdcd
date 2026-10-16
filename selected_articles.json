@@ -165232,5 +165232,55 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/16/medium/Pakistan-6ad23a2a13d52.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/aviation/news/saudi-airport-restrictions-disrupt-travel-16620-passengers-4300286",
+    "title": "Saudi airport restrictions disrupt travel for 16,620 passengers",
+    "link": "https://www.thedailystar.net/business/economy/aviation/news/saudi-airport-restrictions-disrupt-travel-16620-passengers-4300286",
+    "description": "",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/governance/news/state-reform-held-hostage-power-politics-bureaucracy-tib-4300311",
+    "title": "State reform held hostage by power politics, bureaucracy: TIB",
+    "link": "https://www.thedailystar.net/news/governance/news/state-reform-held-hostage-power-politics-bureaucracy-tib-4300311",
+    "description": "",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/news/religion-belongs-individuals-the-state-belongs-all-pms-durga-puja-message-4300341",
+    "title": "‘Religion belongs to individuals, the state belongs to all’: PM’s Durga Puja message",
+    "link": "https://www.thedailystar.net/news/news/religion-belongs-individuals-the-state-belongs-all-pms-durga-puja-message-4300341",
+    "description": "",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/crime-justice/news/ksa-executes-2-bangladeshis-immoral-act-4300016",
+    "title": "KSA executes 2 Bangladeshis for ‘immoral act’",
+    "link": "https://www.thedailystar.net/news/crime-justice/news/ksa-executes-2-bangladeshis-immoral-act-4300016",
+    "description": "",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/national/18-indian-made-railway-coaches-reach-darshana",
+    "title": "18 Indian-made railway coaches reach Darshana",
+    "link": "https://thefinancialexpress.com.bd/national/18-indian-made-railway-coaches-reach-darshana",
+    "description": "18 Indian-made railway coaches reach Darshana",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "18e48705b4925b45194daa91c6daff23b6253700",
+    "title": "Chile’s president makes first state visit to Bolivia in 71 years as region shifts right",
+    "link": "https://apnews.com/article/bolivia-chile-rodrigo-paz-jose-antonio-kast-trump-shield-of-americas-015f60b905c9fbedc9f26fcc7fcc0251",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/4749da3/2147483647/strip/true/crop/4528x3018+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Ffc%2F7019deee94eaedd2286d8adc947a%2F72a5e0ee88534229beb8f2c41e618463\" /><br />Chile’s president makes first state visit to Bolivia in 71 years as region shifts right",
+    "published": "Sat, 17 Oct 2026 05:52:40 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/4749da3/2147483647/strip/true/crop/4528x3018+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Ffc%2F7019deee94eaedd2286d8adc947a%2F72a5e0ee88534229beb8f2c41e618463",
+    "thumbnail_type": "image/jpeg"
   }
 ]
