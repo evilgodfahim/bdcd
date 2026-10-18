@@ -167609,5 +167609,31 @@
     "description": "",
     "published": "Mon, 19 Oct 2026 03:51:43 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/904196/canada-announces-cad-45m-in-new-investments-in-bangladesh",
+    "title": "Canada announces CAD$45m in new investments in Bangladesh",
+    "link": "https://www.daily-sun.com/business/904196/canada-announces-cad-45m-in-new-investments-in-bangladesh",
+    "description": "Secretary of State (International Development) Randeep Sarai announced the investments during his visit to Bangladesh",
+    "published": "Mon, 19 Oct 2026 05:50:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/gwyua1vcwe",
+    "title": "UK reports ‘stability, improvement’ in Bangladesh’s political climate",
+    "link": "https://bdnews24.com/bangladesh/gwyua1vcwe",
+    "description": "[Bangladesh] UK reports ‘stability, improvement’ in Bangladesh’s political climate",
+    "published": "Mon, 19 Oct 2026 05:50:39 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-18/tldii22g/uk-home-office-181026.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://daily-sun.com/bangladesh/904142/govt-seeks-stronger-friendship-with-all-countries-for-national-interest-pm",
+    "title": "Govt seeks stronger friendship with all countries for national interest: PM",
+    "link": "https://daily-sun.com/bangladesh/904142/govt-seeks-stronger-friendship-with-all-countries-for-national-interest-pm",
+    "description": "",
+    "published": "Mon, 19 Oct 2026 05:50:39 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
   }
 ]
