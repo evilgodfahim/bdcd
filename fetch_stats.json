@@ -7,23 +7,23 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
+      "passed_age": 9,
+      "capped": 9
+    },
+    "https://en.prothomalo.com/feed/": {
+      "fetched": 13,
       "passed_age": 13,
       "capped": 13
     },
-    "https://en.prothomalo.com/feed/": {
-      "fetched": 10,
-      "passed_age": 10,
-      "capped": 10
-    },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 150,
+      "passed_age": 138,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
       "fetched": 500,
-      "passed_age": 35,
-      "capped": 35
+      "passed_age": 49,
+      "capped": 49
     },
     "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml": {
       "fetched": 12,
@@ -47,18 +47,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 57,
-      "capped": 57
+      "passed_age": 62,
+      "capped": 62
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 94,
-      "capped": 94
+      "passed_age": 103,
+      "capped": 100
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 16,
-      "capped": 16
+      "passed_age": 14,
+      "capped": 14
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -68,16 +68,16 @@
   },
   "per_method": {
     "KL": 0,
-    "DIRECT": 4209
+    "DIRECT": 4212
   },
-  "total_fetched": 4209,
-  "total_passed_age": 1074,
-  "total_new": 76,
-  "total_signal": 12,
+  "total_fetched": 4212,
+  "total_passed_age": 1087,
+  "total_new": 135,
+  "total_signal": 18,
   "total_longread": 0,
-  "total_signal_deduped": 12,
+  "total_signal_deduped": 18,
   "total_longread_deduped": 0,
-  "timestamp": "2026-10-18T06:14:05.567884",
+  "timestamp": "2026-10-18T11:13:00.716525",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 12
+  "total_signal_mistral": 18
 }
