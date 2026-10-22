@@ -172458,5 +172458,43 @@
     "description": "",
     "published": "Fri, 23 Oct 2026 00:38:38 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-21927-passengers-affected-139-flights-disrupted-so-far",
+    "title": "Saudi airport restrictions: 21,927 passengers affected as 139 flights disrupted so far",
+    "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-21927-passengers-affected-139-flights-disrupted-so-far",
+    "description": "The latest figures show 66 disrupted direct flights and 73 transit flights.",
+    "published": "Fri, 23 Oct 2026 03:55:17 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/11/dhaka_airport.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/904926/japan-to-invest-6-37-billion-in-bangladesh-private-sector-report",
+    "title": "Japan to invest $6.37 billion in Bangladesh private sector: Report",
+    "link": "https://www.daily-sun.com/business/904926/japan-to-invest-6-37-billion-in-bangladesh-private-sector-report",
+    "description": "",
+    "published": "Fri, 23 Oct 2026 03:55:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "76924fb4c9fdcda351e28ddcf734223f59aee326",
+    "title": "A magnitude 7 earthquake shakes China’s Tibet",
+    "link": "https://apnews.com/article/china-earthquake-tibet-be27a2db79ada1c6309914d173b983a8",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/7deaa52/2147483647/strip/true/crop/1280x720+0+0/resize/240x135!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F37%2Fda92db9d483b8383c74604ce6be1%2Fyoutube-thumbnails-2026-07-17t125124-481.png\" /><br />A magnitude 7 earthquake shakes China’s Tibet",
+    "published": "Fri, 23 Oct 2026 03:55:17 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/7deaa52/2147483647/strip/true/crop/1280x720+0+0/resize/240x135!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F37%2Fda92db9d483b8383c74604ce6be1%2Fyoutube-thumbnails-2026-07-17t125124-481.png",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/diplomacy/904868/dhaka-algiers-discuss-cooperation-in-energy-trade",
+    "title": "Dhaka, Algiers seek cooperation in energy, fertiliser, agriculture",
+    "link": "https://www.daily-sun.com/diplomacy/904868/dhaka-algiers-discuss-cooperation-in-energy-trade",
+    "description": "Both countries discussed ways to further promote bilateral trade and investment in the energy sector...",
+    "published": "Fri, 23 Oct 2026 03:55:17 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/22/medium/Dhaka,-Algiers-seek-cooperation-in-energy-courtesy-6ada317197ed2.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
