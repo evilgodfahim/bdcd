@@ -7,17 +7,17 @@
     },
     "https://evilgodfahim.github.io/ds/business.xml": {
       "fetched": 500,
-      "passed_age": 12,
-      "capped": 12
+      "passed_age": 16,
+      "capped": 16
     },
     "https://en.prothomalo.com/feed/": {
-      "fetched": 8,
-      "passed_age": 8,
-      "capped": 8
+      "fetched": 5,
+      "passed_age": 5,
+      "capped": 5
     },
     "https://evilgodfahim.github.io/tbs/articles.xml": {
       "fetched": 500,
-      "passed_age": 110,
+      "passed_age": 125,
       "capped": 100
     },
     "https://evilgodfahim.github.io/dstar/feeds/feed.xml": {
@@ -36,8 +36,8 @@
       "capped": 100
     },
     "https://evilgodfahim.github.io/fen/fe_homepage.xml": {
-      "fetched": 112,
-      "passed_age": 112,
+      "fetched": 115,
+      "passed_age": 115,
       "capped": 100
     },
     "https://evilgodfahim.github.io/fen/fe_today.xml": {
@@ -47,18 +47,18 @@
     },
     "https://evilgodfahim.github.io/wl/pau.xml": {
       "fetched": 500,
-      "passed_age": 77,
-      "capped": 77
+      "passed_age": 65,
+      "capped": 65
     },
     "https://evilgodfahim.github.io/ds/todays_news.xml": {
       "fetched": 500,
-      "passed_age": 76,
-      "capped": 76
+      "passed_age": 100,
+      "capped": 100
     },
     "https://evilgodfahim.github.io/bben/feed.xml": {
       "fetched": 500,
-      "passed_age": 7,
-      "capped": 7
+      "passed_age": 9,
+      "capped": 9
     },
     "https://evilgodfahim.github.io/wl/reuters.xml": {
       "fetched": 500,
@@ -71,13 +71,13 @@
     "DIRECT": 4200
   },
   "total_fetched": 4200,
-  "total_passed_age": 1015,
-  "total_new": 169,
-  "total_signal": 31,
+  "total_passed_age": 1048,
+  "total_new": 73,
+  "total_signal": 13,
   "total_longread": 0,
-  "total_signal_deduped": 31,
+  "total_signal_deduped": 13,
   "total_longread_deduped": 0,
-  "timestamp": "2026-10-24T16:39:16.473441",
+  "timestamp": "2026-10-24T19:01:47.640431",
   "total_signal_gemini": 231,
-  "total_signal_mistral": 31
+  "total_signal_mistral": 13
 }
