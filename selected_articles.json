@@ -175554,5 +175554,117 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/25/medium/Shafiqur-6ade015698742.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-seek-lower-jica-loan-rates-during-pms-japan-visit-1582916",
+    "title": "Bangladesh to seek lower Jica loan rates during PM's Japan visit",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-seek-lower-jica-loan-rates-during-pms-japan-visit-1582916",
+    "description": "PM leaves for Japan; Jica rates rose to 3.5% from 3.05% in October.",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/10/17/pm_bd_japan.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/economy/szwno0037x",
+    "title": "Development spending hits historic low",
+    "link": "https://bdnews24.com/economy/szwno0037x",
+    "description": "[Economy] Development spending hits historic low",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-10-25/dfnw2we2/01workerssafety051214.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/education/ju-prof-shamima-sultana-named-new-psc-member",
+    "title": "JU Prof Shamima Sultana named new PSC member",
+    "link": "https://thefinancialexpress.com.bd/education/ju-prof-shamima-sultana-named-new-psc-member",
+    "description": "JU Prof Shamima Sultana named new PSC member",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/speaker-seeks-us-help-to-recover-laundered-funds-1792949590",
+    "title": "Speaker seeks US help to recover laundered funds",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/speaker-seeks-us-help-to-recover-laundered-funds-1792949590",
+    "description": "",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1792949590.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/adp-implementation-drops-to-389pc-in-q1-1792949202",
+    "title": "ADP implementation drops to 3.89pc in Q1",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/adp-implementation-drops-to-389pc-in-q1-1792949202",
+    "description": "The government's Annual Development Programme (ADP) implementation rate fell to...",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/saint-martins-to-reopen-to-tourists-on-nov-1-1792949284",
+    "title": "Saint Martin's to reopen to tourists on Nov 1",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/saint-martins-to-reopen-to-tourists-on-nov-1-1792949284",
+    "description": "",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1792949284.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/fta-talks-with-kl-tomorrow-1792951988",
+    "title": "FTA talks with KL tomorrow",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/fta-talks-with-kl-tomorrow-1792951988",
+    "description": "",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1792951988.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/central-bank-allows-merchants-to-retain-up-to-15pc-of-foreign-currency-earnings-1792952139",
+    "title": "Central bank allows merchants to retain up to 15pc of foreign currency earnings",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/central-bank-allows-merchants-to-retain-up-to-15pc-of-foreign-currency-earnings-1792952139",
+    "description": "The central bank has introduced a new facility allowing hotels,...",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/govt-to-buy-six-more-lng-cargoes-from-bp-singapore-qatar-1792946492",
+    "title": "Govt to buy six more LNG cargoes from BP Singapore, Qatar",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/govt-to-buy-six-more-lng-cargoes-from-bp-singapore-qatar-1792946492",
+    "description": "The government is set to procure six more liquefied natural...",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/905373/four-new-textbooks-approved-for-classes-iv-and-vi",
+    "title": "Four new textbooks approved for classes IV and VI",
+    "link": "https://www.daily-sun.com/bangladesh/905373/four-new-textbooks-approved-for-classes-iv-and-vi",
+    "description": "The two books approved for Class IV are ‘Culture of Bangladesh’ and ‘Sports’, while the new textbooks for Class VI",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/25/medium/Four-new-textbooks-approved-for-Classes-IV-and-VI-meeting-6ade283f62c22.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/905371/reconstruction-of-zia-khaleda-s-mausoleum-infrastructure-to-be-completed-by-dec",
+    "title": "Reconstruction of Zia, Khaleda’s mausoleum infrastructure to be completed by Dec",
+    "link": "https://www.daily-sun.com/bangladesh/905371/reconstruction-of-zia-khaleda-s-mausoleum-infrastructure-to-be-completed-by-dec",
+    "description": "The reconstruction of the main infrastructure of the mausoleum complex of Shaheed President Ziaur Rahman and former prime minister Begum",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/25/medium/Standing-committee-on-Zia-mausoleum-6ade221ef3b2b.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/905423/padma-barrage-construction-to-begin-early-next-year-anee",
+    "title": "Padma Barrage construction to begin early next year: Anee",
+    "link": "https://www.daily-sun.com/bangladesh/905423/padma-barrage-construction-to-begin-early-next-year-anee",
+    "description": "The minister further said that, according to the current estimates, a total of Tk 50,000 crore to Tk 55,000 crore",
+    "published": "Mon, 26 Oct 2026 03:12:30 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/26/medium/Padma-Barrage-construction-to-begin-early-next-year_-Anee-6ade4a84650eb.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
