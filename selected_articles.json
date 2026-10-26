@@ -175666,5 +175666,32 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/26/medium/Padma-Barrage-construction-to-begin-early-next-year_-Anee-6ade4a84650eb.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/japanese-firms-warming-bangladesh-4307316",
+    "title": "Japanese firms warming up to Bangladesh",
+    "link": "https://www.thedailystar.net/business/economy/news/japanese-firms-warming-bangladesh-4307316",
+    "description": "",
+    "published": "Mon, 26 Oct 2026 07:18:35 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/what-happens-after-ldc-graduation-4307286",
+    "title": "What happens after LDC graduation?",
+    "link": "https://www.thedailystar.net/business/economy/news/what-happens-after-ldc-graduation-4307286",
+    "description": "Bangladesh is seeking to defer its LDC graduation even as it prepares for the transition, amid concerns over export competitiveness and preferential market access. How have the eight countries that graduated before it fared, and what lessons do their experiences hold for Bangladesh?",
+    "published": "Mon, 26 Oct 2026 07:18:35 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/422922/ju-prof-shamima-sultana-named-new-psc-member",
+    "title": "JU Prof Shamima Sultana named new PSC member",
+    "link": "https://www.dhakatribune.com/bangladesh/422922/ju-prof-shamima-sultana-named-new-psc-member",
+    "description": "According to the notification, the President made the appointment under Article 138(1) of the Constitution",
+    "published": "Mon, 26 Oct 2026 07:18:35 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2026/10/26/4a84ad3e936b67e875cc84143cd0b779-6ade4711f34b3.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
