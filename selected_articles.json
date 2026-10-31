@@ -181849,5 +181849,53 @@
     "description": "",
     "published": "Sat, 31 Oct 2026 05:00:09 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/industry/govt-plans-establishing-10-lakh-tonne-fertiliser-factory-saudi-arabia-1588086",
+    "title": "Govt plans establishing 10-lakh-tonne fertiliser factory in Saudi Arabia",
+    "link": "https://www.tbsnews.net/economy/industry/govt-plans-establishing-10-lakh-tonne-fertiliser-factory-saudi-arabia-1588086",
+    "description": "Under the proposal, Bangladesh and Saudi Arabia will jointly own a new company operating the factory, with each government holding a 50% stake, according to sources in the foreign and industries ministries",
+    "published": "Sat, 31 Oct 2026 08:09:41 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2022/05/21/fertiliser.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/906180",
+    "title": "Bangladesh-Malaysia FTA: New route to export diversification ahead of LDC graduation",
+    "link": "https://www.daily-sun.com/business/906180",
+    "description": "Both sides aim to finalise deal in 2027 as first-round talks end on positive note; next round set for January",
+    "published": "Sat, 31 Oct 2026 08:09:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/906333/oman-rescues-25-from-burning-ship-iran-halts-tankers",
+    "title": "Oman rescues 25 from burning ship, Iran halts tankers",
+    "link": "https://www.daily-sun.com/world/906333/oman-rescues-25-from-burning-ship-iran-halts-tankers",
+    "description": "Tehran has restricted maritime traffic through the strait since the Middle East war began on 28 February with US-Israeli strikes",
+    "published": "Sat, 31 Oct 2026 08:09:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/31/medium/Vessels-at-the-Strait-of-Hormuz,-as-seen-from-Musandam,-Oman,-2-October-2026-6ae520ac0e5f2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/906332/minimum-wage-board-for-garment-workers-to-be-formed-on-sunday",
+    "title": "Minimum wage board for garment workers to be formed on Sunday",
+    "link": "https://www.daily-sun.com/bangladesh/906332/minimum-wage-board-for-garment-workers-to-be-formed-on-sunday",
+    "description": "Ariful said the government must protect industries while ensuring that workers’ legitimate demands are met...",
+    "published": "Sat, 31 Oct 2026 08:09:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/31/medium/Garment-RMG-factory-Reuters-6ae516ec9cb92.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/906331/nigeria-says-troops-kill-48-islamist-fighters-after-attacks-in-borno-yobe-bases",
+    "title": "Nigeria says troops kill 48 Islamist fighters after attacks in Borno, Yobe bases",
+    "link": "https://www.daily-sun.com/world/906331/nigeria-says-troops-kill-48-islamist-fighters-after-attacks-in-borno-yobe-bases",
+    "description": "The military said one soldier was killed and two were lightly wounded and receiving treatment...",
+    "published": "Sat, 31 Oct 2026 08:09:41 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/31/medium/A-Nigerian-soldier-Reuters-6ae510c0959ff.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
