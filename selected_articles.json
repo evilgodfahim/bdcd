@@ -183429,5 +183429,45 @@
     "description": "",
     "published": "Mon, 02 Nov 2026 04:23:27 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/hagrizbsu0",
+    "title": "3 Bay systems loom with cyclone risk in November",
+    "link": "https://bdnews24.com/bangladesh/hagrizbsu0",
+    "description": "[Bangladesh] 3 Bay systems loom with cyclone risk in November",
+    "published": "Mon, 02 Nov 2026 07:41:00 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-01/j3kx9bbb/barguna_trawler_sinking_080726.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/906739/vessel-struck-in-strait-of-hormuz-maritime-agency",
+    "title": "Vessel struck in Strait of Hormuz: Maritime agency",
+    "link": "https://www.daily-sun.com/world/906739/vessel-struck-in-strait-of-hormuz-maritime-agency",
+    "description": "Earlier, Qatar's state news agency said a Qatari gas tanker had been attacked on Friday with \"unidentified objects\" while transiting",
+    "published": "Mon, 02 Nov 2026 07:41:00 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/02/medium/Iran-not-going-to-close-Strait-of-Hormuz-Envoy-6ae7c8836849a.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/906738/gas-supply-to-drop-nationwide-from-4-to-7-nov",
+    "title": "Gas supply to drop nationwide from 4 to 7 Nov",
+    "link": "https://www.daily-sun.com/bangladesh/906738/gas-supply-to-drop-nationwide-from-4-to-7-nov",
+    "description": "During this period, daily gas supply to the national grid will drop to 600 million cubic feet from the current",
+    "published": "Mon, 02 Nov 2026 07:41:00 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/02/medium/Summit-LNG-2-6ae7c2365bd45.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/906737/longest-truce-of-ukraine-war-ends-in-kherson",
+    "title": "Longest truce of Ukraine war ends in Kherson",
+    "link": "https://www.daily-sun.com/world/906737/longest-truce-of-ukraine-war-ends-in-kherson",
+    "description": "The conflict, sparked by Russia's 2022 full-scale invasion, has destroyed parts of eastern and southern Ukraine, left hundreds of thousands",
+    "published": "Mon, 02 Nov 2026 07:41:00 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/02/medium/Kherson-southern-Ukraine-AFP-6ae7b6db973f8.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
