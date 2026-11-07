@@ -188489,5 +188489,295 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/BGB-UNB-File-6aee530cddd28.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/russia-says-it-hit-targets-and-around-kyiv-massive-overnight-strike-1595656",
+    "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
+    "link": "https://www.tbsnews.net/world/russia-says-it-hit-targets-and-around-kyiv-massive-overnight-strike-1595656",
+    "description": "The ministry ‌also ⁠said the strikes damaged several energy and industrial facilities in the Kyiv region.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/07/gnyeg4ch5nouxcsp65fn47ock4.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/bangladesh-needs-dedicated-authority-unlock-77-trilliom-global-halal-economy-stakeholders",
+    "title": "Bangladesh needs dedicated authority to unlock $7.7 trilliom global halal economy: Stakeholders",
+    "link": "https://www.tbsnews.net/economy/bangladesh-needs-dedicated-authority-unlock-77-trilliom-global-halal-economy-stakeholders",
+    "description": "Bangladesh's halal exports stand at just $943m.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/07/hala_economy.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/7-bangladeshis-including-child-killed-truck-hits-bus-saudi-arabia-1595631",
+    "title": "7 Bangladeshis, including child, killed as truck hits bus in Saudi Arabia",
+    "link": "https://www.tbsnews.net/bangladesh/7-bangladeshis-including-child-killed-truck-hits-bus-saudi-arabia-1595631",
+    "description": "Another 15 Bangladeshis were injured when a truck hit the bus from behind as the group was returning from Medina to Jeddah.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/08/04/dead_body.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/energy/bpc-launches-probe-tk4813cr-deposits-troubled-private-banks-1595626",
+    "title": "BPC launches probe into Tk4,813cr deposits in troubled private banks",
+    "link": "https://www.tbsnews.net/economy/energy/bpc-launches-probe-tk4813cr-deposits-troubled-private-banks-1595626",
+    "description": "Seven-member panel to scrutinise deposit decisions, possible commission deals and recovery of public funds.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2025/09/11/bank_0_0.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/bangladesh-csos-demand-continued-climate-finance-beyond-ldc-graduation-ahead-cop31",
+    "title": "Bangladesh CSOs demand continued climate finance beyond LDC graduation ahead of COP31",
+    "link": "https://www.tbsnews.net/bangladesh/bangladesh-csos-demand-continued-climate-finance-beyond-ldc-graduation-ahead-cop31",
+    "description": "Civil society groups from Bangladesh, Bhutan and Nepal call for predictable, grant-based adaptation funding.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/07/892807196_1490872159773119_188527448549213853_n.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/aviation/icao-audit-team-satisfied-improvements-bangladeshs-aviation-security-1595511",
+    "title": "ICAO audit team satisfied with improvements in Bangladesh's aviation security",
+    "link": "https://www.tbsnews.net/economy/aviation/icao-audit-team-satisfied-improvements-bangladeshs-aviation-security-1595511",
+    "description": "The Civil Aviation Authority of Bangladesh (CAAB) hosted a dinner last night (6 November) in honour of the ICAO delegation following the completion of the audit",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/07/892916845_1452855020130457_4913154136873988416_n.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/907546/boesl-to-recruit-223-skilled-workers-for-malaysia-at-zero-migration-cost",
+    "title": "BOESL to recruit 223 skilled workers for Malaysia at zero migration cost",
+    "link": "https://www.daily-sun.com/business/907546/boesl-to-recruit-223-skilled-workers-for-malaysia-at-zero-migration-cost",
+    "description": "The government is set to recruit 223 skilled male workers for a Malaysian company through",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/907541",
+    "title": "Dollar rises as fuel import costs strain forex market",
+    "link": "https://www.daily-sun.com/business/907541",
+    "description": "Higher import payments outpace dollar inflows despite growth in remittances and exports; forex reserves decline",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "e3cbfda3-7a91-4974-aedf-52d19ff24b47",
+    "title": "Why has growth of transactions through Bangla QR stalled?",
+    "link": "https://en.prothomalo.com/business/local/hfphch3gp4",
+    "description": "\n<p>The ''Bangla QR'' initiative, launched to popularise digital transactions by reducing the use of cash, has stalled. Initially, the transaction pace was encouraging, but recently there has been a decline. Although Bangladesh Bank has set targets for banks and financial institutions to increase transactions.</p><p>Meanwhile, from this month, Bangla QR code service has been introduced for peer-to-peer transactions.</p><p>An analysis of Bangladesh Bank's data from May to October shows that in the last two weeks of May, daily transactions through Bangla QR amounted to Tk 2-3 billion. In the first week of October, daily transactions rose to Tk 13. 5 billion. After that, transactions began to decline. By the last week of October, transactions fell to Tk 11. 9 billion. Without new initiatives, there seems to be no immediate potential for growth in transactions, according to industry insiders.</p><blockquote>An analysis of Bangladesh Bank's data from May to October shows that in the last two weeks of May, daily transactions through Bangla QR amounted to Tk 2-3 billion.</blockquote><p>Regarding this, Bangladesh Bank spokesperson Arif Hossain Khan said, \"We don't understand why the pace of transactions through Bangla QR has decreased. Bangladesh Bank is trying to increase transactions by removing obstacles. If necessary, more initiatives will be taken to make Bangla QR universal.\"</p><h3>Reasons for low response in transactions  </h3><p>In July, the use of Bangla QR code was made mandatory for transactions. Therefore, all banks and MFS had to install Bangla QR codes at the merchant level instead of their unique codes. Various banks and MFS institutions have given four to five Bangla QR codes against a single bank or MFS account of these merchants. This has become an alternative system for merchants scattered across the country to withdraw cash. This list of merchants includes everyone from rural shopkeepers to large service and product sellers. As a result, the MFS agent ecosystem has collapsed due to the influence of a large number of merchants.</p><aside><cite>Bangladesh Bank spokesperson Arif Hossain Khan</cite>We don't understand why the pace of transactions through Bangla QR has decreased. Bangladesh Bank is trying to increase transactions by removing obstacles. If necessary, more initiatives will be taken to make Bangla QR universal.</aside><p>From October, Bangladesh Bank made it free for sellers to receive money through Bangla QR. Therefore, merchants don't need to pay any fees to receive money from customers and return it in cash. In contrast, a specific fee is required to cash out from MFS agents like bKash, Nagad, and Rocket.</p><p>For this fee, MFS companies pay the government more than Tk 3 as revenue for every thousand. But there is no cost if the money is withdrawn through merchants. Additionally, merchants do not have to pay any revenue to the government. Therefore, withdrawing cash using this QR code is beneficial for both customers and merchants.</p><p>For the government and MFS companies, this poses a significant business obstacle. On 30 September, Bangladesh Bank announced that if money is withdrawn through Bangla QR to increase digital transactions, those accounts will be closed. Since then, MFS and banks have been closing accounts when money is withdrawn instead of purchasing. From then on, the pace of QR transactions has declined.</p><h3>Initiatives to increase transactions  </h3><p>To boost transactions through Bangla QR code, Bangladesh Bank has allocated Tk 1 billion in the 2026-27 fiscal year to provide incentives to banks and MFS companies. Incentives are being provided for transactions up to Tk 2,000 at the stores of registered small and marginal vendors or service providers. Under this facility, the bank or MFS company that sets up the QR code at the merchant point gets an incentive of 0.10 per cent of the transaction. On the other hand, the issuing company through which the customer is paying receives an incentive of 0.20 per cent of the transaction. Yet, transactions are not increasing as expected.</p><aside><cite>Sonali Bank's Managing Director (MD) Shawkat Ali Khan</cite>We have set targets for our employees to increase the use of Bangla QR. This is gradually increasing account openings and transactions. If everyone progresses this way, the service will grow.</aside><h3>Transaction scenario</h3><p>The analysis of data shows that in 7 out of the last 24 weeks, QR transactions were negative. Industry insiders blame several technological and structural weaknesses for this stagnation in transactions. They believe that a large portion of the country's citizens are now customers of mobile banking services like bKash and Nagad. The service cannot be popularised without the active participation of these two companies. Additionally, customers need to be made aware, and infrastructure needs to be developed. It's also essential to make banking apps more user-friendly. The announced initiative to enable the use of the Bangla QR app without the internet also needs to be implemented.</p><h3>Who is leading in Bangla QR?\n\n</h3><p>In opening new merchant accounts with Bangla QR, Islami, Pubali, Janata, Sonali, and Rupali Bank are currently leading.</p><p>When asked, Sonali Bank's Managing Director (MD) Shawkat Ali Khan told Prothom Alo, \"We have set targets for our employees to increase the use of Bangla QR. This is gradually increasing account openings and transactions. If everyone progresses this way, the service will grow.\"</p>",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-11-07/bxl45fkw/Bangla-QR.avif?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "d88adae9-a576-4eb4-9cfb-62ec14c9200a",
+    "title": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+    "link": "https://en.prothomalo.com/international/africa/hnx8yc8dgp",
+    "description": "KENYA-CULT-CRIME-COURT-SHAKAHOLA\n<p>A self-proclaimed Kenyan preacher was sentenced to 200 years in prison on Friday for the murder of 190 children and one adult in an infamous starvation cult.</p><p>Hundreds of bodies have been discovered since 2023 at the sect's base near the coastal resort of Malindi, in what became known as the \"Shakahola Forest Massacre\".</p><p>Self-proclaimed pastor Paul Mackenzie, a former taxi driver, was accused of inciting his followers to starve themselves to death to \"meet Jesus\".</p><p>He was convicted last month of murdering 191 people between January 2021 and September 2023, alongside 28 co-accused.</p><p>On Friday, the court sentenced him to 100 years for the homicide charges and 100 years for the starvation charges, while his accomplices -- many of whom starved their own children to death -- received a variety of lengthy prison terms.</p><p>\"Children observed siblings drop dead... as their parents ate and drank,\" the judge said.</p><p>\"Some died as a result of strangulation, severely beaten... Children were subjected to extreme suffering... terrifying living conditions, psychological trauma.\"</p><p>Mackenzie was impassive as the sentence was read out, as he had been throughout the trial.</p><p>Prosecutors had called for the death penalty, but the judge said it would \"fail to achieve deterrence, particularly where the convicts regard death as a pathway to heaven and a union with Jesus and their deceased children.\"</p><p>Kenya has the death penalty but has not carried out an execution since 1987.</p><p>Francis Wanje, a 62-year-old teacher who lost two grandchildren to the cult, told AFP he had hoped Mackenzie would be sentenced to death to prevent further tragedies.</p><p>Another of his grandchildren, now 11, went without food for eight days before being rescued in March 2023.</p><p>He testified that his brothers, aged two and five, had died after their parents, acting on the guru's orders, forbade them from eating or drinking.</p><p>\"Nothing can ease the pain,\" said Wanje, who blamed authorities for failing to act swiftly.</p><p>\"I really have great (anger) towards the authorities. If they had taken action, we would not be here today,\" he added.</p><h3>Death penalty</h3><p>Mackenzie's lawyer said he would appeal the verdict. He also faces manslaughter and terrorism charges in other trials, which he denies.<br />Around 120 prosecution witnesses testified during the trial.</p><p>According to witnesses, the movement denounced formal education as \"satanic\", viewed modern medicine and hospitals as instruments of the devil and required followers to cut themselves off from the outside world.</p><p>Mackenzie was arrested in April 2023 after a rights group alerted authorities and some followers were rescued from the 325-hectare (800-acre) ranch in the Shakahola forest on Kenya's coast.</p><p>The Kenya National Commission on Human Rights put the death toll at 429 in 2024. Some victims remain unidentified.</p><p>The case has fuelled calls for tighter regulation of religious organisations, after it emerged that Mackenzie had previously been arrested twice but released.</p><p>He established the Good News International Church in 2003 and set up branches in Nairobi and along Kenya's coast that attracted thousands of devotees, though he claimed it closed in 2019.</p><p>He was arrested in 2017 over charges of \"radicalisation\" but was acquitted. He was arrested again in 2019 in relation to two child deaths at Shakahola but released on bail.</p>",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-11-07/hbvdyb5w/827969-01-02-1.jpg?w=280",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "e2a1d866-f2f9-4913-a89e-653a25a59d15",
+    "title": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+    "link": "https://en.prothomalo.com/bangladesh/hub6z93k9n",
+    "description": "\n<p>Prime Minister Tarique Rahman today, Saturday announced a pay rise for Gram Police, lifting their monthly salary from Tk 7,500 to Tk 10,500 and their chiefs’ from Tk 8,000 to Tk 11,000.</p><p>The government will also pay monthly mobile phone allowance up to Tk 150 for each member.</p><p>The Prime Minister said the new arrangements will take effect from today. He said two additional women Gram Police members would be recruited in every union and their maternity leave would be extended to six months.</p><p>The Prime Minister made the announcements at a rally of Gram Police at the National Parade Ground in the capital, marking the historic National Revolution and Solidarity Day.</p><figure><img alt=\"\" src=\"https://media.prothomalo.com/prothomalo-english/2026-11-07/9xux3nq5/17940441993506aeef127557451.webp\" /><figcaption>Prime Minister Tarique Rahman and his wife Zubaida Rahman were present at a grand rally of Gram Police held at the National Parade Ground in the capital</figcaption></figure><p>“At present, a Gram Police member’s monthly salary is Tk 7,500. We have raised it to Tk 10,500. The monthly salary of the Gram Police chief has been raised from Tk 8,000 to Tk 11,000,” the Prime Minister declared.</p><p>“The retirement gratuity has been raised from Tk 50,000 to Tk 80,000 for members and from Tk 80,000 to Tk 1 lakh for chiefs,” he announced.</p><p>The Prime Minister said a member of Gram Police will get Tk 150 monthly mobile phone allowance to facilitate them communication easier.</p><p>Gram Police members will get Tk 500 every week for travelling to police stations instead of Tk 300, he said adding the chiefs will get Taka 600 for this purpose.</p><p>Tarique Rahman said the government has taken initiative to raise the financial and professional dignity of Gram Police instead of only changing their designations.</p><p>“Those previously were known as ‘Mohalladar’ and ‘Dafadar’ will now be called as Gram Police member and Gram Police chief respectively,” he said.</p><p>The Prime Minister said two new women Gram Police members will be recruited in every union to empower women and increase employment. Maternity leave for women Gram Police will be for six months.”</p><p>In recognition of the work of Gram Police, he said, a long road in every union will be named after the force.</p><p>“Trees will be planted on both sides of the road, and the money from selling them will be distributed among the Gram Police members of that union,” he said.</p><p>The Prime Minister also said he would ask the Local Government Ministry to arrange new bicycles for members in every three to three and a half years, instead of every five.</p><p>PM’s wife Zubaida Rahman, also vice president of the Ziaur Rahman Foundation, was present on the occasion.</p>",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://en.prothomalo.com/feed/",
+    "thumbnail": "https://media.prothomalo.com/prothomalo-english/2026-11-07/clvxja7h/pm.webp?w=280",
+    "thumbnail_type": "image/webp"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/dialysis-centres-kidney-hospital-dhaka-ctg-medical-face-closure-500-patients",
+    "title": "Dialysis centres at kidney hospital in Dhaka, Ctg Medical face closure; 500 patients uncertain over treatment",
+    "link": "https://www.tbsnews.net/bangladesh/health/dialysis-centres-kidney-hospital-dhaka-ctg-medical-face-closure-500-patients",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/nikdu.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/cop31-comes-turkey-satellites-reveal-landfill-methane-problem-1595406",
+    "title": "As COP31 comes to Turkey, satellites reveal a landfill methane problem",
+    "link": "https://www.tbsnews.net/world/cop31-comes-turkey-satellites-reveal-landfill-methane-problem-1595406",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/cop31.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/paraguay-swears-new-president-pena-placed-under-house-arrest-1595206",
+    "title": "Paraguay swears in new president as Peña is placed under house arrest",
+    "link": "https://www.tbsnews.net/world/paraguay-swears-new-president-pena-placed-under-house-arrest-1595206",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/screenshot_2026-11-07_102452.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-offers-20-m-reward-info-irans-nuclear-programme-1595161",
+    "title": "US offers $20m reward for info on 'Iran's nuclear programme'",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-offers-20-m-reward-info-irans-nuclear-programme-1595161",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/24/iran4.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/trump-makes-hardliner-stephen-miller-his-chief-staff-after-midterm-defeat-1595156",
+    "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+    "link": "https://www.tbsnews.net/worldbiz/usa/trump-makes-hardliner-stephen-miller-his-chief-staff-after-midterm-defeat-1595156",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/qy3tr7gcu5ko7iv6uo6y5lff4i.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/economy/energy/another-uranium-shipment-reaches-rooppur-under-tight-securit-1595141",
+    "title": "Another uranium shipment reaches Rooppur under tight security",
+    "link": "https://www.tbsnews.net/economy/energy/another-uranium-shipment-reaches-rooppur-under-tight-securit-1595141",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/image-440408-1793443389_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/france-braces-protests-yellow-vests-urge-mass-disobedience-1595146",
+    "title": "France braces for protests as Yellow Vests urge 'mass disobedience'",
+    "link": "https://www.tbsnews.net/worldbiz/europe/france-braces-protests-yellow-vests-urge-mass-disobedience-1595146",
+    "description": "",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/07/france_protest.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/aaxzepcs0e",
+    "title": "Heavy rain floods Gaza shelters, aid runs short",
+    "link": "https://bdnews24.com/world/aaxzepcs0e",
+    "description": "[World] Heavy rain floods Gaza shelters, aid runs short",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-07/641s1vtx/gaza-flood-07112026-01.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/cxxw41kxs0",
+    "title": "WB commits $300mn to boost primary education",
+    "link": "https://bdnews24.com/bangladesh/cxxw41kxs0",
+    "description": "[Bangladesh] WB commits $300mn to boost primary education",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-07/4z46gpai/mymensingh_primary_school.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "f3c487090eb1c449508df204311a36327f521f27",
+    "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/c46c716/2147483647/strip/true/crop/8144x5424+0+0/resize/727x484!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2Fac%2F41a2d1c14382aebcd5e1a8b34f26%2Fe15874faef924de6bb4ba0170c63852d\" /><br />Missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/c46c716/2147483647/strip/true/crop/8144x5424+0+0/resize/727x484!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2Fac%2F41a2d1c14382aebcd5e1a8b34f26%2Fe15874faef924de6bb4ba0170c63852d",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "d92a3159242d0085904aefe8753a6b96a377bdb7",
+    "title": "An airstrike has killed 25 people near Yemen’s capital, Houthi official says",
+    "link": "https://apnews.com/article/yemen-houthi-saudi-attacks-1b5aef5b86be2e96e1cd8a18165afaf6",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/478b0c3/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F08%2Fd0%2F2e821827e5fec32e50640ceffea6%2Fbf53bedd4f184267b9ed5837ac6c9ec1\" /><br />An airstrike has killed 25 people near Yemen’s capital, Houthi official says",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/478b0c3/2147483647/strip/true/crop/1200x792+0+0/resize/599x395!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F08%2Fd0%2F2e821827e5fec32e50640ceffea6%2Fbf53bedd4f184267b9ed5837ac6c9ec1",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "befd9cb2ffbfc8b8caf6d051aaef2d5701233008",
+    "title": "Malaysia attorney-general defends move to halt Najib’s house arrest order despite palace warning",
+    "link": "https://apnews.com/article/malaysia-najib-prison-house-arrest-king-c545872c4978ec501a2eebea22c6cd54",
+    "description": "Malaysia attorney-general defends move to halt Najib’s house arrest order despite palace warning",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "e33f99523ba84c8da78e645a4fae01d42e2494ed",
+    "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China’s space station",
+    "link": "https://apnews.com/article/china-pakistani-astronaut-space-station-5f41ab023758265d421bb4b57ebe931f",
+    "description": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China’s space station",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/907739/govt-to-provide-tk198-9cr-incentives-to-14-6-lakh-farmers-in-rabi-season",
+    "title": "Govt to provide Tk198.9cr incentives to 14.6 lakh farmers in Rabi season",
+    "link": "https://www.daily-sun.com/bangladesh/907739/govt-to-provide-tk198-9cr-incentives-to-14-6-lakh-farmers-in-rabi-season",
+    "description": "The government will provide Tk198.9 crore in agricultural incentives to 14.6 lakh farmers during the 2026-27 Rabi season to boost",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/Rabi_Season-6aeed50398586.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/907738/crisis-hit-paraguay-impeaches-pena-replaces-him-with-vp-alliana",
+    "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana",
+    "link": "https://www.daily-sun.com/world/907738/crisis-hit-paraguay-impeaches-pena-replaces-him-with-vp-alliana",
+    "description": "Pedro Alliana became Paraguay's president amid a massive banking crisis after Santiago Pena's impeachment. Alliana pledges support for affected depositors.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/Paraguay-6aeed1ed91ea6.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/907734/draft-law-proposes-legal-protection-for-rescuers-of-road-accident-victims",
+    "title": "Draft law proposes legal protection for rescuers of road accident victims",
+    "link": "https://www.daily-sun.com/bangladesh/907734/draft-law-proposes-legal-protection-for-rescuers-of-road-accident-victims",
+    "description": "The draft Road Safety Act 2026 offers legal protection for Good Samaritans aiding road accident victims to save lives by",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/Road_safety-6aeeceb9217fe.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/bangladesh/907728/govt-plans-to-equip-100-000-ansar-vdp-members-with-skills-for-overseas-employment",
+    "title": "Govt plans to equip 100,000 Ansar-VDP members with skills for overseas employment",
+    "link": "https://www.daily-sun.com/bangladesh/907728/govt-plans-to-equip-100-000-ansar-vdp-members-with-skills-for-overseas-employment",
+    "description": "The Bangladesh government launches a new initiative to train 100,000 Ansar-VDP members for skilled overseas jobs, boosting employment and economic",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/Ansar_VDP-6aeec3c352bdf.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/world/907720/africa-emerging-as-new-frontier-for-global-gas-growth",
+    "title": "Africa emerging as new frontier for global gas growth",
+    "link": "https://www.daily-sun.com/world/907720/africa-emerging-as-new-frontier-for-global-gas-growth",
+    "description": "Natural gas accounts for around 25 per cent of the world's primary energy supply but represents only 17 per cent",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/07/medium/lng-6aeea985d9920.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "7f142a2d05e2f1cdd91d5e941979ddb3",
+    "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
+    "link": "https://en.bonikbarta.com/technology/BIqV9Zqr9YslbPIz/",
+    "description": "In an ‌X post, Musk said the wind-down would let Tesla make more of the Cybercab, a robotaxi he has made central to the automaker’s autonomous-vehicle ambitions, but one that has yet to prove itself commercially.",
+    "published": "Sat, 07 Nov 2026 20:34:11 +0600",
+    "source": "https://evilgodfahim.github.io/bben/feed.xml"
   }
 ]
