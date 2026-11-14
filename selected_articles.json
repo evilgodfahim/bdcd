@@ -196580,5 +196580,121 @@
     "description": "",
     "published": "Sat, 14 Nov 2026 04:50:19 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/flights-grounded-across-us-after-air-traffic-communications-outage-1601776",
+    "title": "Flights grounded across US after air traffic communications outage",
+    "link": "https://www.tbsnews.net/worldbiz/usa/flights-grounded-across-us-after-air-traffic-communications-outage-1601776",
+    "description": "The shutdown caused chaos at airports, with airlines cancelling more than 1,000 flights and delaying nearly 10,000, according to flight-tracking service FlightAware",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/14/usa_airline_airport_flight_cancellation.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://bdnews24.com/technology/li549mxzcg",
+    "title": "World entering ‘age of electricity’: IEA chief",
+    "link": "https://bdnews24.com/technology/li549mxzcg",
+    "description": "[Technology] World entering ‘age of electricity’: IEA chief",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-13/32g2fctq/world-electricity-141126-01.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/europe/hbfq0c62hq",
+    "title": "EU picks 5-nation group to speak at Ukraine peace talks",
+    "link": "https://bdnews24.com/world/europe/hbfq0c62hq",
+    "description": "[Europe] EU picks 5-nation group to speak at Ukraine peace talks",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-13/fivzm238/eu-leaders-141126.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/gn3k4px3jh",
+    "title": "74 militants killed in 10 days: Pakistan",
+    "link": "https://bdnews24.com/world/gn3k4px3jh",
+    "description": "[World] 74 militants killed in 10 days: Pakistan",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/import/english/imgAll/2026February/army-soldiers-010226-01-1769892001.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/dlitj2g048",
+    "title": "ICC closes part of Afghanistan probe involving US troops",
+    "link": "https://bdnews24.com/world/dlitj2g048",
+    "description": "[World] ICC closes part of Afghanistan probe involving US troops",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/import/bdnews-english/import/english/imgAll/2026July/icc-leave-mali-02072026-01-1783009381.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "75d71f211db2cd9d552218d5f08df49959615a25",
+    "title": "South African parties in high-stakes coalition talks after ANC’s worst election results",
+    "link": "https://apnews.com/article/south-africa-election-coalition-talks-anc-4dacef78eea159913f5ab6596736bcb2",
+    "description": "South African parties in high-stakes coalition talks after ANC’s worst election results",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "9a68a0ad012d767d33328a1cf990cc3b6a386502",
+    "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former prime minister",
+    "link": "https://apnews.com/article/russia-ukraine-war-car-explosion-bomb-moscow-fb9f3ae11d33ccca2192289e592240ad",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/faef138/2147483647/strip/true/crop/8640x5760+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F3a%2Fba1dfa91e57d26f520f87c901b4b%2F1bf8a31198ef406888222b788109cd40\" /><br />Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former prime minister",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/faef138/2147483647/strip/true/crop/8640x5760+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F3a%2Fba1dfa91e57d26f520f87c901b4b%2F1bf8a31198ef406888222b788109cd40",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "ecaff4cd36677a57afa47bffa07a3f3c81517d61",
+    "title": "UN chief says ‘immediate and drastic’ emissions cuts needed to avert climate change catastrophe",
+    "link": "https://apnews.com/article/climate-cop31-un-turkey-9c3945f36e4445dd4427f490c40e4bf3",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/e6acac6/2147483647/strip/true/crop/3415x2277+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F32%2F98063210c838f9ff53e5411052ef%2F2bd20b956f304de3b4e978f2832ad61f\" /><br />UN chief says ‘immediate and drastic’ emissions cuts needed to avert climate change catastrophe",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/e6acac6/2147483647/strip/true/crop/3415x2277+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F32%2F98063210c838f9ff53e5411052ef%2F2bd20b956f304de3b4e978f2832ad61f",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "aaaa4bf03b2aba4b38ecdd94787dd206e377cdf6",
+    "title": "Israeli strike on southern Gaza’s biggest hospital further decimates the strip’s healthcare system",
+    "link": "https://apnews.com/video/israeli-strike-on-gaza-hospital-kills-6-people-including-a-doctor-and-a-child-health-ministry-says-a394707b5be546b7926997fc6c4b9abe",
+    "description": "Israeli strike on southern Gaza’s biggest hospital further decimates the strip’s healthcare system",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "9f600fc8c7e8a0aa7fad473d6b39fd06e5835762",
+    "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+    "link": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/4737064/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2F9a%2Ff95b79e2e9e0f314bc5988d1d938%2F5643ddc0dd414db29ffd421966c4d0b8\" /><br />Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/4737064/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2F9a%2Ff95b79e2e9e0f314bc5988d1d938%2F5643ddc0dd414db29ffd421966c4d0b8",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "5f478464d2436d8bc3a91fe66fb834451140db5f",
+    "title": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions",
+    "link": "https://apnews.com/article/us-guatemala-terrorism-drugs-rubio-5036440b50789cec893916478bc45471",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/f7b3398/2147483647/strip/true/crop/3359x2239+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fcd%2F4dc20f34523f5b52896cde4b7ffa%2F09bf7632480d46d98720502993cfaefd\" /><br />US declares three Guatemalan gangs to be terrorist groups, imposes sanctions",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/f7b3398/2147483647/strip/true/crop/3359x2239+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fcd%2F4dc20f34523f5b52896cde4b7ffa%2F09bf7632480d46d98720502993cfaefd",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "1e75ae077a58f10e3066b602d5ba6a234c68474e",
+    "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+    "link": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/5555e0a/2147483647/strip/true/crop/3509x2339+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F83%2F5a712def27c8f334b130ade17ffe%2F92b4e930057b4e0ba0d6a887dc8e2f55\" /><br />Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+    "published": "Sat, 14 Nov 2026 08:44:20 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/5555e0a/2147483647/strip/true/crop/3509x2339+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F83%2F5a712def27c8f334b130ade17ffe%2F92b4e930057b4e0ba0d6a887dc8e2f55",
+    "thumbnail_type": "image/jpeg"
   }
 ]
