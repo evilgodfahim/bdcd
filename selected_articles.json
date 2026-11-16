@@ -199250,5 +199250,25 @@
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml",
     "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/15/medium/JS,-UNDP-launch-orientation-6af9ed88e75d4.jpg",
     "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/usa/us-air-traffic-system-failure-causes-days-flight-disruptions-1603796",
+    "title": "US air traffic system failure causes days of flight disruptions",
+    "link": "https://www.tbsnews.net/worldbiz/usa/us-air-traffic-system-failure-causes-days-flight-disruptions-1603796",
+    "description": "The ground stop was lifted after about four and a half hours, but its effects continued throughout the weekend. Normal operations were not expected to resume fully until Monday",
+    "published": "Mon, 16 Nov 2026 08:58:32 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/14/usa_airline_airport_flight_cancellation.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "2fb56f427384975aab557da2c1504c01ad6f3a60",
+    "title": "Japan’s economy contracts slightly in the latest quarter as oil prices remain high",
+    "link": "https://apnews.com/article/japan-economy-growth-oil-energy-inflation-263988f2ec1894d3bf88522fd12500a6",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/2e7a31c/2147483647/strip/true/crop/4447x2964+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F48%2F9b23ade9771f9f7b7c2ef149ee83%2F8db9f73eb5b649f2a5dca08ab4e81b5c\" /><br />Japan’s economy contracts slightly in the latest quarter as oil prices remain high",
+    "published": "Mon, 16 Nov 2026 08:58:32 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/2e7a31c/2147483647/strip/true/crop/4447x2964+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F48%2F9b23ade9771f9f7b7c2ef149ee83%2F8db9f73eb5b649f2a5dca08ab4e81b5c",
+    "thumbnail_type": "image/jpeg"
   }
 ]
