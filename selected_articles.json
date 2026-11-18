@@ -201455,5 +201455,156 @@
     "description": "The speaker said the Kishoreganj-3 seat became vacant on the morning of November 15, 2026.",
     "published": "Wed, 18 Nov 2026 02:03:50 +0600",
     "source": "https://evilgodfahim.github.io/bben/feed.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/world/nearly-200-major-websites-hit-supply-chain-cyber-attack-1606001",
+    "title": "Nearly 200 major websites hit by supply-chain cyber attack",
+    "link": "https://www.tbsnews.net/world/nearly-200-major-websites-hit-supply-chain-cyber-attack-1606001",
+    "description": "The attackers injected malicious JavaScript code into tools hosted by Optimizely, a third-party digital platform used by companies to customise online user experiences",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2021/02/17/hackers.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/909784",
+    "title": "ADB tool aims to boost PPPs, attract fresh investment in Bangladesh",
+    "link": "https://www.daily-sun.com/business/909784",
+    "description": "ADB tool aims to boost PPPs, attract fresh investment in Bangladesh",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/909781",
+    "title": "$3.5m project prioritisesAI-based market intelligence, processed food industry",
+    "link": "https://www.daily-sun.com/business/909781",
+    "description": "Commerce minister asks stakeholders to finalise action plan",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/18/medium/Untitled-6afcca3b26d11.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/909681/bangladesh-qualifies-for-us-dfc-financing-due-to-labour-friendly-policies-mahdi-amin",
+    "title": "Bangladesh qualifies for US DFC financing due to labour-friendly policies: Mahdi Amin",
+    "link": "https://www.daily-sun.com/business/909681/bangladesh-qualifies-for-us-dfc-financing-due-to-labour-friendly-policies-mahdi-amin",
+    "description": "Bangladesh has qualified for financing from the US International Development Finance Corporation (DFC) in recognition of the government's labour-friendly polici",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml",
+    "thumbnail": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/17/medium/Mahdi-Amin-6afc39ba6d2c7.jpeg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/tk1580cr-dredging-allocation-properly-used-during-al-rule-passengers-benefited-shipping",
+    "title": "Tk1,580cr dredging allocation properly used during AL rule, passengers benefited: Shipping minister",
+    "link": "https://www.tbsnews.net/bangladesh/tk1580cr-dredging-allocation-properly-used-during-al-rule-passengers-benefited-shipping",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/04/22/shipping_minister_1.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/court/mirpur-july-killings-ict-takes-cognisance-charges-against-kamal-majumder-18-others",
+    "title": "Mirpur July killings: ICT takes cognisance of charges against Kamal Majumder, 18 others",
+    "link": "https://www.tbsnews.net/bangladesh/court/mirpur-july-killings-ict-takes-cognisance-charges-against-kamal-majumder-18-others",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/28/non-surgical_9.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/health/free-dengue-tests-govt-hospitals-community-clinics-become-primary-healthcare-hubs",
+    "title": "Free dengue tests at govt hospitals; community clinics to become primary healthcare hubs: Muhit",
+    "link": "https://www.tbsnews.net/bangladesh/health/free-dengue-tests-govt-hospitals-community-clinics-become-primary-healthcare-hubs",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/17/ma_muhit.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/tk994cr-project-divert-gulshan-banani-sewage-dasherkandi-plant-1605771",
+    "title": "Tk994cr project to divert Gulshan, Banani sewage to Dasherkandi plant",
+    "link": "https://www.tbsnews.net/bangladesh/tk994cr-project-divert-gulshan-banani-sewage-dasherkandi-plant-1605771",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/17/screenshot_2026-11-17_204454.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/middle-east/iran-attacks-us-military-radar-system-bahrain-despite-talks-mediators-1605721",
+    "title": "Iran attacks US military radar system in Bahrain despite talks with mediators",
+    "link": "https://www.tbsnews.net/worldbiz/middle-east/iran-attacks-us-military-radar-system-bahrain-despite-talks-mediators-1605721",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/slrj77x6qriuhnravlqlzc7vem.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.tbsnews.net/bangladesh/armed-bsf-member-detained-sylhet-after-crossing-border-handed-over-india-1605276",
+    "title": "Armed BSF member detained in Sylhet after crossing border, handed over to India",
+    "link": "https://www.tbsnews.net/bangladesh/armed-bsf-member-detained-sylhet-after-crossing-border-handed-over-india-1605276",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/tbs/articles.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/17/bsf_member_detained_0.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://www.thedailystar.net/business/economy/news/new-imf-debt-test-puts-spotlight-bangladeshs-interest-bill-4326576",
+    "title": "New IMF debt test puts spotlight on Bangladesh’s interest bill",
+    "link": "https://www.thedailystar.net/business/economy/news/new-imf-debt-test-puts-spotlight-bangladeshs-interest-bill-4326576",
+    "description": "",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406",
+    "title": "Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists",
+    "link": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406",
+    "description": "Party activists allegedly storm station, free detainees; BNP MP’s house set on fire, says UNO",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/dstar/feeds/feed.xml"
+  },
+  {
+    "id": "https://www.dhakatribune.com/bangladesh/424926/board-chief-new-garment-wages-to-take-effect-from",
+    "title": "Board chief: New garment wages to take effect from Dec 1, regardless of announcement date",
+    "link": "https://www.dhakatribune.com/bangladesh/424926/board-chief-new-garment-wages-to-take-effect-from",
+    "description": "New wages for garment workers will take effect from December 1, regardless of when they are officially announced, Minimum Wage Board Chairman Syed Azad Subhani said on Tuesday.\n\nHe urged workers not to be misled by rumours, misinformation or fake notices regarding the wage announcement and called on them to avoid creating disorder.\n\nHe made the remarks at a briefing at the Minimum Wage Board office in Segunbagicha in the capital.\n\nSubhani said the board's scheduled meeting on Monday was postponed after one of its representatives fell ill. The meeting will now be held on November 23.\n\nReiterating the implementation timeline, he said the new minimum wages would come into effect from December 1, irrespective of the announcement date.\n\nThe government formed a six-member Minimum Wage Board for garment workers on November 1. A tripartite emergency meeting involving representatives of workers, employers and the government was also held on the same day.\n\nDespite these initiatives, workers' protests have continued in several areas. In response, the government has stepped up security in industrial zones, deploying police, Border Guard Bangladesh (BGB) and Armed Police Battalion (APBn) personnel.",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/dt/home.xml",
+    "published_inferred": true,
+    "thumbnail": "https://ecdn.dhakatribune.net/contents/uploads/media/2024/06/06/Garments-Factory-fa34e03b34f0fd1eca9701ae97a43cc2.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "409103f812d6d99f466823d73867678e00a469b0",
+    "title": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action",
+    "link": "https://apnews.com/article/board-of-peace-us-israel-gaza-hamas-189d58d05fa984cc9573f98ec7d638be",
+    "description": "<img alt=\"\" src=\"https://dims.apnews.com/dims4/default/306cf26/2147483647/strip/true/crop/6222x4148+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F1a%2F800265b847fad318d975f8a8381a%2F248d607cb6714313bd30f82147bdb9ba\" /><br />Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml",
+    "thumbnail": "https://dims.apnews.com/dims4/default/306cf26/2147483647/strip/true/crop/6222x4148+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F1a%2F800265b847fad318d975f8a8381a%2F248d607cb6714313bd30f82147bdb9ba",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "0c880fbdf29b1012cc8a09dea4bfb9a08dc64218",
+    "title": "UK sanctions Israeli companies building West Bank settlements",
+    "link": "https://apnews.com/article/britain-israel-sanctions-west-bank-construction-8e4de81ef0b6fdbf0fd5f687e95de163",
+    "description": "UK sanctions Israeli companies building West Bank settlements",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
+  },
+  {
+    "id": "05395d37a8eec2acd83e996f99ab38f32cd39d1c",
+    "title": "Russian military transport plane crashes in Siberia, killing 19, according to Defense Ministry",
+    "link": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d",
+    "description": "Russian military transport plane crashes in Siberia, killing 19, according to Defense Ministry",
+    "published": "Wed, 18 Nov 2026 08:22:12 +0600",
+    "source": "https://evilgodfahim.github.io/wl/pau.xml"
   }
 ]
