@@ -205298,5 +205298,277 @@
     "description": "",
     "published": "Sun, 22 Nov 2026 04:20:57 +0600",
     "source": "https://evilgodfahim.github.io/ds/todays_news.xml"
+  },
+  {
+    "id": "https://www.tbsnews.net/worldbiz/europe/russian-cargo-ship-ablaze-baltic-sea-after-drone-strike-crew-evacuates-1610026",
+    "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+    "link": "https://www.tbsnews.net/worldbiz/europe/russian-cargo-ship-ablaze-baltic-sea-after-drone-strike-crew-evacuates-1610026",
+    "description": "The 16-member crew of the Sparta II evacuated onto lifeboats, then to a nearby Russian ship, and is on its way back to Russia",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://tbsnews.net/top-news/rss.xml",
+    "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/medium/public/images/2026/11/22/finland_russian_cargo_ship.png",
+    "thumbnail_type": "image/png"
+  },
+  {
+    "id": "https://www.daily-sun.com/business/910600/gold-prices-fall-by-tk6-182-per-bhori",
+    "title": "Gold prices fall by Tk6,182 per bhori",
+    "link": "https://www.daily-sun.com/business/910600/gold-prices-fall-by-tk6-182-per-bhori",
+    "description": "",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/ds/business.xml"
+  },
+  {
+    "id": "https://bdnews24.com/world/1eviv76zqf",
+    "title": "Mexico captures drug lord 'El Chapo Isidro'",
+    "link": "https://bdnews24.com/world/1eviv76zqf",
+    "description": "[World] Mexico captures drug lord 'El Chapo Isidro'",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-21/d9wlpn55/mexico-drug-lord-01-22112026.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/bangladesh/av3vlrq481",
+    "title": "Controversial remarks put BNP government on the spot",
+    "link": "https://bdnews24.com/bangladesh/av3vlrq481",
+    "description": "[Bangladesh] Controversial remarks put BNP government on the spot",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://media.assettype.com/bdnews24-english/2026-11-21/d7w3t965/bnp-minister-state-minister-181126-01.jpg?w=300",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/world/europe/qghjayohw2",
+    "title": "Thousands protest in Portugal over living costs",
+    "link": "https://bdnews24.com/world/europe/qghjayohw2",
+    "description": "[Europe] Thousands protest in Portugal over living costs",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://bdnews24.com/technology/v16qxvex5m",
+    "title": "Riemann hypothesis 'solved with AI'",
+    "link": "https://bdnews24.com/technology/v16qxvex5m",
+    "description": "[Technology] Riemann hypothesis 'solved with AI'",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/bd24ar/feeds/feed.xml",
+    "thumbnail": "https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/national/dhaka-delhi-to-discuss-water-issues-sunday",
+    "title": "Dhaka, Delhi to discuss water issues Sunday",
+    "link": "https://thefinancialexpress.com.bd/national/dhaka-delhi-to-discuss-water-issues-sunday",
+    "description": "Dhaka, Delhi to discuss water issues Sunday",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/editorial/a-landmark-verdict-on-rohingya-genocide",
+    "title": "A landmark verdict on Rohingya genocide",
+    "link": "https://thefinancialexpress.com.bd/editorial/a-landmark-verdict-on-rohingya-genocide",
+    "description": "A landmark verdict on Rohingya genocide",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/columns/bangladeshs-fta-push",
+    "title": "Bangladesh's FTA push",
+    "link": "https://thefinancialexpress.com.bd/columns/bangladeshs-fta-push",
+    "description": "Bangladesh's FTA push",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://thefinancialexpress.com.bd/views/bangladesh-taxes-sugary-drinks-but-is-it-taxing-sugar",
+    "title": "Bangladesh taxes sugary drinks, but is it taxing sugar?",
+    "link": "https://thefinancialexpress.com.bd/views/bangladesh-taxes-sugary-drinks-but-is-it-taxing-sugar",
+    "description": "Bangladesh taxes sugary drinks, but is it taxing sugar?",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_homepage.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/govt-raises-min-wage-for-leather-footwear-workers-by-676pc-1795282425",
+    "title": "Govt raises min. wage for leather, footwear workers by 67.6pc",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/govt-raises-min-wage-for-leather-footwear-workers-by-676pc-1795282425",
+    "description": "The government has raised the minimum monthly wage for workers...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/if-united-no-one-will-dare-turn-bangladesh-into-a-subservient-state-pm-1795282644",
+    "title": "If united, no one will dare turn Bangladesh into a subservient state: PM",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/if-united-no-one-will-dare-turn-bangladesh-into-a-subservient-state-pm-1795282644",
+    "description": "",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1795282644.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/fresh-wage-unrest-shuts-100-garment-factories-1795282680",
+    "title": "Fresh wage unrest shuts 100 garment factories",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/fresh-wage-unrest-shuts-100-garment-factories-1795282680",
+    "description": "Around 100 readymade garment factories in major industrial belts, including...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/first-page/less-than-4pc-of-labour-force-pays-income-tax-lowest-in-south-asia-1795282851",
+    "title": "Less than 4pc of labour force pays income tax, lowest in South Asia",
+    "link": "https://today.thefinancialexpress.com.bd/first-page/less-than-4pc-of-labour-force-pays-income-tax-lowest-in-south-asia-1795282851",
+    "description": "Active personal income taxpayers account for only 3.37 per cent...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/90-bgb-platoons-deployed-in-dhaka-seven-districts-1795280839",
+    "title": "90 BGB platoons deployed in Dhaka, seven districts",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/90-bgb-platoons-deployed-in-dhaka-seven-districts-1795280839",
+    "description": "The Border Guard Bangladesh (BGB) has deployed 90 platoons in...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/bnp-marks-armed-forces-day-with-procession-rally-1795280849",
+    "title": "BNP marks Armed Forces Day with procession, rally",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/bnp-marks-armed-forces-day-with-procession-rally-1795280849",
+    "description": "FE REPORT Bangladesh Nationalist Party (BNP) brought out on Saturday...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/politics-policies/ec-empowered-to-cancel-candidacy-for-up-poll-code-violations-1795280871",
+    "title": "EC empowered to cancel candidacy for UP poll code violations",
+    "link": "https://today.thefinancialexpress.com.bd/politics-policies/ec-empowered-to-cancel-candidacy-for-up-poll-code-violations-1795280871",
+    "description": "The Election Commission (EC) will have the authority to cancel...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/dhaka-to-seek-progress-on-edn-co-op-rohingya-funding-1795280595",
+    "title": "Dhaka to seek progress on edn co-op, Rohingya funding",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/dhaka-to-seek-progress-on-edn-co-op-rohingya-funding-1795280595",
+    "description": "Dhaka is expected to seek progress on stalled education cooperation,...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/metro-news/rights-groups-seek-sanctions-against-myanmar-after-icj-genocide-ruling-1795280698",
+    "title": "Rights groups seek sanctions against Myanmar after ICJ genocide ruling",
+    "link": "https://today.thefinancialexpress.com.bd/metro-news/rights-groups-seek-sanctions-against-myanmar-after-icj-genocide-ruling-1795280698",
+    "description": "Rights groups have urged international sanctions against Myanmar after the...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/experts-lament-and-oppose-banks-distressed-asset-buy-with-public-money-1795282023",
+    "title": "Experts lament and oppose banks' distressed asset buy with public money",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/experts-lament-and-oppose-banks-distressed-asset-buy-with-public-money-1795282023",
+    "description": "Experts oppose banks' distressed asset buy with public money and...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/procuring-entities-asked-to-strenuously-verify-dubious-bidders-1795282158",
+    "title": "Procuring entities asked to strenuously verify dubious bidders",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/procuring-entities-asked-to-strenuously-verify-dubious-bidders-1795282158",
+    "description": "Oversight of public procurement is getting tightened as the government...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/last-page/india-has-no-comment-on-bds-internal-developments-1795282273",
+    "title": "India has no comment on BD's internal developments",
+    "link": "https://today.thefinancialexpress.com.bd/last-page/india-has-no-comment-on-bds-internal-developments-1795282273",
+    "description": "India on Friday reiterated its desire to maintain a positive,...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/t1-trade-settlement-cycle-to-begin-in-jan-1795276842",
+    "title": "T+1 trade settlement cycle to begin in Jan",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/t1-trade-settlement-cycle-to-begin-in-jan-1795276842",
+    "description": "The Dhaka Stock Exchange (DSE) has decided to begin the...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/stock-corporate/bitcoin-falls-to-its-lowest-in-two-years-1795276899",
+    "title": "Bitcoin falls to its lowest in two years",
+    "link": "https://today.thefinancialexpress.com.bd/stock-corporate/bitcoin-falls-to-its-lowest-in-two-years-1795276899",
+    "description": "Bitcoin, the world's largest cryptocurrency by market value, slid to...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/country/benapole-customs-logs-tk-1065b-revenue-deficit-over-four-months-1795273723",
+    "title": "Benapole Customs logs Tk 10.65b revenue deficit over four months",
+    "link": "https://today.thefinancialexpress.com.bd/country/benapole-customs-logs-tk-1065b-revenue-deficit-over-four-months-1795273723",
+    "description": "",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1795273723.jpg",
+    "thumbnail_type": "image/jpeg"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/country/cyclone-akvan-throws-life-into-disarray-1795273740",
+    "title": "Cyclone Akvan throws life into disarray",
+    "link": "https://today.thefinancialexpress.com.bd/country/cyclone-akvan-throws-life-into-disarray-1795273740",
+    "description": "BHOLA, Nov 21 (BSS): Coastal areas of Bhola have been...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/un-womens-chief-dies-1795277892",
+    "title": "UN women's chief dies",
+    "link": "https://today.thefinancialexpress.com.bd/world/un-womens-chief-dies-1795277892",
+    "description": "JOHANNESBURG, Nov 21 (AFP): Tributes poured in on Saturday for...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/russian-ballistic-missile-attack-on-zelenskyys-hometown-kills-2-1795277903",
+    "title": "Russian ballistic missile attack on Zelenskyy’s hometown kills 2",
+    "link": "https://today.thefinancialexpress.com.bd/world/russian-ballistic-missile-attack-on-zelenskyys-hometown-kills-2-1795277903",
+    "description": "KYIV, Nov 21 (AP): A Russian strike on the centre...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/israeli-strikes-kill-six-in-gaza-1795277911",
+    "title": "Israeli strikes kill six in Gaza",
+    "link": "https://today.thefinancialexpress.com.bd/world/israeli-strikes-kill-six-in-gaza-1795277911",
+    "description": "GAZA CITY, Nov 21 (Agencies): Israeli strikes killed six people...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/world/iranian-fm-says-tehran-ready-for-talks-with-us-1795277928",
+    "title": "Iranian FM says Tehran ready for talks with US",
+    "link": "https://today.thefinancialexpress.com.bd/world/iranian-fm-says-tehran-ready-for-talks-with-us-1795277928",
+    "description": "DUBAI, Nov 21 (Agencies): Iran is willing to end the...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/bds-missing-middle-holding-back-youth-employment-pprc-1795278479",
+    "title": "BD’s ‘missing middle’ holding back youth employment: PPRC",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/bds-missing-middle-holding-back-youth-employment-pprc-1795278479",
+    "description": "Bangladesh's failure to translate economic opportunities into jobs and sustainable...",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml"
+  },
+  {
+    "id": "https://today.thefinancialexpress.com.bd/trade-market/national-sme-product-fair-kicks-off-today-1795278670",
+    "title": "National SME Product Fair kicks off today",
+    "link": "https://today.thefinancialexpress.com.bd/trade-market/national-sme-product-fair-kicks-off-today-1795278670",
+    "description": "",
+    "published": "Sun, 22 Nov 2026 08:27:11 +0600",
+    "source": "https://evilgodfahim.github.io/fen/fe_today.xml",
+    "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1795278670.jpg",
+    "thumbnail_type": "image/jpeg"
   }
 ]
